@@ -1,0 +1,58 @@
+{
+  "id": "manali-solang-valley",
+  "name": "Solang Valley",
+  "slug": "manali-solang-valley",
+  "stateId": "himachal-pradesh",
+  "districtId": "kullu",
+  "category": "adventure",
+  "subcategories": [],
+  "description": "A stunning valley famous for skiing, paragliding, and zorbing",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.6,
+  "reviewCount": 9000,
+  "priceLevel": 2,
+  "bestTimeToVisit": "March to June, September to November",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Shimla Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "spiti-valley",
+    "shimla-ridge"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to Solang Valley"
+  },
+  "tags": [
+    "adventure"
+  ],
+  "lastUpdated": "2026-03-15"
+}

@@ -1,0 +1,2701 @@
+{
+  "state": "Goa",
+  "slug": "goa",
+  "capital": "Panaji",
+  "bestTime": "November to February",
+  "language": "Konkani",
+  "places": [
+    {
+      "name": "Basilica of Bom Jesus",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "12 km from Panaji",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage site, this red laterite basilica is a masterpiece of Baroque architecture, housing the sacred relics of St. Francis Xavier. The interior features ornate gilded altars and intricate wood carvings that echo centuries of spiritual devotion.",
+      "history": "Completed in 1605, it is one of the oldest churches in India and marks the beginning of Christianity in the East; it remains a landmark of Portuguese colonial influence.",
+      "famousFor": "Mummified body of St. Francis Xavier and Baroque architecture.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "basilica-of-bom-jesus",
+      "images": {
+        "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Se Cathedral",
+          "city": "Old Goa",
+          "distance": "0.4 km away",
+          "category": "heritage",
+          "slug": "se-cathedral",
+          "images": {
+            "main": "assets/images/states/goa/se-cathedral.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Viceroy's Arch",
+          "city": "Old Goa",
+          "distance": "0.6 km away",
+          "category": "heritage",
+          "slug": "viceroys-arch",
+          "images": {
+            "main": "assets/images/states/goa/viceroys-arch.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "St. Augustine Tower",
+          "city": "Old Goa",
+          "distance": "0.6 km away",
+          "category": "heritage",
+          "slug": "st-augustine-tower",
+          "images": {
+            "main": "assets/images/states/goa/st-augustine-tower.webp"
+          }
+        },
+        {
+          "name": "Goa Velha",
+          "city": "Panaji",
+          "distance": "4.5 km away",
+          "category": "heritage",
+          "slug": "goa-velha",
+          "images": {
+            "main": "assets/images/states/goa/goa-velha.webp"
+          }
+        },
+        {
+          "name": "The Tinto",
+          "city": "Old Goa",
+          "distance": "0.3 km away",
+          "category": "heritage",
+          "slug": "tinto-market-old-goa",
+          "images": {
+            "main": "assets/images/states/goa/tinto-market-old-goa.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "basilica-of-bom-jesus",
+      "heroImage": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+    },
+    {
+      "name": "Fort Aguada",
+      "city": "Candolim",
+      "category": "heritage",
+      "distance": "15 km from Panaji",
+      "rating": 4.7,
+      "description": "Rising majestically over the Arabian Sea, this 17th-century Portuguese fort features a massive lighthouse and thick stone walls designed to repel naval invaders. The lower section served as a safe berth for ships to replenish fresh water supplies.",
+      "history": "Built in 1612 to guard against Dutch and Maratha incursions, its name 'Aguada' translates to 'water' in Portuguese, referencing the freshwater springs within.",
+      "famousFor": "Four-story lighthouse and panoramic coastal views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "fort-aguada",
+      "images": {
+        "main": "assets/images/states/goa/fort-aguada.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sinquerim Beach",
+          "city": "Candolim",
+          "distance": "1.2 km away",
+          "category": "beaches",
+          "slug": "sinquerim-beach",
+          "images": {
+            "main": "assets/images/states/goa/sinquerim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Candolim Beach",
+          "city": "Candolim",
+          "distance": "3.5 km away",
+          "category": "beaches",
+          "slug": "candolim-beach",
+          "images": {
+            "main": "assets/images/states/goa/candolim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "St. Lawrence Church",
+          "city": "Aguda",
+          "distance": "0.9 km away",
+          "category": "heritage",
+          "slug": "candolim-church-st-lawrence",
+          "images": {
+            "main": "assets/images/states/goa/candolim-church-st-lawrence.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "fort-aguada",
+      "heroImage": "assets/images/states/goa/fort-aguada.webp"
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "city": "Sonaulim",
+      "category": "waterfalls",
+      "distance": "60 km from Panaji",
+      "rating": 4.9,
+      "description": "A four-tiered cascade of white water plunging down the Western Ghats, creating a misty spectacle that resembles a sea of milk. The falls are located within a dense tropical forest, accessible via a rugged jeep safari.",
+      "history": "Legend speaks of a princess who poured milk to shield herself from a prince's gaze; geologically, it is one of India's tallest waterfalls on the Mandovi River.",
+      "famousFor": "Majestic four-tiered drop and railway bridge passing through the falls.",
+      "bestTime": "June to September",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹400",
+      "slug": "dudhsagar-falls",
+      "images": {
+        "main": "assets/images/states/goa/dudhsagar-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhagwan Mahaveer Sanctuary",
+          "city": "Mollem",
+          "distance": "5.0 km away",
+          "category": "wildlife",
+          "slug": "bhagwan-mahaveer-sanctuary",
+          "images": {
+            "main": "assets/images/states/goa/bagwan-mahveer-sanctury.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Tambdi Surla Temple",
+          "city": "Sanguem",
+          "distance": "18.0 km away",
+          "category": "temples",
+          "slug": "tambdi-surla-temple",
+          "images": {
+            "main": "assets/images/states/goa/tambdi-surla-temple.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "dudhsagar-falls",
+      "heroImage": "assets/images/states/goa/dudhsagar-falls.webp"
+    },
+    {
+      "name": "Calangute Beach",
+      "city": "Calangute",
+      "category": "beaches",
+      "distance": "16 km from Panaji",
+      "rating": 4.5,
+      "description": "Known as the 'Queen of Beaches,' Calangute is a vibrant stretch of golden sand lined with shacks, water sports, and bustling markets. It remains the epicentre of Goa's tourism, offering high energy and coastal charm.",
+      "history": "Formerly a quiet fishing village, it became the global headquarters of the hippie movement in the 1960s before evolving into a commercial hub.",
+      "famousFor": "Para-sailing, vibrant nightlife, and beach shacks.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "calangute-beach",
+      "images": {
+        "main": "assets/images/states/goa/calangute-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baga Beach",
+          "city": "Baga",
+          "distance": "2.1 km away",
+          "category": "beaches",
+          "slug": "baga-beach",
+          "images": {
+            "main": "assets/images/states/goa/baga-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Candolim Beach",
+          "city": "Candolim",
+          "distance": "3.2 km away",
+          "category": "beaches",
+          "slug": "candolim-beach",
+          "images": {
+            "main": "assets/images/states/goa/candolim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Mae De Deus Church",
+          "city": "Saligao",
+          "distance": "4.2 km away",
+          "category": "heritage",
+          "slug": "saligao-church-mae-de-deus",
+          "images": {
+            "main": "assets/images/states/goa/saligao-church-mae-de-deus.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "calangute-beach",
+      "heroImage": "assets/images/states/goa/calangute-beach.webp"
+    },
+    {
+      "name": "Shree Mangesh Temple",
+      "city": "Ponda",
+      "category": "temples",
+      "distance": "22 km from Panaji",
+      "rating": 4.8,
+      "description": "A striking blend of Hindu, Christian, and Muslim architectural styles, this temple is dedicated to Lord Shiva. The seven-story Deepstambha (lamp tower) stands as a beacon of Goan spiritual heritage within the lush Ponda valley.",
+      "history": "The temple was relocated from Cortalim to its current site in 1560 to escape religious persecution during the Portuguese Inquisition.",
+      "famousFor": "Seven-story lamp tower and unique Indo-Portuguese temple architecture.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "shree-mangesh-temple",
+      "images": {
+        "main": "assets/images/states/goa/shree-mangesh-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shanta Durga Temple",
+          "city": "Kavalem",
+          "distance": "4.5 km away",
+          "category": "temples",
+          "slug": "shanta-durga-temple",
+          "images": {
+            "main": "assets/images/states/goa/shanta-durga-temple.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Sahakari Spice Farm",
+          "city": "Ponda",
+          "distance": "3.0 km away",
+          "category": "nature",
+          "slug": "sahakari-spice-farm",
+          "images": {
+            "main": "assets/images/states/goa/sahakari-spice-farm.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Safa Shahouri Masjid",
+          "city": "Ponda",
+          "distance": "5.5 km away",
+          "category": "heritage",
+          "slug": "safa-shahouri-masjid",
+          "images": {
+            "main": "assets/images/states/goa/safa-shahouri-masjid.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "shree-mangesh-temple",
+      "heroImage": "assets/images/states/goa/shree-mangesh-temple.webp"
+    },
+    {
+      "name": "Palolem Beach",
+      "city": "Canacona",
+      "category": "beaches",
+      "distance": "70 km from Panaji",
+      "rating": 4.8,
+      "description": "A crescent-shaped paradise lined with leaning coconut palms and colorful wooden shacks. The calm waters of the bay make it ideal for kayaking and swimming in a relatively serene environment compared to the north.",
+      "history": "Once a hidden gem known only to local fishermen, it became world-famous after featuring in the film 'The Bourne Supremacy'.",
+      "famousFor": "Dolphin spotting and Silent Noise headphone parties.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "palolem-beach",
+      "images": {
+        "main": "assets/images/states/goa/palolem-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Patnem Beach",
+          "city": "Canacona",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "patnem-beach",
+          "images": {
+            "main": "assets/images/states/goa/patnem-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Butterfly Beach",
+          "city": "Canacona",
+          "distance": "6.0 km away",
+          "category": "nature",
+          "slug": "butterfly-beach",
+          "images": {
+            "main": "assets/images/states/goa/butterfly-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Agonda Beach",
+          "city": "Canacona",
+          "distance": "9.2 km away",
+          "category": "beaches",
+          "slug": "agonda-beach",
+          "images": {
+            "main": "assets/images/states/goa/agonda-beach.webp"
+          }
+        },
+        {
+          "name": "Galgibaga Beach",
+          "city": "Canacona",
+          "distance": "9.5 km away",
+          "category": "beaches",
+          "slug": "galgibaga-beach",
+          "images": {
+            "main": "assets/images/states/goa/galgibaga-beach.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "palolem-beach",
+      "heroImage": "assets/images/states/goa/palolem-beach.webp"
+    },
+    {
+      "name": "Anjuna Flea Market",
+      "city": "Anjuna",
+      "category": "cities",
+      "distance": "22 km from Panaji",
+      "rating": 4.4,
+      "description": "A sprawling Wednesday market that captures the bohemian spirit of Goa. From Tibetan handicrafts and silver jewellery to kaleidoscopic fabrics, it is a sensory explosion under the coastal sun.",
+      "history": "Started in the 1970s by hippies who sold their belongings to fund their extended stay in Goa, it has grown into one of India's most famous bazaars.",
+      "famousFor": "Bohemian shopping, handicrafts, and hippie culture.",
+      "bestTime": "November to April (Wednesdays only)",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "anjuna-flea-market",
+      "images": {
+        "main": "assets/images/states/goa/anjuna-flea-market.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chapora Fort",
+          "city": "Vagator",
+          "distance": "4.2 km away",
+          "category": "heritage",
+          "slug": "chapora-fort",
+          "images": {
+            "main": "assets/images/states/goa/chapora-fort.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "anjuna-flea-market",
+      "heroImage": "assets/images/states/goa/anjuna-flea-market.webp"
+    },
+    {
+      "name": "Chapora Fort",
+      "city": "Vagator",
+      "category": "heritage",
+      "distance": "22 km from Panaji",
+      "rating": 4.6,
+      "description": "Perched on a steep hill above the Chapora River, these laterite ruins offer dramatic views of Vagator Beach and the Arabian Sea. It is a quintessential spot for watching the sun dip below the horizon.",
+      "history": "Constructed in 1717 by the Portuguese on the site of an older Islamic fortification, it gained modern fame through the Bollywood cult classic 'Dil Chahta Hai'.",
+      "famousFor": "Sunset views and Dil Chahta Hai filming location.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "chapora-fort",
+      "images": {
+        "main": "assets/images/states/goa/chapora-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vagator Beach",
+          "city": "Vagator",
+          "distance": "1.0 km away",
+          "category": "beaches",
+          "slug": "vagator-beach",
+          "images": {
+            "main": "assets/images/states/goa/vagator-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Anjuna Flea Market",
+          "city": "Anjuna",
+          "distance": "4.2 km away",
+          "category": "cities",
+          "slug": "anjuna-flea-market",
+          "images": {
+            "main": "assets/images/states/goa/anjuna-flea-market.webp"
+          }
+        },
+        {
+          "name": "Ozran Beach",
+          "city": "Vagator",
+          "distance": "1.5 km away",
+          "category": "beaches",
+          "slug": "ozran-beach",
+          "images": {
+            "main": "assets/images/states/goa/ozran-beach.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "chapora-fort",
+      "heroImage": "assets/images/states/goa/chapora-fort.webp"
+    },
+    {
+      "name": "Salim Ali Bird Sanctuary",
+      "city": "Chorao",
+      "category": "wildlife",
+      "distance": "7 km from Panaji",
+      "rating": 4.3,
+      "description": "An estuarine mangrove habitat along the Mandovi River, accessible only by ferry. It provides a peaceful sanctuary for migratory and local birds amidst a tangled network of waterways.",
+      "history": "Named after India's preeminent ornithologist Dr. Salim Ali, this sanctuary is one of the few mangrove protected areas in Goa.",
+      "famousFor": "Mangrove ecosystem and bird watching.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "salim-ali-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/goa/salim-ali-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Divar Island",
+          "city": "Divar",
+          "distance": "3.5 km away",
+          "category": "nature",
+          "slug": "divar-island",
+          "images": {
+            "main": "assets/images/states/goa/divar-island.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "salim-ali-bird-sanctuary",
+      "heroImage": "assets/images/states/goa/salim-ali-bird-sanctuary.webp"
+    },
+    {
+      "name": "Se Cathedral",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "12 km from Panaji",
+      "rating": 4.8,
+      "description": "One of the largest churches in Asia, this cathedral is dedicated to St. Catherine and features an impressive Golden Bell. The Tuscan exterior and Corinthian interior display the grandeur of the Portuguese era.",
+      "history": "Built between 1562 and 1619 to commemorate the victory of the Portuguese over a Muslim army, it remains the seat of the Archbishop of Goa.",
+      "famousFor": "The Golden Bell and being the largest church in India.",
+      "bestTime": "October to March",
+      "timings": "7:30 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "se-cathedral",
+      "images": {
+        "main": "assets/images/states/goa/se-cathedral.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "city": "Old Goa",
+          "distance": "0.4 km away",
+          "category": "heritage",
+          "slug": "basilica-of-bom-jesus",
+          "images": {
+            "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "St. Augustine Tower",
+          "city": "Old Goa",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "st-augustine-tower",
+          "images": {
+            "main": "assets/images/states/goa/st-augustine-tower.webp"
+          }
+        },
+        {
+          "name": "Viceroy's Arch",
+          "city": "Old Goa",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "viceroys-arch",
+          "images": {
+            "main": "assets/images/states/goa/viceroys-arch.webp"
+          }
+        },
+        {
+          "name": "Church of St. Cajetan",
+          "city": "Old Goa",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "bam-bom-jesus-arch",
+          "images": {
+            "main": "assets/images/states/goa/church-of-st-cajetan.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "se-cathedral",
+      "heroImage": "assets/images/states/goa/se-cathedral.webp"
+    },
+    {
+      "name": "Colva Beach",
+      "city": "Margao",
+      "category": "beaches",
+      "distance": "6 km from Margao",
+      "rating": 4.5,
+      "description": "A vast expanse of white sand lined with coconut palms, Colva is South Goa's most popular family destination. Its turquoise waters and gentle slopes make it perfect for swimming and long sunset walks.",
+      "history": "During the colonial era, Colva was a retreat for Margao's elite; the nearby Our Lady of Mercy Church dates back to 1630.",
+      "famousFor": "Powdery white sand and family-friendly atmosphere.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "colva-beach",
+      "images": {
+        "main": "assets/images/states/goa/colva-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Benaulim Beach",
+          "city": "Benaulim",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "benaulim-beach",
+          "images": {
+            "main": "assets/images/states/goa/benaulim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "colva-beach",
+      "heroImage": "assets/images/states/goa/colva-beach.webp"
+    },
+    {
+      "name": "Fontainhas",
+      "city": "Panaji",
+      "category": "heritage",
+      "distance": "1 km from City Center",
+      "rating": 4.8,
+      "description": "The Latin Quarter of Panaji, where narrow winding streets are lined with brightly colored colonial houses featuring red-tiled roofs and overhanging balconies. Walking here feels like stepping into a Mediterranean postcard.",
+      "history": "Established in the late 18th century, it was built on land reclaimed from marshes and is the oldest Latin Quarter in Asia.",
+      "famousFor": "Colorful Portuguese architecture and art galleries.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "fontainhas",
+      "images": {
+        "main": "assets/images/states/goa/fontainhas.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Immaculate Conception Church",
+          "city": "Panaji",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "immaculate-conception-church",
+          "images": {
+            "main": "assets/images/states/goa/immaculate-conception-church.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Miramar Beach",
+          "city": "Panaji",
+          "distance": "3.5 km away",
+          "category": "beaches",
+          "slug": "miramar-beach",
+          "images": {
+            "main": "assets/images/states/goa/miramar-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "fontainhas",
+      "heroImage": "assets/images/states/goa/fontainhas.webp"
+    },
+    {
+      "name": "Immaculate Conception Church",
+      "city": "Panaji",
+      "category": "heritage",
+      "distance": "0.5 km from City Center",
+      "rating": 4.7,
+      "description": "An iconic white church with a unique zig-zag staircase, standing prominently in the heart of Panaji. Its towering belfry houses the second largest church bell in Goa.",
+      "history": "Originally built as a chapel in 1541 for sailors to give thanks upon their arrival from Portugal, the current larger structure was completed in 1619.",
+      "famousFor": "Baroque architecture and the zig-zag staircase.",
+      "bestTime": "December (for the feast)",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "immaculate-conception-church",
+      "images": {
+        "main": "assets/images/states/goa/immaculate-conception-church.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Fontainhas",
+          "city": "Panaji",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "fontainhas",
+          "images": {
+            "main": "assets/images/states/goa/fontainhas.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "immaculate-conception-church",
+      "heroImage": "assets/images/states/goa/immaculate-conception-church.webp"
+    },
+    {
+      "name": "Vagator Beach",
+      "city": "Vagator",
+      "category": "beaches",
+      "distance": "22 km from Panaji",
+      "rating": 4.6,
+      "description": "Split into Big Vagator and Small Vagator (Ozran) by a cliff, this beach is famous for its dramatic black rock formations and the face of Lord Shiva carved into a rock by an artist.",
+      "history": "A long-time favourite of the trance and electronic music community, it balances party culture with stunning natural geography.",
+      "famousFor": "Shiva Rock carving and Thalassa sunset point.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "vagator-beach",
+      "images": {
+        "main": "assets/images/states/goa/vagator-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chapora Fort",
+          "city": "Vagator",
+          "distance": "1.0 km away",
+          "category": "heritage",
+          "slug": "chapora-fort",
+          "images": {
+            "main": "assets/images/states/goa/chapora-fort.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Ozran Beach",
+          "city": "Vagator",
+          "distance": "0.8 km away",
+          "category": "beaches",
+          "slug": "ozran-beach",
+          "images": {
+            "main": "assets/images/states/goa/ozran-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Morjim Beach",
+          "city": "Pernem",
+          "distance": "6.0 km away",
+          "category": "beaches",
+          "slug": "morjim-beach",
+          "images": {
+            "main": "assets/images/states/goa/morjim-beach.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "vagator-beach",
+      "heroImage": "assets/images/states/goa/vagator-beach.webp"
+    },
+    {
+      "name": "Shanta Durga Temple",
+      "city": "Kavalem",
+      "category": "temples",
+      "distance": "28 km from Panaji",
+      "rating": 4.8,
+      "description": "Dedicated to the Goddess of Peace, this temple features a unique terracotta color and a fusion of Indo-Portuguese design. The lush green surroundings of the valley add a serene aura to the pilgrimage.",
+      "history": "Built during the reign of Maratha ruler Chhatrapati Shahu of Satara in the early 18th century to re-enshrine the deity after the original temple was destroyed.",
+      "famousFor": "Golden Palkhi (palanquin) and peace goddess deity.",
+      "bestTime": "October to May",
+      "timings": "5:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "shanta-durga-temple",
+      "images": {
+        "main": "assets/images/states/goa/shanta-durga-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shree Mangesh Temple",
+          "city": "Ponda",
+          "distance": "4.5 km away",
+          "category": "temples",
+          "slug": "shree-mangesh-temple",
+          "images": {
+            "main": "assets/images/states/goa/shree-mangesh-temple.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "shanta-durga-temple",
+      "heroImage": "assets/images/states/goa/shanta-durga-temple.webp"
+    },
+    {
+      "name": "Miramar Beach",
+      "city": "Panaji",
+      "category": "beaches",
+      "distance": "3 km from City Center",
+      "rating": 4.3,
+      "description": "Situated at the confluence of the Mandovi River and the Arabian Sea, this urban beach is perfect for evening strolls. The silvery sands stretch towards Dona Paula, offering a calm city-side retreat.",
+      "history": "Originally called Porta de Gaspar Dias by the Portuguese, its name was later changed to Miramar, meaning 'view of the sea'.",
+      "famousFor": "Silvery sands and proximity to Panaji.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "miramar-beach",
+      "images": {
+        "main": "assets/images/states/goa/miramar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dona Paula Viewpoint",
+          "city": "Panaji",
+          "distance": "4.2 km away",
+          "category": "nature",
+          "slug": "dona-paula-viewpoint",
+          "images": {
+            "main": "assets/images/states/goa/dona-paula-viewpoint.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Fontainhas",
+          "city": "Panaji",
+          "distance": "3.5 km away",
+          "category": "heritage",
+          "slug": "fontainhas",
+          "images": {
+            "main": "assets/images/states/goa/fontainhas.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "miramar-beach",
+      "heroImage": "assets/images/states/goa/miramar-beach.webp"
+    },
+    {
+      "name": "Arambol Beach",
+      "city": "Pernem",
+      "category": "beaches",
+      "distance": "35 km from Panaji",
+      "rating": 4.7,
+      "description": "A bohemian paradise known for its sweet water lake and sulfur mud pools. The beach has a distinctively alternative vibe, attracting musicians, yogis, and backpackers from around the globe.",
+      "history": "Formerly a traditional fishing village, it became the last frontier of the hippie trail in Goa, maintaining a more rustic feel than the central beaches.",
+      "famousFor": "Sweet water lake and drum circles.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "arambol-beach",
+      "images": {
+        "main": "assets/images/states/goa/arambol-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Querim Beach",
+          "city": "Pernem",
+          "distance": "5.5 km away",
+          "category": "beaches",
+          "slug": "querim-beach",
+          "images": {
+            "main": "assets/images/states/goa/querim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Tiracol Fort",
+          "city": "Tiracol",
+          "distance": "8.5 km away",
+          "category": "heritage",
+          "slug": "tiracol-fort",
+          "images": {
+            "main": "assets/images/states/goa/tiracol-fort.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "arambol-beach",
+      "heroImage": "assets/images/states/goa/arambol-beach.webp"
+    },
+    {
+      "name": "Cabo de Rama Fort",
+      "city": "Canacona",
+      "category": "heritage",
+      "distance": "30 km from Margao",
+      "rating": 4.6,
+      "description": "A sprawling cliffside fortress overlooking the Arabian Sea, featuring an old white-washed church. The fort’s ruins offer some of the most dramatic coastal vistas in South Goa.",
+      "history": "Named after Lord Rama, who legend says took shelter here during his exile; the Portuguese took control in 1763 and used it as a military base.",
+      "famousFor": "Dramatic cliff views and mythological significance.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "cabo-de-rama-fort",
+      "images": {
+        "main": "assets/images/states/goa/cabo-de-rama-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cola Beach",
+          "city": "Canacona",
+          "distance": "8.5 km away",
+          "category": "beaches",
+          "slug": "cola-beach",
+          "images": {
+            "main": "assets/images/states/goa/cola-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Agonda Beach",
+          "city": "Agonda",
+          "distance": "14.0 km away",
+          "category": "beaches",
+          "slug": "agonda-beach",
+          "images": {
+            "main": "assets/images/states/goa/agonda-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "cabo-de-rama-fort",
+      "heroImage": "assets/images/states/goa/cabo-de-rama-fort.webp"
+    },
+    {
+      "name": "Agonda Beach",
+      "city": "Canacona",
+      "category": "beaches",
+      "distance": "37 km from Margao",
+      "rating": 4.9,
+      "description": "A pristine three-kilometer stretch of white sand that serves as a protected nesting site for Olive Ridley turtles. It is one of the quietest beaches in Goa, devoid of loud music and massive crowds.",
+      "history": "It has maintained its ecological integrity through strict local regulations that ban heavy construction and loud parties.",
+      "famousFor": "Turtle nesting and peaceful solitude.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "agonda-beach",
+      "images": {
+        "main": "assets/images/states/goa/agonda-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cola Beach",
+          "city": "Canacona",
+          "distance": "5.5 km away",
+          "category": "beaches",
+          "slug": "cola-beach",
+          "images": {
+            "main": "assets/images/states/goa/cola-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Palolem Beach",
+          "city": "Canacona",
+          "distance": "9.2 km away",
+          "category": "beaches",
+          "slug": "palolem-beach",
+          "images": {
+            "main": "assets/images/states/goa/palolem-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Cabo de Rama Fort",
+          "city": "Canacona",
+          "distance": "14.0 km away",
+          "category": "heritage",
+          "slug": "cabo-de-rama-fort",
+          "images": {
+            "main": "assets/images/states/goa/cabo-de-rama-fort.webp"
+          }
+        },
+        {
+          "name": "Butterfly Beach",
+          "city": "Canacona",
+          "distance": "4.5 km away",
+          "category": "nature",
+          "slug": "butterfly-beach",
+          "images": {
+            "main": "assets/images/states/goa/butterfly-beach.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "agonda-beach",
+      "heroImage": "assets/images/states/goa/agonda-beach.webp"
+    },
+    {
+      "name": "Tambdi Surla Temple",
+      "city": "Sanguem",
+      "category": "temples",
+      "distance": "65 km from Panaji",
+      "rating": 4.9,
+      "description": "The oldest surviving temple in Goa, this 12th-century structure is carved out of black basalt and situated deep within the forest. Its intricate carvings represent the pinnacle of Kadamba architecture.",
+      "history": "Built by the Kadamba dynasty, it survived the religious iconoclasm of later centuries due to its remote location in the Western Ghats.",
+      "famousFor": "Intricate basalt stone carvings and age.",
+      "bestTime": "October to March",
+      "timings": "7:30 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "tambdi-surla-temple",
+      "images": {
+        "main": "assets/images/states/goa/tambdi-surla-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhagwan Mahaveer Sanctuary",
+          "city": "Mollem",
+          "distance": "12.0 km away",
+          "category": "wildlife",
+          "slug": "bhagwan-mahaveer-sanctuary",
+          "images": {
+            "main": "assets/images/states/goa/bagwan-mahveer-sanctury.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Dudhsagar Falls",
+          "city": "Sonaulim",
+          "distance": "18.0 km away",
+          "category": "waterfalls",
+          "slug": "dudhsagar-falls",
+          "images": {
+            "main": "assets/images/states/goa/dudhsagar-falls.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Bondla Wildlife Sanctuary",
+          "city": "Ponda",
+          "distance": "16.0 km away",
+          "category": "wildlife",
+          "slug": "bondla-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/goa/bondla-wildlife-sanctuary.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "tambdi-surla-temple",
+      "heroImage": "assets/images/states/goa/tambdi-surla-temple.webp"
+    },
+    {
+      "name": "Morjim Beach",
+      "city": "Pernem",
+      "category": "beaches",
+      "distance": "28 km from Panaji",
+      "rating": 4.5,
+      "description": "Known as 'Little Russia' due to its Russian expat community, this beach is a wide expanse of sand at the mouth of the Chapora River. It is a critical nesting ground for Olive Ridley sea turtles.",
+      "history": "Historically a fishing village, it has become one of the most upscale beach destinations in North Goa while maintaining ecological protection zones.",
+      "famousFor": "Olive Ridley turtles and Russian cultural influence.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "morjim-beach",
+      "images": {
+        "main": "assets/images/states/goa/morjim-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ashwem Beach",
+          "city": "Mandrem",
+          "distance": "3.5 km away",
+          "category": "beaches",
+          "slug": "ashwem-beach",
+          "images": {
+            "main": "assets/images/states/goa/ashwem-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Vagator Beach",
+          "city": "Vagator",
+          "distance": "6.0 km away",
+          "category": "beaches",
+          "slug": "vagator-beach",
+          "images": {
+            "main": "assets/images/states/goa/vagator-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "morjim-beach",
+      "heroImage": "assets/images/states/goa/morjim-beach.webp"
+    },
+    {
+      "name": "Dona Paula Viewpoint",
+      "city": "Panaji",
+      "category": "nature",
+      "distance": "7 km from City Center",
+      "rating": 4.4,
+      "description": "A rocky jetty offering a spectacular vista of the Zuari and Mandovi estuaries meeting the sea. The viewpoint is famous for the 'Image of India' statue and its romantic lore.",
+      "history": "Named after Dona Paula Menezes, daughter of a Portuguese Viceroy; local folklore tells a tale of her forbidden love and tragic leap from the cliffs.",
+      "famousFor": "Romantic viewpoint and confluence of rivers.",
+      "bestTime": "October to April",
+      "timings": "6:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "dona-paula-viewpoint",
+      "images": {
+        "main": "assets/images/states/goa/dona-paula-viewpoint.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Miramar Beach",
+          "city": "Panaji",
+          "distance": "4.2 km away",
+          "category": "beaches",
+          "slug": "miramar-beach",
+          "images": {
+            "main": "assets/images/states/goa/miramar-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "dona-paula-viewpoint",
+      "heroImage": "assets/images/states/goa/dona-paula-viewpoint.webp"
+    },
+    {
+      "name": "Butterfly Beach",
+      "city": "Canacona",
+      "category": "nature",
+      "distance": "75 km from Panaji",
+      "rating": 4.8,
+      "description": "A tiny, hidden cove shaped like a butterfly, accessible primarily by boat from Palolem or Agonda. Its golden sands and crystal-clear waters make it a secluded gem for nature lovers.",
+      "history": "Remained virtually unknown to tourists for decades due to its difficult land access through thick forest, preserving its natural 'Robinson Crusoe' charm.",
+      "famousFor": "Dolphin sightings and extreme seclusion.",
+      "bestTime": "November to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "butterfly-beach",
+      "images": {
+        "main": "assets/images/states/goa/butterfly-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palolem Beach",
+          "city": "Canacona",
+          "distance": "6.0 km away",
+          "category": "beaches",
+          "slug": "palolem-beach",
+          "images": {
+            "main": "assets/images/states/goa/palolem-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Agonda Beach",
+          "city": "Agonda",
+          "distance": "4.5 km away",
+          "category": "beaches",
+          "slug": "agonda-beach",
+          "images": {
+            "main": "assets/images/states/goa/agonda-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "butterfly-beach",
+      "heroImage": "assets/images/states/goa/butterfly-beach.webp"
+    },
+    {
+      "name": "Reis Magos Fort",
+      "city": "Verem",
+      "category": "heritage",
+      "distance": "8 km from Panaji",
+      "rating": 4.7,
+      "description": "An impeccably restored fort on the banks of the Mandovi River, now serving as a cultural centre and museum. Its ramparts offer a unique view of the river meeting the Arabian Sea.",
+      "history": "Built in 1551 to protect the narrowest point of the Mandovi estuary, it was used as a residence for Viceroys and later as a prison.",
+      "famousFor": "Mario Miranda gallery and river-side defense architecture.",
+      "bestTime": "October to May",
+      "timings": "9:30 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "reis-magos-fort",
+      "images": {
+        "main": "assets/images/states/goa/reis-magos-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Candolim Beach",
+          "city": "Candolim",
+          "distance": "5.5 km away",
+          "category": "beaches",
+          "slug": "candolim-beach",
+          "images": {
+            "main": "assets/images/states/goa/candolim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "reis-magos-fort",
+      "heroImage": "assets/images/states/goa/reis-magos-fort.webp"
+    },
+    {
+      "name": "Cavelossim Beach",
+      "city": "Margao",
+      "category": "beaches",
+      "distance": "15 km from Margao",
+      "rating": 4.8,
+      "description": "A unique beach featuring contrasting black lava rocks and white sand, situated where the Sal River meets the sea. It is known for its upscale resorts and tranquil atmosphere.",
+      "history": "The village was a major centre of Christian activity in the 16th century; today it represents the luxurious side of South Goan tourism.",
+      "famousFor": "Contrast of black rocks and white sand.",
+      "bestTime": "November to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "cavelossim-beach",
+      "images": {
+        "main": "assets/images/states/goa/cavelossim-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Betul Fort",
+          "city": "Betul",
+          "distance": "5.5 km away",
+          "category": "heritage",
+          "slug": "betul-fort",
+          "images": {
+            "main": "assets/images/states/goa/betul-fort.webp"
+          }
+        },
+        {
+          "name": "Varca Beach",
+          "city": "Varca",
+          "distance": "8.5 km away",
+          "category": "beaches",
+          "slug": "varca-beach",
+          "images": {
+            "main": "assets/images/states/goa/varca-beach.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "cavelossim-beach",
+      "heroImage": "assets/images/states/goa/cavelossim-beach.webp"
+    },
+    {
+      "name": "Ashwem Beach",
+      "city": "Mandrem",
+      "category": "beaches",
+      "distance": "30 km from Panaji",
+      "rating": 4.7,
+      "description": "A vast, shallow beach that is perfect for families and beginner surfers. Its long coastline is dotted with boutique beach clubs and eco-friendly resorts that respect the local turtle nesting zones.",
+      "history": "Ashwem has managed to resist the heavy commercialization of central North Goa, becoming a preferred spot for long-stay European travelers.",
+      "famousFor": "Shallow swimming waters and boutique beach clubs.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ashwem-beach",
+      "images": {
+        "main": "assets/images/states/goa/ashwem-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Morjim Beach",
+          "city": "Pernem",
+          "distance": "3.5 km away",
+          "category": "beaches",
+          "slug": "morjim-beach",
+          "images": {
+            "main": "assets/images/states/goa/morjim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "ashwem-beach",
+      "heroImage": "assets/images/states/goa/ashwem-beach.webp"
+    },
+    {
+      "name": "Arvalem Caves",
+      "city": "Sanquelim",
+      "category": "heritage",
+      "distance": "30 km from Panaji",
+      "rating": 4.3,
+      "description": "Ancient rock-cut caves carved into laterite, featuring five compartments and Shivlings. The simple architecture echoes the ascetic lifestyle of early settlers in the Goan hinterlands.",
+      "history": "Dating back to the 6th century, debate remains whether they were Buddhist in origin or built by the Pandavas during their exile.",
+      "famousFor": "6th-century rock-cut architecture.",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 1:00 PM",
+      "entryFee": "Free",
+      "slug": "arvalem-caves",
+      "images": {
+        "main": "assets/images/states/goa/arvalem-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arvalem Waterfalls",
+          "city": "Sanquelim",
+          "distance": "1.5 km away",
+          "category": "waterfalls",
+          "slug": "arvalem-waterfalls",
+          "images": {
+            "main": "assets/images/states/goa/arvalem-waterfalls.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Mayem Lake",
+          "city": "Bicholim",
+          "distance": "12.0 km away",
+          "category": "nature",
+          "slug": "mayem-lake",
+          "images": {
+            "main": "assets/images/states/goa/mayem-lake.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "arvalem-caves",
+      "heroImage": "assets/images/states/goa/arvalem-caves.webp"
+    },
+    {
+      "name": "Bhagwan Mahaveer Sanctuary",
+      "city": "Mollem",
+      "category": "wildlife",
+      "distance": "55 km from Panaji",
+      "rating": 4.5,
+      "description": "Goa's largest wildlife sanctuary, covering a significant portion of the Western Ghats. It is home to leopards, gaurs, and a vast array of tropical birds and butterflies.",
+      "history": "Protected since 1969, it encompasses the Mollem National Park and serves as a vital corridor for Western Ghats biodiversity.",
+      "famousFor": "Rich biodiversity and jungle safaris.",
+      "bestTime": "October to March",
+      "timings": "8:30 AM – 5:30 PM",
+      "entryFee": "₹20",
+      "slug": "bhagwan-mahaveer-sanctuary",
+      "images": {
+        "main": "assets/images/states/goa/bagwan-mahveer-sanctury.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dudhsagar Falls",
+          "city": "Sonaulim",
+          "distance": "5.0 km away",
+          "category": "waterfalls",
+          "slug": "dudhsagar-falls",
+          "images": {
+            "main": "assets/images/states/goa/dudhsagar-falls.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Tambdi Surla Temple",
+          "city": "Sanguem",
+          "distance": "15.0 km away",
+          "category": "temples",
+          "slug": "tambdi-surla-temple",
+          "images": {
+            "main": "assets/images/states/goa/tambdi-surla-temple.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Netravali Bubble Lake",
+          "city": "Sanguem",
+          "distance": "18.0 km away",
+          "category": "nature",
+          "slug": "netravali-bubble-lake",
+          "images": {
+            "main": "assets/images/states/goa/netravali-bubble-lake.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "bhagwan-mahaveer-sanctuary",
+      "heroImage": "assets/images/states/goa/bagwan-mahveer-sanctury.webp"
+    },
+    {
+      "name": "Cola Beach",
+      "city": "Canacona",
+      "category": "beaches",
+      "distance": "32 km from Margao",
+      "rating": 4.7,
+      "description": "A stunning 'hidden' beach famous for its emerald green freshwater lagoon that runs parallel to the Arabian Sea. It is one of the few places in Goa where you can swim in fresh and salt water within meters of each other.",
+      "history": "Long inaccessible by road, it was a secret spot for backpackers; today it hosts exclusive eco-friendly tented camps.",
+      "famousFor": "Freshwater blue lagoon and sea confluence.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "cola-beach",
+      "images": {
+        "main": "assets/images/states/goa/cola-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agonda Beach",
+          "city": "Agonda",
+          "distance": "5.5 km away",
+          "category": "beaches",
+          "slug": "agonda-beach",
+          "images": {
+            "main": "assets/images/states/goa/agonda-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Cabo de Rama Fort",
+          "city": "Canacona",
+          "distance": "8.5 km away",
+          "category": "heritage",
+          "slug": "cabo-de-rama-fort",
+          "images": {
+            "main": "assets/images/states/goa/cabo-de-rama-fort.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "cola-beach",
+      "heroImage": "assets/images/states/goa/cola-beach.webp"
+    },
+    {
+      "name": "Sahakari Spice Farm",
+      "city": "Ponda",
+      "category": "nature",
+      "distance": "25 km from Panaji",
+      "rating": 4.5,
+      "description": "A lush 130-acre plantation where spices like cardamom, cinnamon, and nutmeg are grown amidst thick tropical foliage. Visitors can enjoy a traditional Goan lunch served on banana leaves.",
+      "history": "One of the oldest spice farms in the Curti region, it has pioneered eco-tourism by showcasing traditional organic farming methods.",
+      "famousFor": "Spice tours and traditional Goan lunch.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹400",
+      "slug": "sahakari-spice-farm",
+      "images": {
+        "main": "assets/images/states/goa/sahakari-spice-farm.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shree Mangesh Temple",
+          "city": "Ponda",
+          "distance": "3.0 km away",
+          "category": "temples",
+          "slug": "shree-mangesh-temple",
+          "images": {
+            "main": "assets/images/states/goa/shree-mangesh-temple.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Safa Shahouri Masjid",
+          "city": "Ponda",
+          "distance": "2.5 km away",
+          "category": "heritage",
+          "slug": "safa-shahouri-masjid",
+          "images": {
+            "main": "assets/images/states/goa/safa-shahouri-masjid.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "sahakari-spice-farm",
+      "heroImage": "assets/images/states/goa/sahakari-spice-farm.webp"
+    },
+    {
+      "name": "Safa Shahouri Masjid",
+      "city": "Ponda",
+      "category": "heritage",
+      "distance": "28 km from Panaji",
+      "rating": 4.2,
+      "description": "The oldest mosque in Goa, featuring a beautiful masonry water tank with pointed arches. The structure is simple but elegant, surrounded by lush gardens and ruins of a larger palace complex.",
+      "history": "Built in 1560 by Ibrahim Adil Shah of Bijapur, it is one of the few Islamic structures to survive the Portuguese Inquisition in the Ponda region.",
+      "famousFor": "Oldest mosque in Goa and historical water tank.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "safa-shahouri-masjid",
+      "images": {
+        "main": "assets/images/states/goa/safa-shahouri-masjid.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sahakari Spice Farm",
+          "city": "Ponda",
+          "distance": "2.5 km away",
+          "category": "nature",
+          "slug": "sahakari-spice-farm",
+          "images": {
+            "main": "assets/images/states/goa/sahakari-spice-farm.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Shree Mangesh Temple",
+          "city": "Ponda",
+          "distance": "5.5 km away",
+          "category": "temples",
+          "slug": "shree-mangesh-temple",
+          "images": {
+            "main": "assets/images/states/goa/shree-mangesh-temple.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "safa-shahouri-masjid",
+      "heroImage": "assets/images/states/goa/safa-shahouri-masjid.webp"
+    },
+    {
+      "name": "Ancestral Goa (Big Foot)",
+      "city": "Loutolim",
+      "category": "heritage",
+      "distance": "10 km from Margao",
+      "rating": 4.4,
+      "description": "An open-air museum that recreates rural Goan life from a century ago. It features the 'Big Foot' footprint and the largest laterite sculpture of Sant Mirabai in India.",
+      "history": "Created by artist Maendra Alvares to preserve the vanishing traditions and architecture of the Goan village lifestyle.",
+      "famousFor": "Cultural museum and massive laterite sculpture.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹100",
+      "slug": "ancestral-goa-big-foot",
+      "images": {
+        "main": "assets/images/states/goa/ancestral-goa-big-foot.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rachol Seminary",
+          "city": "Rachol",
+          "distance": "7.5 km away",
+          "category": "heritage",
+          "slug": "rachol-seminary",
+          "images": {
+            "main": "assets/images/states/goa/rachol-seminary.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "ancestral-goa-big-foot",
+      "heroImage": "assets/images/states/goa/ancestral-goa-big-foot.webp"
+    },
+    {
+      "name": "Naval Aviation Museum",
+      "city": "Bogmalo",
+      "category": "heritage",
+      "distance": "28 km from Panaji",
+      "rating": 4.8,
+      "description": "One of only two naval aviation museums in India, displaying decommissioned aircraft, engines, and armaments. The outdoor park features giants like the Lockheed Super Constellation.",
+      "history": "Inaugurated in 1998, it serves as a chronicle of the Indian Naval Air Arm's evolution and historic missions.",
+      "famousFor": "Vintage aircraft collection and naval history.",
+      "bestTime": "October to May",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "nav-aviation-museum",
+      "images": {
+        "main": "assets/images/states/goa/nav-aviation-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bogmalo Beach",
+          "city": "Bogmalo",
+          "distance": "1.5 km away",
+          "category": "beaches",
+          "slug": "bogmalo-beach",
+          "images": {
+            "main": "assets/images/states/goa/bogmallo-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Hollant Beach",
+          "city": "Vasco",
+          "distance": "4.2 km away",
+          "category": "beaches",
+          "slug": "hollant-beach",
+          "images": {
+            "main": "assets/images/states/goa/hollant-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "nav-aviation-museum",
+      "heroImage": "assets/images/states/goa/nav-aviation-museum.webp"
+    },
+    {
+      "name": "Tiracol Fort",
+      "city": "Tiracol",
+      "category": "heritage",
+      "distance": "42 km from Panaji",
+      "rating": 4.6,
+      "description": "Perched on a cliff at the northernmost tip of Goa, this fort overlooks the Tiracol River and the Arabian Sea. It houses the 17th-century Church of St. Anthony within its fortified walls.",
+      "history": "Originally built by Maharaja Khem Sawant Bhonsle of Sawantwadi, it was captured by the Portuguese in 1746 and later used as a base for freedom fighters.",
+      "famousFor": "Breathtaking river-sea views and northernmost point of Goa.",
+      "bestTime": "November to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "tiracol-fort",
+      "images": {
+        "main": "assets/images/states/goa/tiracol-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Querim Beach",
+          "city": "Pernem",
+          "distance": "2.0 km away",
+          "category": "beaches",
+          "slug": "querim-beach",
+          "images": {
+            "main": "assets/images/states/goa/querim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Arambol Beach",
+          "city": "Pernem",
+          "distance": "8.5 km away",
+          "category": "beaches",
+          "slug": "arambol-beach",
+          "images": {
+            "main": "assets/images/states/goa/arambol-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "tiracol-fort",
+      "heroImage": "assets/images/states/goa/tiracol-fort.webp"
+    },
+    {
+      "name": "St. Augustine Tower",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "12 km from Panaji",
+      "rating": 4.7,
+      "description": "A hauntingly beautiful 46-meter high belfry tower standing amidst the ruins of the Church of St. Augustine. It is a striking silhouette of Old Goa’s former religious dominance.",
+      "history": "Built in 1602 by Augustinian friars, the church was abandoned in 1835 due to religious suppression, leading to its gradual decay and eventual collapse.",
+      "famousFor": "Iconic single-standing tower and ruins.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "st-augustine-tower",
+      "images": {
+        "main": "assets/images/states/goa/st-augustine-tower.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "city": "Old Goa",
+          "distance": "0.6 km away",
+          "category": "heritage",
+          "slug": "basilica-of-bom-jesus",
+          "images": {
+            "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Se Cathedral",
+          "city": "Old Goa",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "se-cathedral",
+          "images": {
+            "main": "assets/images/states/goa/se-cathedral.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "st-augustine-tower",
+      "heroImage": "assets/images/states/goa/st-augustine-tower.webp"
+    },
+    {
+      "name": "Bondla Wildlife Sanctuary",
+      "city": "Ponda",
+      "category": "wildlife",
+      "distance": "38 km from Margao",
+      "rating": 4.2,
+      "description": "The smallest of Goa’s sanctuaries, Bondla features a botanical garden, a mini-zoo, and a deer park. It is a popular eco-tourism destination for families and school groups.",
+      "history": "Established in 1969, it was designed primarily as a nature education centre rather than a deep forest reserve.",
+      "famousFor": "Family-friendly zoo and botanical gardens.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed on Thursdays)",
+      "entryFee": "₹5",
+      "slug": "bondla-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/goa/bondla-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tambdi Surla Temple",
+          "city": "Sanguem",
+          "distance": "16.0 km away",
+          "category": "temples",
+          "slug": "tambdi-surla-temple",
+          "images": {
+            "main": "assets/images/states/goa/tambdi-surla-temple.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "bondla-wildlife-sanctuary",
+      "heroImage": "assets/images/states/goa/bondla-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Sinquerim Beach",
+      "city": "Candolim",
+      "category": "beaches",
+      "distance": "16 km from Panaji",
+      "rating": 4.6,
+      "description": "Lying at the foot of Fort Aguada, this beach is famous for its professional water sports and the historic sea-facing walls of the fortress that extend into the sea.",
+      "history": "The site was once the primary naval landing spot for the Portuguese; today it houses some of Goa's most iconic luxury resorts.",
+      "famousFor": "Fort walls on the beach and premium water sports.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sinquerim-beach",
+      "images": {
+        "main": "assets/images/states/goa/sinquerim-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Fort Aguada",
+          "city": "Candolim",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "fort-aguada",
+          "images": {
+            "main": "assets/images/states/goa/fort-aguada.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Candolim Beach",
+          "city": "Candolim",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "candolim-beach",
+          "images": {
+            "main": "assets/images/states/goa/candolim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "sinquerim-beach",
+      "heroImage": "assets/images/states/goa/sinquerim-beach.webp"
+    },
+    {
+      "name": "Mayem Lake",
+      "city": "Bicholim",
+      "category": "nature",
+      "distance": "25 km from Panaji",
+      "rating": 4.1,
+      "description": "A calm lake surrounded by hills, perfect for pedal boating and picnicking. It offers a tranquil escape into the Goan hinterlands, away from the coastal humidity.",
+      "history": "Developed by the state as a peaceful inland recreational zone, it has long been a favorite for local weekend getaways.",
+      "famousFor": "Boating and picnicking.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "mayem-lake",
+      "images": {
+        "main": "assets/images/states/goa/mayem-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arvalem Caves",
+          "city": "Sanquelim",
+          "distance": "12.0 km away",
+          "category": "heritage",
+          "slug": "arvalem-caves",
+          "images": {
+            "main": "assets/images/states/goa/arvalem-caves.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Corjuem Fort",
+          "city": "Aldona",
+          "distance": "9.5 km away",
+          "category": "heritage",
+          "slug": "corjuem-fort",
+          "images": {
+            "main": "assets/images/states/goa/corjuem-fort.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "mayem-lake",
+      "heroImage": "assets/images/states/goa/mayem-lake.webp"
+    },
+    {
+      "name": "Corjuem Fort",
+      "city": "Aldona",
+      "category": "heritage",
+      "distance": "18 km from Panaji",
+      "rating": 4.4,
+      "description": "An inland fort located on the island of Corjuem, smaller than coastal forts but remarkably well-preserved. Its wide laterite ramps were designed to haul heavy artillery to the ramparts.",
+      "history": "Built in 1705 to defend against Maratha raids, it is famous for the story of Ursula e Lancastre, a woman who disguised herself as a man to serve here.",
+      "famousFor": "Unique inland island fort and military ramps.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "corjuem-fort",
+      "images": {
+        "main": "assets/images/states/goa/corjuem-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mayem Lake",
+          "city": "Bicholim",
+          "distance": "9.5 km away",
+          "category": "nature",
+          "slug": "mayem-lake",
+          "images": {
+            "main": "assets/images/states/goa/mayem-lake.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "corjuem-fort",
+      "heroImage": "assets/images/states/goa/corjuem-fort.webp"
+    },
+    {
+      "name": "Galgibaga Beach",
+      "city": "Canacona",
+      "category": "beaches",
+      "distance": "18 km from Canacona",
+      "rating": 4.8,
+      "description": "Known as one of India's cleanest beaches, it is a protected sanctuary for Olive Ridley turtles. The long, pine-fringed shore is remarkably quiet and free from commercial stalls.",
+      "history": "Stays strictly protected by the Forest Department to ensure turtle hatcheries are not disturbed by tourism lights and noise.",
+      "famousFor": "Pristine white sand and turtle conservation.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "galgibaga-beach",
+      "images": {
+        "main": "assets/images/states/goa/galgibaga-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palolem Beach",
+          "city": "Canacona",
+          "distance": "9.5 km away",
+          "category": "beaches",
+          "slug": "palolem-beach",
+          "images": {
+            "main": "assets/images/states/goa/palolem-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "galgibaga-beach",
+      "heroImage": "assets/images/states/goa/galgibaga-beach.webp"
+    },
+    {
+      "name": "Viceroy's Arch",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "11 km from Panaji",
+      "rating": 4.4,
+      "description": "A ceremonial arch that once served as the main gateway to the city of Old Goa for Portuguese Viceroys arriving from sea. It is decorated with statues of Vasco da Gama and St. Catherine.",
+      "history": "Built in 1599 by Francisco da Gama to commemorate his grandfather Vasco da Gama's arrival in India, it was reconstructed in 1954.",
+      "famousFor": "Ceremonial gateway and Vasco da Gama statue.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "viceroys-arch",
+      "images": {
+        "main": "assets/images/states/goa/viceroys-arch.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "city": "Old Goa",
+          "distance": "0.6 km away",
+          "category": "heritage",
+          "slug": "basilica-of-bom-jesus",
+          "images": {
+            "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Se Cathedral",
+          "city": "Old Goa",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "se-cathedral",
+          "images": {
+            "main": "assets/images/states/goa/se-cathedral.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Divar Island",
+          "city": "Divar",
+          "distance": "2.0 km away",
+          "category": "nature",
+          "slug": "divar-island",
+          "images": {
+            "main": "assets/images/states/goa/divar-island.webp"
+          }
+        },
+        {
+          "name": "Church of St. Cajetan",
+          "city": "Old Goa",
+          "distance": "0.2 km away",
+          "category": "heritage",
+          "slug": "bam-bom-jesus-arch",
+          "images": {
+            "main": "assets/images/states/goa/church-of-st-cajetan.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "viceroys-arch",
+      "heroImage": "assets/images/states/goa/viceroys-arch.webp"
+    },
+    {
+      "name": "St. Estevam Island",
+      "city": "Old Goa",
+      "category": "nature",
+      "distance": "20 km from Panaji",
+      "rating": 4.4,
+      "description": "Known as the 'Island of Vegetables,' this river island offers a glimpse into Goa's agricultural heritage. It features winding roads, old villas, and the hilltop Church of St. Stephen.",
+      "history": "During the colonial era, the island was a major supplier of okra and other vegetables to the city of Old Goa; its fort served as a river defense.",
+      "famousFor": "Agriculture and scenic river views.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "st-estevam-island",
+      "images": {
+        "main": "assets/images/states/goa/st-estevam-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Divar Island",
+          "city": "Divar",
+          "distance": "8.5 km away",
+          "category": "nature",
+          "slug": "divar-island",
+          "images": {
+            "main": "assets/images/states/goa/divar-island.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "st-estevam-island",
+      "heroImage": "assets/images/states/goa/st-estevam-island.webp"
+    },
+    {
+      "name": "Divar Island",
+      "city": "Divar",
+      "category": "nature",
+      "distance": "10 km from Panaji",
+      "rating": 4.6,
+      "description": "A quiet river island accessible only by ferry, where time seems to have stood still. Its narrow lanes are lined with traditional Indo-Portuguese houses and lush paddy fields.",
+      "history": "Historically a sacred Hindu site with several temples, it was converted in the 16th century and is famous for the Bonderam festival.",
+      "famousFor": "Bonderam festival and old-world charm.",
+      "bestTime": "August (festival) or October to April",
+      "timings": "6:00 AM – 11:00 PM (Ferry)",
+      "entryFee": "Free",
+      "slug": "divar-island",
+      "images": {
+        "main": "assets/images/states/goa/divar-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Salim Ali Bird Sanctuary",
+          "city": "Chorao",
+          "distance": "3.5 km away",
+          "category": "wildlife",
+          "slug": "salim-ali-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/goa/salim-ali-bird-sanctuary.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Viceroy's Arch",
+          "city": "Old Goa",
+          "distance": "2.0 km away",
+          "category": "heritage",
+          "slug": "viceroys-arch",
+          "images": {
+            "main": "assets/images/states/goa/viceroys-arch.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "St. Estevam Island",
+          "city": "Old Goa",
+          "distance": "8.5 km away",
+          "category": "nature",
+          "slug": "st-estevam-island",
+          "images": {
+            "main": "assets/images/states/goa/st-estevam-island.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "divar-island",
+      "heroImage": "assets/images/states/goa/divar-island.webp"
+    },
+    {
+      "name": "Hollant Beach",
+      "city": "Vasco",
+      "category": "beaches",
+      "distance": "7 km from Vasco",
+      "rating": 4.5,
+      "description": "A unique beach with a shallow gradient and no waves, making it feel like a natural sea-water swimming pool. It offers a rare sunrise view on Goa's typically west-facing coast.",
+      "history": "Traditionally a fishing cove, it has remained largely off the mainstream tourist radar compared to the nearby Bogmalo.",
+      "famousFor": "Sunrise views and calm, wave-less waters.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "hollant-beach",
+      "images": {
+        "main": "assets/images/states/goa/hollant-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bogmalo Beach",
+          "city": "Bogmalo",
+          "distance": "4.2 km away",
+          "category": "beaches",
+          "slug": "bogmalo-beach",
+          "images": {
+            "main": "assets/images/states/goa/bogmallo-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Naval Aviation Museum",
+          "city": "Bogmalo",
+          "distance": "4.2 km away",
+          "category": "heritage",
+          "slug": "nav-aviation-museum",
+          "images": {
+            "main": "assets/images/states/goa/nav-aviation-museum.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "hollant-beach",
+      "heroImage": "assets/images/states/goa/hollant-beach.webp"
+    },
+    {
+      "name": "Bogmalo Beach",
+      "city": "Bogmalo",
+      "category": "beaches",
+      "distance": "25 km from Panaji",
+      "rating": 4.4,
+      "description": "A small, sandy cove located close to the airport, making it a convenient first or last stop. The beach is safe for swimming and lined with a few casual shacks and high-end hotels.",
+      "history": "Once a quiet fishing hamlet, it was the site of one of Goa's first major luxury hotels in the 1970s.",
+      "famousFor": "Proximity to airport and diving schools.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bogmalo-beach",
+      "images": {
+        "main": "assets/images/states/goa/bogmallo-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Naval Aviation Museum",
+          "city": "Bogmalo",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "nav-aviation-museum",
+          "images": {
+            "main": "assets/images/states/goa/nav-aviation-museum.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Hollant Beach",
+          "city": "Vasco",
+          "distance": "4.2 km away",
+          "category": "beaches",
+          "slug": "hollant-beach",
+          "images": {
+            "main": "assets/images/states/goa/hollant-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "bogmalo-beach",
+      "heroImage": "assets/images/states/goa/bogmallo-beach.webp"
+    },
+    {
+      "name": "Rachol Seminary",
+      "city": "Rachol",
+      "category": "heritage",
+      "distance": "12 km from Margao",
+      "rating": 4.7,
+      "description": "A monumental theological college surrounded by defensive walls and a moat. Its corridors are lined with massive colonial-era paintings and historic wood carvings.",
+      "history": "Built in 1610 on the ruins of a Muslim fort, it was a primary center of learning in the East and once housed the first printing press in India.",
+      "famousFor": "Fortress architecture and religious history.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 1:00 PM",
+      "entryFee": "Free",
+      "slug": "rachol-seminary",
+      "images": {
+        "main": "assets/images/states/goa/rachol-seminary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ancestral Goa",
+          "city": "Loutolim",
+          "distance": "7.5 km away",
+          "category": "heritage",
+          "slug": "ancestral-goa-big-foot",
+          "images": {
+            "main": "assets/images/states/goa/ancestral-goa-big-foot.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "rachol-seminary",
+      "heroImage": "assets/images/states/goa/rachol-seminary.webp"
+    },
+    {
+      "name": "Goa Velha",
+      "city": "Panaji",
+      "category": "heritage",
+      "distance": "8 km from Panaji",
+      "rating": 4.3,
+      "description": "A historic village that was once the capital of the Kadamba kings. It is famous for the Procession of Saints, the only one of its kind outside Rome.",
+      "history": "Founded in the 11th century, it was the premier port and capital before the Portuguese shifted focus to what is now Old Goa.",
+      "famousFor": "Procession of Saints and Kadamba history.",
+      "bestTime": "March to April (for procession)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "goa-velha",
+      "images": {
+        "main": "assets/images/states/goa/goa-velha.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "city": "Old Goa",
+          "distance": "4.5 km away",
+          "category": "heritage",
+          "slug": "basilica-of-bom-jesus",
+          "images": {
+            "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "goa-velha",
+      "heroImage": "assets/images/states/goa/goa-velha.webp"
+    },
+    {
+      "name": "Betul Fort",
+      "city": "Betul",
+      "category": "heritage",
+      "distance": "18 km from Margao",
+      "rating": 4.2,
+      "description": "A small but strategically important fort overlooking the mouth of the Sal River. It offers peaceful views of the river meeting the sea and the fishing harbor below.",
+      "history": "Built in 1679 by the order of Chhatrapati Shivaji Maharaj, it was one of the few Maratha-built forts in Goa.",
+      "famousFor": "Maratha history and river-sea views.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "betul-fort",
+      "images": {
+        "main": "assets/images/states/goa/betul-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cavelossim Beach",
+          "city": "Margao",
+          "distance": "5.5 km away",
+          "category": "beaches",
+          "slug": "cavelossim-beach",
+          "images": {
+            "main": "assets/images/states/goa/cavelossim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "betul-fort",
+      "heroImage": "assets/images/states/goa/betul-fort.webp"
+    },
+    {
+      "name": "Candolim Beach",
+      "city": "Candolim",
+      "category": "beaches",
+      "distance": "13 km from Panaji",
+      "rating": 4.6,
+      "description": "A long, sandy beach that is slightly more upscale and relaxed than its neighbor Calangute. It is famous for its dunes and the presence of the historic Aguada Fort at its southern tip.",
+      "history": "In the 18th century, it was the site of the first major revolt against Portuguese rule led by Father Abbe Faria's family.",
+      "famousFor": "Beach dunes and upscale shacks.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "candolim-beach",
+      "images": {
+        "main": "assets/images/states/goa/candolim-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Fort Aguada",
+          "city": "Candolim",
+          "distance": "3.5 km away",
+          "category": "heritage",
+          "slug": "fort-aguada",
+          "images": {
+            "main": "assets/images/states/goa/fort-aguada.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Calangute Beach",
+          "city": "Calangute",
+          "distance": "3.2 km away",
+          "category": "beaches",
+          "slug": "calangute-beach",
+          "images": {
+            "main": "assets/images/states/goa/calangute-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Reis Magos Fort",
+          "city": "Verem",
+          "distance": "5.5 km away",
+          "category": "heritage",
+          "slug": "reis-magos-fort",
+          "images": {
+            "main": "assets/images/states/goa/reis-magos-fort.webp"
+          }
+        },
+        {
+          "name": "Sinquerim Beach",
+          "city": "Candolim",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "sinquerim-beach",
+          "images": {
+            "main": "assets/images/states/goa/sinquerim-beach.webp"
+          }
+        },
+        {
+          "name": "Pilerne Lake",
+          "city": "Pilerne",
+          "distance": "6.5 km away",
+          "category": "nature",
+          "slug": "pilerne-lake",
+          "images": {
+            "main": "assets/images/states/goa/pilerne-lake.webp"
+          }
+        }
+      ],
+      "state": "Goa",
+      "id": "candolim-beach",
+      "heroImage": "assets/images/states/goa/candolim-beach.webp"
+    },
+    {
+      "name": "Benaulim Beach",
+      "city": "Benaulim",
+      "category": "beaches",
+      "distance": "5 km from Margao",
+      "rating": 4.7,
+      "description": "A serene beach famous for its silver sand and dolphin spotting trips. It is a preferred spot for long-stay travelers and those looking for a quiet alternative to the central Goan beaches.",
+      "history": "According to Hindu mythology, this is the place where Lord Parashurama's arrow landed to create the land of Goa.",
+      "famousFor": "Dolphin spotting and silver sand.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "benaulim-beach",
+      "images": {
+        "main": "assets/images/states/goa/benaulim-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Colva Beach",
+          "city": "Margao",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "colva-beach",
+          "images": {
+            "main": "assets/images/states/goa/colva-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Varca Beach",
+          "city": "Varca",
+          "distance": "4.5 km away",
+          "category": "beaches",
+          "slug": "varca-beach",
+          "images": {
+            "main": "assets/images/states/goa/varca-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "benaulim-beach",
+      "heroImage": "assets/images/states/goa/benaulim-beach.webp"
+    },
+    {
+      "name": "Patnem Beach",
+      "city": "Canacona",
+      "category": "beaches",
+      "distance": "72 km from Panaji",
+      "rating": 4.8,
+      "description": "A quieter alternative to Palolem, Patnem is a charming horseshoe-shaped bay perfect for swimming. It offers a laid-back vibe with eco-shacks and yoga centers lining the shore.",
+      "history": "It developed as a backpacker retreat for those fleeing the increasing commercialization of Palolem in the late 90s.",
+      "famousFor": "Yoga retreats and safe swimming.",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "patnem-beach",
+      "images": {
+        "main": "assets/images/states/goa/patnem-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palolem Beach",
+          "city": "Canacona",
+          "distance": "2.5 km away",
+          "category": "beaches",
+          "slug": "palolem-beach",
+          "images": {
+            "main": "assets/images/states/goa/palolem-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "patnem-beach",
+      "heroImage": "assets/images/states/goa/patnem-beach.webp"
+    },
+    {
+      "name": "Ozran Beach",
+      "city": "Vagator",
+      "category": "beaches",
+      "distance": "22 km from Panaji",
+      "rating": 4.6,
+      "description": "Also known as Little Vagator, this beach is located below a steep cliff and is famous for the Shiva face carved in rock. It is a preferred spot for sunset viewing and boutique beach clubs.",
+      "history": "An extension of Vagator, it became a separate hub for global travelers and artists in the 1980s.",
+      "famousFor": "Shiva rock face and cliff-side parties.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ozran-beach",
+      "images": {
+        "main": "assets/images/states/goa/ozran-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vagator Beach",
+          "city": "Vagator",
+          "distance": "0.8 km away",
+          "category": "beaches",
+          "slug": "vagator-beach",
+          "images": {
+            "main": "assets/images/states/goa/vagator-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Chapora Fort",
+          "city": "Vagator",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "chapora-fort",
+          "images": {
+            "main": "assets/images/states/goa/chapora-fort.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "ozran-beach",
+      "heroImage": "assets/images/states/goa/ozran-beach.webp"
+    },
+    {
+      "name": "Varca Beach",
+      "city": "Varca",
+      "category": "beaches",
+      "distance": "10 km from Margao",
+      "rating": 4.7,
+      "description": "A pristine stretch of white sand known for its wooden fishing boats and quiet shoreline. It is home to some of South Goa's most luxurious resorts and offers a very peaceful environment.",
+      "history": "Long used as a base for traditional gill-net fishing, it remains one of the least crowded tourist beaches in the south.",
+      "famousFor": "Wooden fishing boats and luxury resorts.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "varca-beach",
+      "images": {
+        "main": "assets/images/states/goa/varca-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Benaulim Beach",
+          "city": "Benaulim",
+          "distance": "4.5 km away",
+          "category": "beaches",
+          "slug": "benaulim-beach",
+          "images": {
+            "main": "assets/images/states/goa/benaulim-beach.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Cavelossim Beach",
+          "city": "Margao",
+          "distance": "8.5 km away",
+          "category": "beaches",
+          "slug": "cavelossim-beach",
+          "images": {
+            "main": "assets/images/states/goa/cavelossim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "varca-beach",
+      "heroImage": "assets/images/states/goa/varca-beach.webp"
+    },
+    {
+      "name": "Church of St. Cajetan",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "12 km from Panaji",
+      "rating": 4.6,
+      "description": "Modeled after St. Peter's Basilica in Rome, this church features a beautiful Corinthian facade and a majestic dome. It is considered one of the finest examples of Baroque architecture in India.",
+      "history": "Built in the mid-17th century by Italian friars who were sent by the Pope to preach in the kingdom of Golconda.",
+      "famousFor": "Resemblance to St. Peter's Basilica.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bam-bom-jesus-arch",
+      "images": {
+        "main": "assets/images/states/goa/church-of-st-cajetan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Viceroy's Arch",
+          "city": "Old Goa",
+          "distance": "0.2 km away",
+          "category": "heritage",
+          "slug": "viceroys-arch",
+          "images": {
+            "main": "assets/images/states/goa/viceroys-arch.webp"
+          },
+          "state": "Goa"
+        },
+        {
+          "name": "Se Cathedral",
+          "city": "Old Goa",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "se-cathedral",
+          "images": {
+            "main": "assets/images/states/goa/se-cathedral.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "bam-bom-jesus-arch",
+      "heroImage": "assets/images/states/goa/church-of-st-cajetan.webp"
+    },
+    {
+      "name": "Netravali Bubble Lake",
+      "city": "Sanguem",
+      "category": "nature",
+      "distance": "50 km from Margao",
+      "rating": 4.3,
+      "description": "A unique pond attached to the Gopinath Temple where bubbles rise to the surface in a rhythmic pattern. Legend says the bubbles react to the sound of clapping.",
+      "history": "A sacred site for centuries, the bubbling is scientifically attributed to acoustic pressure or methane gas release from the lake bed.",
+      "famousFor": "Bubbles reacting to clapping sound.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "netravali-bubble-lake",
+      "images": {
+        "main": "assets/images/states/goa/netravali-bubble-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhagwan Mahaveer Sanctuary",
+          "city": "Mollem",
+          "distance": "18.0 km away",
+          "category": "wildlife",
+          "slug": "bhagwan-mahaveer-sanctuary",
+          "images": {
+            "main": "assets/images/states/goa/bagwan-mahveer-sanctury.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "netravali-bubble-lake",
+      "heroImage": "assets/images/states/goa/netravali-bubble-lake.webp"
+    },
+    {
+      "name": "Mormugao Fort",
+      "city": "Vasco",
+      "category": "heritage",
+      "distance": "4 km from Vasco",
+      "rating": 4.1,
+      "description": "A massive coastal fort protecting the mouth of the Zuari River. Its ruins offer panoramic views of the Mormugao Port and the vast Arabian Sea.",
+      "history": "Built in 1624 to guard the harbor against enemy ships, it was once a candidate for the capital city before the plan was abandoned.",
+      "famousFor": "Strategic naval history and port views.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "mormugao-fort",
+      "images": {
+        "main": "assets/images/states/goa/mormugao-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Goa",
+      "id": "mormugao-fort",
+      "heroImage": "assets/images/states/goa/mormugao-fort.webp"
+    },
+    {
+      "name": "The Tinto",
+      "city": "Old Goa",
+      "category": "heritage",
+      "distance": "11 km from Panaji",
+      "rating": 4.2,
+      "description": "A historic marketplace structure in the heart of Old Goa that served as the primary trading hub during the Portuguese era. Today, its weathered arches stand as a silent testament to the bustling commerce of the 16th century.",
+      "history": "Built during the height of the Portuguese Empire, 'Tinto' is a term used for a local market where goods were once bartered under government-regulated prices.",
+      "famousFor": "Colonial marketplace architecture.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tinto-market-old-goa",
+      "images": {
+        "main": "assets/images/states/goa/tinto-market-old-goa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "city": "Old Goa",
+          "distance": "0.3 km away",
+          "category": "heritage",
+          "slug": "basilica-of-bom-jesus",
+          "images": {
+            "main": "assets/images/states/goa/basilica-of-bom-jesus.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "tinto-market-old-goa",
+      "heroImage": "assets/images/states/goa/tinto-market-old-goa.webp"
+    },
+    {
+      "name": "St. Lawrence Church",
+      "city": "Aguda",
+      "category": "heritage",
+      "distance": "16 km from Panaji",
+      "rating": 4.5,
+      "description": "Overlooking the mouth of the Mandovi River from the Sinquerim hill, this church features thick white-washed walls and a serene courtyard. It is one of the few churches in Goa built with defensive capabilities in mind.",
+      "history": "Established in 1543 by the Franciscans, the church was strategically placed to allow soldiers from nearby Fort Aguada to attend mass while keeping watch over the sea.",
+      "famousFor": "River-mouth views and maritime history.",
+      "bestTime": "August (Feast) to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "candolim-church-st-lawrence",
+      "images": {
+        "main": "assets/images/states/goa/candolim-church-st-lawrence.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Fort Aguada",
+          "city": "Candolim",
+          "distance": "0.9 km away",
+          "category": "heritage",
+          "slug": "fort-aguada",
+          "images": {
+            "main": "assets/images/states/goa/fort-aguada.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "candolim-church-st-lawrence",
+      "heroImage": "assets/images/states/goa/candolim-church-st-lawrence.webp"
+    },
+    {
+      "name": "Pilerne Lake",
+      "city": "Pilerne",
+      "category": "nature",
+      "distance": "10 km from Panaji",
+      "rating": 4.3,
+      "description": "A tranquil freshwater lake surrounded by dense forest and marshlands, serving as a vital ecosystem for local flora. It is a quiet retreat for those looking to escape the coastal noise for birdwatching.",
+      "history": "Originally a community-managed reservoir for paddy irrigation, it has been preserved as a biodiversity heritage site to protect local migratory bird paths.",
+      "famousFor": "Birdwatching and peaceful lake-side scenery.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "pilerne-lake",
+      "images": {
+        "main": "assets/images/states/goa/pilerne-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Candolim Beach",
+          "city": "Candolim",
+          "distance": "6.5 km away",
+          "category": "beaches",
+          "slug": "candolim-beach",
+          "images": {
+            "main": "assets/images/states/goa/candolim-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "pilerne-lake",
+      "heroImage": "assets/images/states/goa/pilerne-lake.webp"
+    },
+    {
+      "name": "Mae De Deus Church",
+      "city": "Saligao",
+      "category": "heritage",
+      "distance": "12 km from Panaji",
+      "rating": 4.7,
+      "description": "A stunning example of Neo-Gothic architecture, this church stands out with its pristine white spires against the green paddy fields of Saligao. At night, the church is illuminated, creating a fairytale-like silhouette.",
+      "history": "Inaugurated in 1873, it houses the miraculous statue of the Mother of God which was brought from the ruins of the convent at Old Goa.",
+      "famousFor": "Neo-Gothic architecture and night illumination.",
+      "bestTime": "October to April",
+      "timings": "9:00 AM – 12:30 PM, 3:00 PM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "saligao-church-mae-de-deus",
+      "images": {
+        "main": "assets/images/states/goa/saligao-church-mae-de-deus.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Calangute Beach",
+          "city": "Calangute",
+          "distance": "4.2 km away",
+          "category": "beaches",
+          "slug": "calangute-beach",
+          "images": {
+            "main": "assets/images/states/goa/calangute-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "saligao-church-mae-de-deus",
+      "heroImage": "assets/images/states/goa/saligao-church-mae-de-deus.webp"
+    },
+    {
+      "name": "Bamanbudo Waterfall",
+      "city": "Gaodongrem",
+      "category": "waterfalls",
+      "distance": "35 km from Canacona",
+      "rating": 4.4,
+      "description": "A roadside waterfall that looks like a giant slide, where water flows down a smooth rock surface into a shallow pool. Unlike Dudhsagar, this is easily accessible and perfect for a quick dip.",
+      "history": "Part of the Netravali wildlife ecosystem, this natural feature has been a traditional rest stop for forest dwellers for generations.",
+      "famousFor": "Ease of access and natural rock slide appearance.",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bamanbudo-waterfall",
+      "images": {
+        "main": "assets/images/states/goa/bamanbudo-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Goa",
+      "id": "bamanbudo-waterfall",
+      "heroImage": "assets/images/states/goa/bamanbudo-waterfall.webp"
+    },
+    {
+      "name": "Cotigao Wildlife Sanctuary",
+      "city": "Canacona",
+      "category": "wildlife",
+      "distance": "12 km from Palolem",
+      "rating": 4.3,
+      "description": "Goa's second-largest wildlife sanctuary, known for its towering trees that reach up to 30 meters. It offers serene forest trails and a tree-top watchtower overlooking a watering hole where diverse wildlife can be spotted.",
+      "history": "Established in 1968 to protect the exposed stretch of woodland on the Goa-Karnataka border.",
+      "famousFor": "Tall trees, tree-top watchtower, and multi-story forest canopy.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:30 PM",
+      "entryFee": "₹20",
+      "slug": "cotigao-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/goa/cotigo-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Goa",
+      "id": "cotigao-wildlife-sanctuary",
+      "heroImage": "assets/images/states/goa/cotigo-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Grand Island (Ilha Grande)",
+      "city": "Vasco da Gama",
+      "category": "nature",
+      "distance": "Accessible by boat from Bogmalo/Dona Paula",
+      "rating": 4.6,
+      "description": "A popular offshore destination renowned for its crystal-clear waters, making it the premier spot in Goa for scuba diving, snorkeling, and spotting dolphins in their natural habitat.",
+      "history": "Historically a navigational landmark, it is now a protected marine area known for its shipwreck dive sites, including the Suzy wreck.",
+      "famousFor": "Scuba diving, dolphin spotting, and shipwreck dives.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 4:00 PM (via tour operators)",
+      "entryFee": "Tour packages vary (₹1500 - ₹3000)",
+      "slug": "grand-island",
+      "images": {
+        "main": "assets/images/states/goa/grand-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Goa",
+      "id": "grand-island",
+      "heroImage": "assets/images/states/goa/grand-island.webp"
+    },
+    {
+      "name": "Baga Beach",
+      "city": "North Goa",
+      "category": "beaches",
+      "distance": "18 km from Panaji",
+      "rating": 4.5,
+      "description": "One of the most popular beaches in North Goa, Baga Beach is a vibrant stretch of golden sand that seamlessly merges with Calangute Beach to the south. Famous for its electrifying nightlife, water sports, and the iconic Baga Creek where the river meets the sea, it draws millions of visitors each year seeking sun, surf, and revelry.",
+      "history": "Originally a quiet extension of Calangute village, Baga developed its own identity in the 1980s when it became the primary destination for nightlife in India. The beach is named after the Baga Creek that flows into the Arabian Sea at the northern end of the beach.",
+      "famousFor": "Nightclubs, Tito's Lane, Baga Creek, parasailing, jet-skiing, and beach shacks.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "baga-beach",
+      "images": {
+        "main": "assets/images/states/goa/baga-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Calangute Beach",
+          "city": "Calangute",
+          "distance": "2.1 km away",
+          "category": "beaches",
+          "slug": "calangute-beach",
+          "images": {
+            "main": "assets/images/states/goa/calangute-beach.webp"
+          },
+          "state": "Goa"
+        }
+      ],
+      "state": "Goa",
+      "id": "baga-beach",
+      "image": "assets/images/states/goa/baga-beach.webp",
+      "coordinates": {
+        "lat": 15.5551,
+        "lon": 73.7514
+      },
+      "heroImage": "assets/images/states/goa/baga-beach.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/goa/banner.webp"
+}

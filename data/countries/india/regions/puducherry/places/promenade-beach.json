@@ -1,0 +1,36 @@
+{
+  "id": "promenade-beach",
+  "name": "Promenade Beach (Rock Beach)",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "A deeply scenic, 1.2-kilometer long rocky beachfront stretching along the vibrant French Quarter. It is entirely pedestrianized every evening.",
+  "history": "Features historic landmarks including the French War Memorial, a towering statue of Mahatma Gandhi, and the old lighthouse.",
+  "famousFor": "Evening strolls, cafes, and Gandhi statue.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+  ],
+  "nearbyPlaces": [
+    "bharathi-park",
+    "thirunallar-temple",
+    "sacred-heart-basilica",
+    "french-war-memorial",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "immaculate-conception",
+    "puducherry-museum",
+    "serenity-beach",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "sri-karneshwar-nataraja",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "ousteri-lake",
+    "matrimandir",
+    "auroville"
+  ]
+}

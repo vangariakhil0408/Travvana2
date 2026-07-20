@@ -1,0 +1,39 @@
+{
+  "id": "kalipur-beach",
+  "name": "Kalipur Beach",
+  "city": "North Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A pristine, remote beach renowned for being a primary nesting ground for Leatherback Sea Turtles \u2014 the world's largest turtle species.",
+  "history": "One of the few protected beaches in India specifically designated for the conservation of sea turtle nesting.",
+  "famousFor": "Leatherback sea turtle nesting, remote beauty, Saddle Peak views.",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "jolly-buoy-island",
+    "aberdeen-bazaar",
+    "marina-park",
+    "corbyns-cove-beach",
+    "ross-island",
+    "diglipur-town",
+    "mahatma-gandhi-marine-national-park",
+    "cellular-jail",
+    "wandoor-beach",
+    "barren-island",
+    "mundapahad",
+    "chatham-saw-mill",
+    "north-bay-island",
+    "long-island",
+    "anthropological-museum",
+    "saddle-peak",
+    "chidiya-tapu",
+    "samudrika-naval-marine-museum",
+    "mount-harriet-national-park",
+    "viper-island"
+  ]
+}

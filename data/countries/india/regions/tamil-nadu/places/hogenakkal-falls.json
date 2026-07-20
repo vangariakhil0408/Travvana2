@@ -1,0 +1,71 @@
+{
+  "id": "hogenakkal-falls",
+  "slug": "hogenakkal-falls",
+  "name": "Hogenakkal Falls",
+  "location": "Tamil Nadu, India",
+  "district": "Hogenakkal",
+  "stateId": "tamil-nadu",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/hogenakkal-falls.webp",
+  "heroImage": "./assets/images/popular/hogenakkal-falls.webp",
+  "gallery": [
+    "./assets/images/popular/hogenakkal-falls.webp"
+  ],
+  "overview": "Experience the beauty of Hogenakkal Falls, a top destination in Tamil Nadu, India.",
+  "description": "Formed by the Kaveri River, Hogenakkal Falls is often called the 'Niagara of India' and has long been known for medicinal bathing spots.",
+  "rating": "4.5",
+  "reviewCount": 41229,
+  "popularityScore": 3,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "₹10 (Indians)",
+    "foreigner": "₹10 (Indians)"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Hogenakkal Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "46 km from Dharmapuri"
+  },
+  "tags": [
+    "nature",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2796
+    },
+    {
+      "views": 2049
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple"
+  ]
+}

@@ -1,0 +1,108 @@
+/* ============================================
+   TRAVVANA — Pagination Component
+   ============================================ */
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-2);
+  padding: var(--sp-6) 0;
+}
+
+.pagination__btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  background: var(--clr-bg-tertiary);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-text-secondary);
+  cursor: pointer;
+  transition: all var(--tr-fast);
+}
+
+.pagination__btn:hover:not(:disabled) {
+  border-color: var(--clr-border-active);
+  color: var(--clr-accent);
+}
+
+.pagination__btn--active {
+  background: var(--clr-accent);
+  border-color: var(--clr-accent);
+  color: white;
+}
+
+.pagination__btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.pagination__dots {
+  color: var(--clr-text-muted);
+  font-size: var(--fs-sm);
+  padding: 0 var(--sp-1);
+}
+
+/* ── Load More Button ── */
+.load-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--sp-8) 0;
+}
+
+.load-more__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  padding: var(--sp-3) var(--sp-8);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  border-radius: var(--radius-full);
+  background: var(--clr-bg-tertiary);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-text-secondary);
+  cursor: pointer;
+  transition: all var(--tr-normal);
+}
+
+.load-more__btn:hover {
+  border-color: var(--clr-accent);
+  color: var(--clr-accent);
+  background: var(--clr-accent-light);
+}
+
+.load-more__spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--clr-border);
+  border-top-color: var(--clr-accent);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  display: none;
+}
+
+.load-more__btn--loading .load-more__spinner {
+  display: block;
+}
+
+.load-more__btn--loading .load-more__text {
+  display: none;
+}
+
+/* ── Results count ── */
+.results-info {
+  font-size: var(--fs-xs);
+  color: var(--clr-text-muted);
+  text-align: center;
+  padding: var(--sp-2) 0;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

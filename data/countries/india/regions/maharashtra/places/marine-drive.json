@@ -1,0 +1,71 @@
+{
+  "id": "marine-drive",
+  "slug": "marine-drive",
+  "name": "Marine Drive",
+  "location": "Maharashtra, India",
+  "district": "Mumbai",
+  "stateId": "maharashtra",
+  "category": "urban",
+  "uiCategory": "urban",
+  "image": "./assets/images/popular/marine-drive.webp",
+  "heroImage": "./assets/images/popular/marine-drive.webp",
+  "gallery": [
+    "./assets/images/popular/marine-drive.webp"
+  ],
+  "overview": "Experience the beauty of Marine Drive, a top destination in Maharashtra, India.",
+  "description": "Marine Drive is a 3.6-kilometre-long C-shaped boulevard along the Arabian sea, famously known as the Queen's Necklace for its glowing nighttime curvature.",
+  "rating": "4.4",
+  "reviewCount": 29567,
+  "popularityScore": 71,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chhatrapati Shivaji Maharaj International Airport",
+      "distance": "22 km"
+    },
+    "nearestRailway": {
+      "name": "Churchgate Railway Station",
+      "distance": "1 km"
+    },
+    "byRoad": "Central to south Mumbai transit routes."
+  },
+  "tags": [
+    "urban",
+    "maharashtra",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 722
+    },
+    {
+      "views": 5482
+    }
+  ],
+  "nearbyPlaces": [
+    "gateway-of-india",
+    "ajanta-ellora",
+    "lavasa"
+  ]
+}

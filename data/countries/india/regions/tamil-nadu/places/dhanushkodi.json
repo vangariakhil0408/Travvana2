@@ -1,0 +1,58 @@
+{
+  "id": "dhanushkodi",
+  "name": "Dhanushkodi",
+  "slug": "dhanushkodi",
+  "stateId": "tamil-nadu",
+  "districtId": "ramanathapuram",
+  "category": "beaches",
+  "subcategories": [],
+  "description": "Ghost town at the tip of Rameswaram island",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.3,
+  "reviewCount": 3500,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to February",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "meenakshi-temple",
+    "ooty-botanical"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to Dhanushkodi"
+  },
+  "tags": [
+    "beaches"
+  ],
+  "lastUpdated": "2026-03-15"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cellular-jail",
+  "name": "Cellular Jail",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Standing solemnly against the Bay of Bengal, this historic prison whispers stories of sacrifice and resilience through its stark corridors.",
+  "history": "Constructed by the British in 1906, it housed Indian freedom fighters in isolated cells during colonial rule.",
+  "famousFor": "Freedom struggle legacy and Light & Sound show",
+  "bestTime": "October to May",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b930",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+  ],
+  "nearbyPlaces": [
+    "mahatma-gandhi-marine-national-park",
+    "barren-island",
+    "long-island",
+    "chatham-saw-mill",
+    "ross-island",
+    "north-bay-island",
+    "mundapahad",
+    "mount-harriet-national-park",
+    "aberdeen-bazaar",
+    "wandoor-beach",
+    "marina-park",
+    "saddle-peak",
+    "kalipur-beach",
+    "jolly-buoy-island",
+    "diglipur-town",
+    "corbyns-cove-beach",
+    "samudrika-naval-marine-museum",
+    "viper-island",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

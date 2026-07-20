@@ -1,0 +1,69 @@
+{
+  "id": "akshardham-temple",
+  "slug": "akshardham-temple",
+  "name": "Akshardham Temple",
+  "location": "New Delhi, India",
+  "district": "Delhi",
+  "stateId": "delhi",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/akshardham-temple.webp",
+  "heroImage": "./assets/images/popular/akshardham-temple.webp",
+  "gallery": [
+    "./assets/images/popular/akshardham-temple.webp"
+  ],
+  "overview": "Experience the beauty of Akshardham Temple, a top destination in New Delhi, India.",
+  "description": "Inaugurated in 2005, Akshardham Temple showcases traditional Indian architecture and the spiritual teachings of Swaminarayan.",
+  "rating": "4.6",
+  "reviewCount": 43067,
+  "popularityScore": 35,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "10:00 AM - 6:30 PM (Closed Monday)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Indira Gandhi International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Delhi Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "10 km from Delhi city center"
+  },
+  "tags": [
+    "spiritual",
+    "delhi",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5238
+    },
+    {
+      "views": 5201
+    }
+  ],
+  "nearbyPlaces": [
+    "india-gate"
+  ]
+}

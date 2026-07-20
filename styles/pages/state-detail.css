@@ -1,0 +1,88 @@
+/* ============================================
+   TRAVVANA — State Detail Page Styles
+   ============================================ */
+
+.state-page {
+  padding-bottom: var(--sp-8);
+}
+
+/* ── State Info Section ── */
+.state-info {
+  padding: var(--sp-4) 0;
+}
+
+.state-info__description {
+  font-size: var(--fs-base);
+  color: var(--clr-text-secondary);
+  line-height: var(--lh-relaxed);
+  margin-bottom: var(--sp-4);
+}
+
+/* ── Quick Facts ── */
+.quick-facts {
+  display: flex;
+  gap: var(--sp-3);
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding: var(--sp-3) 0;
+}
+
+.quick-facts::-webkit-scrollbar { display: none; }
+
+.quick-fact {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--clr-bg-card);
+  border: 1px solid var(--clr-border);
+  border-radius: var(--radius-lg);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.quick-fact__icon {
+  font-size: var(--fs-xl);
+}
+
+.quick-fact__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.quick-fact__label {
+  font-size: 10px;
+  color: var(--clr-text-muted);
+  text-transform: uppercase;
+  letter-spacing: var(--ls-wider);
+}
+
+.quick-fact__value {
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  color: var(--clr-text-primary);
+}
+
+/* ── Districts Section ── */
+.state-districts {
+  padding: var(--sp-6) 0;
+}
+
+/* ── Popular Places Carousel ── */
+.state-popular {
+  padding: var(--sp-4) 0;
+}
+
+.state-popular .scroll-x {
+  padding-left: var(--sp-4);
+  padding-right: var(--sp-4);
+}
+
+/* ── Nearby States ── */
+.nearby-states {
+  padding: var(--sp-6) 0;
+}
+
+.nearby-states .scroll-x > * {
+  width: 200px;
+}

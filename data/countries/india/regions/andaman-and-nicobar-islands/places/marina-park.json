@@ -1,0 +1,39 @@
+{
+  "id": "marina-park",
+  "name": "Marina Park",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A beautifully manicured waterfront garden on the shores of the Aberdeen Jetty area, offering lovely evening views of the harbour and a cheerful fountain display.",
+  "history": "Developed as a recreational park for residents and tourists to enjoy the scenic Port Blair harbour.",
+  "famousFor": "Harbour views, evening walks, fountain show.",
+  "bestTime": "October to May",
+  "timings": "6:00 AM \u2013 9:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar.webp"
+  ],
+  "nearbyPlaces": [
+    "jolly-buoy-island",
+    "aberdeen-bazaar",
+    "kalipur-beach",
+    "corbyns-cove-beach",
+    "mahatma-gandhi-marine-national-park",
+    "ross-island",
+    "cellular-jail",
+    "barren-island",
+    "diglipur-town",
+    "mundapahad",
+    "wandoor-beach",
+    "north-bay-island",
+    "saddle-peak",
+    "samudrika-naval-marine-museum",
+    "long-island",
+    "chatham-saw-mill",
+    "mount-harriet-national-park",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "viper-island"
+  ]
+}

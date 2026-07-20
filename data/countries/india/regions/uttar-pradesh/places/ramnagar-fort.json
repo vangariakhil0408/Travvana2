@@ -1,0 +1,64 @@
+{
+  "id": "ramnagar-fort",
+  "slug": "ramnagar-fort",
+  "name": "Ramnagar Fort",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A massive 18th-century sandstone fortress on the eastern bank of the Ganges, still the residence of the Maharaja of Varanasi. It houses a museum with vintage cars, ornate palanquins, and an astronomical clock.",
+  "description": "Built by Kashi Naresh Balwant Singh in 1750. The fort hosts the legendary month-long Ramnagar Ramlila, a UNESCO Intangible Heritage.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October (Ramlila) or November to March",
+  "timings": "10:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "kashi-vishwanath",
+    "sarnath",
+    "tulsi-manas-temple",
+    "bharat-kala-bhavan",
+    "assi-ghat"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Ramnagar-Fort.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Ramnagar-Fort.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Ramnagar-Fort.webp"
+  ]
+}

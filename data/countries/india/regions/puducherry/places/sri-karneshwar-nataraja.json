@@ -1,0 +1,36 @@
+{
+  "id": "sri-karneshwar-nataraja",
+  "name": "Sri Karneshwar Nataraja Temple",
+  "city": "Pudukuppam",
+  "state": "Puducherry",
+  "description": "An incredibly unique and striking temple built entirely in the shape of a massive Egyptian pyramid. It is dedicated to Lord Shiva in his Nataraja form.",
+  "history": "Constructed relatively recently with the support of the Auroville community, blending Indian spirituality with global architectural geometry.",
+  "famousFor": "Pyramid architecture, beachfront location, and meditation.",
+  "bestTime": "Year-round",
+  "timings": "7:00 AM \u2013 12:00 PM, 4:00 PM \u2013 7:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+  ],
+  "nearbyPlaces": [
+    "arikamedu",
+    "notre-dame-des-anges",
+    "immaculate-conception",
+    "sacred-heart-basilica",
+    "sri-aurobindo-ashram",
+    "thirunallar-temple",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "serenity-beach",
+    "french-war-memorial",
+    "bharathi-park",
+    "promenade-beach",
+    "matrimandir",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "auroville",
+    "ousteri-lake"
+  ]
+}

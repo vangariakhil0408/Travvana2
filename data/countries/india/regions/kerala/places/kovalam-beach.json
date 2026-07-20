@@ -1,0 +1,68 @@
+{
+  "id": "kovalam-beach",
+  "slug": "kovalam-beach",
+  "name": "Kovalam Beach",
+  "location": "Kerala, India",
+  "district": "Thiruvananthapuram",
+  "stateId": "kerala",
+  "category": "beaches",
+  "uiCategory": "beaches",
+  "image": "./assets/images/states/kerala/Kovalam Beach.png",
+  "heroImage": "./assets/images/states/kerala/Kovalam Beach.png",
+  "gallery": [
+    "./assets/images/states/kerala/Kovalam Beach.png"
+  ],
+  "overview": "Experience the beauty of Kovalam Beach, a top destination in Kerala.",
+  "description": "Internationally renowned crescent-shaped beach.",
+  "rating": "4.7",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "beaches",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "padmanabhaswamy-temple",
+    "poovar-island"
+  ]
+}

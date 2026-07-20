@@ -1,0 +1,18 @@
+{
+  "id": "vaishno-devi",
+  "name": "Vaishno Devi Temple",
+  "city": "Katra",
+  "state": "Jammu and Kashmir",
+  "description": "One of the holiest and most visited Hindu pilgrimage sites in the world, dedicated to Goddess Maha Lakshmi. Pilgrims undertake a 12 km trek from Katra to reach the sacred cave.",
+  "history": "The temple is mentioned in the Mahabharata. It is believed the Goddess meditated in the cave to attain spiritual perfection.",
+  "famousFor": "Sacred cave shrine, 12km pilgrimage trek, spiritual energy.",
+  "bestTime": "March to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Helicopter/Pony extra)",
+  "image": "./assets/images/states/jammu-and-kashmir/vaishno-devi.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/vaishno-devi.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/vaishno-devi.webp"
+  ],
+  "nearbyPlaces": []
+}

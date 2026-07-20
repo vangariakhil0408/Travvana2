@@ -1,0 +1,71 @@
+{
+  "id": "jog-falls",
+  "slug": "jog-falls",
+  "name": "Jog Falls",
+  "location": "Karnataka, India",
+  "district": "Shivamogga",
+  "stateId": "karnataka",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/jog-falls.webp",
+  "heroImage": "./assets/images/popular/jog-falls.webp",
+  "gallery": [
+    "./assets/images/popular/jog-falls.webp"
+  ],
+  "overview": "Experience the beauty of Jog Falls, a top destination in Karnataka, India.",
+  "description": "Jog Falls stands firmly as the second-highest plunge waterfall in India dropping intensely and untiered straight into a deep rocky chasm.",
+  "rating": "4.4",
+  "reviewCount": 32672,
+  "popularityScore": 51,
+  "priceLevel": 2,
+  "bestTimeToVisit": "August to December",
+  "timings": "7:30 AM - 9:30 PM",
+  "entryFee": {
+    "indian": "₹10",
+    "foreigner": "₹10"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Hubli Airport",
+      "distance": "160 km"
+    },
+    "nearestRailway": {
+      "name": "Talaguppa Railway Station",
+      "distance": "13 km"
+    },
+    "byRoad": "Government buses ply to the falls constantly."
+  },
+  "tags": [
+    "nature",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2516
+    },
+    {
+      "views": 4928
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "hampi",
+    "belur-halebidu-temples"
+  ]
+}

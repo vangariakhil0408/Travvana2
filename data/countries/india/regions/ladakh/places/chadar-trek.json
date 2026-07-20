@@ -1,0 +1,71 @@
+{
+  "id": "chadar-trek",
+  "slug": "chadar-trek",
+  "name": "Chadar Trek",
+  "location": "Ladakh, India",
+  "district": "Leh",
+  "stateId": "ladakh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/chadar-trek.webp",
+  "heroImage": "./assets/images/popular/chadar-trek.webp",
+  "gallery": [
+    "./assets/images/popular/chadar-trek.webp"
+  ],
+  "overview": "Experience the beauty of Chadar Trek, a top destination in Ladakh, India.",
+  "description": "A historic winter route used by Zanskaris, the trek follows the frozen Zanskar River during peak winter.",
+  "rating": "4.7",
+  "reviewCount": 9013,
+  "popularityScore": 16,
+  "priceLevel": 1,
+  "bestTimeToVisit": "January to February",
+  "timings": "Seasonal trek",
+  "entryFee": {
+    "indian": "Permit & trek cost required",
+    "foreigner": "Permit & trek cost required"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Kushok Bakula Rimpochee Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Leh Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "65 km from Leh"
+  },
+  "tags": [
+    "nature",
+    "ladakh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2539
+    },
+    {
+      "views": 4739
+    }
+  ],
+  "nearbyPlaces": [
+    "leh-ladakh",
+    "pangong-lake",
+    "hemis-monastery"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "paradise-beach",
+  "name": "Paradise Beach",
+  "city": "Chunnambar",
+  "state": "Puducherry",
+  "description": "An incredibly pristine, isolated beach boasting ultra-soft golden sand and clear blue waters. It is accessible only via a scenic boat ride through the Chunnambar backwaters.",
+  "history": "Maintained exceptionally well by the tourism department, ensuring it remains one of the cleanest beaches in South India.",
+  "famousFor": "Pristine sands, boating, and beach volleyball.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b9150 (Boat ride)",
+  "image": "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+  ],
+  "nearbyPlaces": [
+    "chunnambar-boat-house",
+    "promenade-beach",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "bharathi-park",
+    "sacred-heart-basilica",
+    "thirunallar-temple",
+    "french-war-memorial",
+    "immaculate-conception",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "serenity-beach",
+    "sri-karneshwar-nataraja",
+    "ousteri-lake",
+    "matrimandir",
+    "auroville"
+  ]
+}

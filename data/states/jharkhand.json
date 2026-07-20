@@ -1,0 +1,2951 @@
+{
+  "state": "Jharkhand",
+  "slug": "jharkhand",
+  "capital": "Ranchi",
+  "bestTime": "October to March",
+  "language": "Hindi, Santhali, Khortha, Kurmali, English",
+  "places": [
+    {
+      "name": "Hundru Falls",
+      "city": "Ranchi",
+      "category": "waterfalls",
+      "distance": "45 km from Ranchi",
+      "rating": 4.6,
+      "description": "One of the most spectacular waterfalls in Jharkhand, where the Subarnarekha River violently cascades from a massive height of 320 feet, creating a stunning plunge pool.",
+      "history": "A historically significant natural landmark in the Chotanagpur Plateau region, celebrated for its raw, untamed power and natural beauty.",
+      "famousFor": "320 ft waterfall drop, scenic trekking, picnic spots.",
+      "bestTime": "Monsoon to early Winter (July to December)",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "hundru-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/hundru-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "hundru-falls",
+      "image": "assets/images/states/jharkhand/hundru-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/hundru-falls.webp"
+    },
+    {
+      "name": "Baidyanath Dham",
+      "city": "Deoghar",
+      "category": "temples",
+      "distance": "Deoghar City Center",
+      "rating": 4.9,
+      "description": "One of the twelve deeply revered Jyotirlingas of Lord Shiva. It is an immense, towering stone temple complex that attracts millions of pilgrims annually, especially during the Shravan Mela.",
+      "history": "According to Hindu mythology, the demon king Ravana worshipped Shiva here to get boons, and it's the exact spot where his ten heads were symbolically offered to the Lord.",
+      "famousFor": "Jyotirlinga shrine, Shravan Mela, highly sacred Hindu pilgrimage.",
+      "bestTime": "Year-round (July-August for Mela)",
+      "timings": "4:00 AM – 3:30 PM, 6:00 PM – 9:00 PM",
+      "entryFee": "Free (VIP Darshan passes available)",
+      "slug": "baidyanath-dham",
+      "images": {
+        "main": "assets/images/states/jharkhand/baidyanath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Naulakha Mandir",
+          "city": "Deoghar",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "naulakha-mandir",
+          "images": {
+            "main": "assets/images/popular/naulakha-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/naulakha-mandir.webp"
+        },
+        {
+          "name": "Trikut Hill",
+          "city": "Deoghar",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "trikut-hill",
+          "images": {
+            "main": "assets/images/popular/trikut-hill.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/trikut-hill.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "baidyanath-dham",
+      "image": "assets/images/states/jharkhand/baidyanath-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/baidyanath-temple.webp"
+    },
+    {
+      "name": "Netarhat",
+      "city": "Latehar",
+      "category": "nature",
+      "distance": "156 km from Ranchi",
+      "rating": 4.8,
+      "description": "Fondly known as the 'Queen of Chotanagpur', this magnificent hill station is famous for its breathtaking sunrise and sunset views, dense forests, and highly pleasant climate.",
+      "history": "It was developed as a prestigious summer retreat by the British administrators due to its cool climate compared to the surrounding plains.",
+      "famousFor": "Magnolia Point sunsets, dense pine forests, Netarhat Residential School.",
+      "bestTime": "September to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "netarhat",
+      "images": {
+        "main": "assets/images/states/jharkhand/netarhat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Magnolia Sunset Point",
+          "city": "Netarhat",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "magnolia-point",
+          "images": {
+            "main": "assets/images/popular/magnolia-point.webp"
+          },
+          "state": "Jharkhand"
+        },
+        {
+          "name": "Upper Ghaghri Falls",
+          "city": "Netarhat",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "upper-ghaghri",
+          "images": {
+            "main": "assets/images/states/jharkhand/lower-ghaghri-falls.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "netarhat",
+      "image": "assets/images/states/jharkhand/netarhat.webp",
+      "heroImage": "assets/images/states/jharkhand/netarhat.webp"
+    },
+    {
+      "name": "Betla National Park",
+      "city": "Latehar",
+      "category": "wildlife",
+      "distance": "Palamu District",
+      "rating": 4.6,
+      "description": "One of India's earliest tiger reserves, this vast national park features thick tropical forests and is famous for its herds of wild elephants, bison, leopards, and ancient forts.",
+      "history": "Declared a wildlife sanctuary in 1974 and became one of the first national parks in India to be inducted under Project Tiger.",
+      "famousFor": "Wild elephants, wildlife safaris, ancient Palamu forts inside the park.",
+      "bestTime": "October to April",
+      "timings": "6:00 AM – 10:00 AM, 2:00 PM – 5:00 PM",
+      "entryFee": "₹150",
+      "slug": "betla-national-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/betla-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palamu Fort",
+          "city": "Latehar",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "palamu-fort",
+          "images": {
+            "main": "assets/images/popular/palamu-fort.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/palamu-fort.webp"
+        },
+        {
+          "name": "Chatti River",
+          "city": "Latehar",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "chatti-river",
+          "images": {
+            "main": "assets/images/popular/chatti-river.webp"
+          },
+          "image": "assets/images/states/jharkhand/chatti-river.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "betla-national-park",
+      "image": "assets/images/states/jharkhand/betla-national-park.webp",
+      "heroImage": "assets/images/states/jharkhand/betla-national-park.webp"
+    },
+    {
+      "name": "Patratu Valley",
+      "city": "Ramgarh",
+      "category": "nature",
+      "distance": "35 km from Ranchi",
+      "rating": 4.7,
+      "description": "A stunning, winding mountain pass featuring incredibly scenic hairpin bends cutting through lush green hills, leading down to the massive and beautiful Patratu Dam.",
+      "history": "The dam was constructed to supply water to the Ramgarh cantonment area and the Patratu Thermal Power Station.",
+      "famousFor": "Scenic hairpin bend drives, boating at Patratu Dam, photography.",
+      "bestTime": "July to March",
+      "timings": "Unknown",
+      "entryFee": "Free (Boating extra)",
+      "slug": "patratu-valley",
+      "images": {
+        "main": "assets/images/states/jharkhand/patratu-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Patratu Dam",
+          "city": "Ramgarh",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "patratu-dam",
+          "images": {
+            "main": "assets/images/popular/patratu-dam.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/patratu-dam.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "patratu-valley",
+      "image": "assets/images/states/jharkhand/patratu-valley.webp",
+      "heroImage": "assets/images/states/jharkhand/patratu-valley.webp"
+    },
+    {
+      "name": "Shikharji",
+      "city": "Giridih",
+      "category": "temples",
+      "distance": "Giridih District",
+      "rating": 4.8,
+      "description": "The highest mountain peak in Jharkhand (1350m) and a profoundly sacred Jain pilgrimage site. It features a strenuous 27km trek leading to multiple ancient white marble shrines.",
+      "history": "Highly sacred as it is believed that 20 of the 24 Jain Tirthankaras attained Nirvana (salvation) on this very mountain.",
+      "famousFor": "Highest peak in Jharkhand, supreme Jain pilgrimage, demanding trek.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7 (Trek usually starts before dawn)",
+      "entryFee": "Free",
+      "slug": "shikharji",
+      "images": {
+        "main": "assets/images/states/jharkhand/parasnath-hill.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "shikharji",
+      "image": "assets/images/states/jharkhand/parasnath-hill.webp",
+      "heroImage": "assets/images/states/jharkhand/parasnath-hill.webp"
+    },
+    {
+      "name": "Dassam Falls",
+      "city": "Ranchi",
+      "category": "waterfalls",
+      "distance": "40 km from Ranchi",
+      "rating": 4.5,
+      "description": "A magnificent waterfall on the Kanchi River. It plunges dramatically from a height of 144 feet, creating a powerful, roaring sound and mist visible from a distance.",
+      "history": "The name 'Dassam' is derived from a local word 'Da:song', which roughly translates to the act of pouring water.",
+      "famousFor": "Powerful waterfall, steep gorge, natural photography.",
+      "bestTime": "August to December",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "dassam-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/dassam-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "dassam-falls",
+      "image": "assets/images/states/jharkhand/dassam-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/dassam-falls.webp"
+    },
+    {
+      "name": "Dalma Wildlife Sanctuary",
+      "city": "Jamshedpur",
+      "category": "wildlife",
+      "distance": "10 km from Jamshedpur",
+      "rating": 4.4,
+      "description": "An expansive, thickly forested sanctuary situated around the Dalma Hills. It is primarily famous for its dense population of large Indian Elephants and barking deer.",
+      "history": "Inaugurated in 1975 by Sanjay Gandhi. The sanctuary acts as a critical green lung for the heavily industrialized steel city of Jamshedpur.",
+      "famousFor": "Indian elephants, Dalma hilltop Shiva temple, dense forests.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹150 (Vehicle fee extra)",
+      "slug": "dalma-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/jharkhand/dalma-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Dimna Lake",
+          "city": "Jamshedpur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "dimna-lake",
+          "images": {
+            "main": "assets/images/popular/dimna-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dimna-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "dalma-wildlife-sanctuary",
+      "image": "assets/images/states/jharkhand/dalma-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/jharkhand/dalma-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Jonha Falls",
+      "city": "Ranchi",
+      "category": "waterfalls",
+      "distance": "40 km from Ranchi",
+      "rating": 4.6,
+      "description": "A beautiful, terraced hanging valley waterfall. Visitors must descend exactly 722 steps through thick vegetation to reach the spectacularly scenic base of the falls.",
+      "history": "Also known as Gautam Dhara, named after Lord Buddha. A prominent Buddhist shrine is located close to the waterfall complex.",
+      "famousFor": "Terraced waterfall, 722 descent steps, Gautam Buddha shrine.",
+      "bestTime": "July to December",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "jonha-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/jonha-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sita Falls",
+          "city": "Ranchi",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "sita-falls",
+          "images": {
+            "main": "assets/images/popular/sita-falls.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/sita-falls.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jonha-falls",
+      "image": "assets/images/states/jharkhand/jonha-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/jonha-falls.webp"
+    },
+    {
+      "name": "Jubilee Park",
+      "city": "Jamshedpur",
+      "category": "nature",
+      "distance": "City Center",
+      "rating": 4.5,
+      "description": "A massive, beautifully manicured 225-acre park situated in the heart of Jamshedpur. Often compared to the Mughal Gardens of Delhi, it features musical fountains and lakes.",
+      "history": "Gifted by Tata Steel to the citizens of Jamshedpur on the company's 50th golden jubilee anniversary in 1958.",
+      "famousFor": "Mughal garden styling, musical fountains, Jayanti Sarovar lake.",
+      "bestTime": "Year-round (Best during evening illumination)",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "jubilee-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/jubilee-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tata Steel Zoological Park",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "wildlife",
+          "slug": "tata-steel-zoo",
+          "images": {
+            "main": "assets/images/popular/tata-steel-zoo.webp"
+          },
+          "state": "Jharkhand"
+        },
+        {
+          "name": "Dimna Lake",
+          "city": "Jamshedpur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "dimna-lake",
+          "images": {
+            "main": "assets/images/popular/dimna-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dimna-lake.webp"
+        },
+        {
+          "name": "Dalma Wildlife Sanctuary",
+          "city": "Jamshedpur",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "dalma-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/popular/dalma-wildlife-sanctuary.webp"
+          },
+          "image": "assets/images/states/jharkhand/dalma-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Jayanti Sarovar",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "nature",
+          "slug": "jayanti-sarovar",
+          "images": {
+            "main": "assets/images/popular/jayanti-sarovar.webp"
+          },
+          "image": "assets/images/states/jharkhand/jayanti-sarovar.webp"
+        },
+        {
+          "name": "JRD Tata Sports Complex",
+          "city": "Jamshedpur",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "jrd-tata-sports-complex",
+          "images": {
+            "main": "assets/images/popular/jrd-tata-sports-complex.webp"
+          },
+          "image": "assets/images/states/jharkhand/jrd-tata-sports-complex.webp"
+        },
+        {
+          "name": "Bhuvaneshwari Temple",
+          "city": "Jamshedpur",
+          "distance": "8 km away",
+          "category": "temples",
+          "slug": "bhuvaneshwari-temple",
+          "images": {
+            "main": "assets/images/popular/bhuvaneshwari-temple.webp"
+          },
+          "image": "assets/images/states/jharkhand/bhuvaneshwari-temple.webp"
+        },
+        {
+          "name": "Jamshedpur City",
+          "city": "Jamshedpur",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "jamshedpur-city",
+          "images": {
+            "main": "assets/images/popular/jamshedpur-city.webp"
+          },
+          "image": "assets/images/states/jharkhand/jamshedpur-city.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jubilee-park",
+      "image": "assets/images/states/jharkhand/jubilee-park.webp",
+      "heroImage": "assets/images/states/jharkhand/jubilee-park.webp"
+    },
+    {
+      "name": "Jagannath Temple",
+      "city": "Ranchi",
+      "category": "temples",
+      "distance": "10 km from City Center",
+      "rating": 4.5,
+      "description": "An imposing, deeply historic 17th-century temple situated on a high hillock. It was built as a slightly smaller architectural replica of the famous Jagannath Temple in Puri.",
+      "history": "Constructed in 1691 by King Ani Nath Shahdeo. It holds a massive annual Rath Yatra festival drawing thousands of devotees.",
+      "famousFor": "Hilltop location, ancient architecture, annual Rath Yatra.",
+      "bestTime": "Year-round (Busy during Rath Yatra)",
+      "timings": "6:00 AM – 12:00 PM, 3:00 PM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "jagannath-temple-jharkhand",
+      "images": {
+        "main": "assets/images/states/jharkhand/jagannath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranchi Lake",
+          "city": "Ranchi",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "ranchi-lake",
+          "images": {
+            "main": "assets/images/popular/ranchi-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ranchi-lake.webp"
+        },
+        {
+          "name": "Pahari Mandir",
+          "city": "Ranchi",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "pahari-mandir",
+          "images": {
+            "main": "assets/images/popular/pahari-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/pahari-mandir.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jagannath-temple-jharkhand",
+      "image": "assets/images/states/jharkhand/jagannath-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/jagannath-temple.webp"
+    },
+    {
+      "name": "Maithon Dam",
+      "city": "Dhanbad",
+      "category": "nature",
+      "distance": "48 km from Dhanbad",
+      "rating": 4.4,
+      "description": "A massive, spectacularly scenic dam constructed on the Barakar River. It features India's first underground power station and boasts stunning blue waters bordered by hills.",
+      "history": "Designed exclusively for flood control and high power generation. The name 'Maithon' translates to 'Mother's Abode', referring to a nearby ancient temple.",
+      "famousFor": "Underground power station, scenic boating, Kalyaneshwari Temple.",
+      "bestTime": "August to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "maithon-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/maithon-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Panchet Dam",
+          "city": "Dhanbad",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "panchet-dam",
+          "images": {
+            "main": "assets/images/popular/panchet-dam.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/panchet-dam-viewpoint.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "maithon-dam",
+      "image": "assets/images/states/jharkhand/maithon-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/maithon-dam.webp"
+    },
+    {
+      "name": "Pahari Mandir",
+      "city": "Ranchi",
+      "category": "temples",
+      "distance": "City Center",
+      "rating": 4.5,
+      "description": "A famous hilltop Shiva temple situated 2140 feet above sea level. Visitors must climb nearly 468 steps to reach the shrine, offering panoramic views of the entire Ranchi city.",
+      "history": "Originally called Phansi Tongri (Hanging Hill) as British rulers executed freedom fighters here. Post-independence, it is famously the only temple where the National Flag is hoisted.",
+      "famousFor": "Hilltop Shiva shrine, National Flag hoisting, city panoramic views.",
+      "bestTime": "Year-round (Best during early morning or sunset)",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "pahari-mandir",
+      "images": {
+        "main": "assets/images/states/jharkhand/pahari-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranchi Lake",
+          "city": "Ranchi",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "ranchi-lake",
+          "images": {
+            "main": "assets/images/popular/ranchi-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ranchi-lake.webp"
+        },
+        {
+          "name": "Rock Garden",
+          "city": "Ranchi",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "rock-garden-jharkhand",
+          "images": {
+            "main": "assets/images/popular/rock-garden.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/rock-garden.webp"
+        },
+        {
+          "name": "Jagannath Temple",
+          "city": "Ranchi",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-jharkhand",
+          "images": {
+            "main": "assets/images/popular/jagannath-temple.webp"
+          },
+          "image": "assets/images/states/jharkhand/jagannath-temple.webp"
+        },
+        {
+          "name": "Kanke Dam",
+          "city": "Ranchi",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "kanke-dam",
+          "images": {
+            "main": "assets/images/popular/kanke-dam.webp"
+          },
+          "image": "assets/images/states/jharkhand/kanke-dam.webp"
+        },
+        {
+          "name": "Nakshatra Vana",
+          "city": "Ranchi",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "nakshatra-vana",
+          "images": {
+            "main": "assets/images/popular/nakshatra-vana.webp"
+          },
+          "image": "assets/images/states/jharkhand/nakshatra-vana.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "pahari-mandir",
+      "image": "assets/images/states/jharkhand/pahari-mandir.webp",
+      "heroImage": "assets/images/states/jharkhand/pahari-mandir.webp"
+    },
+    {
+      "name": "Lodh Falls",
+      "city": "Latehar",
+      "category": "waterfalls",
+      "distance": "Burhaghagh",
+      "rating": 4.7,
+      "description": "The highest majestic waterfall in Jharkhand and the 21st highest in India. The Burha river violently drops from a massive height of 468 feet deep within the dense forest.",
+      "history": "Located extremely deep inside the Chotanagpur forest, it is also known as Burhaghagh falls. The roaring sound of the fall can be heard from a kilometer away.",
+      "famousFor": "Highest waterfall in Jharkhand, massive 468ft drop, deep jungle.",
+      "bestTime": "August to November",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "lodh-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/lodh-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "lodh-falls",
+      "image": "assets/images/states/jharkhand/lodh-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/lodh-falls.webp"
+    },
+    {
+      "name": "Dimna Lake",
+      "city": "Jamshedpur",
+      "category": "nature",
+      "distance": "13 km from Jamshedpur",
+      "rating": 4.5,
+      "description": "An incredibly scenic, deeply serene artificial lake nestled perfectly at the foothills of the Dalma Mountain range. It serves as an ideal picnic spot and offers various water sports.",
+      "history": "Constructed by Tata Steel as a critical water reservoir to meet the massive industrial and civil water requirements of Jamshedpur city.",
+      "famousFor": "Scenic boating, Dalma hill views, winter picnics.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "dimna-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/dimna-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dalma Wildlife Sanctuary",
+          "city": "Jamshedpur",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "dalma-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/popular/dalma-wildlife-sanctuary.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dalma-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Tata Steel Zoological Park",
+          "city": "Jamshedpur",
+          "distance": "12 km away",
+          "category": "wildlife",
+          "slug": "tata-steel-zoo",
+          "images": {
+            "main": "assets/images/popular/tata-steel-zoo.webp"
+          }
+        },
+        {
+          "name": "JRD Tata Sports Complex",
+          "city": "Jamshedpur",
+          "distance": "14 km away",
+          "category": "cities",
+          "slug": "jrd-tata-sports-complex",
+          "images": {
+            "main": "assets/images/popular/jrd-tata-sports-complex.webp"
+          },
+          "image": "assets/images/states/jharkhand/jrd-tata-sports-complex.webp"
+        },
+        {
+          "name": "Bhuvaneshwari Temple",
+          "city": "Jamshedpur",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "bhuvaneshwari-temple",
+          "images": {
+            "main": "assets/images/popular/bhuvaneshwari-temple.webp"
+          },
+          "image": "assets/images/states/jharkhand/bhuvaneshwari-temple.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "dimna-lake",
+      "image": "assets/images/states/jharkhand/dimna-lake.webp",
+      "heroImage": "assets/images/states/jharkhand/dimna-lake.webp"
+    },
+    {
+      "name": "Rock Garden",
+      "city": "Ranchi",
+      "category": "nature",
+      "distance": "Kanke Dam",
+      "rating": 4.3,
+      "description": "An impressively designed garden completely carved out of the massive rocks of the Gonda Hill. It features beautiful waterfalls, sculptures, and a stunning view of Kanke Dam.",
+      "history": "The garden's concept is heavily inspired by the famous Rock Garden of Chandigarh, focusing on transforming barren rocks into a beautiful public space.",
+      "famousFor": "Rock sculptures, Kanke Dam views, evening hangouts.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 7:00 PM",
+      "entryFee": "₹30",
+      "slug": "rock-garden-jharkhand",
+      "images": {
+        "main": "assets/images/states/jharkhand/rock-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanke Dam",
+          "city": "Ranchi",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "kanke-dam",
+          "images": {
+            "main": "assets/images/popular/kanke-dam.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/kanke-dam.webp"
+        },
+        {
+          "name": "Pahari Mandir",
+          "city": "Ranchi",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "pahari-mandir",
+          "images": {
+            "main": "assets/images/popular/pahari-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/pahari-mandir.webp"
+        },
+        {
+          "name": "Tagore Hill",
+          "city": "Ranchi",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "tagore-hill",
+          "images": {
+            "main": "assets/images/popular/tagore-hill.webp"
+          },
+          "image": "assets/images/states/jharkhand/tagore-hill.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "rock-garden-jharkhand",
+      "image": "assets/images/states/jharkhand/rock-garden.webp",
+      "heroImage": "assets/images/states/jharkhand/rock-garden.webp"
+    },
+    {
+      "name": "Tagore Hill",
+      "city": "Ranchi",
+      "category": "heritage",
+      "distance": "Morabadi",
+      "rating": 4.2,
+      "description": "A historic, 300-foot high hill deeply associated with the great poet Rabindranath Tagore's elder brother, Jyotirindranath Tagore, who built an ashram here.",
+      "history": "A center for literary gatherings in the early 20th century. At the base of the hill is the renowned Ramakrishna Mission Ashram.",
+      "famousFor": "Tagore ashram ruins, panoramic city views, Ramakrishna Mission.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "tagore-hill",
+      "images": {
+        "main": "assets/images/states/jharkhand/tagore-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rock Garden",
+          "city": "Ranchi",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "rock-garden-jharkhand",
+          "images": {
+            "main": "assets/images/popular/rock-garden.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/rock-garden.webp"
+        },
+        {
+          "name": "Ranchi Lake",
+          "city": "Ranchi",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "ranchi-lake",
+          "images": {
+            "main": "assets/images/popular/ranchi-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ranchi-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "tagore-hill",
+      "image": "assets/images/states/jharkhand/tagore-hill.webp",
+      "heroImage": "assets/images/states/jharkhand/tagore-hill.webp"
+    },
+    {
+      "name": "Sita Falls",
+      "city": "Ranchi",
+      "category": "waterfalls",
+      "distance": "40 km from Ranchi",
+      "rating": 4.5,
+      "description": "A stunning, lesser-known waterfall located very close to Jonha Falls. The pristine water cascades elegantly over rocky steps amidst a deeply thick forest.",
+      "history": "The waterfall derives its name from Hindu mythology, believed to be associated with Goddess Sita during her exile.",
+      "famousFor": "Hidden nature trail, peaceful environment, proximity to Jonha Falls.",
+      "bestTime": "August to December",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "sita-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/sita-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jonha Falls",
+          "city": "Ranchi",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "jonha-falls",
+          "images": {
+            "main": "assets/images/popular/jonha-falls.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jonha-falls.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "sita-falls",
+      "image": "assets/images/states/jharkhand/sita-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/sita-falls.webp"
+    },
+    {
+      "name": "Hirni Falls",
+      "city": "West Singhbhum",
+      "category": "waterfalls",
+      "distance": "70 km from Ranchi",
+      "rating": 4.4,
+      "description": "A spectacular, wide waterfall dropping vigorously from a height of 120 feet in a deeply forested, untouched jungle area on the Ranchi-Chaibasa highway.",
+      "history": "The surrounding landscape is largely untouched, maintaining a raw, primal feel deeply characteristic of the Chotanagpur plateau forests.",
+      "famousFor": "Pristine jungle setting, massive water drop, photography.",
+      "bestTime": "August to November",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "hirni-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/hirni-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "hirni-falls",
+      "image": "assets/images/states/jharkhand/hirni-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/hirni-falls.webp"
+    },
+    {
+      "name": "Palamu Forts",
+      "city": "Latehar",
+      "category": "heritage",
+      "distance": "Inside Betla National Park",
+      "rating": 4.5,
+      "description": "The deeply historic ruins of two massive forts (Old and New) built by the Chero dynasty kings deep inside the dense forests of Palamu.",
+      "history": "Built in the 16th century by King Medini Ray. The intricate Purana Kila features stunning Islamic and Rajput architectural influences.",
+      "famousFor": "Ancient ruins, Chero dynasty history, thick jungle setting.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Unknown",
+      "slug": "palamu-fort",
+      "images": {
+        "main": "assets/images/states/jharkhand/palamu-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Betla National Park",
+          "city": "Latehar",
+          "distance": "0 km away",
+          "category": "wildlife",
+          "slug": "betla-national-park",
+          "images": {
+            "main": "assets/images/popular/betla-national-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/betla-national-park.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "palamu-fort",
+      "image": "assets/images/states/jharkhand/palamu-fort.webp",
+      "heroImage": "assets/images/states/jharkhand/palamu-fort.webp"
+    },
+    {
+      "name": "McCluskieganj",
+      "city": "Ranchi",
+      "category": "heritage",
+      "distance": "60 km from Ranchi",
+      "rating": 4.3,
+      "description": "Once a bustling Anglo-Indian settlement, this deeply atmospheric, slightly eerie town is full of old British-era bungalows surrounded by thick forests and hills.",
+      "history": "Founded in 1933 by Ernest Timothy McCluskie as a haven for the Anglo-Indian community.",
+      "famousFor": "Anglo-Indian heritage, colonial bungalows, peaceful retreat.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mccluskieganj",
+      "images": {
+        "main": "assets/images/states/jharkhand/mccluskieganj.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chatti River",
+          "city": "McCluskieganj",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "chatti-river",
+          "images": {
+            "main": "assets/images/popular/chatti-river.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/chatti-river.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "mccluskieganj",
+      "image": "assets/images/states/jharkhand/mccluskieganj.webp",
+      "heroImage": "assets/images/states/jharkhand/mccluskieganj.webp"
+    },
+    {
+      "name": "Chhinnamasta Temple (Rajrappa)",
+      "city": "Ramgarh",
+      "category": "temples",
+      "distance": "28 km from Ramgarh",
+      "rating": 4.8,
+      "description": "An incredibly powerful and famous Hindu pilgrimage center situated exactly at the confluence of the Damodar and Bhairavi rivers, dedicated to Goddess Chhinnamasta.",
+      "history": "The temple holds massive tantric significance. The main deity, the headless Goddess Chhinnamasta, stands on the bodies of Kamdev and Rati.",
+      "famousFor": "Tantric worship, river confluence, headless Goddess shrine.",
+      "bestTime": "Year-round",
+      "timings": "5:30 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "rajrappa-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/rajrappa-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "rajrappa-temple",
+      "image": "assets/images/states/jharkhand/rajrappa-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/rajrappa-temple.webp"
+    },
+    {
+      "name": "Kanke Dam",
+      "city": "Ranchi",
+      "category": "nature",
+      "distance": "Ranchi City",
+      "rating": 4.4,
+      "description": "A very popular and exceptionally scenic artificial reservoir acting as a major water source for Ranchi. It provides stunning sunset views and boating facilities.",
+      "history": "Built during the British era to fulfill the growing water demands of the developing city.",
+      "famousFor": "Evening strolls, scenic boating, adjacent Rock Garden.",
+      "bestTime": "August to March",
+      "timings": "8:00 AM – 8:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "kanke-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/kanke-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rock Garden",
+          "city": "Ranchi",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "rock-garden-jharkhand",
+          "images": {
+            "main": "assets/images/popular/rock-garden.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/rock-garden.webp"
+        },
+        {
+          "name": "Pahari Mandir",
+          "city": "Ranchi",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "pahari-mandir",
+          "images": {
+            "main": "assets/images/popular/pahari-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/pahari-mandir.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "kanke-dam",
+      "image": "assets/images/states/jharkhand/kanke-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/kanke-dam.webp"
+    },
+    {
+      "name": "Ranchi Lake (Bada Talab)",
+      "city": "Ranchi",
+      "category": "nature",
+      "distance": "City Center",
+      "rating": 4.2,
+      "description": "A deeply historic, large lake situated right at the base of the Pahari Mandir. It features a massive statue of Swami Vivekananda situated on a small island in the middle.",
+      "history": "Excavated in 1842 by a British agent named Colonel Onsely.",
+      "famousFor": "Swami Vivekananda statue, city center location, boating.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ranchi-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/ranchi-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pahari Mandir",
+          "city": "Ranchi",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "pahari-mandir",
+          "images": {
+            "main": "assets/images/popular/pahari-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/pahari-mandir.webp"
+        },
+        {
+          "name": "Jagannath Temple",
+          "city": "Ranchi",
+          "distance": "8 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-jharkhand",
+          "images": {
+            "main": "assets/images/popular/jagannath-temple.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jagannath-temple.webp"
+        },
+        {
+          "name": "Tagore Hill",
+          "city": "Ranchi",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "tagore-hill",
+          "images": {
+            "main": "assets/images/popular/tagore-hill.webp"
+          },
+          "image": "assets/images/states/jharkhand/tagore-hill.webp"
+        },
+        {
+          "name": "Nakshatra Vana",
+          "city": "Ranchi",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nakshatra-vana",
+          "images": {
+            "main": "assets/images/popular/nakshatra-vana.webp"
+          },
+          "image": "assets/images/states/jharkhand/nakshatra-vana.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "ranchi-lake",
+      "image": "assets/images/states/jharkhand/ranchi-lake.webp",
+      "heroImage": "assets/images/states/jharkhand/ranchi-lake.webp"
+    },
+    {
+      "name": "Trikut Hill (Trikutachal)",
+      "city": "Deoghar",
+      "category": "nature",
+      "distance": "15 km from Deoghar",
+      "rating": 4.5,
+      "description": "A highly famous set of three prominent mountain peaks representing the Hindu Trinity (Brahma, Vishnu, Mahesh). It is a popular trekking and ropeway destination.",
+      "history": "According to legend, the demon king Ravana touched down here on his way to Lanka from Mount Kailash.",
+      "famousFor": "Ropeway rides, dense forests, Ravana mythology.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 4:00 PM (Ropeway)",
+      "entryFee": "₹150 (Ropeway)",
+      "slug": "trikut-hill",
+      "images": {
+        "main": "assets/images/states/jharkhand/trikut-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Naulakha Mandir",
+          "city": "Deoghar",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "naulakha-mandir",
+          "images": {
+            "main": "assets/images/popular/naulakha-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/naulakha-mandir.webp"
+        },
+        {
+          "name": "Baidyanath Dham",
+          "city": "Deoghar",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "baidyanath-dham",
+          "images": {
+            "main": "assets/images/popular/baidyanath-temple.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "trikut-hill",
+      "image": "assets/images/states/jharkhand/trikut-hill.webp",
+      "heroImage": "assets/images/states/jharkhand/trikut-hill.webp"
+    },
+    {
+      "name": "Naulakha Mandir",
+      "city": "Deoghar",
+      "category": "temples",
+      "distance": "2 km from Baidyanath Temple",
+      "rating": 4.6,
+      "description": "An incredibly beautiful, tall Hindu temple closely resembling the Ramakrishna Math. It is dedicated to Radha-Krishna and stands at an impressive 146 feet high.",
+      "history": "Built entirely from a donation of exactly 9 lakh rupees (hence the name Naulakha) given by Queen Charushila of the Pathuriaghat King's family.",
+      "famousFor": "146 ft height, white architecture, peaceful meditation.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 12:00 PM, 2:00 PM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "naulakha-mandir",
+      "images": {
+        "main": "assets/images/states/jharkhand/naulakha-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Trikut Hill",
+          "city": "Deoghar",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "trikut-hill",
+          "images": {
+            "main": "assets/images/popular/trikut-hill.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/trikut-hill.webp"
+        },
+        {
+          "name": "Baidyanath Dham",
+          "city": "Deoghar",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "baidyanath-dham",
+          "images": {
+            "main": "assets/images/popular/baidyanath-temple.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "naulakha-mandir",
+      "image": "assets/images/states/jharkhand/naulakha-mandir.webp",
+      "heroImage": "assets/images/states/jharkhand/naulakha-mandir.webp"
+    },
+    {
+      "name": "Topchanchi Lake",
+      "city": "Dhanbad",
+      "category": "nature",
+      "distance": "37 km from Dhanbad",
+      "rating": 4.4,
+      "description": "A stunning, deeply peaceful artificial lake completely surrounded by the dense green hills of the Parasnath range. A highly popular spot for picnics and bird watching.",
+      "history": "Constructed by the British in 1915 to tap the streams flowing from the Parasnath hills to supply water to the Jharia coalfields.",
+      "famousFor": "Bird watching, peaceful environment, Parasnath hill views.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "topchanchi-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/topchanchi-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "topchanchi-lake",
+      "image": "assets/images/states/jharkhand/topchanchi-lake.webp",
+      "heroImage": "assets/images/states/jharkhand/topchanchi-lake.webp"
+    },
+    {
+      "name": "Bhatinda Falls",
+      "city": "Dhanbad",
+      "category": "waterfalls",
+      "distance": "14 km from Dhanbad",
+      "rating": 4.3,
+      "description": "A rugged and beautiful rocky waterfall nestled deeply among large boulders and thick greenery. It serves as an excellent, somewhat hidden picnic location near the coal capital.",
+      "history": "A hidden gem that starkly contrasts the heavy industrial nature of the surrounding Dhanbad region.",
+      "famousFor": "Rugged boulders, winter picnics, cascading streams.",
+      "bestTime": "August to December",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bhatinda-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/bhatinda-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhanbad City",
+          "city": "Dhanbad",
+          "distance": "14 km away",
+          "category": "cities",
+          "slug": "dhanbad-city",
+          "images": {
+            "main": "assets/images/popular/dhanbad-city.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dhanbad-city-viewpoint.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "bhatinda-falls",
+      "image": "assets/images/states/jharkhand/bhatinda-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/bhatinda-falls.webp"
+    },
+    {
+      "name": "Khandoli Park",
+      "city": "Giridih",
+      "category": "nature",
+      "distance": "10 km from Giridih",
+      "rating": 4.4,
+      "description": "An incredibly popular adventure and water sports destination centered around the Khandoli dam and a massive saddle-shaped hillock.",
+      "history": "Developed into a major tourist hub providing a much-needed recreational space in the Giridih region.",
+      "famousFor": "Water sports, camel rides, rock climbing",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹20 (Activities extra)",
+      "slug": "khandoli-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/khandoli-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Usri Falls",
+          "city": "Giridih",
+          "distance": "20 km away",
+          "category": "waterfalls",
+          "slug": "usri-falls",
+          "images": {
+            "main": "assets/images/popular/usri-falls.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/usri-falls.webp"
+        },
+        {
+          "name": "Giridih Town",
+          "city": "Giridih",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "giridih-town",
+          "images": {
+            "main": "assets/images/popular/giridih-town.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/giridih-town.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "khandoli-park",
+      "image": "assets/images/states/jharkhand/khandoli-park.webp",
+      "heroImage": "assets/images/states/jharkhand/khandoli-park.webp"
+    },
+    {
+      "name": "Usri Falls",
+      "city": "Giridih",
+      "category": "waterfalls",
+      "distance": "14 km from Giridih",
+      "rating": 4.5,
+      "description": "A highly picturesque waterfall where the Usri river violently crashes down a steep gorge in three separate, distinct streams surrounded by the dense Khandoli forest.",
+      "history": "A historically famous picnic spot frequently mentioned in regional Bengali literature.",
+      "famousFor": "Three-stream drop, dense surrounding forest, deep gorge.",
+      "bestTime": "July to January",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "usri-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/usri-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khandoli Park",
+          "city": "Giridih",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "khandoli-park",
+          "images": {
+            "main": "assets/images/popular/khandoli-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/khandoli-park.webp"
+        },
+        {
+          "name": "Giridih Town",
+          "city": "Giridih",
+          "distance": "13 km away",
+          "category": "cities",
+          "slug": "giridih-town",
+          "images": {
+            "main": "assets/images/popular/giridih-town.webp"
+          },
+          "image": "assets/images/states/jharkhand/giridih-town.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "usri-falls",
+      "image": "assets/images/states/jharkhand/usri-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/usri-falls.webp"
+    },
+    {
+      "name": "Jayanti Sarovar",
+      "city": "Jamshedpur",
+      "category": "nature",
+      "distance": "Inside Jubilee Park",
+      "rating": 4.3,
+      "description": "A deeply tranquil, massive artificial lake located right inside Jubilee Park. It is surrounded by heavy greenery and features boating facilities and scenic islands.",
+      "history": "Built as an integral part of the Jubilee Park complex to enhance the aesthetic beauty of the steel city.",
+      "famousFor": "Boating, evening strolls, Jubilee Park illumination.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "jayanti-sarovar",
+      "images": {
+        "main": "assets/images/states/jharkhand/jayanti-sarovar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Tata Steel Zoological Park",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "wildlife",
+          "slug": "tata-steel-zoo",
+          "images": {
+            "main": "assets/images/popular/tata-steel-zoo.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jayanti-sarovar",
+      "image": "assets/images/states/jharkhand/jayanti-sarovar.webp",
+      "heroImage": "assets/images/states/jharkhand/jayanti-sarovar.webp"
+    },
+    {
+      "name": "Tata Steel Zoological Park",
+      "city": "Jamshedpur",
+      "category": "wildlife",
+      "distance": "Inside Jubilee Park",
+      "rating": 4.4,
+      "description": "An incredibly well-maintained zoo located beside the Jayanti Sarovar. It is particularly famous for its unique 'Safari Park' enclosure where animals roam freely.",
+      "history": "Established by Tata Steel to provide educational and recreational wildlife experiences for the citizens of Jamshedpur.",
+      "famousFor": "Safari enclosure, butterfly park, lakeside setting.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹40",
+      "slug": "tata-steel-zoo",
+      "images": {
+        "main": "assets/images/states/jharkhand/tata-steel-zoo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Dimna Lake",
+          "city": "Jamshedpur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "dimna-lake",
+          "images": {
+            "main": "assets/images/popular/dimna-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dimna-lake.webp"
+        },
+        {
+          "name": "Jayanti Sarovar",
+          "city": "Jamshedpur",
+          "distance": "0 km away",
+          "category": "nature",
+          "slug": "jayanti-sarovar",
+          "images": {
+            "main": "assets/images/popular/jayanti-sarovar.webp"
+          },
+          "image": "assets/images/states/jharkhand/jayanti-sarovar.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "tata-steel-zoo",
+      "image": "assets/images/states/jharkhand/tata-steel-zoo.webp",
+      "heroImage": "assets/images/states/jharkhand/tata-steel-zoo.webp"
+    },
+    {
+      "name": "JRD Tata Sports Complex",
+      "city": "Jamshedpur",
+      "category": "cities",
+      "distance": "City Center",
+      "rating": 4.6,
+      "description": "A massive, world-class 40,000-seat multi-use sports arena. It primarily serves as the iconic home ground for the Jamshedpur FC football team in the ISL.",
+      "history": "A massive testament to Tata Steel's commitment to Indian sports, serving as the heart of athletics and football in Jharkhand.",
+      "famousFor": "ISL Football matches, massive seating capacity, modern athletics.",
+      "bestTime": "During ISL season (October to March)",
+      "timings": "Unknown",
+      "entryFee": "Unknown",
+      "slug": "jrd-tata-sports-complex",
+      "images": {
+        "main": "assets/images/states/jharkhand/jrd-tata-sports-complex.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Dimna Lake",
+          "city": "Jamshedpur",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "dimna-lake",
+          "images": {
+            "main": "assets/images/popular/dimna-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dimna-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jrd-tata-sports-complex",
+      "image": "assets/images/states/jharkhand/jrd-tata-sports-complex.webp",
+      "heroImage": "assets/images/states/jharkhand/jrd-tata-sports-complex.webp"
+    },
+    {
+      "name": "Basukinath Temple",
+      "city": "Dumka",
+      "category": "temples",
+      "distance": "25 km from Dumka",
+      "rating": 4.7,
+      "description": "A highly significant Hindu temple deeply associated with the nearby Baidyanath Jyotirlinga. Pilgrims traditionally visit this temple immediately after paying respects at Deoghar.",
+      "history": "Believed to be the court of Lord Shiva (Baidyanath is the King). It holds immense importance during the Shravan Mela.",
+      "famousFor": "Shiva and Parvati temples facing each other, Shravan pilgrimage.",
+      "bestTime": "Year-round (July-August for Mela)",
+      "timings": "4:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "basukinath-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/basukinath-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "basukinath-temple",
+      "image": "assets/images/states/jharkhand/basukinath-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/basukinath-temple.webp"
+    },
+    {
+      "name": "Maluti Temples",
+      "city": "Dumka",
+      "category": "heritage",
+      "distance": "55 km from Dumka",
+      "rating": 4.6,
+      "description": "A deeply fascinating, slightly hidden village containing exactly 72 incredibly intricate terracotta temples built dedicated to Goddess Mauliksha and Lord Shiva.",
+      "history": "Originally a cluster of 108 temples built by the Basant dynasty kings between the 17th and 19th centuries.",
+      "famousFor": "Intricate terracotta carvings, 72 surviving ancient temples.",
+      "bestTime": "September to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "maluti-temples",
+      "images": {
+        "main": "assets/images/states/jharkhand/maluti-temples.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "maluti-temples",
+      "image": "assets/images/states/jharkhand/maluti-temples.webp",
+      "heroImage": "assets/images/states/jharkhand/maluti-temples.webp"
+    },
+    {
+      "name": "Massanjore Dam",
+      "city": "Dumka",
+      "category": "nature",
+      "distance": "31 km from Dumka",
+      "rating": 4.5,
+      "description": "A spectacularly massive and highly scenic dam constructed over the Mayurakshi River. It sits in a deeply tranquil setting completely surrounded by thick green hills.",
+      "history": "Also known as Canada Dam, as it was built in 1955 with heavy financial and technical assistance from the Canadian government.",
+      "famousFor": "Canada Dam history, massive water reservoir, scenic hill views.",
+      "bestTime": "July to February",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "massanjore-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/massanjore-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "massanjore-dam",
+      "image": "assets/images/states/jharkhand/massanjore-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/massanjore-dam.webp"
+    },
+    {
+      "name": "Palkot Wildlife Sanctuary",
+      "city": "Gumla",
+      "category": "wildlife",
+      "distance": "25 km from Gumla",
+      "rating": 4.3,
+      "description": "A very rugged, deeply forested sanctuary characterized by massive boulders, caves, and thick deciduous trees. It is heavily famous for its large population of Sloth Bears.",
+      "history": "The region is filled with ancient tribal history and naturally formed caves that provide perfect habitats for local wildlife.",
+      "famousFor": "Sloth bears, massive boulder caves, offbeat wildlife.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "palkot-wildlife",
+      "images": {
+        "main": "assets/images/states/jharkhand/palkot-wildlife.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "palkot-wildlife",
+      "image": "assets/images/states/jharkhand/palkot-wildlife.webp",
+      "heroImage": "assets/images/states/jharkhand/palkot-wildlife.webp"
+    },
+    {
+      "name": "Hazaribagh Lake",
+      "city": "Hazaribagh",
+      "category": "nature",
+      "distance": "City Center",
+      "rating": 4.4,
+      "description": "A series of seven highly scenic artificial lakes built sequentially on different levels. They are the absolute heart of Hazaribagh city's natural beauty.",
+      "history": "Constructed in 1831 by the British as a major recreational and water supply project for the city.",
+      "famousFor": "Seven interconnected lakes, evening walks, sunset views.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "hazaribagh-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/hazaribagh-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Canary Hill",
+          "city": "Hazaribagh",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "canary-hill",
+          "images": {
+            "main": "assets/images/popular/canary-hill.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/canary-hill.webp"
+        },
+        {
+          "name": "Hazaribagh National Park",
+          "city": "Hazaribagh",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "hazaribagh-national-park",
+          "images": {
+            "main": "assets/images/popular/hazaribagh-national-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/hazaribagh-national-park.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "hazaribagh-lake",
+      "image": "assets/images/states/jharkhand/hazaribagh-lake.webp",
+      "heroImage": "assets/images/states/jharkhand/hazaribagh-lake.webp"
+    },
+    {
+      "name": "Deori Temple",
+      "city": "Tamar",
+      "category": "temples",
+      "distance": "60 km from Ranchi",
+      "rating": 4.6,
+      "description": "An incredibly ancient, deeply revered temple dedicated to Goddess Durga (Solha Bhuja Devi). It is uniquely famous as rituals are performed by both tribal (Pahan) and Brahmin priests.",
+      "history": "Believed to have been built by a tribal chief. Its precise age remains unknown, but it is deeply associated with ancient tribal Tantric traditions.",
+      "famousFor": "Sixteen-armed Goddess Durga, tribal priests, highway location.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "deori-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/deori-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "deori-temple",
+      "image": "assets/images/states/jharkhand/deori-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/deori-temple.webp"
+    },
+    {
+      "name": "Udhwa Lake Bird Sanctuary",
+      "city": "Sahibganj",
+      "category": "wildlife",
+      "distance": "42 km from Sahibganj",
+      "rating": 4.3,
+      "description": "The only bird sanctuary in Jharkhand, consisting of two interconnected lakes (Patauda and Berhale). It acts as a major winter home for migratory birds from Europe and Siberia.",
+      "history": "Declared a sanctuary in 1991 to protect the highly fragile wetlands situated near the Ganges river basin.",
+      "famousFor": "Migratory birds, twin interconnected lakes, wetlands ecosystem.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "udhwa-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/jharkhand/udhwa-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "udhwa-bird-sanctuary",
+      "image": "assets/images/states/jharkhand/udhwa-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/jharkhand/udhwa-bird-sanctuary.webp"
+    },
+    {
+      "name": "Rajmahal Hills",
+      "city": "Sahibganj",
+      "category": "nature",
+      "distance": "Santhal Pargana division",
+      "rating": 4.5,
+      "description": "An ancient, highly significant mountain range consisting of jurassic-era volcanic rocks. The area is famous for its massive plant fossil deposits dating back 150 million years.",
+      "history": "These hills predate the Himalayas. They also hold immense historical importance as the former capital of the Bengal Subah under Emperor Akbar.",
+      "famousFor": "Jurassic plant fossils, ancient geology, tribal Santhal culture.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rajmahal-hills",
+      "images": {
+        "main": "assets/images/states/jharkhand/rajmahal-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "rajmahal-hills",
+      "image": "assets/images/states/jharkhand/rajmahal-hills.webp",
+      "heroImage": "assets/images/states/jharkhand/rajmahal-hills.webp"
+    },
+    {
+      "name": "Moti Jharna",
+      "city": "Sahibganj",
+      "category": "waterfalls",
+      "distance": "Maharajpur",
+      "rating": 4.4,
+      "description": "A spectacularly beautiful waterfall originating from the Rajmahal hills, cascading in two tiers. The sparkling water closely resembles dropping pearls, hence its name.",
+      "history": "Deeply embedded in local Santhal folklore, providing an essential fresh water source for the surrounding ancient hill communities.",
+      "famousFor": "Two-tiered cascade, pearl-like water, Rajmahal hills setting.",
+      "bestTime": "July to December",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "moti-jharna",
+      "images": {
+        "main": "assets/images/states/jharkhand/moti-jharna.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sahibganj",
+          "city": "Sahibganj",
+          "distance": "12 km away",
+          "category": "cities",
+          "slug": "sahibganj-town",
+          "images": {
+            "main": "assets/images/popular/sahibganj-town.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "moti-jharna",
+      "image": "assets/images/states/jharkhand/moti-jharna.webp",
+      "heroImage": "assets/images/states/jharkhand/moti-jharna.webp"
+    },
+    {
+      "name": "Maa Bhadrakali Temple (Itkhori)",
+      "city": "Chatra",
+      "category": "temples",
+      "distance": "35 km from Chatra",
+      "rating": 4.7,
+      "description": "An incredibly unique ancient religious site featuring an extraordinarily detailed black stone idol of Goddess Bhadrakali. It uniquely converges Hindu, Jain, and Buddhist heritage.",
+      "history": "Dating back to the 9th-century Pala period. The massive complex contains an astonishing 1008 Shiva Lingams carved into a single stone block.",
+      "famousFor": "Black stone idol, 1008 Shiva Lingams, Buddhist stupas.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "maa-bhadrakali-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/maa-bhadrakali-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "maa-bhadrakali-temple",
+      "image": "assets/images/states/jharkhand/maa-bhadrakali-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/maa-bhadrakali-temple.webp"
+    },
+    {
+      "name": "Saranda Forest",
+      "city": "West Singhbhum",
+      "category": "nature",
+      "distance": "West Singhbhum District",
+      "rating": 4.6,
+      "description": "Known as the 'Land of Seven Hundred Hills', it is the largest and most dense Sal forest in Asia. It offers an incredibly thick canopy, beautiful rivers, and wild elephants.",
+      "history": "Once the private hunting ground of the local royal family, it remains a critical elephant corridor and is famous for its rich iron ore deposits.",
+      "famousFor": "Asia's largest Sal forest, wild elephants, Thalkobad village.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "saranda-forest",
+      "images": {
+        "main": "assets/images/states/jharkhand/saranda-forest.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "saranda-forest",
+      "image": "assets/images/states/jharkhand/saranda-forest.webp",
+      "heroImage": "assets/images/states/jharkhand/saranda-forest.webp"
+    },
+    {
+      "name": "Kiriburu",
+      "city": "West Singhbhum",
+      "category": "nature",
+      "distance": "Border of Jharkhand and Odisha",
+      "rating": 4.5,
+      "description": "A profoundly beautiful, heavily forested hill station situated within the Saranda Forest. It is incredibly famous for its spectacular sunset viewpoints and massive iron ore mines.",
+      "history": "The name Kiriburu translates to 'Hill of Elephants' in the local tribal language.",
+      "famousFor": "Spectacular sunset point, thick forest canopy, iron ore mines.",
+      "bestTime": "September to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kiriburu",
+      "images": {
+        "main": "assets/images/states/jharkhand/kiriburu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Meghahatuburu",
+          "city": "West Singhbhum",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "meghahatuburu",
+          "images": {
+            "main": "assets/images/states/jharkhand/meghahatuburu-viewpoint.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/meghahatuburu-viewpoint.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "kiriburu",
+      "image": "assets/images/states/jharkhand/kiriburu.webp",
+      "heroImage": "assets/images/states/jharkhand/kiriburu.webp"
+    },
+    {
+      "name": "Ghatshila",
+      "city": "East Singhbhum",
+      "category": "nature",
+      "distance": "45 km from Jamshedpur",
+      "rating": 4.4,
+      "description": "A deeply scenic, highly popular weekend getaway town situated on the banks of the Subarnarekha River. It is famous for its meandering river, green hills, and Burudi Lake.",
+      "history": "The town holds immense literary significance as it was the residence of the famous Bengali writer Bibhutibhushan Bandyopadhyay.",
+      "famousFor": "Subarnarekha river, Burudi Lake, Phuldungri Hillock.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ghatshila",
+      "images": {
+        "main": "assets/images/states/jharkhand/ghatshila.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Burudi Lake",
+          "city": "Ghatshila",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "burudi-lake",
+          "images": {
+            "main": "assets/images/popular/burudi-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/burudi-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "ghatshila",
+      "image": "assets/images/states/jharkhand/ghatshila.webp",
+      "heroImage": "assets/images/states/jharkhand/ghatshila.webp"
+    },
+    {
+      "name": "Bhuvaneshwari Temple",
+      "city": "Jamshedpur",
+      "category": "temples",
+      "distance": "Telco Colony",
+      "rating": 4.5,
+      "description": "An incredibly serene, prominent Hindu temple situated 500 feet above sea level on the Telco hills. It offers an absolutely magnificent panoramic view of the entire steel city.",
+      "history": "Constructed relatively recently, it features spectacular South Indian architectural styling with a massive, highly detailed Gopuram.",
+      "famousFor": "South Indian architecture, massive Gopuram, Jamshedpur panoramic views.",
+      "bestTime": "Year-round (Best at sunset)",
+      "timings": "6:00 AM – 12:00 PM, 4:00 PM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "bhuvaneshwari-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/bhuvaneshwari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        },
+        {
+          "name": "Dimna Lake",
+          "city": "Jamshedpur",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "dimna-lake",
+          "images": {
+            "main": "assets/images/popular/dimna-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/dimna-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "bhuvaneshwari-temple",
+      "image": "assets/images/states/jharkhand/bhuvaneshwari-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/bhuvaneshwari-temple.webp"
+    },
+    {
+      "name": "Nakshatra Vana",
+      "city": "Ranchi",
+      "category": "nature",
+      "distance": "Raj Bhavan Area",
+      "rating": 4.2,
+      "description": "An incredibly unique and beautifully maintained urban park where specific trees are meticulously planted according to the 27 Nakshatras (constellations) of Hindu astrology.",
+      "history": "Developed by the Jharkhand Forest Department to promote eco-tourism while blending it with ancient astrological sciences.",
+      "famousFor": "Astrological garden layout, musical fountain, evening walks.",
+      "bestTime": "Year-round",
+      "timings": "9:30 AM – 6:30 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "nakshatra-vana",
+      "images": {
+        "main": "assets/images/states/jharkhand/nakshatra-vana.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranchi Lake",
+          "city": "Ranchi",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "ranchi-lake",
+          "images": {
+            "main": "assets/images/popular/ranchi-lake.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ranchi-lake.webp"
+        },
+        {
+          "name": "Pahari Mandir",
+          "city": "Ranchi",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "pahari-mandir",
+          "images": {
+            "main": "assets/images/popular/pahari-mandir.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/pahari-mandir.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "nakshatra-vana",
+      "image": "assets/images/states/jharkhand/nakshatra-vana.webp",
+      "heroImage": "assets/images/states/jharkhand/nakshatra-vana.webp"
+    },
+    {
+      "name": "Birsa Zoological Park",
+      "city": "Ranchi",
+      "category": "wildlife",
+      "distance": "Ormanjhi (20 km from Ranchi)",
+      "rating": 4.3,
+      "description": "One of the most beautifully laid out biological parks in India. The animals reside in massive, highly naturalistic open-air moated enclosures surrounded by dense forest.",
+      "history": "Established in 1994, it is named after the great tribal freedom fighter Birsa Munda.",
+      "famousFor": "Open-air enclosures, tigers, boating facility",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:30 PM (Closed Mondays)",
+      "entryFee": "₹40",
+      "slug": "birsa-zoological-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/birsa-zoological-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranchi City",
+          "city": "Ranchi",
+          "distance": "20 km away",
+          "category": "cities",
+          "slug": "ranchi-city",
+          "images": {
+            "main": "assets/images/popular/ranchi-city.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ranchi-city-viewpoint.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "birsa-zoological-park",
+      "image": "assets/images/states/jharkhand/birsa-zoological-park.webp",
+      "heroImage": "assets/images/states/jharkhand/birsa-zoological-park.webp"
+    },
+    {
+      "name": "Tilaiya Dam",
+      "city": "Koderma",
+      "category": "nature",
+      "distance": "17 km from Koderma",
+      "rating": 4.5,
+      "description": "A massive, spectacularly scenic dam constructed on the Barakar River. It is entirely surrounded by deeply picturesque green hills, offering excellent boating and birding.",
+      "history": "Historically significant as the very first dam built (in 1953) under the massive Damodar Valley Corporation (DVC) project.",
+      "famousFor": "Scenic boating, huge reservoir, DVC project history.",
+      "bestTime": "August to March",
+      "timings": "Unknown",
+      "entryFee": "Free (Boating extra)",
+      "slug": "tilaiya-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/tilaiya-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Koderma Wildlife Sanctuary",
+          "city": "Koderma",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "koderma-wildlife",
+          "images": {
+            "main": "assets/images/popular/koderma-wildlife.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "tilaiya-dam",
+      "image": "assets/images/states/jharkhand/tilaiya-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/tilaiya-dam.webp"
+    },
+    {
+      "name": "Tenughat Dam",
+      "city": "Bokaro",
+      "category": "nature",
+      "distance": "40 km from Bokaro Steel City",
+      "rating": 4.4,
+      "description": "An incredibly massive earth-fill dam constructed on the Damodar River. It creates a deeply serene, gigantic lake that is highly popular for winter picnics and boating.",
+      "history": "Built primarily to supply continuous water to the massive Bokaro Steel Plant and surrounding industrial areas.",
+      "famousFor": "Earth-fill dam structure, massive reservoir, peaceful picnics.",
+      "bestTime": "September to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "tenughat-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/tenughat-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "tenughat-dam",
+      "image": "assets/images/states/jharkhand/tenughat-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/tenughat-dam.webp"
+    },
+    {
+      "name": "Jawaharlal Nehru Biological Park",
+      "city": "Bokaro",
+      "category": "wildlife",
+      "distance": "Sector 4",
+      "rating": 4.2,
+      "description": "A beautifully expansive, deeply forested zoological park situated within Bokaro. It is heavily famous for its successful breeding programs for rare white tigers and bears.",
+      "history": "Established in 1989 by the Bokaro Steel Plant management as a major ecological recreation initiative.",
+      "famousFor": "White tigers, toy train ride, boating lake.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "jawaharlal-nehru-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/jawaharlal-nehru-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bokaro Steel City",
+          "city": "Bokaro",
+          "distance": "0 km away",
+          "category": "cities",
+          "slug": "bokaro-steel-city",
+          "images": {
+            "main": "assets/images/popular/bokaro-steel-city.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/bokaro-steel-city-viewpoint.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jawaharlal-nehru-park",
+      "image": "assets/images/states/jharkhand/jawaharlal-nehru-park.webp",
+      "heroImage": "assets/images/states/jharkhand/jawaharlal-nehru-park.webp"
+    },
+    {
+      "name": "Ranchi City",
+      "city": "Ranchi",
+      "category": "cities",
+      "distance": "State Capital",
+      "rating": 4.5,
+      "description": "The capital of Jharkhand, famously known as the 'City of Waterfalls'. It offers a unique blend of urban development and vast, cascading natural beauty.",
+      "history": "Historically the center of the Jharkhand movement, which called for a separate state for the tribal regions.",
+      "famousFor": "Waterfalls, Jagannath Temple, MS Dhoni's hometown.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ranchi-city",
+      "images": {
+        "main": "assets/images/states/jharkhand/ranchi-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Birsa Zoological Park",
+          "city": "Ranchi",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "birsa-zoological-park",
+          "images": {
+            "main": "assets/images/popular/birsa-zoological-park.webp"
+          },
+          "image": "assets/images/states/jharkhand/birsa-zoological-park.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "ranchi-city",
+      "image": "assets/images/states/jharkhand/ranchi-city.webp",
+      "heroImage": "assets/images/states/jharkhand/ranchi-city.webp"
+    },
+    {
+      "name": "Patratu Dam",
+      "city": "Ramgarh",
+      "category": "nature",
+      "distance": "30 km from Ramgarh",
+      "rating": 4.6,
+      "description": "A massive, extremely scenic dam surrounded by lush green hills, best accessed via the thrilling Patratu Valley zig-zag hairpin roads.",
+      "history": "Built under the guidance of Sir Mokshagundam Visvesvaraya to supply water to the Ramgarh cantonment area.",
+      "famousFor": "Boating, Patratu Lake Resort, scenic drives.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "patratu-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/patratu-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Patratu Valley",
+          "city": "Ramgarh",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "patratu-valley",
+          "images": {
+            "main": "assets/images/popular/patratu-valley.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/patratu-valley.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "patratu-dam",
+      "image": "assets/images/states/jharkhand/patratu-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/patratu-dam.webp"
+    },
+    {
+      "name": "Jamshedpur City",
+      "city": "Jamshedpur",
+      "category": "cities",
+      "distance": "East Singhbhum",
+      "rating": 4.8,
+      "description": "The 'Steel City of India', it is one of the first planned industrial cities in the country, boasting incredibly clean, green, and well-maintained infrastructure.",
+      "history": "Founded by Jamsetji Tata in 1919. It remains heavily managed by Tata Steel.",
+      "famousFor": "Jubilee Park, Tata Steel, Dalma Wildlife Sanctuary.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jamshedpur-city",
+      "images": {
+        "main": "assets/images/states/jharkhand/jamshedpur-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jubilee Park",
+          "city": "Jamshedpur",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "jubilee-park",
+          "images": {
+            "main": "assets/images/popular/jubilee-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/jubilee-park.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "jamshedpur-city",
+      "image": "assets/images/states/jharkhand/jamshedpur-city.webp",
+      "heroImage": "assets/images/states/jharkhand/jamshedpur-city.webp"
+    },
+    {
+      "name": "Dhanbad City",
+      "city": "Dhanbad",
+      "category": "cities",
+      "distance": "Dhanbad District",
+      "rating": 4.1,
+      "description": "The 'Coal Capital of India', surrounded by vast coal mines and home to prestigious institutes like the Indian Institute of Technology (ISM).",
+      "history": "Dhanbad has historically driven the nation's coal economy since the British era.",
+      "famousFor": "Coal mines, IIT ISM, Maithon Dam nearby.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dhanbad-city",
+      "images": {
+        "main": "assets/images/states/jharkhand/dhanbad-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhatinda Falls",
+          "city": "Dhanbad",
+          "distance": "14 km away",
+          "category": "waterfalls",
+          "slug": "bhatinda-falls",
+          "images": {
+            "main": "assets/images/popular/bhatinda-falls.webp"
+          },
+          "image": "assets/images/states/jharkhand/bhatinda-falls.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "dhanbad-city",
+      "image": "assets/images/states/jharkhand/dhanbad-city.webp",
+      "heroImage": "assets/images/states/jharkhand/dhanbad-city.webp"
+    },
+    {
+      "name": "Bokaro Steel City",
+      "city": "Bokaro",
+      "category": "cities",
+      "distance": "Bokaro District",
+      "rating": 4.2,
+      "description": "A major industrial center and planned city, famous for the Bokaro Steel Plant, beautiful lakes, and the highly revered Ram Mandir.",
+      "history": "Developed in the 1960s with Soviet collaboration to house the massive steel plant workers.",
+      "famousFor": "Bokaro Steel Plant, City Park, Garga Dam.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bokaro-steel-city",
+      "images": {
+        "main": "assets/images/states/jharkhand/bokaro-steel-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jawaharlal Nehru Biological Park",
+          "city": "Bokaro",
+          "distance": "0 km away",
+          "category": "wildlife",
+          "slug": "jawaharlal-nehru-park",
+          "images": {
+            "main": "assets/images/popular/jawaharlal-nehru-park.webp"
+          }
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "bokaro-steel-city",
+      "image": "assets/images/states/jharkhand/bokaro-steel-city.webp",
+      "heroImage": "assets/images/states/jharkhand/bokaro-steel-city.webp"
+    },
+    {
+      "name": "Magnolia Point",
+      "city": "Netarhat",
+      "category": "nature",
+      "distance": "10 km from Netarhat",
+      "rating": 4.9,
+      "description": "The most famous sunset viewpoint in Netarhat, offering spectacular, unobstructed views of the sun dipping behind the dense Vindhya hills.",
+      "history": "Named after Magnolia, a British girl who reportedly leaped to her death here due to a tragic love affair with a local shepherd.",
+      "famousFor": "Stunning sunsets, tragic love story, panoramic valleys.",
+      "bestTime": "October to April",
+      "timings": "4:00 PM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "magnolia-point",
+      "images": {
+        "main": "assets/images/states/jharkhand/magnolia-point.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Netarhat",
+          "city": "Netarhat",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "netarhat",
+          "images": {
+            "main": "assets/images/popular/netarhat.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/netarhat.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "magnolia-point",
+      "image": "assets/images/states/jharkhand/magnolia-point.webp",
+      "heroImage": "assets/images/states/jharkhand/magnolia-point.webp"
+    },
+    {
+      "name": "Upper Ghaghri Waterfall",
+      "city": "Netarhat",
+      "category": "nature",
+      "distance": "4 km from Netarhat",
+      "rating": 4.5,
+      "description": "A small but incredibly serene waterfall hidden deep within dense pine forests, perfect for secluded picnics and nature walks.",
+      "history": "A hidden gem that was popularized by early British administrators seeking quiet retreats.",
+      "famousFor": "Secluded waterfall, pine forests, birdwatching.",
+      "bestTime": "July to October",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "upper-ghaghri",
+      "images": {
+        "main": "assets/images/states/jharkhand/upper-ghagri-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Netarhat",
+          "city": "Netarhat",
+          "distance": "4 km away",
+          "category": "cities",
+          "slug": "netarhat",
+          "images": {
+            "main": "assets/images/popular/netarhat.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/netarhat.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "upper-ghaghri",
+      "image": "assets/images/states/jharkhand/upper-ghagri-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/upper-ghagri-falls.webp"
+    },
+    {
+      "name": "Madhuban Village",
+      "city": "Giridih",
+      "category": "cities",
+      "distance": "Base of Parasnath Hill",
+      "rating": 4.6,
+      "description": "The essential base camp for the Shikharji pilgrimage, housing numerous ornate Jain temples and dharamshalas dating back hundreds of years.",
+      "history": "A deeply sacred settlement that supports the millions of Jain pilgrims attempting the holy trek.",
+      "famousFor": "Jain temples, Shikharji Base Camp, Bhomiyaji Asthan.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "madhuban-village",
+      "images": {
+        "main": "assets/images/states/jharkhand/madhuban-village-viewpoint.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "madhuban-village",
+      "heroImage": "assets/images/states/jharkhand/madhuban-village-viewpoint.webp"
+    },
+    {
+      "name": "Giridih Town",
+      "city": "Giridih",
+      "category": "cities",
+      "distance": "Giridih District",
+      "rating": 4,
+      "description": "Known as the 'Land of Hills', it is a major transit point featuring lush green surroundings, the Usri River, and historic Mica mines.",
+      "history": "Once a part of the Hazaribagh district, it became independent in 1972.",
+      "famousFor": "Khandoli Dam, Usri Falls, Mica industry.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "giridih-town",
+      "images": {
+        "main": "assets/images/states/jharkhand/giridih-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Usri Falls",
+          "city": "Giridih",
+          "distance": "13 km away",
+          "category": "nature",
+          "slug": "usri-falls",
+          "images": {
+            "main": "assets/images/popular/usri-falls.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/usri-falls.webp"
+        },
+        {
+          "name": "Khandoli Park",
+          "city": "Giridih",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "khandoli-park",
+          "images": {
+            "main": "assets/images/popular/khandoli-park.webp"
+          },
+          "image": "assets/images/states/jharkhand/khandoli-park.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "giridih-town",
+      "image": "assets/images/states/jharkhand/giridih-town.webp",
+      "heroImage": "assets/images/states/jharkhand/giridih-town.webp"
+    },
+    {
+      "name": "Panchet Dam",
+      "city": "Dhanbad",
+      "category": "nature",
+      "distance": "54 km from Dhanbad",
+      "rating": 4.5,
+      "description": "The largest dam of the Damodar Valley Corporation, built across the Damodar River. It creates a stunning reservoir perfect for picnics and boating.",
+      "history": "Inaugurated in 1959, it was a major step in controlling the devastating floods of the Damodar river.",
+      "famousFor": "Massive reservoir, Panchet Hill backdrop, boating.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "panchet-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/panchet-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Maithon Dam",
+          "city": "Dhanbad",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "maithon-dam",
+          "images": {
+            "main": "assets/images/popular/maithon-dam.webp"
+          },
+          "image": "assets/images/states/jharkhand/maithon-dam.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "panchet-dam",
+      "image": "assets/images/states/jharkhand/panchet-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/panchet-dam.webp"
+    },
+    {
+      "name": "Chatra Town",
+      "city": "Chatra",
+      "category": "cities",
+      "distance": "Chatra District",
+      "rating": 4.1,
+      "description": "The 'Gateway of Jharkhand', known for its intense forest cover, numerous hidden waterfalls, and ancient rock-cut cave temples.",
+      "history": "It holds great historical significance from the era of Emperor Ashoka and the 1857 mutiny.",
+      "famousFor": "Bhadrakali Temple, deep forests, waterfalls.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chatra-town",
+      "images": {
+        "main": "assets/images/states/jharkhand/chatra-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kuleshwari Temple",
+          "city": "Chatra",
+          "distance": "12 km away",
+          "category": "temples",
+          "slug": "kuleshwari-temple",
+          "images": {
+            "main": "assets/images/popular/kuleshwari-temple.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/kuleshwari-temple.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "chatra-town",
+      "image": "assets/images/states/jharkhand/chatra-town.webp",
+      "heroImage": "assets/images/states/jharkhand/chatra-town.webp"
+    },
+    {
+      "name": "Kauleshwari Temple (Kolhua Hill)",
+      "city": "Chatra",
+      "category": "temples",
+      "distance": "Kolhua Hill, Chatra",
+      "rating": 4.4,
+      "description": "An ancient, tri-religious site situated at a height of 1575 feet. It holds extreme significance for Hindus, Buddhists, and Jains alike.",
+      "history": "Believed to be the place where Lord Buddha meditated, and where the 10th Jain Tirthankar Sitalnath attained enlightenment.",
+      "famousFor": "Trekking, rock-cut statues, tri-religious heritage.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kuleshwari-temple",
+      "images": {
+        "main": "assets/images/states/jharkhand/kuleshwari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chatra",
+          "city": "Chatra",
+          "distance": "12 km away",
+          "category": "cities",
+          "slug": "chatra-town",
+          "images": {
+            "main": "assets/images/popular/chatra-town.webp"
+          },
+          "state": "Jharkhand"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "kuleshwari-temple",
+      "image": "assets/images/states/jharkhand/kuleshwari-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/kuleshwari-temple.webp"
+    },
+    {
+      "name": "Chaibasa",
+      "city": "West Singhbhum",
+      "category": "cities",
+      "distance": "West Singhbhum District",
+      "rating": 4.2,
+      "description": "A picturesque town located in the heart of the Ho tribal region, surrounded by thick Sal forests, iron ore mines, and serene lakes.",
+      "history": "Historically the headquarters of the Kolhan estate under the British.",
+      "famousFor": "Ho tribal culture, Rungta Gardens, Shahid Park.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chaibasa",
+      "images": {
+        "main": "assets/images/states/jharkhand/chaibasa.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "chaibasa",
+      "image": "assets/images/states/jharkhand/chaibasa.webp",
+      "heroImage": "assets/images/states/jharkhand/chaibasa.webp"
+    },
+    {
+      "name": "Meghahatuburu (Kiriburu)",
+      "city": "West Singhbhum",
+      "category": "nature",
+      "distance": "Saranda Forest",
+      "rating": 4.8,
+      "description": "Known as the 'Shimla of Jharkhand', these twin hills are often blanketed in thick clouds and surrounded by the massive, unbroken Saranda Sal forest.",
+      "history": "Famous for housing one of the largest iron ore mines in the world operated by SAIL.",
+      "famousFor": "Sunset viewpoints, Saranda forest, cloud cover.",
+      "bestTime": "July to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "meghahatuburu",
+      "images": {
+        "main": "assets/images/states/jharkhand/meghahatuburu-viewpoint.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kiriburu",
+          "city": "West Singhbhum",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "kiriburu",
+          "images": {
+            "main": "assets/images/popular/kiriburu.webp"
+          },
+          "image": "assets/images/states/jharkhand/kiriburu.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "meghahatuburu",
+      "heroImage": "assets/images/states/jharkhand/meghahatuburu-viewpoint.webp"
+    },
+    {
+      "name": "Koderma Wildlife Sanctuary",
+      "city": "Koderma",
+      "category": "wildlife",
+      "distance": "Near Tilaiya Dam",
+      "rating": 4.3,
+      "description": "A sprawling sanctuary covering 150 sq km of dry deciduous forests, home to sloth bears, tigers, leopards, and diverse bird species.",
+      "history": "Notified as a sanctuary to protect the rich wildlife surrounding the DVC catchment area.",
+      "famousFor": "Wildlife spotting, Mahodane Hill, birdwatching.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "koderma-wildlife",
+      "images": {
+        "main": "assets/images/states/jharkhand/koderma-wildlife.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tilaiya Dam",
+          "city": "Koderma",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "tilaiya-dam",
+          "images": {
+            "main": "assets/images/popular/tilaiya-dam.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/tilaiya-dam.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "koderma-wildlife",
+      "image": "assets/images/states/jharkhand/koderma-wildlife.webp",
+      "heroImage": "assets/images/states/jharkhand/koderma-wildlife.webp"
+    },
+    {
+      "name": "Sahibganj Town",
+      "city": "Sahibganj",
+      "category": "cities",
+      "distance": "Santhal Pargana",
+      "rating": 4.1,
+      "description": "A highly scenic, historic town situated entirely along the massive Ganges River, backed by the Rajmahal Hills.",
+      "history": "An ancient trade hub. Nearby Rajmahal was once the capital of Bengal during the Mughal era under Man Singh.",
+      "famousFor": "Ganges riverfront, Rajmahal Hills, fossil parks.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sahibganj-town",
+      "images": {
+        "main": "assets/images/states/jharkhand/sahibganj-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Moti Jharna",
+          "city": "Sahibganj",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "moti-jharna",
+          "images": {
+            "main": "assets/images/popular/moti-jharna.webp"
+          },
+          "image": "assets/images/states/jharkhand/moti-jharna.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "sahibganj-town",
+      "image": "assets/images/states/jharkhand/sahibganj-town.webp",
+      "heroImage": "assets/images/states/jharkhand/sahibganj-town.webp"
+    },
+    {
+      "name": "Chatti River",
+      "city": "Latehar",
+      "category": "nature",
+      "distance": "Near Betla",
+      "rating": 4.2,
+      "description": "A small, serene river flowing through the dense Palamu forests, offering quiet spots for nature observation and wildlife drinking spots.",
+      "history": "Forms an important part of the ecosystem supporting the Betla National Park.",
+      "famousFor": "Wildlife spotting, peaceful forest environment.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "chatti-river",
+      "images": {
+        "main": "assets/images/states/jharkhand/chatti-river.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Betla National Park",
+          "city": "Latehar",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "betla-national-park",
+          "images": {
+            "main": "assets/images/popular/betla-national-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/betla-national-park.webp"
+        },
+        {
+          "name": "McCluskieganj",
+          "city": "Ranchi",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "mccluskieganj",
+          "images": {
+            "main": "assets/images/popular/mccluskieganj.webp"
+          },
+          "image": "assets/images/states/jharkhand/mccluskieganj.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "chatti-river",
+      "image": "assets/images/states/jharkhand/chatti-river.webp",
+      "heroImage": "assets/images/states/jharkhand/chatti-river.webp"
+    },
+    {
+      "name": "Gumla Town",
+      "city": "Gumla",
+      "category": "cities",
+      "distance": "Gumla District",
+      "rating": 4,
+      "description": "A quiet tribal town surrounded by rugged hills, dense forests, and numerous majestic waterfalls, making it an offbeat nature paradise.",
+      "history": "Gained prominence for the ancient Tanginath Temple, which houses a mystical, rust-free iron trident.",
+      "famousFor": "Tanginath Temple, Anjan Dham, tribal culture.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gumla-town",
+      "images": {
+        "main": "assets/images/states/jharkhand/gumla-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "gumla-town",
+      "image": "assets/images/states/jharkhand/gumla-town.webp",
+      "heroImage": "assets/images/states/jharkhand/gumla-town.webp"
+    },
+    {
+      "name": "Burudi Lake",
+      "city": "Ghatshila",
+      "category": "nature",
+      "distance": "7 km from Ghatshila",
+      "rating": 4.6,
+      "description": "A stunning, pristine artificial lake nestled between dense Sal forests and green hillocks, built during the British era.",
+      "history": "Constructed under the British administration to support local agriculture and water needs.",
+      "famousFor": "Boating, hill views, Binda Mela festival.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "burudi-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/burudi-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ghatshila",
+          "city": "East Singhbhum",
+          "distance": "7 km away",
+          "category": "cities",
+          "slug": "ghatshila",
+          "images": {
+            "main": "assets/images/popular/ghatshila.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/ghatshila.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "burudi-lake",
+      "image": "assets/images/states/jharkhand/burudi-lake.webp",
+      "heroImage": "assets/images/states/jharkhand/burudi-lake.webp"
+    },
+    {
+      "name": "Ramgarh Cantonment",
+      "city": "Ramgarh",
+      "category": "cities",
+      "distance": "Ramgarh District",
+      "rating": 4.1,
+      "description": "A well-maintained military cantonment town known for its discipline, clean streets, and extreme historical significance.",
+      "history": "Hosted the 53rd session of the Indian National Congress in 1940, presided by Maulana Abul Kalam Azad.",
+      "famousFor": "Military base, Rajrappa Temple nearby, clean environment.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ramgarh-cantonment",
+      "images": {
+        "main": "assets/images/states/jharkhand/ramgarh-cantonment.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "ramgarh-cantonment",
+      "image": "assets/images/states/jharkhand/ramgarh-cantonment.webp",
+      "heroImage": "assets/images/states/jharkhand/ramgarh-cantonment.webp"
+    },
+    {
+      "name": "Canary Hill",
+      "city": "Hazaribagh",
+      "category": "nature",
+      "distance": "3 km from Hazaribagh",
+      "rating": 4.4,
+      "description": "A dense, forested hill offering a panoramic aerial view of Hazaribagh town. It features three small lakes and an observation tower at the summit.",
+      "history": "A popular local retreat developed heavily during the British era for its commanding views.",
+      "famousFor": "City views, observation tower, short treks.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "canary-hill",
+      "images": {
+        "main": "assets/images/states/jharkhand/canary-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hazaribagh National Park",
+          "city": "Hazaribagh",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "hazaribagh-national-park",
+          "images": {
+            "main": "assets/images/popular/hazaribagh-national-park.webp"
+          },
+          "state": "Jharkhand",
+          "image": "assets/images/states/jharkhand/hazaribagh-national-park.webp"
+        },
+        {
+          "name": "Hazaribagh Lake",
+          "city": "Hazaribagh",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "hazaribagh-lake",
+          "images": {
+            "main": "assets/images/popular/hazaribagh-lake.webp"
+          },
+          "image": "assets/images/states/jharkhand/hazaribagh-lake.webp"
+        }
+      ],
+      "state": "Jharkhand",
+      "id": "canary-hill",
+      "image": "assets/images/states/jharkhand/canary-hill.webp",
+      "heroImage": "assets/images/states/jharkhand/canary-hill.webp"
+    },
+    {
+      "name": "Dumka Town",
+      "city": "Dumka",
+      "category": "cities",
+      "distance": "Santhal Pargana Sub-capital",
+      "rating": 4.2,
+      "description": "The sub-capital of Jharkhand, Dumka is an ancient tribal city famous for the massive Baba Basukinath Dham and the scenic Massanjore Dam.",
+      "history": "A historically significant region that witnessed the brutal Santhal Rebellion against the British in 1855.",
+      "famousFor": "Basukinath Temple, Massanjore Dam, Hijla Mela.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dumka-town",
+      "images": {
+        "main": "assets/images/states/jharkhand/dumka-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "dumka-town",
+      "image": "assets/images/states/jharkhand/dumka-town.webp",
+      "heroImage": "assets/images/states/jharkhand/dumka-town.webp"
+    },
+    {
+      "name": "Navratan Garh",
+      "city": "Gumla",
+      "category": "heritage",
+      "distance": "30 km from Gumla",
+      "rating": 4.6,
+      "description": "An ancient fort ruin dating back to the Nagvanshi dynasty, featuring unique multi-story brick architecture and historical significance.",
+      "history": "Seat of the Nagvanshi kings in the 17th century.",
+      "famousFor": "Ancient fort ruins, historical architecture.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "navratan-garh",
+      "images": {
+        "main": "assets/images/states/jharkhand/navratan-garh.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "navratan-garh",
+      "image": "assets/images/states/jharkhand/navratan-garh.webp",
+      "heroImage": "assets/images/states/jharkhand/navratan-garh.webp"
+    },
+    {
+      "name": "Panch Gagh Falls",
+      "city": "Khunti",
+      "category": "waterfalls",
+      "distance": "50 km from Ranchi",
+      "rating": 4.5,
+      "description": "A spectacular waterfall consisting of five distinct cascading streams, creating a beautiful and safe picnic spot.",
+      "history": "A natural wonder created by the breaking of the Banai river into five streams.",
+      "famousFor": "Five cascading falls, safe bathing areas.",
+      "bestTime": "Monsoon to Winter",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "panch-gagh-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/panch-garh-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "panch-gagh-falls",
+      "image": "assets/images/states/jharkhand/panch-garh-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/panch-garh-falls.webp"
+    },
+    {
+      "name": "Lower Ghaghri Falls",
+      "city": "Netarhat",
+      "category": "waterfalls",
+      "distance": "10 km from Netarhat",
+      "rating": 4.4,
+      "description": "A mesmerizing waterfall surrounded by dense forest, plunging from a height of 320 feet.",
+      "history": "Deeply hidden in the forests of Netarhat, it has remained largely pristine.",
+      "famousFor": "High plunge waterfall, dense forest trek.",
+      "bestTime": "July to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "lower-ghaghri-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/lower-ghaghri-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "lower-ghaghri-falls",
+      "image": "assets/images/states/jharkhand/lower-ghaghri-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/lower-ghaghri-falls.webp"
+    },
+    {
+      "name": "Sadni Falls",
+      "city": "Gumla",
+      "category": "waterfalls",
+      "distance": "Gumla District",
+      "rating": 4.3,
+      "description": "A beautiful snake-like waterfall dropping 200 feet, popular for picnics and natural scenery.",
+      "history": "Formed by the Sankh River cutting through the rocky terrain.",
+      "famousFor": "Snake-like cascade, Sankh river.",
+      "bestTime": "August to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sadni-falls",
+      "images": {
+        "main": "assets/images/states/jharkhand/sadni-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "sadni-falls",
+      "image": "assets/images/states/jharkhand/sadni-falls.webp",
+      "heroImage": "assets/images/states/jharkhand/sadni-falls.webp"
+    },
+    {
+      "name": "Kelaghagh Dam",
+      "city": "Simdega",
+      "category": "nature",
+      "distance": "Simdega District",
+      "rating": 4.2,
+      "description": "A peaceful dam surrounded by hills, offering boating and parasailing activities.",
+      "history": "Constructed on the Chhinda river to support local irrigation and tourism.",
+      "famousFor": "Boating, water sports, scenic beauty.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kelaghagh-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/kelaghagh-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "kelaghagh-dam",
+      "image": "assets/images/states/jharkhand/kelaghagh-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/kelaghagh-dam.webp"
+    },
+    {
+      "name": "Chandil Dam",
+      "city": "Seraikela Kharsawan",
+      "category": "nature",
+      "distance": "22 km from Jamshedpur",
+      "rating": 4.5,
+      "description": "A large dam on the Subarnarekha river, extremely popular for its scenic beauty, boating, and a nearby museum.",
+      "history": "Built as part of the Subarnarekha Multipurpose Project.",
+      "famousFor": "Boating, Sheesh Mahal auditorium, scenic hills.",
+      "bestTime": "August to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "chandil-dam",
+      "images": {
+        "main": "assets/images/states/jharkhand/chandil-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "chandil-dam",
+      "image": "assets/images/states/jharkhand/chandil-dam.webp",
+      "heroImage": "assets/images/states/jharkhand/chandil-dam.webp"
+    },
+    {
+      "name": "Hudru Lake Region",
+      "city": "Ranchi",
+      "category": "nature",
+      "distance": "Near Ranchi",
+      "rating": 4.1,
+      "description": "A pristine lake area known for migratory birds and tranquil environment.",
+      "history": "A natural wetland area preserving local biodiversity.",
+      "famousFor": "Bird watching, nature walks.",
+      "bestTime": "Winter",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "hudru-lake",
+      "images": {
+        "main": "assets/images/states/jharkhand/hudru-lake-region.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "hudru-lake",
+      "image": "assets/images/states/jharkhand/hudru-lake-region.webp",
+      "heroImage": "assets/images/states/jharkhand/hudru-lake-region.webp"
+    },
+    {
+      "name": "Surya Mandir",
+      "city": "Ranchi",
+      "category": "temples",
+      "distance": "39 km from Ranchi",
+      "rating": 4.7,
+      "description": "A modern architectural marvel designed in the shape of a massive chariot with 18 wheels, drawn by seven life-sized white horses.",
+      "history": "Built by a local charitable trust, it has become a major center for Chhath Puja celebrations.",
+      "famousFor": "Chariot architecture, Chhath Puja.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "surya-mandir-ranchi",
+      "images": {
+        "main": "assets/images/states/jharkhand/surya-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Jharkhand",
+      "id": "surya-mandir-ranchi",
+      "image": "assets/images/states/jharkhand/surya-temple.webp",
+      "heroImage": "assets/images/states/jharkhand/surya-temple.webp"
+    },
+    {
+      "id": "hazaribagh-national-park",
+      "name": "Hazaribagh National Park",
+      "city": "Hazaribagh",
+      "image": "assets/images/states/jharkhand/hazaribagh-national-park.webp",
+      "rating": 4.3,
+      "category": "wildlife",
+      "description": "Hazaribagh National Park is one of the oldest wildlife sanctuaries in India, spread across 184 sq km of dense sal forests, grasslands, and rocky terrain in the Chota Nagpur Plateau. Home to leopards, sambars, nilgai, wild boar, and a rich variety of birdlife, the park offers a pristine wilderness experience away from the crowds.",
+      "history": "Established in 1954, it was one of the first national parks in the newly independent India. The park has historically been part of the Hazaribagh region's forested landscape that once harbored tigers before their local decline.",
+      "famousFor": "Leopard sightings, dense sal forests, Canary Hill viewpoint, and diverse birdlife.",
+      "bestTime": "February to April",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹50 (Indians), ₹200 (Foreigners)",
+      "slug": "hazaribagh-national-park",
+      "images": {
+        "main": "assets/images/states/jharkhand/hazaribagh-national-park.webp"
+      },
+      "state": "Jharkhand",
+      "heroImage": "assets/images/states/jharkhand/hazaribagh-national-park.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/jharkhand/banner.webp"
+}

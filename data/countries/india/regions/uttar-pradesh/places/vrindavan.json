@@ -1,0 +1,63 @@
+{
+  "id": "vrindavan",
+  "slug": "vrindavan",
+  "name": "Vrindavan",
+  "location": "Uttar Pradesh, India",
+  "district": "Mathura",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "The sacred town where Lord Krishna spent his childhood, featuring over 5,500 temples. The town is alive with devotional music, colorful festivals, and the internationally famous ISKCON temple and Prem Mandir.",
+  "description": "Believed to be the forest where young Krishna played with the Gopis. The town was rediscovered by Chaitanya Mahaprabhu in the 16th century.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "March (Holi) or October to March",
+  "timings": "Unknown",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "mathura-krishna-janmabhoomi",
+    "govardhan-hill",
+    "barsana",
+    "banke-bihari-temple",
+    "prem-mandir-vrindavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Vrindavan.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Vrindavan.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Vrindavan.webp"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "rani-ki-vav",
+  "slug": "rani-ki-vav",
+  "name": "Rani ki Vav",
+  "location": "Gujarat, India",
+  "district": "Patan",
+  "stateId": "gujarat",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/rani-ki-vav.webp",
+  "heroImage": "./assets/images/popular/rani-ki-vav.webp",
+  "gallery": [
+    "./assets/images/popular/rani-ki-vav.webp"
+  ],
+  "overview": "Experience the beauty of Rani ki Vav, a top destination in Gujarat, India.",
+  "description": "An 11th-century stepwell built by Queen Udayamati in memory of King Bhimdev I, now a UNESCO World Heritage Site.",
+  "rating": "4.6",
+  "reviewCount": 12899,
+  "popularityScore": 39,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Ahmedabad / Rajkot / Vadodara Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Patan Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "1 km from Patan city center"
+  },
+  "tags": [
+    "heritage",
+    "gujarat",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3371
+    },
+    {
+      "views": 5465
+    }
+  ],
+  "nearbyPlaces": [
+    "statue-of-unity",
+    "somnath-temple",
+    "sun-temple-modhera"
+  ]
+}

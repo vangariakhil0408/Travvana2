@@ -1,0 +1,27 @@
+{
+  "id": "havelock-island-diving",
+  "name": "Havelock Scuba Diving Sites",
+  "city": "Swaraj Dweep",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Internationally acclaimed PADI-certified dive sites including 'The Wall', 'Dixon's Pinnacle', and 'Johnny's Gorge' with abundant marine life including manta rays, sea turtles, and reef sharks.",
+  "history": "Scuba diving was introduced here in the 1990s; today Havelock is South Asia's top recreational diving destination.",
+  "famousFor": "World-class scuba diving, manta rays, barracuda schools.",
+  "bestTime": "October to May",
+  "timings": "7:00 AM \u2013 4:00 PM",
+  "entryFee": "\u20b93,500 - \u20b95,500 (varies by operator)",
+  "image": "./assets/images/states/andaman-and-nicobar.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar.webp"
+  ],
+  "nearbyPlaces": [
+    "vijaynagar-beach",
+    "kalapathar-beach",
+    "radhanagar-beach",
+    "elephant-beach",
+    "natural-bridge",
+    "sitapur-beach",
+    "bharatpur-beach",
+    "laxmanpur-beach"
+  ]
+}

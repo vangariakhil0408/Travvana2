@@ -1,0 +1,2862 @@
+{
+  "state": "Himachal Pradesh",
+  "slug": "himachal-pradesh",
+  "capital": "Shimla (Summer), Dharamshala (Winter)",
+  "bestTime": "March to June (Summer), October to February (Snow)",
+  "language": "Hindi, Pahari, English",
+  "places": [
+    {
+      "name": "Rohtang Pass",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "51 km from Manali",
+      "rating": 4.8,
+      "description": "A high mountain pass on the eastern Pir Panjal Range connecting the Kullu Valley with the Lahaul and Spiti Valleys. Famous for breathtaking views and year-round snow.",
+      "history": "Historically an ancient trade route between the people on either side of the Pir Panjal. Its name literally translates to 'pile of corpses' due to people dying in bad weather trying to cross it.",
+      "famousFor": "Snow activities, scenic drives, Himalayan views.",
+      "bestTime": "May to October (Closed in winter)",
+      "timings": "Unknown",
+      "entryFee": "₹500 (Permit Fee) + Congestion Charges",
+      "slug": "rohtang-pass",
+      "images": {
+        "main": "assets/images/popular/rohtang-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhrigu Lake",
+          "city": "Manali",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "bhrigu-lake",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/bhrigu-lake.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "rohtang-pass",
+      "image": "assets/images/popular/rohtang-pass.webp",
+      "heroImage": "assets/images/popular/rohtang-pass.webp"
+    },
+    {
+      "name": "Solang Valley",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "14 km from Manali",
+      "rating": 4.7,
+      "description": "A picturesque valley known as the adventure capital of Himachal. It offers stunning glacier views and is a hub for skiing, paragliding, zorbing, and cable car rides.",
+      "history": "Named after a nearby village (Solang) and the adjacent stream (Nallah).",
+      "famousFor": "Adventure sports, winter skiing, ropeway.",
+      "bestTime": "December to February (Skiing), March to June (Adventure)",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free (Activities extra)",
+      "slug": "solang-valley",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/solang-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hadimba Devi Temple",
+          "city": "Manali",
+          "distance": "12 km away",
+          "category": "temples",
+          "slug": "hadimba-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hadimba-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Manali Town",
+          "city": "Manali",
+          "distance": "14 km away",
+          "category": "cities",
+          "slug": "manali-town",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/manali-town.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "solang-valley",
+      "image": "assets/images/states/himachal-pradesh/solang-valley.webp",
+      "heroImage": "assets/images/states/himachal-pradesh/solang-valley.webp"
+    },
+    {
+      "name": "Hadimba Devi Temple",
+      "city": "Manali",
+      "category": "temples",
+      "distance": "Manali Town",
+      "rating": 4.6,
+      "description": "An ancient, beautifully carved wooden cave temple dedicated to Hidimbi Devi, surrounded by a dense, tranquil cedar forest (Dhungiri Van Vihar).",
+      "history": "Built in 1553 by Maharaja Bahadur Singh. Hidimbi was the wife of Bhima, one of the Pandava brothers from the Mahabharata.",
+      "famousFor": "Pagoda-style wooden architecture, cedar forests.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hadimba-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/hadimba-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Old Manali",
+          "city": "Manali",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "old-manali",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/old-manali.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Solang Valley",
+          "city": "Manali",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "solang-valley",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/solang-valley.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Vashisht Village & Hot Springs",
+          "city": "Manali",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "vashisht-hot-springs",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/vashisht-hot-springs.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "hadimba-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/hadimba-temple.webp"
+    },
+    {
+      "name": "The Ridge",
+      "city": "Shimla",
+      "category": "cities",
+      "distance": "City Center",
+      "rating": 4.7,
+      "description": "A large, open pedestrian plaza in the heart of Shimla offering panoramic views of the snow-capped Himalayan ranges. It is the hub of all cultural activities in the city.",
+      "history": "Underneath the Ridge lies a massive water reservoir built in the 1880s to supply water to the town.",
+      "famousFor": "Christ Church, panoramic views, summer festival.",
+      "bestTime": "October to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "the-ridge-shimla",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mall Road",
+          "city": "Shimla",
+          "distance": "0.1 km away",
+          "category": "cities",
+          "slug": "mall-road-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/mall-road-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Jakhoo Temple",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "jakhoo-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jakhoo-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Kufri",
+          "city": "Shimla",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "kufri",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kufri.webp"
+          }
+        },
+        {
+          "name": "Christ Church",
+          "city": "Shimla",
+          "distance": "0.1 km away",
+          "category": "heritage",
+          "slug": "christ-church-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/christ-church-shimla.webp"
+          }
+        },
+        {
+          "name": "Viceregal Lodge (Indian Institute of Advanced Study)",
+          "city": "Shimla",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "viceregal-lodge",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/viceregal-lodge.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "the-ridge-shimla",
+      "heroImage": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+    },
+    {
+      "name": "Jakhoo Temple",
+      "city": "Shimla",
+      "category": "temples",
+      "distance": "Jakhoo Hill",
+      "rating": 4.5,
+      "description": "An ancient temple dedicated to the monkey god Hanuman, located on Shimla's highest peak. It features a massive 108-foot-tall idol of Lord Hanuman visible from across the city.",
+      "history": "Legend says Lord Hanuman rested on this hill while searching for the Sanjeevani herb to revive Lakshmana.",
+      "famousFor": "Giant Hanuman statue, monkeys, panoramic views of Shimla.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free (Ropeway extra)",
+      "slug": "jakhoo-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/jakhoo-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "The Ridge",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "the-ridge-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Viceregal Lodge",
+          "city": "Shimla",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "viceregal-lodge",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/viceregal-lodge.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Christ Church",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "christ-church-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/christ-church-shimla.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "jakhoo-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/jakhoo-temple.webp"
+    },
+    {
+      "name": "Khajjiar",
+      "city": "Dalhousie",
+      "category": "nature",
+      "distance": "24 km from Dalhousie",
+      "rating": 4.8,
+      "description": "Often dubbed the 'Mini Switzerland of India', it is a stunning grassy meadow surrounded by dense cedar forests, featuring a small central lake.",
+      "history": "Officially designated as a 'Mini Switzerland' in 1992 by Willy T. Blazer, Vice Counselor and Head of Chancery of Switzerland.",
+      "famousFor": "Meadows, horse riding, paragliding.",
+      "bestTime": "March to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "khajjiar",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/khajjiar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalatop Sanctuary",
+          "city": "Dalhousie",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "kalatop-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kalatop-wildlife-sanctuary.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Dainkund Peak",
+          "city": "Dalhousie",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "dainkund-peak",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dainkund-peak.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "khajjiar",
+      "image": "assets/images/states/himachal-pradesh/khajjiar.webp",
+      "heroImage": "assets/images/states/himachal-pradesh/khajjiar.webp"
+    },
+    {
+      "name": "Tsuglagkhang Complex (Dalai Lama Temple)",
+      "city": "McLeod Ganj",
+      "category": "temples",
+      "distance": "McLeod Ganj Town",
+      "rating": 4.7,
+      "description": "The official residence of the 14th Dalai Lama and the largest Tibetan temple outside Tibet. It offers immense spiritual peace, beautiful Buddha statues, and chanting monks.",
+      "history": "Established after the Dalai Lama fled Tibet and sought refuge in India in 1959.",
+      "famousFor": "Tibetan Buddhism, prayer wheels, spiritual serenity.",
+      "bestTime": "September to June",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "dalai-lama-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dalai-lama-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhagsunag Waterfall",
+          "city": "McLeod Ganj",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "bhagsunag-waterfall",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/bhagsunag-waterfall.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Triund Hill",
+          "city": "McLeod Ganj",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "triund-trek",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/triund-trek.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "McLeod Ganj",
+          "city": "McLeod Ganj",
+          "distance": "1 km away",
+          "category": "cities",
+          "slug": "mcleod-ganj",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/mcleod-ganj.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dalai-lama-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/dalai-lama-temple.webp"
+    },
+    {
+      "name": "Triund Hill",
+      "city": "McLeod Ganj",
+      "category": "nature",
+      "distance": "Dhauladhar Range",
+      "rating": 4.8,
+      "description": "One of the most popular and scenic short treks in India. It offers sweeping, majestic views of the snow-clad Dhauladhar mountains on one side and the Kangra valley on the other.",
+      "history": "A traditional grazing ground for the Gaddi shepherds, now famous for camping and stargazing.",
+      "famousFor": "Trekking, camping, panoramic mountain views.",
+      "bestTime": "March to May, September to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Camping extra)",
+      "slug": "triund-trek",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/triund-trek.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dalai Lama Temple",
+          "city": "McLeod Ganj",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "dalai-lama-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dalai-lama-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Bhagsunag Waterfall",
+          "city": "McLeod Ganj",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "bhagsunag-waterfall",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/bhagsunag-waterfall.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "triund-trek",
+      "heroImage": "assets/images/states/himachal-pradesh/triund-trek.webp"
+    },
+    {
+      "name": "Key Monastery",
+      "city": "Spiti Valley",
+      "category": "heritage",
+      "distance": "Near Kaza",
+      "rating": 4.9,
+      "description": "A magnificent, 1,000-year-old Tibetan Buddhist monastery spectacularly perched on top of a hill at an altitude of 4,166 meters, overlooking the Spiti River.",
+      "history": "Founded in the 11th century by Dromtön. It has survived multiple attacks by Mongols and devastating earthquakes.",
+      "famousFor": "Ancient thangkas, high-altitude architecture, spiritual retreats.",
+      "bestTime": "May to October",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "key-monastery",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/key-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kibber Village",
+          "city": "Spiti Valley",
+          "distance": "6 km away",
+          "category": "cities",
+          "slug": "kibber-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kibber-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Kaza Town",
+          "city": "Spiti Valley",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "kaza-town",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kaza-town.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "key-monastery",
+      "heroImage": "assets/images/states/himachal-pradesh/key-monastery.webp"
+    },
+    {
+      "name": "Chandra Taal (Moon Lake)",
+      "city": "Spiti Valley",
+      "category": "nature",
+      "distance": "Lahaul & Spiti District",
+      "rating": 4.9,
+      "description": "A breathtakingly beautiful, crescent-shaped high-altitude lake situated at 4,300 meters. The deep blue waters reflect the surrounding barren, snow-capped mountains perfectly.",
+      "history": "According to Hindu mythology, it is the spot from where the god Indra's chariot picked up Yudhishthira, the eldest Pandava.",
+      "famousFor": "Pristine blue waters, high-altitude camping, Milky Way photography.",
+      "bestTime": "June to September",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chandratal-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chandratal-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kunzum Pass",
+          "city": "Spiti Valley",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "kunzum-pass",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kunzum-pass.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "chandratal-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/chandratal-lake.webp"
+    },
+    {
+      "name": "Kasol",
+      "city": "Parvati Valley",
+      "category": "cities",
+      "distance": "Kullu District",
+      "rating": 4.4,
+      "description": "A scenic hamlet situated on the banks of the Parvati River, often called the 'Amsterdam of India'. It is a haven for backpackers, trekkers, and nature lovers.",
+      "history": "Grew from a quiet village into a major hub for Israeli tourists and backpackers seeking peace and adventure in the Himalayas.",
+      "famousFor": "Israeli cafes, Parvati river, gateway to Kheerganga.",
+      "bestTime": "October to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kasol",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kasol.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manikaran Sahib",
+          "city": "Parvati Valley",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "manikaran-sahib",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/manikaran-sahib.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kasol",
+      "heroImage": "assets/images/states/himachal-pradesh/kasol.webp"
+    },
+    {
+      "name": "Gurudwara Manikaran Sahib",
+      "city": "Parvati Valley",
+      "category": "temples",
+      "distance": "Near Kasol",
+      "rating": 4.6,
+      "description": "A highly revered pilgrimage center for both Sikhs and Hindus, located on the roaring Parvati River. It is famous for its natural, boiling-hot sulfur springs.",
+      "history": "Guru Nanak Dev Ji is believed to have visited this place. The hot springs are said to be created by Lord Shiva's anger.",
+      "famousFor": "Natural hot springs, Langar cooked in thermal water, spiritual peace.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "manikaran-sahib",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/manikaran-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kasol",
+          "city": "Parvati Valley",
+          "distance": "4 km away",
+          "category": "cities",
+          "slug": "kasol",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kasol.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "manikaran-sahib",
+      "heroImage": "assets/images/states/himachal-pradesh/manikaran-sahib.webp"
+    },
+    {
+      "name": "Chitkul Village",
+      "city": "Kinnaur",
+      "category": "cities",
+      "distance": "Baspa Valley",
+      "rating": 4.8,
+      "description": "The last inhabited village near the Indo-China border. It offers unparalleled, raw beauty with the pristine Baspa river flowing amidst towering snow-capped mountains and wooden houses.",
+      "history": "Known for the Mathi Goddess Temple, which is highly revered by the local Kinnauri people.",
+      "famousFor": "Last village of India, Baspa river valley, wooden architecture.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chitkul",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chitkul.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "chitkul",
+      "heroImage": "assets/images/states/himachal-pradesh/chitkul.webp"
+    },
+    {
+      "name": "Bir Billing",
+      "city": "Kangra",
+      "category": "nature",
+      "distance": "Kangra Valley",
+      "rating": 4.8,
+      "description": "The paragliding capital of India and the second-highest paragliding site in the world. It offers thrilling tandem flights and a deeply peaceful Tibetan settlement.",
+      "history": "Billing is the takeoff site (2400m) and Bir is the landing site (1400m). It hosted the Paragliding World Cup in 2015.",
+      "famousFor": "Paragliding, Tibetan monasteries, cafe culture.",
+      "bestTime": "March to June, September to November",
+      "timings": "9:00 AM – 5:00 PM (Flying)",
+      "entryFee": "Activities extra (₹2500 - ₹3500)",
+      "slug": "bir-billing",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/bir-billing.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chokling Monastery",
+          "city": "Bir",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "chokling-monastery",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/choling-monastery.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Baijnath Temple",
+          "city": "Kangra",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "baijnath-temple-himachal-pradesh",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "bir-billing",
+      "heroImage": "assets/images/states/himachal-pradesh/bir-billing.webp"
+    },
+    {
+      "name": "Prashar Lake",
+      "city": "Mandi",
+      "category": "nature",
+      "distance": "49 km from Mandi",
+      "rating": 4.7,
+      "description": "A crystal-clear water body situated at an altitude of 2,730 meters, featuring a floating circular island and a three-storied pagoda-style temple dedicated to the sage Prashar.",
+      "history": "Believed to be the meditation site of the sage Prashar. The temple was built in the 13th century by King Ban Sen of Mandi.",
+      "famousFor": "Floating island, 360-degree Himalayan views, trekking.",
+      "bestTime": "December to February (Snow), April to July",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "prashar-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/prashar-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "prashar-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/prashar-lake.webp"
+    },
+    {
+      "name": "Kalpa",
+      "city": "Kinnaur",
+      "category": "cities",
+      "distance": "Kinnaur District",
+      "rating": 4.8,
+      "description": "A stunningly beautiful village renowned for its apple orchards and jaw-dropping, close-up views of the sacred Kinner Kailash mountain range.",
+      "history": "Historically the headquarters of the Kinnaur district before it was moved to Reckong Peo. It was a favorite summer retreat for Lord Dalhousie.",
+      "famousFor": "Kinner Kailash views, apple orchards, suicide point.",
+      "bestTime": "April to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kalpa",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kalpa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Reckong Peo",
+          "city": "Kinnaur",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "reckong-peo",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/reckong-peo.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kalpa",
+      "heroImage": "assets/images/states/himachal-pradesh/kalpa.webp"
+    },
+    {
+      "name": "Great Himalayan National Park",
+      "city": "Kullu",
+      "category": "wildlife",
+      "distance": "Tirthan Valley",
+      "rating": 4.6,
+      "description": "A UNESCO World Heritage Site boasting incredibly diverse alpine flora and fauna, including the elusive Snow Leopard, Himalayan Brown Bear, and Blue Sheep.",
+      "history": "Established in 1984, it covers an area of 1,171 sq km and protects the pristine catchments of the Jiwa, Sainj, Tirthan, and Parvati rivers.",
+      "famousFor": "UNESCO status, alpine treks, wildlife spotting.",
+      "bestTime": "March to June, mid-September to November",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹50 (Indians), ₹200 (Foreigners)",
+      "slug": "great-himalayan-national-park",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/great-himalayan-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirthan Valley",
+          "city": "Kullu",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "tirthan-valley",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/tirthan-valley.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "great-himalayan-national-park",
+      "heroImage": "assets/images/states/himachal-pradesh/great-himalayan-national-park.webp"
+    },
+    {
+      "name": "HPCA Cricket Stadium",
+      "city": "Dharamshala",
+      "category": "heritage",
+      "distance": "Kangra District",
+      "rating": 4.5,
+      "description": "Widely considered one of the most beautiful and picturesque cricket stadiums in the world, sitting against the dramatic backdrop of the snow-capped Dhauladhar range.",
+      "history": "Established in 2003. Its unique Tibetan-style architecture makes it stand out among all international sporting venues.",
+      "famousFor": "Scenic cricket matches, Himalayan backdrop.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM (When no matches)",
+      "entryFee": "₹20",
+      "slug": "dharamshala-stadium",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dharamshala-stadium.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "McLeod Ganj",
+          "city": "McLeod Ganj",
+          "distance": "7 km away",
+          "category": "cities",
+          "slug": "mcleod-ganj",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/mcleod-ganj.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Norbulingka Institute",
+          "city": "Dharamshala",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "norbulingka-institute",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/norbulingka-institute.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dharamshala-stadium",
+      "heroImage": "assets/images/states/himachal-pradesh/dharamshala-stadium.webp"
+    },
+    {
+      "name": "Kheerganga Trek",
+      "city": "Parvati Valley",
+      "category": "nature",
+      "distance": "Starts from Barshaini",
+      "rating": 4.7,
+      "description": "A thrilling and highly rewarding trek through dense pine forests and gushing waterfalls, culminating in natural hot sulfur springs at the top where trekkers can bathe.",
+      "history": "According to myth, Lord Shiva's son Kartikeya meditated here for thousands of years, and Shiva created a stream of 'kheer' (rice pudding) which turned into hot water.",
+      "famousFor": "Trekking, natural hot springs at the summit.",
+      "bestTime": "May to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Camping extra)",
+      "slug": "kheerganga-trek",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kheerganga-trek.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tosh Village",
+          "city": "Parvati Valley",
+          "distance": "5 km from Barshaini",
+          "category": "cities",
+          "slug": "tosh-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/tosh-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kheerganga-trek",
+      "heroImage": "assets/images/states/himachal-pradesh/kheerganga-trek.webp"
+    },
+    {
+      "name": "Nako Lake",
+      "city": "Kinnaur",
+      "category": "nature",
+      "distance": "Hangrang Valley",
+      "rating": 4.6,
+      "description": "A high-altitude, deeply serene lake located at 3,662 meters, bordered by willow and poplar trees, with the ancient Nako village and its monastery nestled on its banks.",
+      "history": "It is considered highly sacred by Tibetan Buddhists. Legend says Padmasambhava (Guru Rinpoche) meditated here and left his footprints on a rock.",
+      "famousFor": "Pristine lake, ancient monastery, high-altitude desert landscape.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nako-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/nako-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "nako-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/nako-lake.webp"
+    },
+    {
+      "name": "Kufri",
+      "city": "Shimla",
+      "category": "nature",
+      "distance": "15 km from Shimla",
+      "rating": 4.5,
+      "description": "A quaint hill station known for its stunning snowy landscapes during winter and the Himalayan Nature Park. It's a highly popular destination for skiing, tobogganing, and yak rides.",
+      "history": "The region around Shimla including Kufri was once a part of the Kingdom of Nepal before the British acquired it following the Anglo-Nepalese War.",
+      "famousFor": "Winter sports, Himalayan Nature Park, Mahasu Peak.",
+      "bestTime": "December to February (for Snow), April to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Activities extra)",
+      "slug": "kufri",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kufri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "The Ridge",
+          "city": "Shimla",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "the-ridge-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kufri",
+      "heroImage": "assets/images/states/himachal-pradesh/kufri.webp"
+    },
+    {
+      "name": "Christ Church",
+      "city": "Shimla",
+      "category": "heritage",
+      "distance": "The Ridge",
+      "rating": 4.6,
+      "description": "The second oldest church in North India, featuring stunning Neo-Gothic architecture and striking stained glass windows. It forms the iconic silhouette of the Shimla Ridge.",
+      "history": "Built in 1857 to serve the large Anglican British community that resided in Shimla, the summer capital of British India.",
+      "famousFor": "Neo-Gothic architecture, stained glass windows, midnight mass.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "christ-church-shimla",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/christ-church-shimla.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "The Ridge",
+          "city": "Shimla",
+          "distance": "0.1 km away",
+          "category": "cities",
+          "slug": "the-ridge-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Jakhoo Temple",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "jakhoo-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jakhoo-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "christ-church-shimla",
+      "heroImage": "assets/images/states/himachal-pradesh/christ-church-shimla.webp"
+    },
+    {
+      "name": "Viceregal Lodge (Indian Institute of Advanced Study)",
+      "city": "Shimla",
+      "category": "heritage",
+      "distance": "Observatory Hill",
+      "rating": 4.7,
+      "description": "A magnificent Scottish Baronial-style building that served as the residence of the British Viceroy of India. It now houses the prestigious Indian Institute of Advanced Study.",
+      "history": "Built in 1888 for Lord Dufferin. Many historic decisions, including the Simla Conference of 1945 and the Partition of India, were discussed here.",
+      "famousFor": "Colonial architecture, historic significance, manicured gardens.",
+      "bestTime": "Year-round",
+      "timings": "10:30 AM – 5:00 PM (Closed on Mondays)",
+      "entryFee": "₹40",
+      "slug": "viceregal-lodge",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/viceregal-lodge.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "The Ridge",
+          "city": "Shimla",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "the-ridge-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "State Museum",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "himachal-state-museum",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/himachal-state-museum.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Jakhoo Temple",
+          "city": "Shimla",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "jakhoo-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jakhoo-temple.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "viceregal-lodge",
+      "heroImage": "assets/images/states/himachal-pradesh/viceregal-lodge.webp"
+    },
+    {
+      "name": "Chail Palace",
+      "city": "Chail",
+      "category": "heritage",
+      "distance": "Solan District",
+      "rating": 4.5,
+      "description": "A stunning, regal palace set amidst dense pine and deodar forests. Once the summer retreat of the Maharaja of Patiala, it is now a heritage hotel offering breathtaking views.",
+      "history": "Built in 1891 by Maharaja Bhupinder Singh of Patiala after he was exiled from Shimla by Lord Kitchener.",
+      "famousFor": "Regal architecture, heritage stay, highest cricket ground nearby.",
+      "bestTime": "April to June, September to November",
+      "timings": "9:00 AM – 10:00 PM",
+      "entryFee": "₹100 (for non-guests)",
+      "slug": "chail-palace",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chail-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chail Cricket Ground",
+          "city": "Chail",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "chail-cricket-ground",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/chail-cricket-ground.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Chail Town",
+          "city": "Chail",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "chail",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/chail.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "chail-palace",
+      "heroImage": "assets/images/states/himachal-pradesh/chail-palace.webp"
+    },
+    {
+      "name": "Jogini Waterfall",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "Near Vashisht Village",
+      "rating": 4.7,
+      "description": "A majestic and deeply sacred waterfall cascading down from a height of 150 feet. It is reached via a highly scenic, short trek through pine forests and apple orchards.",
+      "history": "Dedicated to the village goddess Jogini. It is considered a sacred site (Shakti Peeth) by the local villagers.",
+      "famousFor": "Trekking, scenic cascades, sacred pools.",
+      "bestTime": "March to May, September to November",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "jogini-waterfall",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/jogini-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vashisht Hot Springs",
+          "city": "Manali",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "vashisht-hot-springs",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/vashisht-hot-springs.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Old Manali",
+          "city": "Manali",
+          "distance": "6 km away",
+          "category": "cities",
+          "slug": "old-manali",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/old-manali.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "jogini-waterfall",
+      "heroImage": "assets/images/states/himachal-pradesh/jogini-waterfall.webp"
+    },
+    {
+      "name": "Vashisht Village & Hot Springs",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "3 km from Manali",
+      "rating": 4.3,
+      "description": "A traditional village famous for its ancient sandstone temples and natural hot sulfur springs, which are believed to have immense medicinal properties.",
+      "history": "Named after Sage Vashisht, the Guru of Lord Rama in the Ramayana. The ancient temple here is believed to be over 4,000 years old.",
+      "famousFor": "Hot sulfur baths, Vashisht Temple, starting point for Jogini trek.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "vashisht-hot-springs",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/vashisht-hot-springs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jogini Waterfall",
+          "city": "Manali",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "jogini-waterfall",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jogini-waterfall.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Hadimba Devi Temple",
+          "city": "Manali",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "hadimba-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hadimba-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "vashisht-hot-springs",
+      "heroImage": "assets/images/states/himachal-pradesh/vashisht-hot-springs.webp"
+    },
+    {
+      "name": "Bhrigu Lake",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "Rohtang Pass Area",
+      "rating": 4.8,
+      "description": "A high-altitude alpine lake located at roughly 4,300 meters, famous for its mesmerizing, ever-changing colors. The trek to the lake takes you through pristine, expansive meadows.",
+      "history": "Local beliefs state that the great sage Bhrigu meditated beside this lake, making it deeply sacred. It is believed to never completely freeze.",
+      "famousFor": "Alpine meadows trek, sacred waters, high-altitude lake.",
+      "bestTime": "June to September",
+      "timings": "Open 24/7 (Trek recommended)",
+      "entryFee": "Free (Trek guide extra)",
+      "slug": "bhrigu-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/bhrigu-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rohtang Pass",
+          "city": "Manali",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "rohtang-pass",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/rohtang-pass.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "bhrigu-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/bhrigu-lake.webp"
+    },
+    {
+      "name": "Hampta Pass",
+      "city": "Manali",
+      "category": "nature",
+      "distance": "Pir Panjal Range",
+      "rating": 4.9,
+      "description": "One of the most dramatic crossover treks in the Himalayas. It takes you from the lush, green Kullu Valley right into the stark, barren desert landscape of Lahaul and Spiti.",
+      "history": "Traditionally used by shepherds of the lower valleys to cross over to the high-altitude pastures of Lahaul during the summer months.",
+      "famousFor": "Dramatic landscape changes, multi-day trekking, camping.",
+      "bestTime": "Mid-June to Mid-October",
+      "timings": "Open 24/7 (Trek recommended)",
+      "entryFee": "Free (Trek guide/permits extra)",
+      "slug": "hampta-pass",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/hampta-pass.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "hampta-pass",
+      "heroImage": "assets/images/states/himachal-pradesh/hampta-pass.webp"
+    },
+    {
+      "name": "Tabo Monastery",
+      "city": "Spiti Valley",
+      "category": "heritage",
+      "distance": "Tabo Village",
+      "rating": 4.8,
+      "description": "Often referred to as the 'Ajanta of the Himalayas', this sprawling mud-brick complex is one of the oldest continuously operating Buddhist enclaves in the Himalayas.",
+      "history": "Founded in 996 CE by the great Tibetan Buddhist translator Rinchen Zangpo. It houses priceless ancient frescoes and stucco statues.",
+      "famousFor": "Ancient Indo-Tibetan frescoes, mud-brick architecture, oldest operating monastery.",
+      "bestTime": "May to October",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "tabo-monastery",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/tabo-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "tabo-monastery",
+      "heroImage": "assets/images/states/himachal-pradesh/tabo-monastery.webp"
+    },
+    {
+      "name": "Dhankar Monastery",
+      "city": "Spiti Valley",
+      "category": "heritage",
+      "distance": "Between Kaza and Tabo",
+      "rating": 4.7,
+      "description": "An incredible 1,000-year-old fort-monastery dramatically hanging on a steep cliff edge, overlooking the confluence of the Spiti and Pin rivers.",
+      "history": "Served as the traditional capital of the Spiti Valley Kingdom during the 17th century. 'Dhang' means cliff and 'kar' means fort.",
+      "famousFor": "Cliff-hanging architecture, ancient fort ruins, Dhankar Lake trek.",
+      "bestTime": "May to October",
+      "timings": "6:30 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "dhankar-monastery",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dhankar-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pin Valley National Park",
+          "city": "Spiti Valley",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "pin-valley",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/pin-valley-national-park.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dhankar-monastery",
+      "heroImage": "assets/images/states/himachal-pradesh/dhankar-monastery.webp"
+    },
+    {
+      "name": "Pin Valley National Park",
+      "city": "Spiti Valley",
+      "category": "wildlife",
+      "distance": "Lahaul & Spiti District",
+      "rating": 4.6,
+      "description": "A stunning, rugged cold desert national park that serves as a natural habitat for several endangered species, including the elusive Snow Leopard and the Siberian Ibex.",
+      "history": "Established in 1987. It is deeply embedded in Tibetan Buddhist culture with numerous ancient chortens scattered across the valley.",
+      "famousFor": "Snow leopard spotting, cold desert terrain, high-altitude trekking.",
+      "bestTime": "May to September (Roads open)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pin-valley",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/pin-valley-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhankar Monastery",
+          "city": "Spiti Valley",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "dhankar-monastery",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dhankar-monastery.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "pin-valley",
+      "heroImage": "assets/images/states/himachal-pradesh/pin-valley-national-park.webp"
+    },
+    {
+      "name": "Kangra Fort",
+      "city": "Kangra",
+      "category": "heritage",
+      "distance": "Outskirts of Kangra Town",
+      "rating": 4.5,
+      "description": "The largest and arguably the oldest fort in the Himalayas, majestically situated on a steep cliff overlooking the Banganga and Majhi rivers.",
+      "history": "Built by the royal Rajput family of Kangra (the Katoch dynasty), which traces its origins to the ancient Trigarta Kingdom mentioned in the Mahabharata.",
+      "famousFor": "Ancient massive architecture, historical resilience, river views.",
+      "bestTime": "September to June",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹150 (Indians), ₹300 (Foreigners) with audio guide",
+      "slug": "kangra-fort",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kangra-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "kangra-fort",
+      "heroImage": "assets/images/states/himachal-pradesh/kangra-fort.webp"
+    },
+    {
+      "name": "Masroor Rock Cut Temple",
+      "city": "Kangra",
+      "category": "heritage",
+      "distance": "Beas River Valley",
+      "rating": 4.6,
+      "description": "A complex of 15 monolithic rock-cut temples dating back to the 8th century, often compared to the famous Ellora Caves of Maharashtra. It features intricate carvings of Hindu deities.",
+      "history": "Carved out of a single sandstone rock. It was significantly damaged during the devastating 1905 Kangra earthquake but remains a striking archaeological marvel.",
+      "famousFor": "Monolithic architecture, ancient carvings, sacred pool.",
+      "bestTime": "September to March",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "₹25",
+      "slug": "masroor-rock-cut-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/masroor-rock-cut-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "masroor-rock-cut-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/masroor-rock-cut-temple.webp"
+    },
+    {
+      "name": "Bhagsunag Waterfall",
+      "city": "McLeod Ganj",
+      "category": "nature",
+      "distance": "Bhagsu Village",
+      "rating": 4.3,
+      "description": "A highly popular and picturesque 20-meter waterfall located just a short, scenic trek from McLeod Ganj, sitting directly behind the ancient Bhagsunag Shiva Temple.",
+      "history": "The site holds mythological importance, associated with an ancient battle over water between the snake god Nag and king Bhagsu.",
+      "famousFor": "Cascading waterfall, Shiva temple, Shiva Cafe.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "bhagsunag-waterfall",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/bhagsunag-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dalai Lama Temple",
+          "city": "McLeod Ganj",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "dalai-lama-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dalai-lama-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Triund Hill",
+          "city": "McLeod Ganj",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "triund-trek",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/triund-trek.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "bhagsunag-waterfall",
+      "heroImage": "assets/images/states/himachal-pradesh/bhagsunag-waterfall.webp"
+    },
+    {
+      "name": "Norbulingka Institute",
+      "city": "Dharamshala",
+      "category": "heritage",
+      "distance": "Sidpur",
+      "rating": 4.7,
+      "description": "A beautiful institute dedicated to the preservation of traditional Tibetan art and culture. It features stunning gardens, streams, and workshops where artisans practice ancient crafts.",
+      "history": "Founded in 1988 by Kelsang and Kim Yeshi. It is named after Norbulingka, the traditional summer residence of the Dalai Lamas in Lhasa, Tibet.",
+      "famousFor": "Tibetan arts (thangka painting, woodcarving), peaceful Zen gardens.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "₹50",
+      "slug": "norbulingka-institute",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/norbulingka-institute.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dharamshala Stadium",
+          "city": "Dharamshala",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "dharamshala-stadium",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dharamshala-stadium.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "McLeod Ganj",
+          "city": "McLeod Ganj",
+          "distance": "12 km away",
+          "category": "cities",
+          "slug": "mcleod-ganj",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/mcleod-ganj.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "norbulingka-institute",
+      "heroImage": "assets/images/states/himachal-pradesh/norbulingka-institute.webp"
+    },
+    {
+      "name": "Dainkund Peak",
+      "city": "Dalhousie",
+      "category": "nature",
+      "distance": "10 km from Dalhousie",
+      "rating": 4.8,
+      "description": "The highest peak in the Dalhousie region, offering breathtaking 360-degree views of the lush green valleys and the mighty Pir Panjal mountain range. It is often called the 'Singing Hill'.",
+      "history": "The name roughly translates to 'Witch's Pond', referencing an old local legend. It also houses an Air Force base and the revered Pholani Devi Temple.",
+      "famousFor": "Panoramic views, trekking, Pholani Devi temple.",
+      "bestTime": "March to May, September to November",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "dainkund-peak",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dainkund-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khajjiar",
+          "city": "Dalhousie",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "khajjiar",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/khajjiar.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Panchpula",
+          "city": "Dalhousie",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "panchpula",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/panchpula.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dainkund-peak",
+      "heroImage": "assets/images/states/himachal-pradesh/dainkund-peak.webp"
+    },
+    {
+      "name": "Panchpula",
+      "city": "Dalhousie",
+      "category": "nature",
+      "distance": "3 km from Dalhousie",
+      "rating": 4.3,
+      "description": "A picturesque, cascading waterfall where multiple streams merge. It is surrounded by a dense canopy of pine and deodar trees, making it a very popular picnic spot.",
+      "history": "It houses a monument (samadhi) built in memory of the great freedom fighter Sardar Ajit Singh, the uncle of Bhagat Singh, who breathed his last here.",
+      "famousFor": "Waterfalls, Sardar Ajit Singh Memorial, zip-lining.",
+      "bestTime": "March to October",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free (Activities extra)",
+      "slug": "panchpula",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/panchpula.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dalhousie Town",
+          "city": "Dalhousie",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "dalhousie-town",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dalhousie-town.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Dainkund Peak",
+          "city": "Dalhousie",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "dainkund-peak",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dainkund-peak.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "panchpula",
+      "heroImage": "assets/images/states/himachal-pradesh/panchpula.webp"
+    },
+    {
+      "name": "Rewalsar Lake (Tso Pema)",
+      "city": "Mandi",
+      "category": "nature",
+      "distance": "22 km from Mandi",
+      "rating": 4.5,
+      "description": "A deeply spiritual, mid-altitude square-shaped lake that is uniquely revered by three major religions: Hinduism, Buddhism, and Sikhism.",
+      "history": "Legend says the great Buddhist teacher Padmasambhava took flight to Tibet from this lake. It features a massive 123-foot statue of him overlooking the water.",
+      "famousFor": "Padmasambhava statue, floating reed islands, tri-religious harmony.",
+      "bestTime": "September to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rewalsar-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/rewalsar-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "rewalsar-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/rewalsar-lake.webp"
+    },
+    {
+      "name": "Malana Village",
+      "city": "Parvati Valley",
+      "category": "heritage",
+      "distance": "Kullu District",
+      "rating": 4.1,
+      "description": "An ancient, highly secluded Himalayan village infamous for its strict customs and the production of a high-quality hashish known as 'Malana Cream'.",
+      "history": "The locals believe they are direct descendants of Alexander the Great's army. The village has its own independent, ancient democratic system and unique language (Kanashi).",
+      "famousFor": "Unique culture, strict taboo customs, Malana Cream.",
+      "bestTime": "May to August",
+      "timings": "Open 24/7 (Tourists cannot stay overnight)",
+      "entryFee": "Free",
+      "slug": "malana",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/malana.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "malana",
+      "heroImage": "assets/images/states/himachal-pradesh/malana.webp"
+    },
+    {
+      "name": "Hatu Peak",
+      "city": "Narkanda",
+      "category": "nature",
+      "distance": "Shimla District",
+      "rating": 4.7,
+      "description": "The highest peak in the Shimla region (3,400m), offering spectacular panoramic views of the dense pine forests and the snow-capped Himalayan ranges.",
+      "history": "Features a beautifully carved wooden temple dedicated to Hatu Mata, believed by locals to be Mandodari, the wife of Ravana.",
+      "famousFor": "Trekking, panoramic Himalayan views, Hatu Mata temple.",
+      "bestTime": "April to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "hatu-peak",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/hatu-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Narkanda Town",
+          "city": "Narkanda",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "narkanda",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/narkanda.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "hatu-peak",
+      "heroImage": "assets/images/states/himachal-pradesh/hatu-peak.webp"
+    },
+    {
+      "name": "Jibhi",
+      "city": "Banjar Valley",
+      "category": "nature",
+      "distance": "Kullu District",
+      "rating": 4.6,
+      "description": "A picturesque, offbeat hamlet nestled amidst lush green pine forests and apple orchards, with the pristine Tirthan river flowing right through it.",
+      "history": "Remained relatively hidden from mainstream tourism until recently. It features traditional wooden Himachali architecture.",
+      "famousFor": "Jibhi waterfall, treehouse stays, peaceful environment.",
+      "bestTime": "March to May, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jibhi",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/jibhi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jalori Pass",
+          "city": "Kullu",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "jalori-pass",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jalori-pass.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Chehni Kothi",
+          "city": "Banjar",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "chehni-kothi",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/chehni-kothi.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "jibhi",
+      "heroImage": "assets/images/states/himachal-pradesh/jibhi.webp"
+    },
+    {
+      "name": "Jalori Pass",
+      "city": "Kullu",
+      "category": "nature",
+      "distance": "Near Jibhi",
+      "rating": 4.7,
+      "description": "A breathtaking high mountain pass located at an elevation of 3,120 meters. It is famous for its steep, thrilling drive and acts as the starting point for the Serolsar Lake trek.",
+      "history": "A critical mountain pass connecting the Shimla and Kullu districts. It features an ancient temple dedicated to Jalori Mata.",
+      "famousFor": "High-altitude drive, trekking, 360-degree Himalayan views.",
+      "bestTime": "April to November (Closed in peak winter)",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "jalori-pass",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/jalori-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Serolsar Lake",
+          "city": "Kullu",
+          "distance": "5 km trek away",
+          "category": "nature",
+          "slug": "serolsar-lake",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/serolsar-lake.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Jibhi",
+          "city": "Banjar Valley",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "jibhi",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jibhi.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "jalori-pass",
+      "heroImage": "assets/images/states/himachal-pradesh/jalori-pass.webp"
+    },
+    {
+      "name": "Serolsar Lake",
+      "city": "Kullu",
+      "category": "nature",
+      "distance": "Jalori Pass Trek",
+      "rating": 4.8,
+      "description": "A highly sacred, crystal-clear high-altitude lake hidden deep within dense oak forests. Legend says local birds immediately pick up any leaves that fall into its pristine waters.",
+      "history": "Dedicated to Goddess Budhi Nagin, the mother of 60 snake deities in Himachal. A small temple sits beside the lake.",
+      "famousFor": "Forest trek, sacred clear water, myth of the birds.",
+      "bestTime": "April to November",
+      "timings": "Open 24/7 (Day trek recommended)",
+      "entryFee": "Free",
+      "slug": "serolsar-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/serolsar-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jalori Pass",
+          "city": "Kullu",
+          "distance": "5 km trek away",
+          "category": "nature",
+          "slug": "jalori-pass",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jalori-pass.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "serolsar-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/serolsar-lake.webp"
+    },
+    {
+      "name": "Sangla Valley (Baspa Valley)",
+      "city": "Kinnaur",
+      "category": "nature",
+      "distance": "Kinnaur District",
+      "rating": 4.9,
+      "description": "One of the most beautiful valleys in the entire Himalayas, characterized by the roaring Baspa river, towering snow-clad peaks, and sprawling apple orchards.",
+      "history": "The valley houses the historic Kamru Fort, the original seat of the rulers of Kinnaur, and the highly revered Bering Nag Temple.",
+      "famousFor": "Apple orchards, Kamru Fort, Baspa river camping.",
+      "bestTime": "April to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sangla-valley",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/sangla-valley.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "sangla-valley",
+      "heroImage": "assets/images/states/himachal-pradesh/sangla-valley.webp"
+    },
+    {
+      "name": "Langza Village",
+      "city": "Spiti Valley",
+      "category": "heritage",
+      "distance": "Spiti District",
+      "rating": 4.8,
+      "description": "A high-altitude, deeply remote village famous for marine fossils millions of years old, and a massive, colorful Buddha statue overlooking the barren valley.",
+      "history": "Millions of years ago, the Spiti Valley was submerged under the ancient Tethys Sea, which is why marine fossils are still easily found here.",
+      "famousFor": "Giant Buddha statue, ancient marine fossils, stargazing.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "langza-village",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/langza-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Komic Village",
+          "city": "Spiti Valley",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "komic-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/komic-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Hikkim",
+          "city": "Spiti Valley",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "hikkim",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hikkim.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "langza-village",
+      "heroImage": "assets/images/states/himachal-pradesh/langza-village.webp"
+    },
+    {
+      "name": "Hikkim (Highest Post Office)",
+      "city": "Spiti Valley",
+      "category": "heritage",
+      "distance": "Spiti District",
+      "rating": 4.7,
+      "description": "A remote, starkly beautiful Spitian village that boasts the highest continuously operating post office in the world at an elevation of 4,400 meters.",
+      "history": "The post office (PIN: 174114) was established in 1983 and serves as the sole communication link for several surrounding high-altitude villages.",
+      "famousFor": "World's highest post office, sending postcards.",
+      "bestTime": "May to October",
+      "timings": "10:00 AM – 4:00 PM (Post Office)",
+      "entryFee": "Free (Postage extra)",
+      "slug": "hikkim",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/hikkim.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Langza Village",
+          "city": "Spiti Valley",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "langza-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/langza-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Komic Village",
+          "city": "Spiti Valley",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "komic-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/komic-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "hikkim",
+      "heroImage": "assets/images/states/himachal-pradesh/hikkim.webp"
+    },
+    {
+      "name": "Komic Village",
+      "city": "Spiti Valley",
+      "category": "cities",
+      "distance": "Spiti District",
+      "rating": 4.6,
+      "description": "Known as the highest village in the world connected by a motorable road (4,587m). It features an ancient, brightly colored monastery and stark, moon-like landscapes.",
+      "history": "The Tangyud Monastery here is over 500 years old and follows the Sakya sect of Tibetan Buddhism.",
+      "famousFor": "Highest motorable village, ancient monastery, rugged isolation.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "komic-village",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/komic-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hikkim",
+          "city": "Spiti Valley",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "hikkim",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hikkim.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Kaza Town",
+          "city": "Spiti Valley",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "kaza-town",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kaza-town.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Langza Village",
+          "city": "Spiti Valley",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "langza-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/langza-village.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "komic-village",
+      "heroImage": "assets/images/states/himachal-pradesh/komic-village.webp"
+    },
+    {
+      "name": "Renuka Lake",
+      "city": "Sirmaur",
+      "category": "nature",
+      "distance": "Near Nahan",
+      "rating": 4.4,
+      "description": "The largest natural lake in Himachal Pradesh, uniquely shaped like the profile of a woman. It is surrounded by lush forests and a small zoo/wildlife sanctuary.",
+      "history": "Named after the Goddess Renuka, the mother of Lord Parshuram (the sixth avatar of Vishnu). An annual fair is held here to celebrate their reunion.",
+      "famousFor": "Boating, wildlife sanctuary, mythological significance.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating extra)",
+      "slug": "renuka-lake",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/renuka-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "renuka-lake",
+      "heroImage": "assets/images/states/himachal-pradesh/renuka-lake.webp"
+    },
+    {
+      "name": "Jwala Ji Temple",
+      "city": "Kangra",
+      "category": "temples",
+      "distance": "Jwalamukhi Town",
+      "rating": 4.8,
+      "description": "A highly sacred and unique Hindu temple where there is no idol; instead, natural, eternal blue flames burning from the rock face are worshipped as the manifestation of the Goddess.",
+      "history": "One of the 51 Shakti Peethas. It is believed that the tongue of Goddess Sati fell here. Mughal Emperor Akbar once tried to extinguish the flames but failed and submitted to the Goddess.",
+      "famousFor": "Eternal natural flames, Shakti Peetha.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "jwala-ji-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/jwala-ji-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "jwala-ji-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/jwala-ji-temple.webp"
+    },
+    {
+      "name": "Baijnath Temple",
+      "city": "Kangra",
+      "category": "temples",
+      "distance": "Baijnath Town",
+      "rating": 4.6,
+      "description": "A magnificent, incredibly detailed 13th-century stone temple dedicated to Lord Shiva as the 'Lord of Physicians'. It is an architectural masterpiece of the early medieval North Indian style.",
+      "history": "Built in 1204 CE by two local merchants. According to myth, the demon king Ravana worshipped Lord Shiva at this very spot.",
+      "famousFor": "Ancient Nagara architecture, historical stone carvings.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "baijnath-temple-himachal-pradesh",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palampur",
+          "city": "Kangra",
+          "distance": "16 km away",
+          "category": "cities",
+          "slug": "palampur",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/palampur.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Bir Billing",
+          "city": "Kangra",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "bir-billing",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/bir-billing.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Palampur Tea Gardens",
+          "city": "Kangra",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "palampur-tea-gardens",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/palampur-tea-gardens.webp"
+          }
+        },
+        {
+          "name": "Andretta Artists' Village",
+          "city": "Kangra",
+          "distance": "14 km away",
+          "category": "heritage",
+          "slug": "andretta-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/andretta-village.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "baijnath-temple-himachal-pradesh",
+      "heroImage": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+    },
+    {
+      "name": "Palampur Tea Gardens",
+      "city": "Kangra",
+      "category": "nature",
+      "distance": "Palampur Town",
+      "rating": 4.4,
+      "description": "Often called the 'Tea Capital of North India', Palampur features lush, rolling tea estates set against the majestic backdrop of the snow-clad Dhauladhar mountains.",
+      "history": "Tea cultivation was introduced to the Kangra Valley in the 19th century by the British. The Kangra tea is famous for its unique flavor.",
+      "famousFor": "Tea estates, scenic walks, Kangra tea tasting.",
+      "bestTime": "March to June, September to November",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Factory tours may charge)",
+      "slug": "palampur-tea-gardens",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/palampur-tea-gardens.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baijnath Temple",
+          "city": "Kangra",
+          "distance": "16 km away",
+          "category": "temples",
+          "slug": "baijnath-temple-himachal-pradesh",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Andretta Artists' Village",
+          "city": "Kangra",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "andretta-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/andretta-village.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "palampur-tea-gardens",
+      "heroImage": "assets/images/states/himachal-pradesh/palampur-tea-gardens.webp"
+    },
+    {
+      "name": "Kasauli",
+      "city": "Solan",
+      "category": "cities",
+      "distance": "Solan District",
+      "rating": 4.5,
+      "description": "A quiet, charming cantonment town characterized by gabled colonial-era houses, dense pine forests, and cobbled roads, offering a peaceful retreat from city life.",
+      "history": "Established by the British in 1842 as a cantonment and sanatorium. It retains much of its 19th-century colonial charm.",
+      "famousFor": "Christ Church, Monkey Point, heritage architecture.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kasauli",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kasauli.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dagshai Cantonment",
+          "city": "Solan",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "dagshai",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dagshai.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kasauli",
+      "heroImage": "assets/images/states/himachal-pradesh/kasauli.webp"
+    },
+    {
+      "name": "Barot Valley",
+      "city": "Mandi",
+      "category": "nature",
+      "distance": "Uhl River",
+      "rating": 4.6,
+      "description": "A hidden gem in Himachal, featuring the crystal-clear Uhl river, terraced fields, and thick deodar forests. It is highly famous for trout fishing and peaceful camping.",
+      "history": "Developed in the 1920s for the Shanan Hydel Project, one of the oldest hydroelectric power projects in India, featuring an old haulage trolley system.",
+      "famousFor": "Trout fishing, Uhl river, offbeat camping.",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "barot-valley",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/barot-valley.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "barot-valley",
+      "heroImage": "assets/images/states/himachal-pradesh/barot-valley.webp"
+    },
+    {
+      "name": "Churdhar Peak",
+      "city": "Sirmaur",
+      "category": "nature",
+      "distance": "Sirmaur District",
+      "rating": 4.8,
+      "description": "The highest peak in the outer Himalayas (3,647m), offering a challenging trek that rewards climbers with a massive, striking statue of Lord Shiva at the summit.",
+      "history": "The peak holds immense religious significance. The Chureshwar Mahadev Temple sits just below the summit.",
+      "famousFor": "High-altitude trekking, Shiva statue, sweeping views.",
+      "bestTime": "May to November",
+      "timings": "Open 24/7 (Trek recommended)",
+      "entryFee": "Free",
+      "slug": "churdhar-peak",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/churdhar-peak.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "churdhar-peak",
+      "heroImage": "assets/images/states/himachal-pradesh/churdhar-peak.webp"
+    },
+    {
+      "name": "Andretta Artists' Village",
+      "city": "Kangra",
+      "category": "heritage",
+      "distance": "Near Palampur",
+      "rating": 4.5,
+      "description": "A tranquil, picturesque village that has evolved into a thriving colony for artists, painters, and potters, offering pottery classes and showcasing local art.",
+      "history": "Established in the 1920s by Norah Richards, an Irish writer and dramatist. It later attracted famous artists like Sobha Singh and B C Sanyal.",
+      "famousFor": "Andretta Pottery, Sobha Singh Art Gallery, peaceful rural vibe.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "Free (Pottery classes extra)",
+      "slug": "andretta-village",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/andretta-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Palampur",
+          "city": "Kangra",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "palampur-tea-gardens",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/palampur-tea-gardens.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Baijnath Temple",
+          "city": "Kangra",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "baijnath-temple-himachal-pradesh",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "andretta-village",
+      "heroImage": "assets/images/states/himachal-pradesh/andretta-village.webp"
+    },
+    {
+      "name": "Atal Tunnel",
+      "city": "Manali",
+      "category": "heritage",
+      "distance": "25 km from Manali",
+      "rating": 4.8,
+      "description": "The world's longest highway tunnel above 10,000 feet, drastically cutting travel time between Manali and Lahaul-Spiti while offering a stunning engineering marvel.",
+      "history": "Named after former PM Atal Bihari Vajpayee, it took a decade to bore through the Pir Panjal mountain range.",
+      "famousFor": "Engineering marvel, gateway to Lahaul Valley.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "atal-tunnel",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/atal-tunnel.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "atal-tunnel",
+      "heroImage": "assets/images/states/himachal-pradesh/atal-tunnel.webp"
+    },
+    {
+      "name": "McLeod Ganj",
+      "city": "McLeod Ganj",
+      "category": "cities",
+      "distance": "Upper Dharamshala",
+      "rating": 4.6,
+      "description": "A vibrant hill station known as 'Little Lhasa', famous for its deep Tibetan culture, vibrant cafes, and as the residence of the Dalai Lama.",
+      "history": "Established by the British, it became the center of the Tibetan exile government in 1960.",
+      "famousFor": "Tibetan culture, cafes, Dalai Lama Temple.",
+      "bestTime": "September to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mcleod-ganj",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/mcleod-ganj.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dalai Lama Temple",
+          "city": "McLeod Ganj",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "dalai-lama-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dalai-lama-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "HPCA Cricket Stadium",
+          "city": "Dharamshala",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "dharamshala-stadium",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/dharamshala-stadium.webp"
+          }
+        },
+        {
+          "name": "Norbulingka Institute",
+          "city": "Dharamshala",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "norbulingka-institute",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/norbulingka-institute.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "mcleod-ganj",
+      "heroImage": "assets/images/states/himachal-pradesh/mcleod-ganj.webp"
+    },
+    {
+      "name": "Kaza Town",
+      "city": "Spiti Valley",
+      "category": "cities",
+      "distance": "Spiti Valley District Headquarters",
+      "rating": 4.5,
+      "description": "The commercial hub and largest township of Spiti Valley, surrounded by high mountains and serving as the basecamp for exploring the cold desert.",
+      "history": "Historically a central trading hub connecting Kinnaur, Kullu, and Tibet.",
+      "famousFor": "Gateway to Spiti, high-altitude market, Sakya Tangyud Monastery.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kaza-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kaza-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Key Monastery",
+          "city": "Spiti Valley",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "key-monastery",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/key-monastery.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Komic Village",
+          "city": "Spiti Valley",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "komic-village",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/komic-village.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kaza-town",
+      "heroImage": "assets/images/states/himachal-pradesh/kaza-town.webp"
+    },
+    {
+      "name": "Kullu Town",
+      "city": "Kullu",
+      "category": "cities",
+      "distance": "Valley Center",
+      "rating": 4.3,
+      "description": "A bustling town set on the banks of the Beas River, renowned for its ancient temples, sprawling apple orchards, and the massive week-long Kullu Dussehra festival.",
+      "history": "Historically known as Kulanthpitha, meaning the 'end of the habitable world'.",
+      "famousFor": "Kullu Dussehra, Shawl weaving, River Rafting.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kullu-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kullu-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "kullu-town",
+      "heroImage": "assets/images/states/himachal-pradesh/kullu-town.webp"
+    },
+    {
+      "name": "Mandi Town",
+      "city": "Mandi",
+      "category": "cities",
+      "distance": "Mandi District Headquarters",
+      "rating": 4.4,
+      "description": "Known as the 'Varanasi of the Hills', Mandi is an ancient town boasting over 81 historic stone temples dotting the banks of the Beas River.",
+      "history": "Founded in 1527 by Ajbar Sen. It was an essential trade route connecting Yarkand and Ladakh to the plains.",
+      "famousFor": "Ancient stone temples, Bhootnath Temple, Shivaratri Fair.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mandi-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/mandi-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "mandi-town",
+      "heroImage": "assets/images/states/himachal-pradesh/mandi-town.webp"
+    },
+    {
+      "name": "Dalhousie Town",
+      "city": "Dalhousie",
+      "category": "cities",
+      "distance": "Chamba District",
+      "rating": 4.6,
+      "description": "A pristine hill station spread across five hills, retaining an enchanting colonial charm with Scottish and Victorian-era architecture.",
+      "history": "Established in 1854 as a summer retreat for the British administration, named after Lord Dalhousie.",
+      "famousFor": "Colonial architecture, pine valleys, peaceful ambiance.",
+      "bestTime": "March to May, September to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dalhousie-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dalhousie-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Panchpula",
+          "city": "Dalhousie",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "panchpula",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/panchpula.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dalhousie-town",
+      "heroImage": "assets/images/states/himachal-pradesh/dalhousie-town.webp"
+    },
+    {
+      "name": "Palampur",
+      "city": "Kangra",
+      "category": "cities",
+      "distance": "Kangra Valley",
+      "rating": 4.5,
+      "description": "The tea capital of Northwest India, Palampur is a green oasis surrounded by aromatic tea gardens, pine forests, and the imposing Dhauladhar range.",
+      "history": "Dr. Jameson introduced tea bushes here in 1849, leading to a flourishing tea industry.",
+      "famousFor": "Tea estates, Kangra tea, scenic beauty.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "palampur",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/palampur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baijnath Temple",
+          "city": "Kangra",
+          "distance": "16 km away",
+          "category": "temples",
+          "slug": "baijnath-temple-himachal-pradesh",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/baijnath-temple.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "palampur",
+      "heroImage": "assets/images/states/himachal-pradesh/palampur.webp"
+    },
+    {
+      "name": "Old Manali",
+      "city": "Manali",
+      "category": "cities",
+      "distance": "3 km from New Manali",
+      "rating": 4.6,
+      "description": "A bohemian paradise separated from the main town by the Manalsu River, known for its laid-back cafes, winding roads, and traditional stone-and-wood houses.",
+      "history": "The original settlement of Manali, retaining much of its traditional Himachali culture.",
+      "famousFor": "Bohemian cafes, live music, apple orchards.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "old-manali",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/old-manali.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hadimba Devi Temple",
+          "city": "Manali",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "hadimba-temple",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hadimba-temple.webp"
+          },
+          "state": "Himachal Pradesh"
+        },
+        {
+          "name": "Jogini Waterfall",
+          "city": "Manali",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "jogini-waterfall",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jogini-waterfall.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "old-manali",
+      "heroImage": "assets/images/states/himachal-pradesh/old-manali.webp"
+    },
+    {
+      "name": "Manali Town",
+      "city": "Manali",
+      "category": "cities",
+      "distance": "Kullu District",
+      "rating": 4.7,
+      "description": "A high-altitude resort town serving as the gateway for skiing in the Solang Valley and trekking in Parvati Valley.",
+      "history": "Named after the Sanatan Hindu lawgiver Manu. Believed to be the place where the ark of Manu landed after a great flood.",
+      "famousFor": "Gateway to Rohtang, bustling Mall road, snow sports.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "manali-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/manali-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Solang Valley",
+          "city": "Manali",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "solang-valley",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/solang-valley.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "manali-town",
+      "heroImage": "assets/images/states/himachal-pradesh/manali-town.webp"
+    },
+    {
+      "name": "Tirthan Valley",
+      "city": "Kullu",
+      "category": "nature",
+      "distance": "Banjar Region",
+      "rating": 4.8,
+      "description": "A breathtaking, offbeat valley carved by the pristine Tirthan River, known for trout fishing and acting as the gateway to the Great Himalayan National Park.",
+      "history": "Historically a serene getaway for anglers and nature lovers escaping the commercialized towns.",
+      "famousFor": "Trout fishing, pristine nature, homestays.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tirthan-valley",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/tirthan-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "GHNP",
+          "city": "Kullu",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "great-himalayan-national-park",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/great-himalayan-national-park.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "tirthan-valley",
+      "heroImage": "assets/images/states/himachal-pradesh/tirthan-valley.webp"
+    },
+    {
+      "name": "Mall Road",
+      "city": "Shimla",
+      "category": "cities",
+      "distance": "Shimla City Center",
+      "rating": 4.7,
+      "description": "The main street of Shimla, lined with cafes, restaurants, boutiques, and colonial-era public buildings. Vehicles are strictly prohibited here.",
+      "history": "Constructed by the British as the primary promenade for colonial administrators.",
+      "famousFor": "Shopping, cafes, heritage walking.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mall-road-shimla",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/mall-road-shimla.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "The Ridge",
+          "city": "Shimla",
+          "distance": "0.1 km away",
+          "category": "cities",
+          "slug": "the-ridge-shimla",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/the-ridge-shimla.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "mall-road-shimla",
+      "heroImage": "assets/images/states/himachal-pradesh/mall-road-shimla.webp"
+    },
+    {
+      "name": "Reckong Peo",
+      "city": "Kinnaur",
+      "category": "cities",
+      "distance": "Kinnaur District Headquarters",
+      "rating": 4.4,
+      "description": "A bustling township serving as the commercial and administrative center of Kinnaur, offering clear views of the Kinner Kailash peak.",
+      "history": "Replaced Kalpa as the district headquarters.",
+      "famousFor": "Transit hub, pine forests, market.",
+      "bestTime": "April to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "reckong-peo",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/reckong-peo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalpa",
+          "city": "Kinnaur",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "kalpa",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kalpa.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "reckong-peo",
+      "heroImage": "assets/images/states/himachal-pradesh/reckong-peo.webp"
+    },
+    {
+      "name": "Narkanda Town",
+      "city": "Narkanda",
+      "category": "cities",
+      "distance": "60 km from Shimla",
+      "rating": 4.5,
+      "description": "A stunning skiing destination in winters and an apple orchard haven in summers, situated on the Hindustan-Tibet road.",
+      "history": "An ancient staging post on the historic Hindustan-Tibet trade route.",
+      "famousFor": "Winter skiing, apple orchards, Hatu Peak.",
+      "bestTime": "December to March (Skiing), April to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "narkanda",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/narkanda.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hatu Peak",
+          "city": "Narkanda",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "hatu-peak",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/hatu-peak.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "narkanda",
+      "heroImage": "assets/images/states/himachal-pradesh/narkanda.webp"
+    },
+    {
+      "name": "Kunzum Pass",
+      "city": "Spiti Valley",
+      "category": "nature",
+      "distance": "Lahaul and Spiti",
+      "rating": 4.8,
+      "description": "A high mountain pass on the eastern Kunzum Range (4,590 m) connecting Lahaul Valley and Spiti Valley.",
+      "history": "Features a temple dedicated to Goddess Kunzum, where travelers stop to seek blessings before journeying further.",
+      "famousFor": "Stunning Himalayan views, high altitude pass, Kunzum Mata temple.",
+      "bestTime": "June to September",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "kunzum-pass",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kunzum-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chandra Taal",
+          "city": "Spiti Valley",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "chandratal-lake",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/chandratal-lake.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kunzum-pass",
+      "heroImage": "assets/images/states/himachal-pradesh/kunzum-pass.webp"
+    },
+    {
+      "name": "Tosh Village",
+      "city": "Parvati Valley",
+      "category": "cities",
+      "distance": "Near Barshaini",
+      "rating": 4.6,
+      "description": "A traditional village situated at the far end of Parvati Valley, famous for its wooden houses, apple orchards, and mesmerizing snow views.",
+      "history": "A hidden gem that recently gained popularity among backpackers for its untouched beauty.",
+      "famousFor": "Hippie culture, cafes, Kutla trek.",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tosh-village",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/tosh-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kheerganga Trek",
+          "city": "Parvati Valley",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "kheerganga-trek",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kheerganga-trek.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "tosh-village",
+      "heroImage": "assets/images/states/himachal-pradesh/tosh-village.webp"
+    },
+    {
+      "name": "Chehni Kothi",
+      "city": "Banjar",
+      "category": "heritage",
+      "distance": "Jibhi area",
+      "rating": 4.5,
+      "description": "An awe-inspiring 1,500-year-old traditional Himachali tower-temple built entirely of interlocking stone and wood without any cement.",
+      "history": "Built as a defensive fortress by a local king. It survived the massive 1905 Kangra earthquake despite its incredible height.",
+      "famousFor": "Ancient tower architecture, Kath-Kuni construction.",
+      "bestTime": "March to November",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "chehni-kothi",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chehni-kothi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jibhi",
+          "city": "Banjar Valley",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "jibhi",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/jibhi.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "chehni-kothi",
+      "heroImage": "assets/images/states/himachal-pradesh/chehni-kothi.webp"
+    },
+    {
+      "name": "Kibber Village",
+      "city": "Spiti Valley",
+      "category": "cities",
+      "distance": "Near Kaza",
+      "rating": 4.6,
+      "description": "One of the highest motorable villages in the world, known for its scenic cold desert landscape, wildlife sanctuary, and distinctive limestone houses.",
+      "history": "An ancient high-altitude settlement that has historically traded with Tibet.",
+      "famousFor": "Snow leopard spotting, Kibber Wildlife Sanctuary.",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kibber-village",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kibber-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Key Monastery",
+          "city": "Spiti Valley",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "key-monastery",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/key-monastery.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kibber-village",
+      "heroImage": "assets/images/states/himachal-pradesh/kibber-village.webp"
+    },
+    {
+      "name": "Kalatop Wildlife Sanctuary",
+      "city": "Dalhousie",
+      "category": "wildlife",
+      "distance": "Near Khajjiar",
+      "rating": 4.4,
+      "description": "A deeply forested wildlife reserve filled with thick deodar trees, offering excellent trekking trails and the chance to spot Himalayan black bears.",
+      "history": "Notified as a sanctuary to protect the local rich flora and fauna of the Ravi river catchment.",
+      "famousFor": "Trekking, dense pine forests, wildlife.",
+      "bestTime": "March to May, September to November",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "₹250 per vehicle",
+      "slug": "kalatop-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/kalatop-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khajjiar",
+          "city": "Dalhousie",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "khajjiar",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/khajjiar.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "kalatop-wildlife-sanctuary",
+      "heroImage": "assets/images/states/himachal-pradesh/kalatop-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Himachal State Museum",
+      "city": "Shimla",
+      "category": "heritage",
+      "distance": "Inverarm Hill",
+      "rating": 4.3,
+      "description": "A colonial mansion housing a vast collection of ancient historical artifacts, Pahari miniature paintings, coins, and traditional Himachali handicrafts.",
+      "history": "Opened in 1974 to protect and preserve the cultural wealth and heritage of the state.",
+      "famousFor": "Pahari paintings, ancient sculptures, colonial architecture.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "himachal-state-museum",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/himachal-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Viceregal Lodge",
+          "city": "Shimla",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "viceregal-lodge",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/viceregal-lodge.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "himachal-state-museum",
+      "heroImage": "assets/images/states/himachal-pradesh/himachal-state-museum.webp"
+    },
+    {
+      "name": "Chail Cricket Ground",
+      "city": "Chail",
+      "category": "nature",
+      "distance": "Chail",
+      "rating": 4.2,
+      "description": "The highest cricket ground in the world at an altitude of 2,444 meters, surrounded by thick deodar forests and currently maintained by the military.",
+      "history": "Built in 1893 by Maharaja Bhupinder Singh of Patiala who leveled a hilltop to play cricket.",
+      "famousFor": "Highest cricket ground in the world.",
+      "bestTime": "April to June",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "chail-cricket-ground",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chail-cricket-ground.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chail Palace",
+          "city": "Chail",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "chail-palace",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/chail-palace.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "chail-cricket-ground",
+      "heroImage": "assets/images/states/himachal-pradesh/chail-cricket-ground.webp"
+    },
+    {
+      "name": "Chokling Monastery",
+      "city": "Bir",
+      "category": "temples",
+      "distance": "Bir Tibetan Colony",
+      "rating": 4.6,
+      "description": "A vibrant and ornate Tibetan monastery housing a massive statue of Padmasambhava and serving as a major center for Buddhist learning.",
+      "history": "Established by the third Neten Chokling Rinpoche after Tibetan refugees settled in Bir.",
+      "famousFor": "Tibetan architecture, spiritual peace, large stupa.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "chokling-monastery",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/choling-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bir Billing",
+          "city": "Kangra",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "bir-billing",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/bir-billing.webp"
+          },
+          "state": "Himachal Pradesh"
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "chokling-monastery",
+      "heroImage": "assets/images/states/himachal-pradesh/choling-monastery.webp"
+    },
+    {
+      "name": "Dagshai",
+      "city": "Solan",
+      "category": "heritage",
+      "distance": "Near Kasauli",
+      "rating": 4.2,
+      "description": "One of the oldest cantonment towns in the Shivalik Hills, housing an infamous 19th-century colonial cellular jail now converted into a museum.",
+      "history": "Founded in 1847 by the East India Company. It played a major role during the Indian independence movement.",
+      "famousFor": "Dagshai Jail Museum, quiet cantonment vibes.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Museum extra)",
+      "slug": "dagshai",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/dagshai.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kasauli",
+          "city": "Solan",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "kasauli",
+          "images": {
+            "main": "assets/images/states/himachal-pradesh/kasauli.webp"
+          }
+        }
+      ],
+      "state": "Himachal Pradesh",
+      "id": "dagshai",
+      "heroImage": "assets/images/states/himachal-pradesh/dagshai.webp"
+    },
+    {
+      "name": "Chintpurni Temple",
+      "city": "Una",
+      "category": "temples",
+      "distance": "Una District",
+      "rating": 4.7,
+      "description": "A highly revered Hindu shrine dedicated to Goddess Chhinnamastika, known as a major Shakti Peeth where wishes are said to be fulfilled.",
+      "history": "Believed to be the place where the feet of Goddess Sati fell according to Hindu mythology.",
+      "famousFor": "Shakti Peeth, religious significance, large fairs.",
+      "bestTime": "Year-round",
+      "timings": "4:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "chintpurni-temple",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/chintpurni-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "chintpurni-temple",
+      "heroImage": "assets/images/states/himachal-pradesh/chintpurni-temple.webp"
+    },
+    {
+      "name": "Timber Trail",
+      "city": "Parwanoo",
+      "category": "nature",
+      "distance": "Parwanoo",
+      "rating": 4.4,
+      "description": "A thrilling aerial ropeway ride connecting two lush green hills, offering spectacular views of the Kaushalya River valley and surrounding mountains.",
+      "history": "A premier resort destination that pioneered cable car tourism in the lower Shivalik hills.",
+      "famousFor": "Cable car ride, resort stay, valley views.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹1200 (Ropeway)",
+      "slug": "timber-trail",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/timber-trail.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "timber-trail",
+      "heroImage": "assets/images/states/himachal-pradesh/timber-trail.webp"
+    },
+    {
+      "name": "Solan City",
+      "city": "Solan",
+      "category": "cities",
+      "distance": "Solan District Headquarters",
+      "rating": 4.1,
+      "description": "Known as the 'Mushroom city of India', Solan is a fast-growing town surrounded by hills and dotted with ancient temples and monasteries.",
+      "history": "Named after the Hindu Goddess Shoolini Devi.",
+      "famousFor": "Shoolini Temple, Mohan Park, pleasant weather.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "solan-city",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/solan-city.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "solan-city",
+      "heroImage": "assets/images/states/himachal-pradesh/solan-city.webp"
+    },
+    {
+      "name": "Nahan Town",
+      "city": "Sirmaur",
+      "category": "cities",
+      "distance": "Sirmaur District Headquarters",
+      "rating": 4.3,
+      "description": "A picturesque, quiet hill station featuring clean, dust-free streets, heritage colonial buildings, and serene gardens.",
+      "history": "Founded by Raja Karan Prakash in 1621, it served as the capital of the Sirmur princely state.",
+      "famousFor": "Suketi Fossil Park nearby, peaceful lakes, heritage.",
+      "bestTime": "September to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nahan-town",
+      "images": {
+        "main": "assets/images/states/himachal-pradesh/nahan-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Himachal Pradesh",
+      "id": "nahan-town",
+      "heroImage": "assets/images/states/himachal-pradesh/nahan-town.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/himachal-pradesh/banner.webp"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "leh-city",
+  "name": "Leh City",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "The high-altitude desert capital of Ladakh, surrounded by dramatic barren mountains. It serves as the primary base camp for all treks and expeditions.",
+  "history": "An essential historical stopover on the ancient Silk Route connecting India, Tibet, and China.",
+  "famousFor": "Leh Palace, bustling markets, altitude acclimatization.",
+  "bestTime": "May to September",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000001047207bd418285fa688408.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000001047207bd418285fa688408.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000001047207bd418285fa688408.webp"
+  ],
+  "nearbyPlaces": [
+    "khardung-la",
+    "chang-la-pass",
+    "tso-kar",
+    "stok-palace",
+    "magnetic-hill",
+    "thiksey-monastery",
+    "kargil-town",
+    "leh-palace",
+    "hall-of-fame",
+    "pathar-sahib",
+    "shanti-stupa"
+  ]
+}

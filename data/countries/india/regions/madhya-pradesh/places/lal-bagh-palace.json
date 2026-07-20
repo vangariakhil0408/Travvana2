@@ -1,0 +1,21 @@
+{
+  "id": "lal-bagh-palace",
+  "name": "Lal Bagh Palace",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "description": "One of the most grandest buildings in the Holkar dynasty, this three-story palace is a magnificent blend of Italian Renaissance and European architectural styles.",
+  "history": "Built by Maharaja Shivaji Rao Holkar between 1886 and 1921. Its main gates are replicas of those at Buckingham Palace in London.",
+  "famousFor": "Ornate interiors, Buckingham Palace-style gates, and royal lifestyle exhibits.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b910",
+  "image": "./assets/images/states/madhya-pradesh/lal-bagh-palace.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/lal-bagh-palace.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/lal-bagh-palace.webp"
+  ],
+  "nearbyPlaces": [
+    "rajwada-palace",
+    "patalpani-waterfall"
+  ]
+}

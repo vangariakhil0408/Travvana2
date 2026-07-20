@@ -1,0 +1,57 @@
+{
+  "id": "karnataka",
+  "name": "Karnataka",
+  "slug": "karnataka",
+  "type": "state",
+  "capital": "Bengaluru",
+  "region": "south",
+  "language": [
+    "Kannada"
+  ],
+  "bestTimeToVisit": "October to February",
+  "climate": "Varied",
+  "description": "Karnataka is a state of incredible diversity — from the tech hub of Bengaluru to the ancient ruins of Hampi, from the coffee estates of Coorg to the beaches of Gokarna. One State, Many Worlds.",
+  "heroImage": "",
+  "gallery": [],
+  "stats": {
+    "totalDistricts": 31,
+    "totalPlaces": 50,
+    "avgRating": 4.5,
+    "totalReviews": 80000
+  },
+  "categories": [
+    "heritage",
+    "nature",
+    "beaches",
+    "food"
+  ],
+  "quickFacts": [
+    {
+      "icon": "🏛️",
+      "label": "UNESCO Sites",
+      "value": "3 (Hampi, Pattadakal, Western Ghats)"
+    },
+    {
+      "icon": "☕",
+      "label": "Coffee",
+      "value": "70% of India production"
+    },
+    {
+      "icon": "🏖️",
+      "label": "Coastline",
+      "value": "320 km"
+    }
+  ],
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "nearbyStates": [
+    "goa",
+    "maharashtra",
+    "tamil-nadu",
+    "kerala",
+    "andhra-pradesh",
+    "telangana"
+  ]
+}

@@ -1,0 +1,15 @@
+# Travvana Robots.txt
+# https://travvana.com
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+Disallow: /node_modules/
+Disallow: /fix-placeholder-data.js
+Disallow: /convert-to-webp.js
+Disallow: /fix-nearby-places.js
+Disallow: /test.js
+Disallow: /.git/
+
+Sitemap: https://travvana.com/sitemap.xml

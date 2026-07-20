@@ -1,0 +1,57 @@
+{
+  "id": "kushinagar",
+  "slug": "kushinagar",
+  "name": "Kushinagar (Mahaparinirvana Temple)",
+  "location": "Uttar Pradesh, India",
+  "district": "Kushinagar",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "One of the four holiest Buddhist pilgrimage sites in the world. This is where Lord Buddha attained Mahaparinirvana (final nirvana). The reclining Buddha statue inside the temple is deeply moving.",
+  "description": "Lord Buddha passed away here around 483 BCE. The site was excavated by Alexander Cunningham in the 19th century.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [],
+  "image": "./assets/images/states/uttar-pradesh/Kushinagar.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Kushinagar.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Kushinagar.webp"
+  ]
+}

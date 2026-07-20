@@ -1,0 +1,71 @@
+{
+  "id": "ranthambore-national-park",
+  "slug": "ranthambore-national-park",
+  "name": "Ranthambore National Park",
+  "location": "Rajasthan, India",
+  "district": "Sawai Madhopur",
+  "stateId": "rajasthan",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/ranthambore-national-park.webp",
+  "heroImage": "./assets/images/popular/ranthambore-national-park.webp",
+  "gallery": [
+    "./assets/images/popular/ranthambore-national-park.webp"
+  ],
+  "overview": "Experience the beauty of Ranthambore National Park, a top destination in Rajasthan, India.",
+  "description": "Ranthambore is prominently one of the largest national parks in Northern India, distinguished widely by its powerful tigers and dramatic ancient ruins.",
+  "rating": "4.6",
+  "reviewCount": 45663,
+  "popularityScore": 56,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to June",
+  "timings": "6:30 AM - 10:00 AM, 2:30 PM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹150",
+    "foreigner": "₹1000"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jaipur International Airport",
+      "distance": "160 km"
+    },
+    "nearestRailway": {
+      "name": "Sawai Madhopur Junction",
+      "distance": "11 km"
+    },
+    "byRoad": "Connected solidly to Jaipur and Agra."
+  },
+  "tags": [
+    "nature",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1617
+    },
+    {
+      "views": 2963
+    }
+  ],
+  "nearbyPlaces": [
+    "amber-fort",
+    "hawa-mahal",
+    "mount-abu"
+  ]
+}

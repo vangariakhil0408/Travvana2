@@ -1,0 +1,71 @@
+{
+  "id": "auroville-matrimandir",
+  "slug": "auroville-matrimandir",
+  "name": "Auroville Matrimandir",
+  "location": "Tamil Nadu, India",
+  "district": "Auroville",
+  "stateId": "tamil-nadu",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/auroville-matrimandir.webp",
+  "heroImage": "./assets/images/popular/auroville-matrimandir.webp",
+  "gallery": [
+    "./assets/images/popular/auroville-matrimandir.webp"
+  ],
+  "overview": "Experience the beauty of Auroville Matrimandir, a top destination in Tamil Nadu, India.",
+  "description": "Conceived by Mirra Alfassa (The Mother), the Matrimandir is a universal meditation center symbolizing human unity.",
+  "rating": "4.3",
+  "reviewCount": 32720,
+  "popularityScore": 9,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM - 5:00 PM (Booking required)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Auroville Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "10 km from Puducherry"
+  },
+  "tags": [
+    "spiritual",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3793
+    },
+    {
+      "views": 2713
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple"
+  ]
+}

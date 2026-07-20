@@ -1,0 +1,70 @@
+{
+  "id": "patwon-ki-haveli",
+  "slug": "patwon-ki-haveli",
+  "name": "Patwon Ki Haveli",
+  "location": "India",
+  "district": "",
+  "stateId": "other",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/patwon-ki-haveli.webp",
+  "heroImage": "./assets/images/popular/patwon-ki-haveli.webp",
+  "gallery": [
+    "./assets/images/popular/patwon-ki-haveli.webp"
+  ],
+  "overview": "Experience the beauty of Patwon Ki Haveli, a top destination in India.",
+  "description": "One of the most celebrated heritage destinations in India, Patwon Ki Haveli offers an unforgettable journey. Drawing explorers from all corners of the globe, it stands as a testament to India's unparalleled diversity. A visit here not only enriches your itinerary but also creates memories that last a lifetime.",
+  "rating": "5.0",
+  "reviewCount": 22022,
+  "popularityScore": 34,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Oct - Mar",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "₹50 - ₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "64 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "15 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "heritage",
+    "other",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2227
+    },
+    {
+      "views": 4329
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "amber-fort",
+    "hawa-mahal"
+  ]
+}

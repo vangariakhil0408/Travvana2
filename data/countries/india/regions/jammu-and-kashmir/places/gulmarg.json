@@ -1,0 +1,71 @@
+{
+  "id": "gulmarg",
+  "slug": "gulmarg",
+  "name": "Gulmarg",
+  "location": "Jammu & Kashmir, India",
+  "district": "Baramulla",
+  "stateId": "jammu-and-kashmir",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/gulmarg.webp",
+  "heroImage": "./assets/images/popular/gulmarg.webp",
+  "gallery": [
+    "./assets/images/popular/gulmarg.webp"
+  ],
+  "overview": "Experience the beauty of Gulmarg, a top destination in Jammu & Kashmir, India.",
+  "description": "Gulmarg is a world-renowned ski destination and majestic hill station featuring the legendary high-altitude Gulmarg Gondola.",
+  "rating": "4.6",
+  "reviewCount": 38966,
+  "popularityScore": 62,
+  "priceLevel": 1,
+  "bestTimeToVisit": "December to March (Snow), April to June (Summer)",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free (Gondola costs vary)",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Srinagar Airport",
+      "distance": "60 km"
+    },
+    "nearestRailway": {
+      "name": "Jammu Tawi",
+      "distance": "350 km"
+    },
+    "byRoad": "Accessible via taxis explicitly from Srinagar."
+  },
+  "tags": [
+    "nature",
+    "jammu-and-kashmir",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3971
+    },
+    {
+      "views": 1455
+    }
+  ],
+  "nearbyPlaces": [
+    "dal-lake",
+    "vaishno-devi",
+    "amarnath-cave"
+  ]
+}

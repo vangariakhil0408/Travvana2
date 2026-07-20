@@ -1,0 +1,57 @@
+{
+  "id": "jhansi-fort",
+  "slug": "jhansi-fort",
+  "name": "Jhansi Fort",
+  "location": "Uttar Pradesh, India",
+  "district": "Jhansi",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The imposing hilltop fortress made legendary by Rani Lakshmibai's fierce resistance during the 1857 Indian Rebellion. The fort offers panoramic views and houses a museum dedicated to the warrior queen.",
+  "description": "Built in 1613 by Bundela king Bir Singh Deo. Rani Lakshmibai fought the British here in the 1857 revolt with her infant son strapped to her back.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM \u2013 5:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [],
+  "image": "./assets/images/states/uttar-pradesh/Jhansi-fort.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Jhansi-fort.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Jhansi-fort.webp"
+  ]
+}

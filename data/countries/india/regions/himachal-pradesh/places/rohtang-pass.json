@@ -1,0 +1,71 @@
+{
+  "id": "rohtang-pass",
+  "slug": "rohtang-pass",
+  "name": "Rohtang Pass",
+  "location": "Himachal Pradesh, India",
+  "district": "Manali",
+  "stateId": "himachal-pradesh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/rohtang-pass.webp",
+  "heroImage": "./assets/images/popular/rohtang-pass.webp",
+  "gallery": [
+    "./assets/images/popular/rohtang-pass.webp"
+  ],
+  "overview": "Experience the beauty of Rohtang Pass, a top destination in Himachal Pradesh, India.",
+  "description": "A high mountain pass connecting Kullu Valley with Lahaul-Spiti, historically used as a trade route.",
+  "rating": "4.7",
+  "reviewCount": 8303,
+  "popularityScore": 19,
+  "priceLevel": 1,
+  "bestTimeToVisit": "May to October",
+  "timings": "6:00 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "Permit required",
+    "foreigner": "Permit required"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bhuntar / Kullu Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Manali Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "51 km from Manali"
+  },
+  "tags": [
+    "nature",
+    "himachal-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4162
+    },
+    {
+      "views": 790
+    }
+  ],
+  "nearbyPlaces": [
+    "shimla-mall-road",
+    "manali",
+    "spiti-valley"
+  ]
+}

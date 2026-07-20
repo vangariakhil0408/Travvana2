@@ -1,0 +1,27 @@
+{
+  "id": "vijaynagar-beach",
+  "name": "Vijaynagar Beach",
+  "city": "Havelock Island",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Also known as Beach No. 5, this incredibly tranquil stretch of white sand is lined with dense Mahua trees offering massive natural shade right up to the water's edge.",
+  "history": "Historically the quiet, residential side of Havelock, providing a stark contrast to the bustling Radhanagar beach.",
+  "famousFor": "Shallow swimming waters, Mahua trees, peaceful resorts.",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "havelock-island-diving",
+    "radhanagar-beach",
+    "elephant-beach",
+    "kalapathar-beach",
+    "natural-bridge",
+    "sitapur-beach",
+    "bharatpur-beach",
+    "laxmanpur-beach"
+  ]
+}

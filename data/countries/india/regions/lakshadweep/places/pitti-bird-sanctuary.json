@@ -1,0 +1,21 @@
+{
+  "id": "pitti-bird-sanctuary",
+  "name": "Pitti Bird Sanctuary",
+  "city": "Pitti",
+  "state": "Lakshadweep",
+  "description": "A tiny, completely uninhabited reef and islet that serves as a crucial breeding ground for pelagic birds like the Sooty Tern and the Noddy Tern.",
+  "history": "Declared a wildlife sanctuary under the Wildlife Protection Act to protect the nesting birds.",
+  "famousFor": "Bird watching, breeding ground for terns, pristine coral reef.",
+  "bestTime": "October to March",
+  "timings": "Unknown",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000006ed072098bb9ea59bbcca0ce.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000006ed072098bb9ea59bbcca0ce.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000006ed072098bb9ea59bbcca0ce.webp"
+  ],
+  "nearbyPlaces": [
+    "kavaratti-island",
+    "thinnakara-island"
+  ]
+}

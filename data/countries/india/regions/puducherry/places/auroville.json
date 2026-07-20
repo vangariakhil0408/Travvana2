@@ -1,0 +1,36 @@
+{
+  "id": "auroville",
+  "name": "Auroville",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "An experimental, universal township dedicated to the ideal of human unity. It was founded in 1968 by Mirra Alfassa (The Mother) and designed by architect Roger Anger.",
+  "history": "Designed to be a place where men and women of all countries are able to live in peace and progressive harmony above all creeds.",
+  "famousFor": "Matrimandir, sustainable living, and universal peace.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "Free (Prior booking for Matrimandir)",
+  "image": "./assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp",
+  "heroImage": "./assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+  ],
+  "nearbyPlaces": [
+    "matrimandir",
+    "serenity-beach",
+    "sri-karneshwar-nataraja",
+    "notre-dame-des-anges",
+    "arikamedu",
+    "french-war-memorial",
+    "immaculate-conception",
+    "sacred-heart-basilica",
+    "thirunallar-temple",
+    "bharathi-park",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "promenade-beach",
+    "ousteri-lake",
+    "paradise-beach",
+    "chunnambar-boat-house"
+  ]
+}

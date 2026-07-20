@@ -1,0 +1,30 @@
+{
+  "id": "leh-palace",
+  "name": "Leh Palace",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A massive, nine-story dun-colored royal palace built into the side of a mountain, dominating the Leh cityscape and offering panoramic views.",
+  "history": "Built by King Sengge Namgyal in the 17th century. Modeled after the Potala Palace in Lhasa, Tibet.",
+  "famousFor": "Tibetan architecture, panoramic views of Leh, historical artifacts.",
+  "bestTime": "May to September",
+  "timings": "8:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b925",
+  "image": "./assets/images/states/ladakh/file_0000000002e07208bac4a2b9c33b70f1.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000002e07208bac4a2b9c33b70f1.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000002e07208bac4a2b9c33b70f1.webp"
+  ],
+  "nearbyPlaces": [
+    "hall-of-fame",
+    "pathar-sahib",
+    "stok-palace",
+    "magnetic-hill",
+    "kargil-town",
+    "thiksey-monastery",
+    "shanti-stupa",
+    "tso-kar",
+    "chang-la-pass",
+    "khardung-la",
+    "leh-city"
+  ]
+}

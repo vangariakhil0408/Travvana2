@@ -1,0 +1,2793 @@
+{
+  "name": "Tamil Nadu",
+  "capital": "Chennai",
+  "tagline": "Land of Temples & Classical Heritage",
+  "heroImage": "assets/images/states/tamil-nadu/banner.webp",
+  "bestTime": "November to February",
+  "language": "Tamil",
+  "state": "Tamil Nadu",
+  "slug": "tamilnadu",
+  "places": [
+    {
+      "name": "Meenakshi Amman Temple",
+      "city": "Madurai",
+      "category": "temples",
+      "distance": "1 km from Madurai City Center",
+      "rating": 4.9,
+      "description": "A vibrant Dravidian temple complex known for its towering gopurams adorned with thousands of colorful sculptures. The spiritual heartbeat of Madurai, it draws millions of devotees and travelers annually.",
+      "history": "Originally built by the Pandya dynasty and later expanded by the Nayaks in the 16th century, the temple is dedicated to Goddess Meenakshi and Lord Sundareswarar.",
+      "famousFor": "Dravidian architecture, thousand-pillar hall, vibrant festivals",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 12:30 PM, 4:00 PM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "meenakshi-amman-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/popular/meenakshi-amman-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thirumalai Nayakkar Mahal",
+          "city": "Madurai",
+          "distance": "2 km away",
+          "category": "heritage",
+          "description": "A 17th-century palace built by King Thirumalai Nayak, featuring a grand fusion of Dravidian and Islamic architecture with massive white pillars and a beautiful courtyard.",
+          "history": "Constructed in 1636 AD, it was the royal residence of the Nayak dynasty. Most of the structure was destroyed by the king's grandson, but the remaining parts are still awe-inspiring.",
+          "famousFor": "Grand pillars, light and sound show, Indo-Saracenic architecture",
+          "bestTime": "October to March",
+          "timings": "9:00 AM – 5:00 PM",
+          "entryFee": "₹10 (Indians), ₹50 (Foreigners)",
+          "rating": 4.6,
+          "slug": "thirumalai-nayakkar-mahal",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/thirumalai-nayakkar-mahal.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/thirumalai-nayakkar-mahal.webp"
+        },
+        {
+          "name": "Gandhi Memorial Museum",
+          "city": "Madurai",
+          "distance": "3 km away",
+          "category": "heritage",
+          "description": "One of the five major Gandhi museums in India, housed in the historic Tamukkam Palace. It chronicles India's struggle for independence through photographs, letters, and relics.",
+          "history": "Established in 1959 in a palace dating back to 1670 AD, it holds the blood-stained garment worn by Gandhi when he was assassinated.",
+          "famousFor": "Mahatma Gandhi's relics, freedom struggle exhibition",
+          "bestTime": "Year-round",
+          "timings": "10:00 AM – 1:00 PM, 2:00 PM – 5:45 PM",
+          "entryFee": "Free",
+          "rating": 4.7,
+          "slug": "gandhi-memorial-museum",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/gandhi-memorial-museum.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/gandhi-memorial-museum.webp"
+        }
+      ],
+      "id": "meenakshi-amman-temple",
+      "image": "assets/images/popular/meenakshi-amman-temple.webp",
+      "heroImage": "assets/images/popular/meenakshi-amman-temple.webp"
+    },
+    {
+      "name": "Thirumalai Nayakkar Mahal",
+      "city": "Madurai",
+      "distance": "2 km away",
+      "category": "heritage",
+      "description": "A 17th-century palace built by King Thirumalai Nayak, featuring a grand fusion of Dravidian and Islamic architecture with massive white pillars and a beautiful courtyard.",
+      "history": "Constructed in 1636 AD, it was the royal residence of the Nayak dynasty. Most of the structure was destroyed by the king's grandson, but the remaining parts are still awe-inspiring.",
+      "famousFor": "Grand pillars, light and sound show, Indo-Saracenic architecture",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10 (Indians), ₹50 (Foreigners)",
+      "rating": 4.6,
+      "slug": "thirumalai-nayakkar-mahal",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thirumalai-nayakkar-mahal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Meenakshi Amman Temple",
+          "city": "Madurai",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "meenakshi-amman-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/meenakshi-amman-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/meenakshi-amman-temple.webp"
+        }
+      ],
+      "id": "thirumalai-nayakkar-mahal",
+      "image": "assets/images/states/tamil-nadu/thirumalai-nayakkar-mahal.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thirumalai-nayakkar-mahal.webp"
+    },
+    {
+      "name": "Gandhi Memorial Museum",
+      "city": "Madurai",
+      "distance": "3 km away",
+      "category": "heritage",
+      "description": "One of the five major Gandhi museums in India, housed in the historic Tamukkam Palace. It chronicles India's struggle for independence through photographs, letters, and relics.",
+      "history": "Established in 1959 in a palace dating back to 1670 AD, it holds the blood-stained garment worn by Gandhi when he was assassinated.",
+      "famousFor": "Mahatma Gandhi's relics, freedom struggle exhibition",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 1:00 PM, 2:00 PM – 5:45 PM",
+      "entryFee": "Free",
+      "rating": 4.7,
+      "slug": "gandhi-memorial-museum",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/gandhi-memorial-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Meenakshi Amman Temple",
+          "city": "Madurai",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "meenakshi-amman-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/meenakshi-amman-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/meenakshi-amman-temple.webp"
+        }
+      ],
+      "id": "gandhi-memorial-museum",
+      "image": "assets/images/states/tamil-nadu/gandhi-memorial-museum.webp",
+      "heroImage": "assets/images/states/tamil-nadu/gandhi-memorial-museum.webp"
+    },
+    {
+      "name": "Marina Beach",
+      "city": "Chennai",
+      "category": "beaches",
+      "distance": "Center of Chennai city",
+      "rating": 4.6,
+      "description": "Marina Beach is the second longest urban beach in the world (13 km) and India's longest natural urban beach, stretching along the Bay of Bengal in the heart of Chennai. The beach is a vibrant cultural landmark lined with heritage buildings, statues, and the iconic lighthouse.",
+      "history": "The beach promenade was laid out in 1884 by Governor Mountstuart Elphinstone Grant Duff. It has been the stage for many political rallies — the funerals of former Chief Ministers CN Annadurai, MG Ramachandran, and J Jayalalithaa drew millions here. The lighthouse (1977) replaced a colonial-era one.",
+      "famousFor": "Second longest urban beach in the world, Sunrise, Evening food stalls, Heritage buildings, Chennai lighthouse",
+      "bestTime": "November to February",
+      "timings": "Open 24 hours (lighthouse: 2:00 PM – 5:00 PM)",
+      "entryFee": "Free (Lighthouse: ₹20)",
+      "slug": "marina-beach",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/popular/marina-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Fort St. George",
+          "city": "Chennai",
+          "distance": "4 km away",
+          "category": "heritage",
+          "description": "The first English fortress in India, founded in 1644. It is an imposing structure that currently houses the Tamil Nadu Legislative Assembly and the Fort Museum.",
+          "history": "Built by the East India Company, it served as the cornerstone for the city of Madras. St. Mary's Church inside is the oldest Anglican church in India.",
+          "famousFor": "Colonial history, Fort Museum, St. Mary's Church",
+          "bestTime": "November to February",
+          "timings": "9:00 AM – 5:00 PM (Museum closed on Fridays)",
+          "entryFee": "₹20 (Indians), ₹300 (Foreigners)",
+          "rating": 4.5,
+          "slug": "fort-st-george",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/fort-st-george.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/fort-st-george.webp"
+        },
+        {
+          "name": "Santhome Cathedral Basilica",
+          "city": "Chennai",
+          "distance": "3 km away",
+          "category": "heritage",
+          "description": "A minor basilica built over the tomb of Saint Thomas, one of the twelve apostles of Jesus. It is a stunning example of Neo-Gothic architecture with bright white exteriors.",
+          "history": "Originally built by the Portuguese in the 16th century, it was rebuilt in its current Gothic style by the British in 1896.",
+          "famousFor": "Religious significance, neo-Gothic architecture, Saint Thomas’s tomb",
+          "bestTime": "Year-round",
+          "timings": "6:00 AM – 9:00 PM",
+          "entryFee": "Free",
+          "rating": 4.8,
+          "slug": "santhome-cathedral",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/santhome-cathedral.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/santhome-cathedral.webp"
+        }
+      ],
+      "id": "marina-beach",
+      "image": "assets/images/popular/marina-beach.webp",
+      "heroImage": "assets/images/popular/marina-beach.webp"
+    },
+    {
+      "name": "Fort St. George",
+      "city": "Chennai",
+      "distance": "4 km away",
+      "category": "heritage",
+      "description": "The first English fortress in India, founded in 1644. It is an imposing structure that currently houses the Tamil Nadu Legislative Assembly and the Fort Museum.",
+      "history": "Built by the East India Company, it served as the cornerstone for the city of Madras. St. Mary's Church inside is the oldest Anglican church in India.",
+      "famousFor": "Colonial history, Fort Museum, St. Mary's Church",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 5:00 PM (Museum closed on Fridays)",
+      "entryFee": "₹20 (Indians), ₹300 (Foreigners)",
+      "rating": 4.5,
+      "slug": "fort-st-george",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/fort-st-george.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Marina Beach",
+          "city": "Chennai",
+          "distance": "4 km away",
+          "category": "beaches",
+          "slug": "marina-beach",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/marina-beach.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/marina-beach.webp"
+        }
+      ],
+      "id": "fort-st-george",
+      "image": "assets/images/states/tamil-nadu/fort-st-george.webp",
+      "heroImage": "assets/images/states/tamil-nadu/fort-st-george.webp"
+    },
+    {
+      "name": "Santhome Cathedral Basilica",
+      "city": "Chennai",
+      "distance": "3 km away",
+      "category": "heritage",
+      "description": "A minor basilica built over the tomb of Saint Thomas, one of the twelve apostles of Jesus. It is a stunning example of Neo-Gothic architecture with bright white exteriors.",
+      "history": "Originally built by the Portuguese in the 16th century, it was rebuilt in its current Gothic style by the British in 1896.",
+      "famousFor": "Religious significance, neo-Gothic architecture, Saint Thomas’s tomb",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "rating": 4.8,
+      "slug": "santhome-cathedral",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/santhome-cathedral.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Marina Beach",
+          "city": "Chennai",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "marina-beach",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/marina-beach.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/marina-beach.webp"
+        }
+      ],
+      "id": "santhome-cathedral",
+      "image": "assets/images/states/tamil-nadu/santhome-cathedral.webp",
+      "heroImage": "assets/images/states/tamil-nadu/santhome-cathedral.webp"
+    },
+    {
+      "name": "Ooty",
+      "city": "Ooty",
+      "category": "hills",
+      "distance": "90 km from Coimbatore",
+      "rating": 4.8,
+      "description": "A picturesque hill station nestled in the Nilgiri Hills, Ooty is known for its lush tea gardens, misty landscapes, and colonial charm. It offers a refreshing escape from the plains.",
+      "history": "Established as a summer retreat by the British in the 19th century, it retains colonial architecture and heritage.",
+      "famousFor": "Tea gardens, Nilgiri Mountain Railway, botanical gardens",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ooty",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/ooty.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Government Botanical Garden",
+          "city": "Ooty",
+          "distance": "2 km away",
+          "category": "nature",
+          "description": "A terraced garden on the slopes of Doddabetta peak, featuring thousands of species of plants, an Italian garden, and a fossilized tree trunk that is 20 million years old.",
+          "history": "Established in 1848 by the British to provide vegetables and fruits for colonial officials, it has evolved into a botanical marvel.",
+          "famousFor": "Annual flower show, fossilized tree, terraced layouts",
+          "bestTime": "April to June, September to October",
+          "timings": "7:00 AM – 6:30 PM",
+          "entryFee": "₹30",
+          "rating": 4.7,
+          "slug": "botanical-garden-ooty",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+        },
+        {
+          "name": "Ooty Lake",
+          "city": "Ooty",
+          "distance": "3 km away",
+          "category": "nature",
+          "description": "A picturesque artificial lake surrounded by tall eucalyptus trees and green hills. It's a central hub for boating and recreation in Ooty mountain station.",
+          "history": "Constructed in 1824 by John Sullivan, the then Collector of Coimbatore, for irrigation and as a fishing spot.",
+          "famousFor": "Boating, horse riding, photography",
+          "bestTime": "Year-round",
+          "timings": "9:00 AM – 6:00 PM",
+          "entryFee": "₹13 (Indians)",
+          "rating": 4.5,
+          "slug": "ooty-lake",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/ooty-lake.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/ooty-lake.webp"
+        }
+      ],
+      "id": "ooty",
+      "image": "assets/images/states/tamil-nadu/ooty.webp",
+      "heroImage": "assets/images/states/tamil-nadu/ooty.webp"
+    },
+    {
+      "name": "Government Botanical Garden",
+      "city": "Ooty",
+      "distance": "2 km away",
+      "category": "nature",
+      "description": "A terraced garden on the slopes of Doddabetta peak, featuring thousands of species of plants, an Italian garden, and a fossilized tree trunk that is 20 million years old.",
+      "history": "Established in 1848 by the British to provide vegetables and fruits for colonial officials, it has evolved into a botanical marvel.",
+      "famousFor": "Annual flower show, fossilized tree, terraced layouts",
+      "bestTime": "April to June, September to October",
+      "timings": "7:00 AM – 6:30 PM",
+      "entryFee": "₹30",
+      "rating": 4.7,
+      "slug": "botanical-garden-ooty",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ooty",
+          "city": "Ooty",
+          "distance": "2 km away",
+          "category": "hills",
+          "slug": "ooty",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/ooty.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/ooty.webp"
+        }
+      ],
+      "id": "botanical-garden-ooty",
+      "image": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp",
+      "heroImage": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+    },
+    {
+      "name": "Kodaikanal",
+      "city": "Kodaikanal",
+      "category": "hills",
+      "distance": "120 km from Madurai",
+      "rating": 4.7,
+      "description": "Known as the 'Princess of Hill Stations', Kodaikanal features serene lakes, waterfalls, and mist-covered cliffs. It is ideal for nature lovers and honeymooners.",
+      "history": "Developed by American missionaries and British officials in the 19th century as a hill retreat.",
+      "famousFor": "Kodai Lake, Coaker's Walk, Pillar Rocks",
+      "bestTime": "April to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kodaikanal",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kodaikanal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Coaker's Walk",
+          "city": "Kodaikanal",
+          "distance": "1 km away",
+          "category": "nature",
+          "description": "A 1-km long paved pedestrian path along the edge of steep slopes, offering breathtaking panoramic views of the plains and the surrounding hills.",
+          "history": "Constructed in 1872 by Lieutenant Coaker, it was designed as a mountain walk to enjoy the valley's beauty.",
+          "famousFor": "Cloud views, panoramic photography, morning walks",
+          "bestTime": "Year-round",
+          "timings": "7:00 AM – 7:00 PM",
+          "entryFee": "₹10",
+          "rating": 4.6,
+          "slug": "coakers-walk",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/coakers-walk.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/coakers-walk.webp"
+        },
+        {
+          "name": "Pillar Rocks",
+          "city": "Kodaikanal",
+          "distance": "8 km away",
+          "category": "nature",
+          "description": "Set of three massive granite pillars standing side-by-side, reaching a height of 122 meters. Often shrouded in mist, it provides a mystical and dramatic view.",
+          "history": "A natural geological formation that has become one of Kodaikanal's most iconic landmarks.",
+          "famousFor": "Vertical rock pillars, misty views, deep chasms",
+          "bestTime": "April to June",
+          "timings": "9:00 AM – 4:00 PM",
+          "entryFee": "₹10",
+          "rating": 4.7,
+          "slug": "pillar-rocks",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/pillar-rocks.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/pillar-rocks.webp"
+        }
+      ],
+      "id": "kodaikanal",
+      "image": "assets/images/states/tamil-nadu/kodaikanal.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kodaikanal.webp"
+    },
+    {
+      "name": "Coaker's Walk",
+      "city": "Kodaikanal",
+      "distance": "1 km away",
+      "category": "nature",
+      "description": "A 1-km long paved pedestrian path along the edge of steep slopes, offering breathtaking panoramic views of the plains and the surrounding hills.",
+      "history": "Constructed in 1872 by Lieutenant Coaker, it was designed as a mountain walk to enjoy the valley's beauty.",
+      "famousFor": "Cloud views, panoramic photography, morning walks",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 7:00 PM",
+      "entryFee": "₹10",
+      "rating": 4.6,
+      "slug": "coakers-walk",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/coakers-walk.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kodaikanal",
+          "city": "Kodaikanal",
+          "distance": "1 km away",
+          "category": "hills",
+          "slug": "kodaikanal",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/kodaikanal.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/kodaikanal.webp"
+        }
+      ],
+      "id": "coakers-walk",
+      "image": "assets/images/states/tamil-nadu/coakers-walk.webp",
+      "heroImage": "assets/images/states/tamil-nadu/coakers-walk.webp"
+    },
+    {
+      "name": "Pillar Rocks",
+      "city": "Kodaikanal",
+      "distance": "8 km away",
+      "category": "nature",
+      "description": "Set of three massive granite pillars standing side-by-side, reaching a height of 122 meters. Often shrouded in mist, it provides a mystical and dramatic view.",
+      "history": "A natural geological formation that has become one of Kodaikanal's most iconic landmarks.",
+      "famousFor": "Vertical rock pillars, misty views, deep chasms",
+      "bestTime": "April to June",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹10",
+      "rating": 4.7,
+      "slug": "pillar-rocks",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pillar-rocks.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kodaikanal",
+          "city": "Kodaikanal",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "kodaikanal",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/kodaikanal.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/kodaikanal.webp"
+        }
+      ],
+      "id": "pillar-rocks",
+      "image": "assets/images/states/tamil-nadu/pillar-rocks.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pillar-rocks.webp"
+    },
+    {
+      "name": "Ramanathaswamy Temple",
+      "city": "Rameswaram",
+      "category": "temples",
+      "distance": "2 km from Rameswaram Center",
+      "rating": 4.9,
+      "description": "A sacred Hindu pilgrimage site known for its long corridors and holy water tanks. It is associated with Lord Rama and holds immense religious significance.",
+      "history": "Built by the Pandya kings and later expanded by various dynasties, it is one of the Char Dham pilgrimage sites.",
+      "famousFor": "Longest temple corridor, Char Dham pilgrimage",
+      "bestTime": "October to April",
+      "timings": "5:00 AM – 1:00 PM, 3:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "rameswaram-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agni Theertham",
+          "city": "Rameswaram",
+          "distance": "1 km away",
+          "category": "beaches",
+          "description": "One of the most sacred theerthams (holy water bodies) in Rameswaram, where pilgrims take a holy dip before entering the Ramanathaswamy Temple.",
+          "history": "According to Hindu mythology, Lord Rama bathed here to purify himself after the battle in Lanka.",
+          "famousFor": "Religious rituals, holy bath, sunrise views",
+          "bestTime": "Year-round",
+          "timings": "5:00 AM – 9:00 PM",
+          "entryFee": "Free",
+          "rating": 4.6,
+          "slug": "agni-theertham",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/agni-theertham.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/agni-theertham.webp"
+        },
+        {
+          "name": "Dhanushkodi",
+          "city": "Rameswaram",
+          "distance": "18 km away",
+          "category": "nature",
+          "description": "A thin strip of land at the edge of Rameswaram island where the Bay of Bengal and Indian Ocean meet. Now a ghost town after the 1964 cyclone.",
+          "history": "Once a flourishing trade port, it was completely submerged and destroyed by a catastrophic cyclone in 1964.",
+          "famousFor": "Ghost town ruins, meeting point of two seas, offbeat road trips",
+          "bestTime": "October to March",
+          "timings": "6:00 AM – 6:00 PM",
+          "entryFee": "Free",
+          "rating": 4.8,
+          "slug": "dhanushkodi",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/dhanushkodi.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/dhanushkodi.webp"
+        }
+      ],
+      "id": "rameswaram-temple",
+      "image": "assets/images/states/tamil-nadu/rameswaram-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+    },
+    {
+      "name": "Agni Theertham",
+      "city": "Rameswaram",
+      "distance": "1 km away",
+      "category": "beaches",
+      "description": "One of the most sacred theerthams (holy water bodies) in Rameswaram, where pilgrims take a holy dip before entering the Ramanathaswamy Temple.",
+      "history": "According to Hindu mythology, Lord Rama bathed here to purify himself after the battle in Lanka.",
+      "famousFor": "Religious rituals, holy bath, sunrise views",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "slug": "agni-theertham",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/agni-theertham.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ramanathaswamy Temple",
+          "city": "Rameswaram",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "rameswaram-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+        }
+      ],
+      "id": "agni-theertham",
+      "image": "assets/images/states/tamil-nadu/agni-theertham.webp",
+      "heroImage": "assets/images/states/tamil-nadu/agni-theertham.webp"
+    },
+    {
+      "name": "Dhanushkodi",
+      "city": "Rameswaram",
+      "distance": "18 km away",
+      "category": "nature",
+      "description": "A thin strip of land at the edge of Rameswaram island where the Bay of Bengal and Indian Ocean meet. Now a ghost town after the 1964 cyclone.",
+      "history": "Once a flourishing trade port, it was completely submerged and destroyed by a catastrophic cyclone in 1964.",
+      "famousFor": "Ghost town ruins, meeting point of two seas, offbeat road trips",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "rating": 4.8,
+      "slug": "dhanushkodi",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/dhanushkodi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ramanathaswamy Temple",
+          "city": "Rameswaram",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "rameswaram-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/rameswaram-temple.webp"
+        }
+      ],
+      "id": "dhanushkodi",
+      "image": "assets/images/states/tamil-nadu/dhanushkodi.webp",
+      "heroImage": "assets/images/states/tamil-nadu/dhanushkodi.webp"
+    },
+    {
+      "name": "Brihadeeswarar Temple",
+      "city": "Thanjavur",
+      "category": "heritage",
+      "distance": "1 km from Thanjavur Center",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage Site, this magnificent temple is a masterpiece of Chola architecture. Its towering vimana and intricate carvings are awe-inspiring.",
+      "history": "Built by Raja Raja Chola I in the 11th century, it represents the grandeur of the Chola dynasty.",
+      "famousFor": "UNESCO site, Chola architecture, massive dome",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "brihadeeswarar-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/popular/brihadeeswarar-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thanjavur Palace",
+          "city": "Thanjavur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "description": "A monumental palace complex that served as the official residence to the Bhonsle family. It features Durbar halls, observation towers, and an ancient library.",
+          "history": "Built by the Nayak rulers in the 1530s and later expanded by the Marathas in the late 17th century.",
+          "famousFor": "Saraswathi Mahal Library, Maratha architecture, palace museum",
+          "bestTime": "October to March",
+          "timings": "9:00 AM – 6:00 PM",
+          "entryFee": "₹30",
+          "rating": 4.6,
+          "slug": "thanjavur-palace",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/thanjavur-palace.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/thanjavur-palace.webp"
+        }
+      ],
+      "id": "brihadeeswarar-temple",
+      "image": "assets/images/popular/brihadeeswarar-temple.webp",
+      "heroImage": "assets/images/popular/brihadeeswarar-temple.webp"
+    },
+    {
+      "name": "Thanjavur Palace",
+      "city": "Thanjavur",
+      "distance": "2 km away",
+      "category": "heritage",
+      "description": "A monumental palace complex that served as the official residence to the Bhonsle family. It features Durbar halls, observation towers, and an ancient library.",
+      "history": "Built by the Nayak rulers in the 1530s and later expanded by the Marathas in the late 17th century.",
+      "famousFor": "Saraswathi Mahal Library, Maratha architecture, palace museum",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "rating": 4.6,
+      "slug": "thanjavur-palace",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thanjavur-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Brihadeeswarar Temple",
+          "city": "Thanjavur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "brihadeeswarar-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/brihadeeswarar-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/brihadeeswarar-temple.webp"
+        }
+      ],
+      "id": "thanjavur-palace",
+      "image": "assets/images/states/tamil-nadu/thanjavur-palace.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thanjavur-palace.webp"
+    },
+    {
+      "name": "Mahabalipuram (Mamallapuram)",
+      "city": "Mahabalipuram",
+      "category": "heritage",
+      "distance": "60 km from Chennai",
+      "rating": 4.8,
+      "description": "A coastal heritage town famed for its rock-cut temples and ancient sculptures overlooking the Bay of Bengal. The blend of history and sea breeze creates a unique cultural atmosphere.",
+      "history": "Built by the Pallava dynasty in the 7th–8th centuries, it was a major port city and now a UNESCO World Heritage Site.",
+      "famousFor": "Shore Temple, rock-cut caves, Pancha Rathas",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40 (Indians), ₹600 (Foreigners)",
+      "slug": "mahabalipuram",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/mahabalipuram.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shore Temple",
+          "city": "Mahabalipuram",
+          "distance": "1 km",
+          "slug": "shore-temple-mahabalipuram",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/shore-temple-mahabalipuram.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/shore-temple-mahabalipuram.webp"
+        },
+        {
+          "name": "Pancha Rathas",
+          "city": "Mahabalipuram",
+          "distance": "2 km",
+          "slug": "pancha-rathas-mahabalipuram",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/pancha-rathas-mahabalipuram.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/pancha-rathas-mahabalipuram.webp"
+        }
+      ],
+      "id": "mahabalipuram",
+      "image": "assets/images/states/tamil-nadu/mahabalipuram.webp",
+      "heroImage": "assets/images/states/tamil-nadu/mahabalipuram.webp"
+    },
+    {
+      "name": "Kanyakumari",
+      "city": "Kanyakumari",
+      "category": "beaches",
+      "distance": "90 km from Nagercoil",
+      "rating": 4.7,
+      "description": "The southernmost tip of mainland India where three seas meet, offering spectacular sunrise and sunset views over the ocean.",
+      "history": "Historically part of ancient Tamil kingdoms, it has been a significant spiritual and trade center.",
+      "famousFor": "Triveni Sangam, Vivekananda Rock Memorial",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kanyakumari",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kanyakumari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vivekananda Rock Memorial",
+          "city": "Kanyakumari",
+          "distance": "500 m (by ferry)",
+          "slug": "vivekananda-rock-memorial-kanyakumari",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/vivekananda-rock-memorial-kanyakumari.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/vivekananda-rock-memorial-kanyakumari.webp"
+        },
+        {
+          "name": "Thiruvalluvar Statue",
+          "city": "Kanyakumari",
+          "distance": "500 m (by ferry)",
+          "slug": "thiruvalluvar-statue-kanyakumari",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/thiruvalluvar-statue-kanyakumari.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/thiruvalluvar-statue-kanyakumari.webp"
+        }
+      ],
+      "id": "kanyakumari",
+      "image": "assets/images/states/tamil-nadu/kanyakumari.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kanyakumari.webp"
+    },
+    {
+      "name": "Hogenakkal Waterfalls",
+      "city": "Dharmapuri",
+      "category": "waterfalls",
+      "distance": "46 km from Dharmapuri",
+      "rating": 4.6,
+      "description": "Often called the 'Niagara of India', this waterfall on the Kaveri River is known for its powerful cascades and coracle rides.",
+      "history": "Formed by the Kaveri River cutting through rocky terrain over centuries, it is one of the oldest waterfalls in India.",
+      "famousFor": "Coracle rides, medicinal baths",
+      "bestTime": "October to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hogenakkal-waterfalls",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/hogenakkal-waterfalls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "hogenakkal-waterfalls",
+      "image": "assets/images/states/tamil-nadu/hogenakkal-waterfalls.webp",
+      "heroImage": "assets/images/states/tamil-nadu/hogenakkal-waterfalls.webp"
+    },
+    {
+      "name": "Melagiri Hills",
+      "city": "Krishnagiri",
+      "distance": "15 km away",
+      "category": "nature",
+      "description": "A range of lush hills in the Krishnagiri district, serving as an important elephant corridor and a sanctuary for diverse flora and fauna.",
+      "history": "A part of the Hosur forest division, it has been a protected eco-zone for decades, bridging the Western and Eastern Ghats.",
+      "famousFor": "Elephant corridor, trekking, mountain weather",
+      "bestTime": "September to January",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "rating": 4.3,
+      "slug": "melagiri-hills",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/melagiri-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "melagiri-hills",
+      "image": "assets/images/states/tamil-nadu/melagiri-hills.webp",
+      "heroImage": "assets/images/states/tamil-nadu/melagiri-hills.webp"
+    },
+    {
+      "name": "Chidambaram Nataraja Temple",
+      "city": "Chidambaram",
+      "category": "temples",
+      "distance": "2 km from Chidambaram Center",
+      "rating": 4.8,
+      "description": "A sacred temple dedicated to Lord Shiva in his cosmic dancer form, representing the element of space.",
+      "history": "Constructed during the Chola dynasty, it is one of the Pancha Bhoota temples symbolizing space (Akasha).",
+      "famousFor": "Cosmic dance of Shiva, Chidambara Rahasyam",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 12:00 PM, 5:00 PM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "chidambaram-nataraja-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/chidambaram-nataraja-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pichavaram Mangrove Forest",
+          "city": "Chidambaram",
+          "distance": "15 km away",
+          "category": "nature",
+          "description": "One of the largest and most accessible mangrove forests in India, featuring a complex network of 4,400 large and small canals that can be navigated by rowboats.",
+          "history": "Formed over centuries by the interplay of river water and the sea, creating a unique brackish water ecosystem.",
+          "famousFor": "Canal boating, mangrove tunnels, bird watching",
+          "bestTime": "November to February",
+          "timings": "9:00 AM – 6:00 PM",
+          "entryFee": "₹30 (Boating extra)",
+          "rating": 4.6,
+          "slug": "pichavaram-mangrove",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/pichavaram-mangrove-forest.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/pichavaram-mangrove-forest.webp"
+        }
+      ],
+      "id": "chidambaram-nataraja-temple",
+      "image": "assets/images/states/tamil-nadu/chidambaram-nataraja-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/chidambaram-nataraja-temple.webp"
+    },
+    {
+      "name": "Pichavaram Mangrove Forest",
+      "city": "Chidambaram",
+      "distance": "15 km away",
+      "category": "nature",
+      "description": "One of the largest and most accessible mangrove forests in India, featuring a complex network of 4,400 large and small canals that can be navigated by rowboats.",
+      "history": "Formed over centuries by the interplay of river water and the sea, creating a unique brackish water ecosystem.",
+      "famousFor": "Canal boating, mangrove tunnels, bird watching",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹30 (Boating extra)",
+      "rating": 4.6,
+      "slug": "pichavaram-mangrove",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pichavaram-mangrove-forest.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chidambaram Nataraja Temple",
+          "city": "Chidambaram",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "chidambaram-nataraja-temple",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/chidambaram-nataraja-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/chidambaram-nataraja-temple.webp"
+        }
+      ],
+      "id": "pichavaram-mangrove",
+      "image": "assets/images/states/tamil-nadu/pichavaram-mangrove-forest.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pichavaram-mangrove-forest.webp"
+    },
+    {
+      "name": "Basilica of Our Lady of Good Health",
+      "city": "Velankanni",
+      "category": "heritage",
+      "distance": "10 km from Nagapattinam",
+      "rating": 4.8,
+      "description": "A prominent Christian pilgrimage site attracting devotees from across the world, known for its miraculous healing powers.",
+      "history": "Built by Portuguese traders in the 16th century, it has grown into a major pilgrimage center.",
+      "famousFor": "Religious pilgrimage, annual festival",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "velankanni-church",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/velankanni-church.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Velankanni Beach",
+          "city": "Velankanni",
+          "distance": "1 km away",
+          "category": "beaches",
+          "description": "A serene and spiritually charged beach adjacent to the Lady of Good Health Basilica. Many pilgrims perform religious walks along this sandy shore.",
+          "history": "Historically integrated into the pilgrimage circuit of the Velankanni shrine for centuries.",
+          "famousFor": "Pilgrimage walks, quiet shores, local stalls",
+          "bestTime": "August to September (Festival time)",
+          "timings": "Open 24/7",
+          "entryFee": "Free",
+          "rating": 4.4,
+          "slug": "velankanni-beach",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/velankanni-beach.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/velankanni-beach.webp"
+        }
+      ],
+      "id": "velankanni-church",
+      "image": "assets/images/states/tamil-nadu/velankanni-church.webp",
+      "heroImage": "assets/images/states/tamil-nadu/velankanni-church.webp"
+    },
+    {
+      "name": "Velankanni Beach",
+      "city": "Velankanni",
+      "distance": "1 km away",
+      "category": "beaches",
+      "description": "A serene and spiritually charged beach adjacent to the Lady of Good Health Basilica. Many pilgrims perform religious walks along this sandy shore.",
+      "history": "Historically integrated into the pilgrimage circuit of the Velankanni shrine for centuries.",
+      "famousFor": "Pilgrimage walks, quiet shores, local stalls",
+      "bestTime": "August to September (Festival time)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "rating": 4.4,
+      "slug": "velankanni-beach",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/velankanni-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of Our Lady of Good Health",
+          "city": "Velankanni",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "velankanni-church",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/velankanni-church.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/velankanni-church.webp"
+        }
+      ],
+      "id": "velankanni-beach",
+      "image": "assets/images/states/tamil-nadu/velankanni-beach.webp",
+      "heroImage": "assets/images/states/tamil-nadu/velankanni-beach.webp"
+    },
+    {
+      "name": "Courtallam Waterfalls",
+      "city": "Tenkasi",
+      "category": "waterfalls",
+      "distance": "7 km from Tenkasi",
+      "rating": 4.7,
+      "description": "A collection of waterfalls in the Western Ghats known for their therapeutic properties and scenic surroundings.",
+      "history": "Formed by the Chittar River, the falls have been a popular bathing and healing spot for centuries.",
+      "famousFor": "Medicinal waters, multiple cascades",
+      "bestTime": "June to September",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "courtallam-waterfalls",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/courtallam-waterfalls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Five Falls",
+          "city": "Courtallam",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "description": "Often considered the most picturesque waterfall in Courtallam, the water here splits into five distinct cascades before dropping down into a pool.",
+          "history": "Part of the Western Ghats' natural drainage system, locally revered for its therapeutic and medicinal properties.",
+          "famousFor": "Five streams, natural spa, recreational bathing",
+          "bestTime": "June to September",
+          "timings": "6:00 AM – 6:00 PM",
+          "entryFee": "Free",
+          "rating": 4.7,
+          "slug": "five-falls-courtallam",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/five-falls-courtallam.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/five-falls-courtallam.webp"
+        }
+      ],
+      "id": "courtallam-waterfalls",
+      "image": "assets/images/states/tamil-nadu/courtallam-waterfalls.webp",
+      "heroImage": "assets/images/states/tamil-nadu/courtallam-waterfalls.webp"
+    },
+    {
+      "name": "Five Falls",
+      "city": "Courtallam",
+      "distance": "3 km away",
+      "category": "waterfalls",
+      "description": "Often considered the most picturesque waterfall in Courtallam, the water here splits into five distinct cascades before dropping down into a pool.",
+      "history": "Part of the Western Ghats' natural drainage system, locally revered for its therapeutic and medicinal properties.",
+      "famousFor": "Five streams, natural spa, recreational bathing",
+      "bestTime": "June to September",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "rating": 4.7,
+      "slug": "five-falls-courtallam",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/five-falls-courtallam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Courtallam Waterfalls",
+          "city": "Tenkasi",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "courtallam-waterfalls",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/courtallam-waterfalls.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/courtallam-waterfalls.webp"
+        }
+      ],
+      "id": "five-falls-courtallam",
+      "image": "assets/images/states/tamil-nadu/five-falls-courtallam.webp",
+      "heroImage": "assets/images/states/tamil-nadu/five-falls-courtallam.webp"
+    },
+    {
+      "name": "Mudumalai National Park",
+      "city": "The Nilgiris",
+      "category": "wildlife",
+      "distance": "67 km from Ooty",
+      "rating": 4.6,
+      "description": "A rich wildlife sanctuary located in the Nilgiri Hills, home to elephants, tigers, and diverse flora and fauna.",
+      "history": "Established in 1940, it forms part of the Nilgiri Biosphere Reserve.",
+      "famousFor": "Elephant safaris, biodiversity",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹30 (Indians)",
+      "slug": "mudumalai-national-park",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/mudumalai-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mudumalai-national-park",
+      "image": "assets/images/states/tamil-nadu/mudumalai-national-park.webp",
+      "heroImage": "assets/images/states/tamil-nadu/mudumalai-national-park.webp"
+    },
+    {
+      "name": "Tiruttani Murugan Temple",
+      "city": "Tiruttani",
+      "category": "temples",
+      "distance": "95 km from Chennai",
+      "rating": 4.8,
+      "description": "One of the six sacred abodes of Lord Murugan, located atop a hill offering serene views and spiritual calm.",
+      "history": "Ancient temple mentioned in Tamil Sangam literature and associated with Murugan's marriage to Valli.",
+      "famousFor": "Arupadai Veedu (Murugan temple), hilltop shrine",
+      "bestTime": "November to March",
+      "timings": "5:30 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "arulmigu-subramanyaswamy-thirukovil-tn",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/tiruttani-murugan-temple-tiruttani.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Veera Raghava Perumal Temple",
+          "city": "Thiruvallur",
+          "distance": "18 km away",
+          "category": "temples",
+          "description": "Ancient temple dedicated to Lord Vishnu in a reclining pose. The temple is famous for its large tank where people bathe to cure physical ailments.",
+          "history": "A Divyadesam temple built by the Pallavas in the 8th century, later Renovated by the Vijayanagara kings.",
+          "famousFor": "Curing tank (Hridaya Thapa Nasini), Pallava architecture",
+          "bestTime": "November to March",
+          "timings": "6:30 AM – 12:00 PM, 4:00 PM – 8:00 PM",
+          "entryFee": "Free",
+          "rating": 4.5,
+          "slug": "veeraraghava-perumal-temple",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/veeraraghava-perumal-temple.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/veeraraghava-perumal-temple.webp"
+        }
+      ],
+      "id": "arulmigu-subramanyaswamy-thirukovil-tn",
+      "image": "assets/images/states/tamil-nadu/tiruttani-murugan-temple-tiruttani.webp",
+      "heroImage": "assets/images/states/tamil-nadu/tiruttani-murugan-temple-tiruttani.webp"
+    },
+    {
+      "name": "Veera Raghava Perumal Temple",
+      "city": "Thiruvallur",
+      "distance": "18 km away",
+      "category": "temples",
+      "description": "Ancient temple dedicated to Lord Vishnu in a reclining pose. The temple is famous for its large tank where people bathe to cure physical ailments.",
+      "history": "A Divyadesam temple built by the Pallavas in the 8th century, later Renovated by the Vijayanagara kings.",
+      "famousFor": "Curing tank (Hridaya Thapa Nasini), Pallava architecture",
+      "bestTime": "November to March",
+      "timings": "6:30 AM – 12:00 PM, 4:00 PM – 8:00 PM",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "slug": "veeraraghava-perumal-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/veeraraghava-perumal-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tiruttani Murugan Temple",
+          "city": "Tiruttani",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "arulmigu-subramanyaswamy-thirukovil-tn",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/tiruttani-murugan-temple-tiruttani.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/tiruttani-murugan-temple-tiruttani.webp"
+        }
+      ],
+      "id": "veeraraghava-perumal-temple",
+      "image": "assets/images/states/tamil-nadu/veeraraghava-perumal-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/veeraraghava-perumal-temple.webp"
+    },
+    {
+      "name": "Arunachaleswarar Temple",
+      "city": "Tiruvannamalai",
+      "category": "temples",
+      "distance": "2 km from Tiruvannamalai Center",
+      "rating": 4.9,
+      "description": "A massive temple dedicated to Lord Shiva representing the fire element, set against the sacred Arunachala Hill.",
+      "history": "Built during the Chola dynasty and expanded by Vijayanagara rulers, it is one of the Pancha Bhoota temples.",
+      "famousFor": "Karthigai Deepam festival, Girivalam path",
+      "bestTime": "November to March",
+      "timings": "5:30 AM – 9:30 PM",
+      "entryFee": "Free",
+      "slug": "tiruvannamalai-arunachaleswarar",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/tiruvannamalai-arunachaleswarar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arunachala Hill",
+          "city": "Tiruvannamalai",
+          "distance": "1 km away",
+          "category": "nature",
+          "description": "A spiritually iconic mountain considered to be the form of Lord Shiva himself. Pilgrims walk the 14km path around its base (Girivalam) on full moon nights.",
+          "history": "Mentioned in the Skanda Purana and sacred to millions, it was the home of many saints including Ramana Maharshi.",
+          "famousFor": "Girivalam, Karthigai Deepam fire, spiritual energy",
+          "bestTime": "November to March",
+          "timings": "Open 24/7",
+          "entryFee": "Free",
+          "rating": 4.9,
+          "slug": "arunachala-hill",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/arunachala-hill.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/arunachala-hill.webp"
+        },
+        {
+          "name": "Sri Ramana Ashram",
+          "city": "Tiruvannamalai",
+          "distance": "3 km away",
+          "category": "heritage",
+          "description": "The sanctuary where Sri Ramana Maharshi lived and taught his philosophy of self-enquiry. It remains a powerful center for silence and meditation.",
+          "history": "Founded in 1922, the ashram grew around the sage's residence at the base of the holy Arunachala hill.",
+          "famousFor": "Advaita Vedanta, meditation, peaceful gardens",
+          "bestTime": "Year-round",
+          "timings": "6:30 AM – 8:30 PM",
+          "entryFee": "Free",
+          "rating": 4.8,
+          "slug": "ramana-ashram",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/ramana-ashram.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/ramana-ashram.webp"
+        }
+      ],
+      "id": "tiruvannamalai-arunachaleswarar",
+      "image": "assets/images/states/tamil-nadu/tiruvannamalai-arunachaleswarar.webp",
+      "heroImage": "assets/images/states/tamil-nadu/tiruvannamalai-arunachaleswarar.webp"
+    },
+    {
+      "name": "Arunachala Hill",
+      "city": "Tiruvannamalai",
+      "distance": "1 km away",
+      "category": "nature",
+      "description": "A spiritually iconic mountain considered to be the form of Lord Shiva himself. Pilgrims walk the 14km path around its base (Girivalam) on full moon nights.",
+      "history": "Mentioned in the Skanda Purana and sacred to millions, it was the home of many saints including Ramana Maharshi.",
+      "famousFor": "Girivalam, Karthigai Deepam fire, spiritual energy",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "rating": 4.9,
+      "slug": "arunachala-hill",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/arunachala-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arunachaleswarar Temple",
+          "city": "Tiruvannamalai",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "tiruvannamalai-arunachaleswarar",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/tiruvannamalai-arunachaleswarar.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/tiruvannamalai-arunachaleswarar.webp"
+        }
+      ],
+      "id": "arunachala-hill",
+      "image": "assets/images/states/tamil-nadu/arunachala-hill.webp",
+      "heroImage": "assets/images/states/tamil-nadu/arunachala-hill.webp"
+    },
+    {
+      "name": "Chettinad Region",
+      "city": "Karaikudi",
+      "category": "heritage",
+      "distance": "10 km from Karaikudi",
+      "rating": 4.6,
+      "description": "A culturally rich region known for its grand mansions, unique architecture, and spicy cuisine.",
+      "history": "Developed by the Nattukottai Chettiars during the 19th century as a trading community hub.",
+      "famousFor": "Chettinad mansions, cuisine, Athangudi tiles",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹50 (for select mansions)",
+      "slug": "chettinad",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/chettinad.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Athangudi Village",
+          "city": "Karaikudi",
+          "distance": "12 km away",
+          "category": "heritage",
+          "description": "A charming village in Chettinad renowned for its centuries-old tradition of creating beautiful, hand-painted floral tiles used in luxury mansions.",
+          "history": "Part of the rich Chettiars heritage, the village has maintained its artisanal tile-making process without machinery for generations.",
+          "famousFor": "Handmade Chettinad tiles, heritage village, artisanal factories",
+          "bestTime": "October to March",
+          "timings": "9:00 AM – 5:00 PM",
+          "entryFee": "Free",
+          "rating": 4.5,
+          "slug": "athangudi",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/athangudi.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/athangudi.webp"
+        }
+      ],
+      "id": "chettinad",
+      "image": "assets/images/states/tamil-nadu/chettinad.webp",
+      "heroImage": "assets/images/states/tamil-nadu/chettinad.webp"
+    },
+    {
+      "name": "Athangudi Village",
+      "city": "Karaikudi",
+      "distance": "12 km away",
+      "category": "heritage",
+      "description": "A charming village in Chettinad renowned for its centuries-old tradition of creating beautiful, hand-painted floral tiles used in luxury mansions.",
+      "history": "Part of the rich Chettiars heritage, the village has maintained its artisanal tile-making process without machinery for generations.",
+      "famousFor": "Handmade Chettinad tiles, heritage village, artisanal factories",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "slug": "athangudi",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/athangudi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chettinad Region",
+          "city": "Karaikudi",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "chettinad",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/chettinad.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/chettinad.webp"
+        }
+      ],
+      "id": "athangudi",
+      "image": "assets/images/states/tamil-nadu/athangudi.webp",
+      "heroImage": "assets/images/states/tamil-nadu/athangudi.webp"
+    },
+    {
+      "name": "Pamban Bridge",
+      "city": "Rameswaram",
+      "category": "heritage",
+      "distance": "12 km from Rameswaram",
+      "rating": 4.7,
+      "description": "India’s first sea bridge connecting mainland India to Rameswaram Island, offering stunning ocean views.",
+      "history": "Opened in 1914, it is an engineering marvel of British India.",
+      "famousFor": "Sea bridge, railway engineering",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pamban-bridge",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pamban-bridge.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pamban Beach",
+          "city": "Rameswaram",
+          "distance": "2 km away",
+          "category": "beaches",
+          "description": "A secluded beach on the island of Rameswaram, offering the best vantage point to watch the iconic Pamban railway bridge open for ships.",
+          "history": "Strategically located at the Pamban channel, it has been a local maritime hub for generations.",
+          "famousFor": "Bridge views, quiet sea, boat watching",
+          "bestTime": "October to April",
+          "timings": "Open 24/7",
+          "entryFee": "Free",
+          "rating": 4.5,
+          "slug": "pamban-beach",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/pamban-beach.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/pamban-beach.webp"
+        }
+      ],
+      "id": "pamban-bridge",
+      "image": "assets/images/states/tamil-nadu/pamban-bridge.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pamban-bridge.webp"
+    },
+    {
+      "name": "Valparai",
+      "city": "Valparai",
+      "category": "hills",
+      "distance": "100 km from Coimbatore",
+      "rating": 4.7,
+      "description": "A tranquil hill station surrounded by tea estates and dense forests in the Anamalai Hills.",
+      "history": "Developed during British rule for tea plantations.",
+      "famousFor": "Tea estates, wildlife sightings",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "valparai",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/valparai.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sholayar Dam",
+          "city": "Valparai",
+          "distance": "15 km away",
+          "category": "nature",
+          "description": "One of the highest and most important dams in South India, set amidst massive tea estates and towering rainforest peaks of the Anamalai range.",
+          "history": "Part of a massive hydroelectric project commissioned in the 1960s to harness the power of the Chalakudy river.",
+          "famousFor": "Dam reservoir, mountain views, tea estate roads",
+          "bestTime": "September to March",
+          "timings": "8:00 AM – 5:00 PM",
+          "entryFee": "Free",
+          "rating": 4.4,
+          "slug": "sholayar-dam",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/sholayar-dam.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/sholayar-dam.webp"
+        },
+        {
+          "name": "Nallamudi Viewpoint",
+          "city": "Valparai",
+          "distance": "10 km away",
+          "category": "nature",
+          "description": "A stunning vantage point reachable via a walk through a tea plantation, offering views of deep valleys, tribal settlements, and cascading waterfalls.",
+          "history": "A hidden gem in Valparai, traditionally known only to tea garden workers before becoming a popular viewpoint.",
+          "famousFor": "Waterfall views, deep valley vistas, gaur sightings",
+          "bestTime": "September to March",
+          "timings": "8:00 AM – 4:00 PM",
+          "entryFee": "Free",
+          "rating": 4.6,
+          "slug": "nallamudi-viewpoint",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/nallamudi-viewpoint.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/nallamudi-viewpoint.webp"
+        }
+      ],
+      "id": "valparai",
+      "image": "assets/images/states/tamil-nadu/valparai.webp",
+      "heroImage": "assets/images/states/tamil-nadu/valparai.webp"
+    },
+    {
+      "name": "Sholayar Dam",
+      "city": "Valparai",
+      "distance": "15 km away",
+      "category": "nature",
+      "description": "One of the highest and most important dams in South India, set amidst massive tea estates and towering rainforest peaks of the Anamalai range.",
+      "history": "Part of a massive hydroelectric project commissioned in the 1960s to harness the power of the Chalakudy river.",
+      "famousFor": "Dam reservoir, mountain views, tea estate roads",
+      "bestTime": "September to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "rating": 4.4,
+      "slug": "sholayar-dam",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/sholayar-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Valparai",
+          "city": "Valparai",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "valparai",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/valparai.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/valparai.webp"
+        }
+      ],
+      "id": "sholayar-dam",
+      "image": "assets/images/states/tamil-nadu/sholayar-dam.webp",
+      "heroImage": "assets/images/states/tamil-nadu/sholayar-dam.webp"
+    },
+    {
+      "name": "Nallamudi Viewpoint",
+      "city": "Valparai",
+      "distance": "10 km away",
+      "category": "nature",
+      "description": "A stunning vantage point reachable via a walk through a tea plantation, offering views of deep valleys, tribal settlements, and cascading waterfalls.",
+      "history": "A hidden gem in Valparai, traditionally known only to tea garden workers before becoming a popular viewpoint.",
+      "famousFor": "Waterfall views, deep valley vistas, gaur sightings",
+      "bestTime": "September to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "slug": "nallamudi-viewpoint",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/nallamudi-viewpoint.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Valparai",
+          "city": "Valparai",
+          "distance": "10 km away",
+          "category": "hills",
+          "slug": "valparai",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/valparai.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/valparai.webp"
+        }
+      ],
+      "id": "nallamudi-viewpoint",
+      "image": "assets/images/states/tamil-nadu/nallamudi-viewpoint.webp",
+      "heroImage": "assets/images/states/tamil-nadu/nallamudi-viewpoint.webp"
+    },
+    {
+      "name": "Kalakkad Mundanthurai Tiger Reserve",
+      "city": "Tirunelveli",
+      "category": "wildlife",
+      "distance": "45 km from Tirunelveli",
+      "rating": 4.6,
+      "description": "A protected reserve rich in biodiversity located in the Western Ghats, home to tigers, elephants, and rare species.",
+      "history": "Declared a tiger reserve in 1988, combining Kalakkad and Mundanthurai sanctuaries.",
+      "famousFor": "Tiger reserve, Western Ghats biodiversity",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹50 (Indians)",
+      "slug": "kalakkad-mundanthurai",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kalakkad-mundanthurai.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manimuthar Dam",
+          "city": "Tirunelveli",
+          "distance": "18 km away",
+          "category": "nature",
+          "description": "A sprawling reservoir at the foothills of the Western Ghats, featuring a beautiful garden and a quiet atmosphere away from the crowds.",
+          "history": "Constructed in 1958 across the Thamirabarani river to provide irrigation for the dryer regions of Tirunelveli.",
+          "famousFor": "Garden park, quiet picnics, mountain backdrop",
+          "bestTime": "October to March",
+          "timings": "8:00 AM – 6:00 PM",
+          "entryFee": "₹10",
+          "rating": 4.5,
+          "slug": "manimuthar-dam",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/manimuthar-dam.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/manimuthar-dam.webp"
+        }
+      ],
+      "id": "kalakkad-mundanthurai",
+      "image": "assets/images/states/tamil-nadu/kalakkad-mundanthurai.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kalakkad-mundanthurai.webp"
+    },
+    {
+      "name": "Manimuthar Dam",
+      "city": "Tirunelveli",
+      "distance": "18 km away",
+      "category": "nature",
+      "description": "A sprawling reservoir at the foothills of the Western Ghats, featuring a beautiful garden and a quiet atmosphere away from the crowds.",
+      "history": "Constructed in 1958 across the Thamirabarani river to provide irrigation for the dryer regions of Tirunelveli.",
+      "famousFor": "Garden park, quiet picnics, mountain backdrop",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "rating": 4.5,
+      "slug": "manimuthar-dam",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/manimuthar-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalakkad Mundanthurai Tiger Reserve",
+          "city": "Tirunelveli",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "kalakkad-mundanthurai",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/kalakkad-mundanthurai.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/kalakkad-mundanthurai.webp"
+        }
+      ],
+      "id": "manimuthar-dam",
+      "image": "assets/images/states/tamil-nadu/manimuthar-dam.webp",
+      "heroImage": "assets/images/states/tamil-nadu/manimuthar-dam.webp"
+    },
+    {
+      "name": "Vedanthangal Bird Sanctuary",
+      "city": "Chengalpattu",
+      "category": "wildlife",
+      "distance": "75 km from Chennai",
+      "rating": 4.5,
+      "description": "One of the oldest bird sanctuaries in India, attracting migratory birds from across the world.",
+      "history": "Protected since the 18th century by local villagers and later declared a sanctuary by the British.",
+      "famousFor": "Migratory birds, bird watching",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹25 (Indians)",
+      "slug": "vedanthangal-bird-sanctuary",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/vedanthangal-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Karikili Bird Sanctuary",
+          "city": "Chengalpattu",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "description": "A seasonal breeding ground for thousands of migratory birds, including cormorants, egrets, and grey pelicans, set in an irrigation tank ecosystem.",
+          "history": "Declared a Ramsar site for its ecological importance, it works in tandem with the nearby Vedanthangal sanctuary.",
+          "famousFor": "Bird nesting, nature trails, eco-tourism",
+          "bestTime": "November to February",
+          "timings": "6:00 AM – 6:00 PM",
+          "entryFee": "₹10",
+          "rating": 4.4,
+          "slug": "karikili-bird-sanctuary",
+          "state": "Tamil Nadu",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/karikili-bird-sanctuary.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/karikili-bird-sanctuary.webp"
+        }
+      ],
+      "id": "vedanthangal-bird-sanctuary",
+      "image": "assets/images/states/tamil-nadu/vedanthangal-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/tamil-nadu/vedanthangal-bird-sanctuary.webp"
+    },
+    {
+      "name": "Karikili Bird Sanctuary",
+      "city": "Chengalpattu",
+      "distance": "10 km away",
+      "category": "wildlife",
+      "description": "A seasonal breeding ground for thousands of migratory birds, including cormorants, egrets, and grey pelicans, set in an irrigation tank ecosystem.",
+      "history": "Declared a Ramsar site for its ecological importance, it works in tandem with the nearby Vedanthangal sanctuary.",
+      "famousFor": "Bird nesting, nature trails, eco-tourism",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "rating": 4.4,
+      "slug": "karikili-bird-sanctuary",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/karikili-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vedanthangal Bird Sanctuary",
+          "city": "Chengalpattu",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "vedanthangal-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/vedanthangal-bird-sanctuary.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/vedanthangal-bird-sanctuary.webp"
+        }
+      ],
+      "id": "karikili-bird-sanctuary",
+      "image": "assets/images/states/tamil-nadu/karikili-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/tamil-nadu/karikili-bird-sanctuary.webp"
+    },
+    {
+      "name": "Yercaud Lake",
+      "city": "Yercaud",
+      "distance": "1 km away",
+      "category": "nature",
+      "description": "A natural lake in the heart of the hill station, surrounded by woods and gardens. It is the topmost attraction for visitors to Yercaud.",
+      "history": "Known as Emerald Lake, it has been the focal point of town development since the British hill retreat era.",
+      "famousFor": "Boating, garden walks, heart of the hills",
+      "bestTime": "October to June",
+      "timings": "8:30 AM – 6:00 PM",
+      "entryFee": "Free",
+      "rating": 4.3,
+      "slug": "yercaud-lake",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/yercaud-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yercaud-lake",
+      "image": "assets/images/states/tamil-nadu/yercaud-lake.webp",
+      "heroImage": "assets/images/states/tamil-nadu/yercaud-lake.webp"
+    },
+    {
+      "name": "Lady's Seat",
+      "city": "Yercaud",
+      "distance": "2 km away",
+      "category": "nature",
+      "description": "A high-altitude viewpoint named after a lady who used to spend her evenings here watching the sunset. It overlooks the steep Salem ghat roads.",
+      "history": "A popular social spot during British colonial times, it was equipped with telescopes for watching the plains below.",
+      "famousFor": "Sunset views, telescope house, cliff edges",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "rating": 4.4,
+      "slug": "lady-seat",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/lady-seat.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lady-seat",
+      "image": "assets/images/states/tamil-nadu/lady-seat.webp",
+      "heroImage": "assets/images/states/tamil-nadu/lady-seat.webp"
+    },
+    {
+      "name": "Sri Ranganathaswamy Temple",
+      "city": "Tiruchirappalli",
+      "category": "temples",
+      "distance": "12 km from Trichy",
+      "rating": 4.9,
+      "description": "The largest functioning Hindu temple complex in the world, spanning 156 acres. Dedicated to Lord Vishnu, it features 21 magnificent gopurams, including the towering 236-foot Rajagopuram.",
+      "history": "Built across centuries by the Cholas, Pandyas, Hoysalas, and Vijayanagara kings, it is the foremost of the 108 Divya Desams.",
+      "famousFor": "World's largest functioning temple, 21 Gopurams, massive courtyards.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free (Special Darshan ₹250)",
+      "slug": "srirangam-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/srirangam-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "srirangam-temple",
+      "image": "assets/images/states/tamil-nadu/srirangam-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/srirangam-temple.webp"
+    },
+    {
+      "name": "Rockfort Temple",
+      "city": "Tiruchirappalli",
+      "category": "heritage",
+      "distance": "Center of Trichy",
+      "rating": 4.7,
+      "description": "A spectacular historic fortification and temple complex built on an 83-meter high ancient rock that is believed to be 3.8 billion years old (older than the Himalayas).",
+      "history": "Initially built by the Pallavas and later fortified by the Nayaks of Madurai, it witnessed fierce battles during the Carnatic wars.",
+      "famousFor": "Ucchi Pillayar Temple, ancient rock formation, city views.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "rockfort-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/rockfort-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rockfort-temple",
+      "image": "assets/images/states/tamil-nadu/rockfort-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/rockfort-temple.webp"
+    },
+    {
+      "name": "Kapaleeshwarar Temple",
+      "city": "Chennai",
+      "category": "temples",
+      "distance": "In Mylapore, Chennai",
+      "rating": 4.8,
+      "description": "An incredibly vibrant and iconic Shiva temple located in the heart of Mylapore. It is a masterpiece of Dravidian architecture with a stunning, brightly colored gopuram.",
+      "history": "The original temple was built by the Pallavas in the 7th century, but the current structure was rebuilt by the Vijayanagara kings in the 16th century after Portuguese demolition.",
+      "famousFor": "Dravidian architecture, Arupathimoovar festival, Mylapore culture.",
+      "bestTime": "November to February",
+      "timings": "5:30 AM – 12:00 PM, 5:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "kapaleeshwarar-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kapaleeshwarar-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kapaleeshwarar-temple",
+      "image": "assets/images/states/tamil-nadu/kapaleeshwarar-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kapaleeshwarar-temple.webp"
+    },
+    {
+      "name": "Ekambareswarar Temple",
+      "city": "Kanchipuram",
+      "category": "temples",
+      "distance": "In Kanchipuram",
+      "rating": 4.8,
+      "description": "The largest temple in the 'City of Thousand Temples', representing the Earth element (Prithvi Lingam). It is famous for its massive 59-meter tall gopuram and a sacred mango tree believed to be 3,500 years old.",
+      "history": "Built by the Pallavas and massively expanded by the Cholas and Vijayanagara kings.",
+      "famousFor": "Pancha Bhoota Stalam (Earth), ancient mango tree, thousand-pillar hall.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "ekambareswarar-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/ekambareswarar-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "ekambareswarar-temple",
+      "image": "assets/images/states/tamil-nadu/ekambareswarar-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/ekambareswarar-temple.webp"
+    },
+    {
+      "name": "Kailasanathar Temple",
+      "city": "Kanchipuram",
+      "category": "heritage",
+      "distance": "In Kanchipuram",
+      "rating": 4.7,
+      "description": "The oldest structural temple in Kanchipuram, renowned for its breathtaking Pallava architecture carved entirely out of sandstone.",
+      "history": "Built by the Pallava King Rajasimha in the early 8th century, it became the architectural inspiration for the Brihadeeswarar Temple.",
+      "famousFor": "Sandstone carvings, oldest Pallava temple, intricate frescoes.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 12:00 PM, 4:00 PM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "kailasanathar-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kailasanathar-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kailasanathar-temple",
+      "image": "assets/images/states/tamil-nadu/kailasanathar-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kailasanathar-temple.webp"
+    },
+    {
+      "name": "Airavatesvara Temple",
+      "city": "Darasuram",
+      "category": "heritage",
+      "distance": "4 km from Kumbakonam",
+      "rating": 4.8,
+      "description": "A stunning UNESCO World Heritage site known as a 'sculptor's dream in stone'. The temple is shaped like a chariot drawn by horses and elephants.",
+      "history": "Built by Chola King Rajaraja II in the 12th century, it is part of the Great Living Chola Temples.",
+      "famousFor": "UNESCO World Heritage, Chariot architecture, musical steps.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "airavatesvara-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/airavatesvara-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "airavatesvara-temple",
+      "image": "assets/images/states/tamil-nadu/airavatesvara-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/airavatesvara-temple.webp"
+    },
+    {
+      "name": "Gangaikonda Cholapuram",
+      "city": "Ariyalur",
+      "category": "heritage",
+      "distance": "35 km from Kumbakonam",
+      "rating": 4.8,
+      "description": "A majestic UNESCO World Heritage temple built to rival the Brihadeeswarar Temple. It served as the capital of the mighty Chola Empire for over 250 years.",
+      "history": "Built by Rajendra Chola I in the 11th century to commemorate his victorious expedition up to the Ganges river.",
+      "famousFor": "UNESCO World Heritage, massive Shiva Lingam, detailed stone carvings.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 12:00 PM, 4:00 PM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "gangaikonda-cholapuram",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/gangaikonda-cholapuram.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gangaikonda-cholapuram",
+      "image": "assets/images/states/tamil-nadu/gangaikonda-cholapuram.webp",
+      "heroImage": "assets/images/states/tamil-nadu/gangaikonda-cholapuram.webp"
+    },
+    {
+      "name": "Coonoor",
+      "city": "Coonoor",
+      "category": "hills",
+      "distance": "20 km from Ooty",
+      "rating": 4.7,
+      "description": "A stunningly peaceful hill station in the Nilgiris, deeply famous for its rolling emerald tea estates, colonial-era bungalows, and the Nilgiri Mountain Railway.",
+      "history": "Discovered by the British in the 19th century and developed as a major tea-producing region.",
+      "famousFor": "Tea estates, Heritage Toy Train, panoramic valley views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "coonoor",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/coonoor.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "coonoor",
+      "image": "assets/images/states/tamil-nadu/coonoor.webp",
+      "heroImage": "assets/images/states/tamil-nadu/coonoor.webp"
+    },
+    {
+      "name": "Vellore Fort",
+      "city": "Vellore",
+      "category": "heritage",
+      "distance": "Center of Vellore",
+      "rating": 4.6,
+      "description": "A massive 16th-century granite fort surrounded by a wide moat. Inside, it remarkably houses a Hindu temple, a Christian church, and an Islamic mosque, reflecting deep secular history.",
+      "history": "Built by the Vijayanagara kings, it later served as the headquarters of the Aravidu Dynasty and saw the Sepoy Mutiny of 1806.",
+      "famousFor": "Jalakandeswarar Temple, massive moat, 1806 Mutiny.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "vellore-fort",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/vellore-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vellore-fort",
+      "image": "assets/images/states/tamil-nadu/vellore-fort.webp",
+      "heroImage": "assets/images/states/tamil-nadu/vellore-fort.webp"
+    },
+    {
+      "name": "Sripuram Golden Temple",
+      "city": "Vellore",
+      "category": "temples",
+      "distance": "10 km from Vellore",
+      "rating": 4.7,
+      "description": "A breathtaking spiritual park centered around a stunning temple coated with over 1,500 kilograms of pure gold foil, set amidst a star-shaped path (Sri Chakra).",
+      "history": "Inaugurated in 2007 by spiritual leader Sri Sakthi Amma.",
+      "famousFor": "1500 kg gold coating, Sri Chakra path, extreme cleanliness.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 8:00 PM",
+      "entryFee": "Free (Special Darshan ₹250)",
+      "slug": "sripuram-golden-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/sripuram-golden-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sripuram-golden-temple",
+      "image": "assets/images/states/tamil-nadu/sripuram-golden-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/sripuram-golden-temple.webp"
+    },
+    {
+      "name": "Gingee Fort",
+      "city": "Villupuram",
+      "category": "heritage",
+      "distance": "160 km from Chennai",
+      "rating": 4.6,
+      "description": "Dubbed the 'Troy of the East' by the British, this impenetrable fort spans across three massive hillocks connected by a sprawling 13 km wall.",
+      "history": "Built by the Cholas in the 9th century and heavily fortified by the Nayaks and Marathas (Shivaji).",
+      "famousFor": "Impenetrable fortifications, Kalyana Mahal, trekking.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹25",
+      "slug": "gingee-fort",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/gingee-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gingee-fort",
+      "image": "assets/images/states/tamil-nadu/gingee-fort.webp",
+      "heroImage": "assets/images/states/tamil-nadu/gingee-fort.webp"
+    },
+    {
+      "name": "Padmanabhapuram Palace",
+      "city": "Thuckalay",
+      "category": "heritage",
+      "distance": "35 km from Kanyakumari",
+      "rating": 4.8,
+      "description": "The largest wooden palace in Asia, a magnificent example of traditional Kerala architecture (though situated in Tamil Nadu) featuring intricate rosewood carvings and dark granite.",
+      "history": "Built in 1601 by Iravi Varma Kulasekhara Perumal, it was the ancient capital of the Travancore Kingdom.",
+      "famousFor": "Mantra Shala, traditional Kerala wooden architecture, King's council chamber.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:30 PM (Closed Mondays)",
+      "entryFee": "₹35",
+      "slug": "padmanabhapuram-palace",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/padmanabhapuram-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "padmanabhapuram-palace",
+      "image": "assets/images/states/tamil-nadu/padmanabhapuram-palace.webp",
+      "heroImage": "assets/images/states/tamil-nadu/padmanabhapuram-palace.webp"
+    },
+    {
+      "name": "Palani Murugan Temple",
+      "city": "Dindigul",
+      "category": "temples",
+      "distance": "115 km from Madurai",
+      "rating": 4.9,
+      "description": "One of the Six Holy Abodes (Arupadaiveedu) of Lord Murugan, perched high on the Sivagiri Hill. The presiding deity is remarkably made out of a unique amalgam of nine poisonous minerals (Navapashanam).",
+      "history": "Believed to be created by the ancient Siddhar Bogar. The temple attracts millions of devotees who climb the 690 steps or take the winch/ropeway.",
+      "famousFor": "Navapashanam idol, Tonsure (head shaving) rituals, Panchamirtham prasadam.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 9:00 PM",
+      "entryFee": "Free (Winch extra)",
+      "slug": "palani-murugan-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/palani-murugan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "palani-murugan-temple",
+      "image": "assets/images/states/tamil-nadu/palani-murugan-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/palani-murugan-temple.webp"
+    },
+    {
+      "name": "Thiruchendur Murugan Temple",
+      "city": "Thoothukudi",
+      "category": "temples",
+      "distance": "40 km from Thoothukudi",
+      "rating": 4.8,
+      "description": "The only one of Lord Murugan's Six Abodes located right on the seashore. The massive temple complex is built practically touching the waves of the Bay of Bengal.",
+      "history": "According to legend, this is the site where Lord Murugan defeated the demon Surapadman. The temple has withstood centuries of storms and even the 2004 Tsunami without damage.",
+      "famousFor": "Seaside architecture, Skanda Sashti festival, Holy sea bath.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free (Special Darshan ₹250)",
+      "slug": "thiruchendur-murugan-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thiruchendur-murugan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "thiruchendur-murugan-temple",
+      "image": "assets/images/states/tamil-nadu/thiruchendur-murugan-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thiruchendur-murugan-temple.webp"
+    },
+    {
+      "name": "Thyagaraja Temple",
+      "city": "Thiruvarur",
+      "category": "temples",
+      "distance": "Center of Thiruvarur",
+      "rating": 4.7,
+      "description": "A colossal, ancient Shiva temple famous for having the largest temple chariot (Aazhi Ther) in Asia and the massive Kamalalayam temple tank.",
+      "history": "One of the most ancient temples in Tamil Nadu, heavily patronized by the Cholas. It is the birthplace of the Carnatic music trinity.",
+      "famousFor": "Asia's largest temple chariot, Kamalalayam tank, Musical pillars.",
+      "bestTime": "March to May (Chariot Festival) or Winter",
+      "timings": "5:00 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "thiruvarur-thyagaraja-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thiruvarur-thyagaraja-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "thiruvarur-thyagaraja-temple",
+      "image": "assets/images/states/tamil-nadu/thiruvarur-thyagaraja-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thiruvarur-thyagaraja-temple.webp"
+    },
+    {
+      "name": "DakshinaChitra Heritage Museum",
+      "city": "Chennai",
+      "category": "heritage",
+      "distance": "25 km from Chennai (ECR)",
+      "rating": 4.6,
+      "description": "An incredibly immersive living-history museum dedicated to South Indian heritage and culture. It features 18 authentic historical houses transported piece-by-piece from across South India and rebuilt here.",
+      "history": "Founded in 1996 by the Madras Craft Foundation to preserve the disappearing traditional architecture and folk arts of South India.",
+      "famousFor": "Traditional houses, artisan workshops, cultural performances.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 6:00 PM (Closed Tuesdays)",
+      "entryFee": "₹175 (Indians), ₹350 (Foreigners)",
+      "slug": "dakshinachitra",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/dakshinachitra.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dakshinachitra",
+      "image": "assets/images/states/tamil-nadu/dakshinachitra.webp",
+      "heroImage": "assets/images/states/tamil-nadu/dakshinachitra.webp"
+    },
+    {
+      "name": "Madras Crocodile Bank Trust",
+      "city": "Mahabalipuram",
+      "category": "wildlife",
+      "distance": "15 km from Mahabalipuram",
+      "rating": 4.6,
+      "description": "One of the largest reptile zoos in the world, home to over 2,400 crocodiles, alligators, snakes, and turtles, situated under a dense canopy of coastal trees.",
+      "history": "Founded in 1976 by Romulus Whitaker to save three endangered Indian crocodile species from the brink of extinction.",
+      "famousFor": "Night safaris, venom extraction center, giant saltwater crocodiles.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹100",
+      "slug": "madras-crocodile-bank",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/madras-crocodile-bank-trust.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "madras-crocodile-bank",
+      "image": "assets/images/states/tamil-nadu/madras-crocodile-bank-trust.webp",
+      "heroImage": "assets/images/states/tamil-nadu/madras-crocodile-bank-trust.webp"
+    },
+    {
+      "name": "Pykara Lake & Waterfalls",
+      "city": "Ooty",
+      "category": "nature",
+      "distance": "22 km from Ooty",
+      "rating": 4.7,
+      "description": "A pristine, deeply revered lake surrounded by untouched shola forests, featuring a cascading waterfall and a highly popular boat house offering speedboat rides.",
+      "history": "Considered highly sacred by the indigenous Toda tribe of the Nilgiris.",
+      "famousFor": "Speed boating, tiered waterfalls, pine forest landscapes.",
+      "bestTime": "Year-round (Post-monsoon for falls)",
+      "timings": "8:30 AM – 5:30 PM",
+      "entryFee": "₹15 (Boating extra)",
+      "slug": "pykara-lake",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pykara-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pykara-lake",
+      "image": "assets/images/states/tamil-nadu/pykara-lake.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pykara-lake.webp"
+    },
+    {
+      "name": "Avalanche Lake",
+      "city": "Ooty",
+      "category": "nature",
+      "distance": "28 km from Ooty",
+      "rating": 4.8,
+      "description": "A stunning, naturally formed lake set amidst a rolling landscape blooming with magnolias and orchids. It offers an incredibly quiet, offbeat escape from the crowded town.",
+      "history": "The lake was uniquely formed by a massive landslide (avalanche) in the year 1823, giving it its dramatic name.",
+      "famousFor": "Trout fishing, pristine nature, eco-tourism safaris.",
+      "bestTime": "September to November",
+      "timings": "8:00 AM – 3:00 PM",
+      "entryFee": "₹200 (Forest Safari Vehicle)",
+      "slug": "avalanche-lake",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/avalanche-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "avalanche-lake",
+      "image": "assets/images/states/tamil-nadu/avalanche-lake.webp",
+      "heroImage": "assets/images/states/tamil-nadu/avalanche-lake.webp"
+    },
+    {
+      "name": "Dolphin's Nose Viewpoint",
+      "city": "Coonoor",
+      "category": "nature",
+      "distance": "12 km from Coonoor",
+      "rating": 4.6,
+      "description": "A massive, naturally formed rock formation precisely resembling the nose of a dolphin. It offers absolutely breathtaking 180-degree views of the Nilgiri hills and Catherine Falls.",
+      "history": "Discovered by British settlers who were mapping the difficult terrains of the Nilgiris.",
+      "famousFor": "Catherine falls view, deep ravines, panoramic photography.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹15",
+      "slug": "dolphins-nose-coonoor",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/dolphins-nose-coonoor.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dolphins-nose-coonoor",
+      "image": "assets/images/states/tamil-nadu/dolphins-nose-coonoor.webp",
+      "heroImage": "assets/images/states/tamil-nadu/dolphins-nose-coonoor.webp"
+    },
+    {
+      "name": "Kolli Hills (Kollimalai)",
+      "city": "Namakkal",
+      "category": "hills",
+      "distance": "55 km from Namakkal",
+      "rating": 4.7,
+      "description": "A pristine, relatively untouched mountain range famous for its treacherous yet thrilling continuous sequence of exactly 70 hairpin bends to reach the top.",
+      "history": "The mountains are historically associated with the benevolent King Valvil Ori of the Sangam era, and the fierce local deity Ettukkai Amman.",
+      "famousFor": "70 Hairpin bends, Agaya Gangai waterfalls, offbeat mountain driving.",
+      "bestTime": "August to December",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "kolli-hills",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kolli-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kolli-hills",
+      "image": "assets/images/states/tamil-nadu/kolli-hills.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kolli-hills.webp"
+    },
+    {
+      "name": "Yelagiri Hills",
+      "city": "Tirupattur",
+      "category": "hills",
+      "distance": "85 km from Vellore",
+      "rating": 4.5,
+      "description": "A quiet, highly accessible cluster of 14 tribal villages spread across four hills. It's famous for its pleasant weather, beautiful Punganur Lake, and sweeping orchards.",
+      "history": "Originally the private property of the Yelagiri Zamindar family before being taken over by the Government of India in the 1950s.",
+      "famousFor": "Punganur Lake boating, Swamimalai trek, paragliding.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "yelagiri-hills",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/yelagiri-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yelagiri-hills",
+      "image": "assets/images/states/tamil-nadu/yelagiri-hills.webp",
+      "heroImage": "assets/images/states/tamil-nadu/yelagiri-hills.webp"
+    },
+    {
+      "name": "Topslip (Anamalai Tiger Reserve)",
+      "city": "Pollachi",
+      "category": "wildlife",
+      "distance": "35 km from Pollachi",
+      "rating": 4.8,
+      "description": "A majestic wildlife sanctuary deep in the Anamalai hills. It serves as an incredibly dense elephant camp and offers arguably the best open-jeep wildlife safaris in Tamil Nadu.",
+      "history": "The name 'Topslip' derives from the British era practice of slipping timber logs down to the plains below.",
+      "famousFor": "Elephant safaris, dense tropical forests, Tiger reserve.",
+      "bestTime": "September to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Unknown",
+      "slug": "topslip-anamalai",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/topslip-anamalai.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "topslip-anamalai",
+      "image": "assets/images/states/tamil-nadu/topslip-anamalai.webp",
+      "heroImage": "assets/images/states/tamil-nadu/topslip-anamalai.webp"
+    },
+    {
+      "name": "Vattakottai Fort",
+      "city": "Kanyakumari",
+      "category": "heritage",
+      "distance": "7 km from Kanyakumari",
+      "rating": 4.5,
+      "description": "A unique 18th-century circular seaside fort built entirely of granite blocks. Its elevated ramparts offer sweeping, uninterrupted views of the deep blue sea on one side and the Western Ghats on the other.",
+      "history": "Built by the Venad kings of Travancore under the supervision of Captain Eustachius De Lannoy as a coastal defense fortification.",
+      "famousFor": "Seaside ramparts, black sand beach views, quiet atmosphere.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "vattakottai-fort",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/vattakottai-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vattakottai-fort",
+      "image": "assets/images/states/tamil-nadu/vattakottai-fort.webp",
+      "heroImage": "assets/images/states/tamil-nadu/vattakottai-fort.webp"
+    },
+    {
+      "name": "Thiruparankundram Murugan Temple",
+      "city": "Madurai",
+      "category": "temples",
+      "distance": "8 km from Madurai",
+      "rating": 4.8,
+      "description": "Considered the very first of the Six Abodes of Lord Murugan. This incredible 8th-century rock-cut temple is carved directly into a massive hill and is revered as the site where Murugan married Deivanai.",
+      "history": "Built by the Pandyas in the 8th century, it features exquisite rock-cut architecture.",
+      "famousFor": "First Arupadai Veedu, Rock-cut architecture, Skanda Sashti.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 1:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "thiruparankundram-murugan-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thiruparankundram-murugan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "thiruparankundram-murugan-temple",
+      "image": "assets/images/states/tamil-nadu/thiruparankundram-murugan-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thiruparankundram-murugan-temple.webp"
+    },
+    {
+      "name": "Pazhamudircholai Murugan Temple",
+      "city": "Madurai",
+      "category": "temples",
+      "distance": "25 km from Madurai",
+      "rating": 4.7,
+      "description": "The sixth and final Abode of Lord Murugan, set amidst a dense, peaceful forest on the Solaimalai hill. It is the only abode where he is seen alongside both his consorts, Valli and Deivanai.",
+      "history": "Mentioned in early Sangam literature, the temple is heavily associated with the legend of the great Tamil poetess Avvaiyar.",
+      "famousFor": "Sixth Arupadai Veedu, forest setting, Avvaiyar legend.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 1:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "pazhamudircholai-murugan-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pazhamudircholai-murugan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pazhamudircholai-murugan-temple",
+      "image": "assets/images/states/tamil-nadu/pazhamudircholai-murugan-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pazhamudircholai-murugan-temple.webp"
+    },
+    {
+      "name": "Swamimalai Murugan Temple",
+      "city": "Kumbakonam",
+      "category": "temples",
+      "distance": "8 km from Kumbakonam",
+      "rating": 4.8,
+      "description": "The fourth Abode of Lord Murugan, uniquely famous because it is here that the child Murugan became a 'Swami' (teacher) to his own father, Lord Shiva, teaching him the meaning of the Pranava Mantra (Om).",
+      "history": "Built on an artificial hillock to signify the elevated status of the child teacher over his father.",
+      "famousFor": "Fourth Arupadai Veedu, teaching Lord Shiva, bronze idols.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "swamimalai-murugan-temple",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/swamimalai-murugan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "swamimalai-murugan-temple",
+      "image": "assets/images/states/tamil-nadu/swamimalai-murugan-temple.webp",
+      "heroImage": "assets/images/states/tamil-nadu/swamimalai-murugan-temple.webp"
+    },
+    {
+      "name": "Mahamaham Tank",
+      "city": "Kumbakonam",
+      "category": "heritage",
+      "distance": "Center of Kumbakonam",
+      "rating": 4.7,
+      "description": "A massive, extremely sacred temple tank spread over 6.2 acres. Once every 12 years, millions of devotees gather here for the Mahamaham festival, considered the 'Kumbh Mela of the South'.",
+      "history": "Believed to hold the waters of all the holy rivers of India during the Mahamaham festival.",
+      "famousFor": "Mahamaham festival, 16 surrounding shrines, holy dips.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mahamaham-tank",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/mahamaham-tank.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mahamaham-tank",
+      "image": "assets/images/states/tamil-nadu/mahamaham-tank.webp",
+      "heroImage": "assets/images/states/tamil-nadu/mahamaham-tank.webp"
+    },
+    {
+      "name": "Mukurthi National Park",
+      "city": "The Nilgiris",
+      "category": "wildlife",
+      "distance": "40 km from Ooty",
+      "rating": 4.8,
+      "description": "A breathtaking UNESCO World Heritage high-altitude national park. Characterized by montane grasslands and shola forests, it was created specifically to protect its keystone species, the Nilgiri Tahr.",
+      "history": "Formerly known as the Nilgiri Tahr National Park, it was established in 1982 to protect the rapidly declining endemic species.",
+      "famousFor": "Nilgiri Tahr, untouched wilderness, trekking.",
+      "bestTime": "February to May, September to November",
+      "timings": "9:00 AM – 5:30 PM (Closed Tuesdays)",
+      "entryFee": "₹15 (Trekking permits required)",
+      "slug": "mukurthi-national-park",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/mukurthi-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mukurthi-national-park",
+      "image": "assets/images/states/tamil-nadu/mukurthi-national-park.webp",
+      "heroImage": "assets/images/states/tamil-nadu/mukurthi-national-park.webp"
+    },
+    {
+      "name": "Aliyar Dam & Monkey Falls",
+      "city": "Pollachi",
+      "category": "nature",
+      "distance": "24 km from Pollachi",
+      "rating": 4.6,
+      "description": "A magnificent reservoir located at the foothills of Valparai in the Anamalai range, paired perfectly with the nearby cascading Monkey Falls, an incredibly popular natural bathing spot.",
+      "history": "Constructed between 1959 and 1969 as part of the Parambikulam Aliyar Project.",
+      "famousFor": "Scenic boating, Anamalai views, safe waterfalls bathing.",
+      "bestTime": "August to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹15 (Falls ₹30)",
+      "slug": "aliyar-dam-monkey-falls",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/aliyar-dam-monkey-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "aliyar-dam-monkey-falls",
+      "image": "assets/images/states/tamil-nadu/aliyar-dam-monkey-falls.webp",
+      "heroImage": "assets/images/states/tamil-nadu/aliyar-dam-monkey-falls.webp"
+    },
+    {
+      "name": "Thirumoorthy Hills & Falls",
+      "city": "Tiruppur",
+      "category": "hills",
+      "distance": "20 km from Udumalpet",
+      "rating": 4.5,
+      "description": "A deeply serene location featuring the ancient Amanalingeswarar Temple set against the scenic Thirumoorthy Dam, with a short trek leading to the beautiful Panchalingam Waterfalls.",
+      "history": "According to legend, this is the site where the Hindu trinity (Brahma, Vishnu, Shiva) appeared before Sage Atri and his wife Anusuya.",
+      "famousFor": "Panchalingam Falls, Amanalingeswarar Temple, Dam boating.",
+      "bestTime": "September to February",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Falls entry ₹30)",
+      "slug": "thirumoorthy-hills",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/thirumoorthy-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "thirumoorthy-hills",
+      "image": "assets/images/states/tamil-nadu/thirumoorthy-hills.webp",
+      "heroImage": "assets/images/states/tamil-nadu/thirumoorthy-hills.webp"
+    },
+    {
+      "name": "Vivekanandar Illam (Ice House)",
+      "city": "Chennai",
+      "category": "heritage",
+      "distance": "Along Marina Beach, Chennai",
+      "rating": 4.5,
+      "description": "A historic, deeply iconic circular building facing Marina Beach. Originally built to store massive ice blocks imported from America, it is revered because Swami Vivekananda stayed here in 1897.",
+      "history": "Built in 1842 by Frederic Tudor, it was later purchased by Biligiri Iyengar and renamed Castle Kernan. It is now a museum managed by the Ramakrishna Math.",
+      "famousFor": "Swami Vivekananda's stay, 3D/VR shows on his life, unique architecture.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 12:30 PM, 3:00 PM – 7:15 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "vivekanandar-illam",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/vivekanandar-illam.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vivekanandar-illam",
+      "image": "assets/images/states/tamil-nadu/vivekanandar-illam.webp",
+      "heroImage": "assets/images/states/tamil-nadu/vivekanandar-illam.webp"
+    },
+    {
+      "name": "Adiyogi Shiva Statue",
+      "city": "Coimbatore",
+      "category": "heritage",
+      "distance": "30 km from Coimbatore",
+      "rating": 4.8,
+      "description": "A Guinness World Record holding 112-foot tall bust of Lord Shiva, recognized as the largest bust sculpture in the world. It is a profound center for inner exploration and yoga.",
+      "history": "Designed by Sadhguru Jaggi Vasudev and inaugurated in 2017 to inspire and promote yoga. The height of 112 feet symbolizes the 112 possibilities to attain to moksha (liberation).",
+      "famousFor": "Largest bust sculpture, Isha Yoga Center, spiritual atmosphere.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "adiyogi-shiva-statue",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/adiyogi-shiva-statue.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "adiyogi-shiva-statue",
+      "image": "assets/images/states/tamil-nadu/adiyogi-shiva-statue.webp",
+      "heroImage": "assets/images/states/tamil-nadu/adiyogi-shiva-statue.webp"
+    },
+    {
+      "name": "Marudhamalai Murugan Temple",
+      "city": "Coimbatore",
+      "category": "temples",
+      "distance": "15 km from Coimbatore",
+      "rating": 4.8,
+      "description": "A highly revered 12th-century hill temple dedicated to Lord Murugan, set beautifully against the backdrop of the Western Ghats. It is considered the Seventh House of Lord Murugan by devotees.",
+      "history": "Built during the Sangam period, the hill is famous for its medicinal herbs and tranquil environment.",
+      "famousFor": "Hilltop shrine, medicinal herbs, Pambatti Siddhar cave.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 1:00 PM, 2:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "marudhamalai-murugan",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/marudhamalai-murugan.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "marudhamalai-murugan",
+      "image": "assets/images/states/tamil-nadu/marudhamalai-murugan.webp",
+      "heroImage": "assets/images/states/tamil-nadu/marudhamalai-murugan.webp"
+    },
+    {
+      "name": "Siruvani Waterfalls",
+      "city": "Coimbatore",
+      "category": "waterfalls",
+      "distance": "35 km from Coimbatore",
+      "rating": 4.6,
+      "description": "A gorgeous waterfall located deep inside a dense forest reserve. The water of the Siruvani River is famous globally for being exceptionally sweet tasting.",
+      "history": "The Siruvani dam was constructed to supply this world-renowned sweet water to Coimbatore city.",
+      "famousFor": "Sweetest water in India, dense forest trekking, Sadivayal checkpost.",
+      "bestTime": "August to January",
+      "timings": "10:00 AM – 5:00 PM (Permit required)",
+      "entryFee": "₹50 (Forest permit)",
+      "slug": "siruvani-waterfalls",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/siruvani-waterfalls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "siruvani-waterfalls",
+      "image": "assets/images/states/tamil-nadu/siruvani-waterfalls.webp",
+      "heroImage": "assets/images/states/tamil-nadu/siruvani-waterfalls.webp"
+    },
+    {
+      "name": "Meghamalai (High Wavy Mountains)",
+      "city": "Theni",
+      "category": "hills",
+      "distance": "50 km from Theni",
+      "rating": 4.7,
+      "description": "A breathtakingly beautiful and relatively unexplored mountain range known as the 'High Wavy Mountains'. It features sprawling tea estates, cloud-kissed peaks, and pristine dams.",
+      "history": "Developed into large-scale tea plantations during the British era, it remains an offbeat alternative to Ooty and Kodaikanal.",
+      "famousFor": "Tea estates, Meghamalai Wildlife Sanctuary, cloud-covered peaks.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "meghamalai",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/meghamalai.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "meghamalai",
+      "image": "assets/images/states/tamil-nadu/meghamalai.webp",
+      "heroImage": "assets/images/states/tamil-nadu/meghamalai.webp"
+    },
+    {
+      "name": "Guna Caves (Devil's Kitchen)",
+      "city": "Kodaikanal",
+      "category": "nature",
+      "distance": "10 km from Kodaikanal",
+      "rating": 4.6,
+      "description": "An incredibly deep, dark, and mysterious network of cavernous clefts formed between massive pillar rocks. The exposed roots of giant Shola trees give it an eerie, ancient atmosphere.",
+      "history": "Originally known as 'Devil's Kitchen', it gained immense fame and was renamed after the 1991 Tamil movie 'Guna' was shot here.",
+      "famousFor": "Deep ravines, Shola tree roots, cinematic history.",
+      "bestTime": "April to June, September to October",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹5",
+      "slug": "guna-caves",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/guna-caves.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "guna-caves",
+      "image": "assets/images/states/tamil-nadu/guna-caves.webp",
+      "heroImage": "assets/images/states/tamil-nadu/guna-caves.webp"
+    },
+    {
+      "name": "Berijam Lake",
+      "city": "Kodaikanal",
+      "category": "nature",
+      "distance": "22 km from Kodaikanal",
+      "rating": 4.8,
+      "description": "A completely pristine, highly restricted freshwater lake situated deep inside a forest reserve. It supplies drinking water to the nearby town of Periyakulam.",
+      "history": "Originally a swamp, it was converted into a lake in 1867 by Sir Vere Henry Levinge.",
+      "famousFor": "Untouched nature, absolute silence, strict forest entry rules.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 3:00 PM",
+      "entryFee": "Unknown",
+      "slug": "berijam-lake",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/berijam-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "berijam-lake",
+      "image": "assets/images/states/tamil-nadu/berijam-lake.webp",
+      "heroImage": "assets/images/states/tamil-nadu/berijam-lake.webp"
+    },
+    {
+      "name": "Kotagiri",
+      "city": "The Nilgiris",
+      "category": "hills",
+      "distance": "29 km from Ooty",
+      "rating": 4.6,
+      "description": "The oldest and third-largest hill station in the Nilgiris. It is much quieter than Ooty and Coonoor, offering incredibly serene tea gardens and gentle hiking trails.",
+      "history": "It was the first British settlement in the Nilgiris, serving as the summer retreat for the Madras Presidency before Ooty was developed.",
+      "famousFor": "Peaceful climate, sprawling tea estates, John Sullivan's bungalow.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kotagiri",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kotagiri.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kotagiri",
+      "image": "assets/images/states/tamil-nadu/kotagiri.webp",
+      "heroImage": "assets/images/states/tamil-nadu/kotagiri.webp"
+    },
+    {
+      "name": "Catherine Falls",
+      "city": "Kotagiri",
+      "category": "waterfalls",
+      "distance": "8 km from Kotagiri",
+      "rating": 4.7,
+      "description": "A spectacular double-cascaded waterfall descending from a massive height of 250 feet, surrounded entirely by the lush green canopy of Nilgiri tea estates.",
+      "history": "Named after Catherine Cockburn, the wife of M.D. Cockburn, the Scottish planter who introduced coffee to Kotagiri.",
+      "famousFor": "Double cascade, Dolphin's Nose view, trekking.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "catherine-falls",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/catherine-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "catherine-falls",
+      "image": "assets/images/states/tamil-nadu/catherine-falls.webp",
+      "heroImage": "assets/images/states/tamil-nadu/catherine-falls.webp"
+    },
+    {
+      "name": "Pulicat Lake & Bird Sanctuary",
+      "city": "Tiruvallur",
+      "category": "nature",
+      "distance": "60 km from Chennai",
+      "rating": 4.5,
+      "description": "The second largest brackish water lake in India. It is a highly sensitive ecological zone famous for hosting massive flocks of Greater Flamingos during the winter.",
+      "history": "Historically an important port city for the Portuguese and Dutch in the 16th and 17th centuries.",
+      "famousFor": "Greater Flamingos, Dutch cemetery ruins, boating.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "pulicat-lake-tamilnadu",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pulicat-lake-tamilnadu.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pulicat-lake-tamilnadu",
+      "image": "assets/images/states/tamil-nadu/pulicat-lake-tamilnadu.webp",
+      "heroImage": "assets/images/states/tamil-nadu/pulicat-lake-tamilnadu.webp"
+    },
+    {
+      "name": "Alamparai Fort",
+      "city": "Kadappakkam",
+      "category": "heritage",
+      "distance": "100 km from Chennai",
+      "rating": 4.6,
+      "description": "The hauntingly beautiful ruins of a sprawling ancient fort situated directly on the shores of the Bay of Bengal, featuring brick and limestone walls that descend right into the ocean.",
+      "history": "Built in the late 17th century during the Mughal era, it was later given to the French, and eventually destroyed by the British in 1760.",
+      "famousFor": "Seaside ruins, backwater boating, cinematic photography.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "alamparai-fort",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/alamparai-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "alamparai-fort",
+      "image": "assets/images/states/tamil-nadu/alamparai-fort.webp",
+      "heroImage": "assets/images/states/tamil-nadu/alamparai-fort.webp"
+    },
+    {
+      "name": "Doddabetta Peak",
+      "city": "Ooty",
+      "category": "nature",
+      "distance": "10 km from Ooty town",
+      "rating": 4.5,
+      "description": "At 2,637 metres, Doddabetta is the highest peak in the Nilgiri Mountains and the highest point in Tamil Nadu. It offers breathtaking panoramic views of the surrounding valleys and tea plantations.",
+      "history": "The name 'Doddabetta' comes from the Badaga language meaning 'big mountain'. It has been a key geographic landmark since British colonial times when the Nilgiris were established as a hill station. The peak is part of the Western Ghats UNESCO World Heritage Site.",
+      "famousFor": "Highest peak in Nilgiris, telescope house, panoramic views of Ooty valley",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:30 PM",
+      "entryFee": "₹10 (Adults), ₹5 (Children). Telescope House: ₹30",
+      "slug": "doddabetta-peak",
+      "state": "Tamil Nadu",
+      "images": {
+        "main": "assets/images/popular/doddabetta-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Botanical Garden",
+          "city": "Ooty",
+          "distance": "8 km",
+          "slug": "botanical-garden-ooty",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/botanical-garden-ooty.webp"
+        },
+        {
+          "name": "Ooty Lake",
+          "city": "Ooty",
+          "distance": "10 km",
+          "slug": "ooty-lake",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/ooty-lake.webp"
+          },
+          "image": "assets/images/states/tamil-nadu/ooty-lake.webp"
+        }
+      ],
+      "id": "doddabetta-peak",
+      "image": "assets/images/popular/doddabetta-peak.webp",
+      "heroImage": "assets/images/popular/doddabetta-peak.webp"
+    },
+    {
+      "name": "Mahabalipuram Monuments",
+      "city": "Mahabalipuram",
+      "distance": "60 km from Chennai",
+      "category": "heritage",
+      "slug": "mahabalipuram-monuments",
+      "images": {
+        "main": "assets/images/popular/mahabalipuram-monuments.webp"
+      },
+      "image": "assets/images/popular/mahabalipuram-monuments.webp",
+      "description": "The Group of Monuments at Mahabalipuram (Mamallapuram) is a UNESCO World Heritage Site featuring extraordinary 7th-8th century Pallava dynasty rock-cut temples, monolithic rathas, and the famous Shore Temple. The massive open-air bas-relief \"Arjuna's Penance\" is the world's largest.",
+      "history": "Built primarily during the reigns of Narasimhavarman I (Mamalla) and Narasimhavarman II (7th–8th century CE), the monuments represent the transition from rock-cut to structural temple architecture. The Shore Temple is one of the oldest structural stone temples in South India.",
+      "famousFor": "Shore Temple, Arjuna's Penance, Five Rathas, UNESCO Heritage, Pallava architecture, Beach",
+      "bestTime": "November to February (December-January for Dance Festival)",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40 for Indians, ₹600 for foreigners",
+      "nearbyAttractions": [
+        {
+          "name": "Madras Crocodile Bank Trust",
+          "city": "Mahabalipuram",
+          "distance": "14 km away",
+          "category": "wildlife",
+          "slug": "madras-crocodile-bank",
+          "images": {
+            "main": "assets/images/states/tamil-nadu/madras-crocodile-bank-trust.webp"
+          },
+          "state": "Tamil Nadu",
+          "image": "assets/images/states/tamil-nadu/madras-crocodile-bank-trust.webp"
+        }
+      ],
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/popular/mahabalipuram-monuments.webp"
+    },
+    {
+      "id": "ooty-lake",
+      "name": "Ooty Lake",
+      "city": "Ooty",
+      "image": "assets/images/states/tamil-nadu/ooty-lake.webp",
+      "rating": 4.5,
+      "category": "lakes",
+      "description": "Ooty Lake is a charming artificial lake nestled in the Nilgiri Hills at an elevation of 2,240 meters, offering pedal and row boating amidst misty green mountains. Surrounded by eucalyptus trees, manicured gardens, and the miniature toy train track, the lake is the centrepiece of Ooty's timeless hill station charm.",
+      "history": "The lake was created in 1824 by John Sullivan, the first Collector of Coimbatore, by damming a stream flowing through the valley. It was originally used for fishing and irrigation before becoming Ooty's most popular recreational attraction.",
+      "famousFor": "Boating, Nilgiri mountain backdrop, adjacent Botanical Garden, and toy train views.",
+      "bestTime": "April to June, September to November",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹30 (Boating from ₹80)",
+      "slug": "ooty-lake",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/ooty-lake.webp"
+      },
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/states/tamil-nadu/ooty-lake.webp"
+    },
+    {
+      "id": "pamban-beach",
+      "name": "Pamban Beach",
+      "city": "Rameswaram",
+      "image": "assets/images/states/tamil-nadu/pamban-beach.webp",
+      "rating": 4.3,
+      "category": "beaches",
+      "description": "Pamban Beach is a windswept stretch of coastline on Pamban Island near Rameswaram, offering dramatic views of the historic Pamban Bridge — India's first sea bridge — connecting the mainland to the island. The beach features golden sands, strong tidal currents, and a raw, untouched beauty that sets it apart from more commercialized shores.",
+      "history": "Pamban has been a critical link between mainland India and Rameswaram for centuries. The iconic Pamban Bridge was built in 1914 by the British and remains a marvel of engineering with its opening section that allows ships to pass through.",
+      "famousFor": "Views of the historic Pamban Bridge, raw coastal beauty, fishing boats, and stunning sunrises.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pamban-beach",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/pamban-beach.webp"
+      },
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/states/tamil-nadu/pamban-beach.webp"
+    },
+    {
+      "id": "sri-ramana-ashram",
+      "name": "Sri Ramana Ashram",
+      "city": "Tiruvannamalai",
+      "image": "assets/images/states/tamil-nadu/sri-ramana-ashram.webp",
+      "rating": 4.8,
+      "category": "temples",
+      "description": "Sri Ramana Ashram (Sri Ramanasramam) is the spiritual abode of the revered sage Bhagavan Sri Ramana Maharshi at the foot of the sacred Arunachala Hill in Tiruvannamalai. The ashram radiates a profound atmosphere of peace and self-inquiry, attracting seekers from all over the world who come to meditate, study, and experience the timeless teachings of self-realization.",
+      "history": "Sri Ramana Maharshi arrived at Arunachala in 1896 at age 16 and never left. The ashram grew organically around him and was formally established in 1922. After his Mahanirvana in 1950, the ashram has continued as a living centre of his teachings.",
+      "famousFor": "Self-inquiry meditation, Sri Ramana Maharshi's samadhi shrine, sacred Arunachala Hill, and Girivalam path.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "sri-ramana-ashram",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/sri-ramana-ashram.webp"
+      },
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/states/tamil-nadu/sri-ramana-ashram.webp"
+    },
+    {
+      "id": "kodaikanal-lake",
+      "name": "Kodaikanal Lake",
+      "city": "Kodaikanal",
+      "image": "assets/images/states/tamil-nadu/kodaikanal-lake.webp",
+      "rating": 4.6,
+      "category": "lakes",
+      "description": "Kodaikanal Lake is a beautiful star-shaped man-made lake at the heart of Kodaikanal, the 'Princess of Hill Stations,' surrounded by dense shola forests, manicured gardens, and misty green slopes of the Palani Hills. Boating on the lake's calm waters with the Kodai hills rising all around is one of Tamil Nadu's most iconic experiences.",
+      "history": "The lake was created in 1863 by Sir Vere Henry Levinge, the then Collector of Madurai, by damming a stream. Originally meant for irrigation, it quickly became the focal point of the hill station that the British developed as a retreat from the summer heat.",
+      "famousFor": "Star-shaped lake, pedal and row boating, cycling around the lake, and surrounding eucalyptus forests.",
+      "bestTime": "April to June, September to November",
+      "timings": "6:00 AM – 5:30 PM (Boating)",
+      "entryFee": "₹10 (Boating from ₹60)",
+      "slug": "kodaikanal-lake",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kodaikanal-lake.webp"
+      },
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/states/tamil-nadu/kodaikanal-lake.webp"
+    },
+    {
+      "id": "kanyakumari-beach",
+      "name": "Kanyakumari Beach",
+      "city": "Kanyakumari",
+      "image": "assets/images/states/tamil-nadu/kanyakumari-beach.webp",
+      "rating": 4.5,
+      "category": "beaches",
+      "description": "Kanyakumari Beach is the southernmost tip of mainland India, where three mighty bodies of water — the Bay of Bengal, the Arabian Sea, and the Indian Ocean — converge in a spectacular tri-sea confluence. The beach is renowned for its multi-coloured sand, breathtaking sunrises and sunsets visible from the same spot, and the dramatic backdrop of the Vivekananda Rock Memorial and Thiruvalluvar Statue.",
+      "history": "Named after the goddess Kanya Kumari (an incarnation of Parvati), this sacred site has been mentioned in ancient Tamil Sangam literature and has been a pilgrimage destination for millennia. Swami Vivekananda meditated on the nearby rock in 1892 before his historic address at the Parliament of Religions in Chicago.",
+      "famousFor": "Tri-sea confluence, simultaneous sunrise and sunset views, Vivekananda Rock Memorial, and multi-coloured sand.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kanyakumari-beach",
+      "images": {
+        "main": "assets/images/states/tamil-nadu/kanyakumari-beach.webp"
+      },
+      "state": "Tamil Nadu",
+      "heroImage": "assets/images/states/tamil-nadu/kanyakumari-beach.webp"
+    }
+  ]
+}

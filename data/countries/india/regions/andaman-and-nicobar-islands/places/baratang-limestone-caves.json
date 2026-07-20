@@ -1,0 +1,20 @@
+{
+  "id": "baratang-limestone-caves",
+  "name": "Baratang Limestone Caves",
+  "city": "Baratang",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Hidden deep within mangrove creeks, these caves reveal intricate limestone formations sculpted over millennia.",
+  "history": "Formed by natural geological processes involving calcium carbonate deposits.",
+  "famousFor": "Stalactites and stalagmites",
+  "bestTime": "November to April",
+  "timings": "6:00 AM \u2013 3:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/baratang-limestone-caves.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/baratang-limestone-caves.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/baratang-limestone-caves.webp"
+  ],
+  "nearbyPlaces": [
+    "mud-volcanoes"
+  ]
+}

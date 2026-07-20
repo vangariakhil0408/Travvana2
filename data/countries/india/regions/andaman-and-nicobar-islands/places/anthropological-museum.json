@@ -1,0 +1,39 @@
+{
+  "id": "anthropological-museum",
+  "name": "Anthropological Museum",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A fascinating museum housing an extensive collection of photographs, artifacts, and models depicting the lives and cultures of the indigenous tribes of the Andaman and Nicobar Islands.",
+  "history": "Established in 1975 to document and preserve the heritage of the tribal communities.",
+  "famousFor": "Tribal culture, indigenous artifacts, Jarawa and Sentinelese exhibits.",
+  "bestTime": "October to May",
+  "timings": "9:00 AM – 1:00 PM, 2:00 PM – 5:00 PM (Closed Mondays)",
+  "entryFee": "₹10",
+  "image": "./assets/images/states/andaman-and-nicobar/anthropological-museum.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar/anthropological-museum.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar/anthropological-museum.webp"
+  ],
+  "nearbyPlaces": [
+    "chidiya-tapu",
+    "wandoor-beach",
+    "diglipur-town",
+    "chatham-saw-mill",
+    "ross-island",
+    "corbyns-cove-beach",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "kalipur-beach",
+    "long-island",
+    "viper-island",
+    "aberdeen-bazaar",
+    "barren-island",
+    "marina-park",
+    "jolly-buoy-island",
+    "mount-harriet-national-park",
+    "north-bay-island",
+    "mundapahad",
+    "saddle-peak",
+    "samudrika-naval-marine-museum"
+  ]
+}

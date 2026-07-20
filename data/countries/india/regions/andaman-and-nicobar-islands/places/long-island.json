@@ -1,0 +1,39 @@
+{
+  "id": "long-island",
+  "name": "Long Island",
+  "city": "Middle Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "An emerging eco-tourism destination with excellent snorkeling at Lalaji Bay Beach, dense mangrove forests, and the rare experience of witnessing bioluminescent plankton at night.",
+  "history": "A sparsely populated island that remained largely unexplored until eco-tourism development began in the 2010s.",
+  "famousFor": "Lalaji Bay trekking, bioluminescent beach, off-beaten tranquility.",
+  "bestTime": "October to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp"
+  ],
+  "nearbyPlaces": [
+    "mount-harriet-national-park",
+    "north-bay-island",
+    "barren-island",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "viper-island",
+    "saddle-peak",
+    "mundapahad",
+    "chatham-saw-mill",
+    "samudrika-naval-marine-museum",
+    "ross-island",
+    "wandoor-beach",
+    "aberdeen-bazaar",
+    "marina-park",
+    "kalipur-beach",
+    "jolly-buoy-island",
+    "diglipur-town",
+    "corbyns-cove-beach",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

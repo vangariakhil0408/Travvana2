@@ -1,0 +1,27 @@
+{
+  "id": "kalapathar-beach",
+  "name": "Kalapathar Beach",
+  "city": "Swaraj Dweep",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A serene and uncrowded beach known for its striking black rocks contrasting against white sand and turquoise sea \u2014 a photographer's dream.",
+  "history": "Named after the black rocks (kala patthar) that dot the shoreline, it remains one of the least commercialized beaches on Havelock.",
+  "famousFor": "Black rock formations and sunrise views",
+  "bestTime": "November to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "elephant-beach",
+    "vijaynagar-beach",
+    "havelock-island-diving",
+    "radhanagar-beach",
+    "natural-bridge",
+    "sitapur-beach",
+    "bharatpur-beach",
+    "laxmanpur-beach"
+  ]
+}

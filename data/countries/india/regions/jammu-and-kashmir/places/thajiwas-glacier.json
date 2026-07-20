@@ -1,0 +1,21 @@
+{
+  "id": "thajiwas-glacier",
+  "name": "Thajiwas Glacier",
+  "city": "Sonamarg",
+  "state": "Jammu and Kashmir",
+  "description": "A stunning, easily accessible glacier offering year-round snow. The short trek to the glacier is highly scenic, passing through pine forests, waterfalls, and alpine meadows.",
+  "history": "Sonamarg translates to 'Meadow of Gold', historically significant as a gateway on the ancient Silk Road connecting Kashmir with Tibet.",
+  "famousFor": "Year-round snow, sledging, pony rides.",
+  "bestTime": "April to October (Closed in deep winter)",
+  "timings": "Unknown",
+  "entryFee": "Free (Pony rides extra)",
+  "image": "./assets/images/states/jammu-and-kashmir/thajiwas-glacier.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/thajiwas-glacier.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/thajiwas-glacier.webp"
+  ],
+  "nearbyPlaces": [
+    "zojila-pass",
+    "sonamarg-town"
+  ]
+}

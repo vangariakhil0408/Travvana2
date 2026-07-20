@@ -1,0 +1,60 @@
+{
+  "id": "kanak-bhawan-ayodhya",
+  "slug": "kanak-bhawan-ayodhya",
+  "name": "Kanak Bhawan",
+  "location": "Uttar Pradesh, India",
+  "district": "Ayodhya",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "A stunningly ornate temple believed to be the palace gifted by Kaikeyi to Sita as a wedding present. The presiding deities are golden-crowned idols of Lord Rama and Sita adorned with exquisite ornaments.",
+  "description": "Originally built by Vikramaditya, the current structure was rebuilt by the Queen of Orchha in 1891.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "8:00 AM \u2013 12:00 PM, 4:00 PM \u2013 9:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "ayodhya-ram-mandir",
+    "saryu-ghat-ayodhya"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Kanak-Bhawan.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Kanak-Bhawan.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Kanak-Bhawan.webp"
+  ]
+}

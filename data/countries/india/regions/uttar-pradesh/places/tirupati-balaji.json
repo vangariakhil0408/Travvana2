@@ -1,0 +1,69 @@
+{
+  "id": "tirupati-balaji",
+  "slug": "tirupati-balaji",
+  "name": "Tirupati Balaji Temple",
+  "location": "Uttar Pradesh, India",
+  "stateId": "uttar-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/tirupati-balaji.webp",
+  "heroImage": "./assets/images/popular/tirupati-balaji.webp",
+  "gallery": [
+    "./assets/images/popular/tirupati-balaji.webp"
+  ],
+  "overview": "Experience the beauty of Tirupati Balaji Temple, a top destination in Uttar Pradesh, India.",
+  "description": "Experience the magnificent allure of Tirupati Balaji Temple, an iconic gem situated in the heart of Uttar Pradesh, India. It offers breathtaking views, profound historical context, and a vibrant atmosphere that captivates every traveler. A visit here not only enriches your itinerary but also creates memories that last a lifetime.",
+  "rating": "4.3",
+  "reviewCount": 16230,
+  "popularityScore": 90,
+  "priceLevel": 2,
+  "bestTimeToVisit": "All Year",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "87 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "16 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "spiritual",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 668
+    },
+    {
+      "views": 4256
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "varanasi-ghats",
+    "sanchi-stupa"
+  ]
+}

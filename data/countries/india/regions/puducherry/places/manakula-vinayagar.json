@@ -1,0 +1,36 @@
+{
+  "id": "manakula-vinayagar",
+  "name": "Sri Manakula Vinayagar Temple",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "An incredibly historic Hindu temple dedicated to Lord Ganesha, existing since before the French arrived in Puducherry. The temple is famous for its golden chariot and the temple elephant, Lakshmi.",
+  "history": "Surviving multiple attempts at destruction during the colonial era, it remains one of the most culturally significant sites in the French Quarter.",
+  "famousFor": "Golden chariot, ancient idol, and intricate ceiling murals.",
+  "bestTime": "Year-round",
+  "timings": "5:45 AM \u2013 12:30 PM, 4:00 PM \u2013 9:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+  ],
+  "nearbyPlaces": [
+    "sri-aurobindo-ashram",
+    "puducherry-museum",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "promenade-beach",
+    "arikamedu",
+    "thirunallar-temple",
+    "notre-dame-des-anges",
+    "bharathi-park",
+    "sri-karneshwar-nataraja",
+    "french-war-memorial",
+    "serenity-beach",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

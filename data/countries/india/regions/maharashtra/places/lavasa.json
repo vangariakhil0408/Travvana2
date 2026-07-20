@@ -1,0 +1,71 @@
+{
+  "id": "lavasa",
+  "slug": "lavasa",
+  "name": "Lavasa",
+  "location": "Maharashtra, India",
+  "district": "Pune",
+  "stateId": "maharashtra",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/lavasa.webp",
+  "heroImage": "./assets/images/popular/lavasa.webp",
+  "gallery": [
+    "./assets/images/popular/lavasa.webp"
+  ],
+  "overview": "Experience the beauty of Lavasa, a top destination in Maharashtra, India.",
+  "description": "Lavasa is a private, planned city built near Pune. It is stylistically based on the Italian town Portofino, with a street and several buildings bearing the name of that town.",
+  "rating": "4.4",
+  "reviewCount": 46727,
+  "popularityScore": 46,
+  "priceLevel": 1,
+  "bestTimeToVisit": "September to March",
+  "timings": "24 Hours",
+  "entryFee": {
+    "indian": "Parking fee based on vehicle type",
+    "foreigner": "Parking fee based on vehicle type"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Pune Airport",
+      "distance": "65 km"
+    },
+    "nearestRailway": {
+      "name": "Pune Junction",
+      "distance": "55 km"
+    },
+    "byRoad": "Scenic drive from Pune via Temghar Dam."
+  },
+  "tags": [
+    "nature",
+    "maharashtra",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4117
+    },
+    {
+      "views": 904
+    }
+  ],
+  "nearbyPlaces": [
+    "gateway-of-india",
+    "ajanta-ellora",
+    "marine-drive"
+  ]
+}

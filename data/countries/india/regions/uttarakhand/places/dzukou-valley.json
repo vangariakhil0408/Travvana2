@@ -1,0 +1,70 @@
+{
+  "id": "dzukou-valley",
+  "slug": "dzukou-valley",
+  "name": "Dzukou Valley",
+  "location": "Uttarakhand, India",
+  "district": "",
+  "stateId": "uttarakhand",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/dzukou-valley.webp",
+  "heroImage": "./assets/images/popular/dzukou-valley.webp",
+  "gallery": [
+    "./assets/images/popular/dzukou-valley.webp"
+  ],
+  "overview": "Experience the beauty of Dzukou Valley, a top destination in Uttarakhand, India.",
+  "description": "Tucked away in Uttarakhand, India, Dzukou Valley is a sanctuary of nature splendor that leaves visitors spellbound. Drawing explorers from all corners of the globe, it stands as a testament to India's unparalleled diversity. Don't miss the chance to wander through its charming surroundings and engage with the local heritage.",
+  "rating": "4.4",
+  "reviewCount": 25530,
+  "popularityScore": 45,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Oct - Mar",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "₹50 - ₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "55 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "15 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "nature",
+    "uttarakhand",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2786
+    },
+    {
+      "views": 1556
+    }
+  ],
+  "nearbyPlaces": [
+    "badrinath-temple",
+    "kedarnath-temple",
+    "jim-corbett-national-park"
+  ]
+}

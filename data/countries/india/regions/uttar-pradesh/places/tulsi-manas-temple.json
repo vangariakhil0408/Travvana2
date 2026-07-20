@@ -1,0 +1,64 @@
+{
+  "id": "tulsi-manas-temple",
+  "slug": "tulsi-manas-temple",
+  "name": "Tulsi Manas Temple",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "A magnificent modern white marble temple built at the exact site where the saint-poet Tulsidas composed the epic Ramcharitmanas (Hindi version of the Ramayana). The entire text is inscribed on the temple walls.",
+  "description": "Built in 1964, the temple stands where Tulsidas lived and wrote the Ramcharitmanas in the 16th century, revolutionizing Hinduism by making it accessible in common language.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "5:00 AM \u2013 12:00 PM, 3:30 PM \u2013 9:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "kashi-vishwanath",
+    "sarnath",
+    "ramnagar-fort",
+    "bharat-kala-bhavan",
+    "assi-ghat"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Tulsi-Manas-Temple.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Tulsi-Manas-Temple.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Tulsi-Manas-Temple.webp"
+  ]
+}

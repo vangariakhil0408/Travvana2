@@ -1,0 +1,44 @@
+{
+  "stateId": "himachal-pradesh",
+  "places": [
+    {
+      "id": "manali-solang-valley",
+      "name": "Solang Valley",
+      "slug": "manali-solang-valley",
+      "district": "kullu",
+      "thumbnail": "",
+      "rating": 4.6,
+      "reviewCount": 9000,
+      "category": "adventure",
+      "shortDescription": "A stunning valley famous for skiing, paragliding, and zorbing",
+      "popularityScore": 92,
+      "priceLevel": 2
+    },
+    {
+      "id": "spiti-valley",
+      "name": "Spiti Valley",
+      "slug": "spiti-valley",
+      "district": "lahaul-spiti",
+      "thumbnail": "",
+      "rating": 4.8,
+      "reviewCount": 3200,
+      "category": "adventure",
+      "shortDescription": "A cold desert mountain valley, one of the least populated areas in India",
+      "popularityScore": 88,
+      "priceLevel": 2
+    },
+    {
+      "id": "shimla-ridge",
+      "name": "The Ridge, Shimla",
+      "slug": "shimla-ridge",
+      "district": "shimla",
+      "thumbnail": "",
+      "rating": 4.4,
+      "reviewCount": 12000,
+      "category": "nature",
+      "shortDescription": "The heart of Shimla with panoramic mountain views",
+      "popularityScore": 85,
+      "priceLevel": 1
+    }
+  ]
+}

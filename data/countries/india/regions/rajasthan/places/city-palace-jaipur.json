@@ -1,0 +1,70 @@
+{
+  "id": "city-palace-jaipur",
+  "slug": "city-palace-jaipur",
+  "name": "City Palace Jaipur",
+  "location": "Rajasthan, India",
+  "district": "Jaipur",
+  "stateId": "rajasthan",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/city-palace-jaipur.webp",
+  "heroImage": "./assets/images/popular/city-palace-jaipur.webp",
+  "gallery": [
+    "./assets/images/popular/city-palace-jaipur.webp"
+  ],
+  "overview": "Experience the beauty of City Palace Jaipur, a top destination in Rajasthan, India.",
+  "description": "Built by Maharaja Sawai Jai Singh II in the early 18th century, the City Palace complex reflects a blend of Rajput, Mughal, and European architecture.",
+  "rating": "4.7",
+  "reviewCount": 13822,
+  "popularityScore": 13,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:30 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "₹300",
+    "foreigner": "₹1000"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jaipur / Jodhpur / Udaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Jaipur Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "1 km from Jaipur city center"
+  },
+  "tags": [
+    "heritage",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4361
+    },
+    {
+      "views": 5433
+    }
+  ],
+  "nearbyPlaces": [
+    "jantar-mantar-jaipur",
+    "hawa-mahal"
+  ]
+}

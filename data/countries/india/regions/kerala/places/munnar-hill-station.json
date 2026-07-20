@@ -1,0 +1,71 @@
+{
+  "id": "munnar-hill-station",
+  "slug": "munnar-hill-station",
+  "name": "Munnar Hill Station",
+  "location": "Kerala, India",
+  "district": "Idukki",
+  "stateId": "kerala",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/states/kerala/banner.webp",
+  "heroImage": "./assets/images/states/kerala/banner.webp",
+  "gallery": [
+    "./assets/images/states/kerala/banner.webp"
+  ],
+  "overview": "Experience the beauty of Munnar Hill Station, a top destination in Kerala, India.",
+  "description": "Known for its sprawling tea plantations, picturesque towns, and winding lanes, Munnar is a popular resort town and hill station in the Western Ghats. It sits at the confluence of three mountain streams: Mudrapuzha, Nallathanni and Kundala.",
+  "rating": "4.6",
+  "reviewCount": 35597,
+  "popularityScore": 0,
+  "priceLevel": 1,
+  "bestTimeToVisit": "September to March",
+  "timings": "24 Hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Cochin International Airport",
+      "distance": "110 km"
+    },
+    "nearestRailway": {
+      "name": "Aluva Railway Station",
+      "distance": "110 km"
+    },
+    "byRoad": "Scenic drive from Kochi or Madurai via NH85."
+  },
+  "tags": [
+    "nature",
+    "kerala",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5182
+    },
+    {
+      "views": 4955
+    }
+  ],
+  "nearbyPlaces": [
+    "kerala-backwaters",
+    "varkala-cliff",
+    "athirappilly-waterfalls"
+  ]
+}

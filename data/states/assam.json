@@ -1,0 +1,1315 @@
+{
+  "name": "Assam",
+  "slug": "assam",
+  "tagline": "The Land of the Red River and Blue Hills",
+  "heroImage": "assets/images/states/assam/banner.webp",
+  "capital": "Dispur",
+  "bestTime": "October to April",
+  "language": "Assamese",
+  "places": [
+    {
+      "name": "Kaziranga National Park",
+      "city": "Golaghat",
+      "category": "wildlife",
+      "distance": "5 km from Kohora",
+      "rating": 4.8,
+      "description": "Golden grasslands ripple in the wind as rhinos wander freely across floodplains shaped by the Brahmaputra. The landscape feels alive with distant bird calls and sudden wildlife encounters.",
+      "history": "Established in 1905 and declared a UNESCO World Heritage Site, it protects the largest population of one-horned rhinoceroses.",
+      "famousFor": "One-horned rhinoceros conservation.",
+      "bestTime": "November to April",
+      "timings": "7:30 AM – 4:00 PM",
+      "entryFee": "₹100",
+      "slug": "kaziranga-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/popular/kaziranga-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kakochang Waterfall",
+          "city": "Bokakhat",
+          "distance": "15 km",
+          "slug": "kakochang-waterfall",
+          "image": "assets/images/states/assam/kaziranga-national-park.webp"
+        },
+        {
+          "name": "Orchid and Biodiversity Park",
+          "city": "Kaziranga",
+          "distance": "5 km",
+          "slug": "orchid-park-kaziranga",
+          "image": "assets/images/states/assam/kaziranga-national-park.webp"
+        }
+      ],
+      "id": "kaziranga-national-park",
+      "image": "assets/images/popular/kaziranga-national-park.webp",
+      "heroImage": "assets/images/popular/kaziranga-national-park.webp"
+    },
+    {
+      "name": "Kamakhya Temple",
+      "city": "Guwahati",
+      "category": "temples",
+      "distance": "8 km from city center",
+      "rating": 4.7,
+      "description": "The temple rises above Nilachal Hill where chants and incense fill the air. Pilgrims climb upward to experience deep spirituality and sweeping river views.",
+      "history": "An ancient Shakti Peetha rebuilt by the Koch kings in the 17th century.",
+      "famousFor": "Ambubachi Mela festival.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "kamakhya-temple",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/kamakhya-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Madan Kamdev",
+          "city": "Kamrup",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "madan-kamdev",
+          "images": {
+            "main": "assets/images/states/assam/madan-kamdev.webp"
+          }
+        }
+      ],
+      "id": "kamakhya-temple",
+      "image": "assets/images/states/assam/kamakhya-temple.webp",
+      "heroImage": "assets/images/states/assam/kamakhya-temple.webp"
+    },
+    {
+      "name": "Majuli Island",
+      "city": "Jorhat",
+      "category": "nature",
+      "distance": "20 km from Jorhat",
+      "rating": 4.7,
+      "description": "Floating gently in the Brahmaputra, Majuli feels like a world untouched by time. Monasteries and greenery create a serene cultural landscape.",
+      "history": "Center of Neo-Vaishnavite culture established by Srimanta Sankardeva.",
+      "famousFor": "Largest river island.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "majuli-island",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/majuli-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jorhat Tea Gardens",
+          "city": "Jorhat",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "jorhat-tea-gardens",
+          "images": {
+            "main": "assets/images/states/assam/jorhat-tea-gardens.webp"
+          }
+        }
+      ],
+      "id": "majuli-island",
+      "heroImage": "assets/images/states/assam/majuli-island.webp"
+    },
+    {
+      "name": "Manas National Park",
+      "city": "Barpeta",
+      "category": "wildlife",
+      "distance": "40 km from Barpeta",
+      "rating": 4.8,
+      "description": "Dense forests and riverine landscapes create a sanctuary for rare wildlife. The quiet wilderness offers thrilling glimpses of untouched nature.",
+      "history": "A UNESCO World Heritage Site and Project Tiger reserve established in 1928.",
+      "famousFor": "Rich biodiversity and tiger reserve.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹100",
+      "slug": "manas-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/manas-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "manas-national-park",
+      "heroImage": "assets/images/states/assam/manas-national-park.webp"
+    },
+    {
+      "name": "Sivasagar Tank",
+      "city": "Sivasagar",
+      "category": "heritage",
+      "distance": "1 km from city center",
+      "rating": 4.5,
+      "description": "Still waters reflect grand temples and Ahom-era structures, creating a serene historical setting in the heart of the town.",
+      "history": "Built in the 18th century by Queen Ambika of the Ahom dynasty.",
+      "famousFor": "Historic tank with surrounding monuments.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sivasagar-tank",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/sivasagar-tank.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rang Ghar",
+          "city": "Sivasagar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "rang-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/rang-ghar.webp"
+          }
+        },
+        {
+          "name": "Kareng Ghar",
+          "city": "Sivasagar",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "kareng-ghar",
+          "images": {
+            "main": "assets/images/states/assam/kareng-ghar.webp"
+          }
+        }
+      ],
+      "id": "sivasagar-tank",
+      "heroImage": "assets/images/states/assam/sivasagar-tank.webp"
+    },
+    {
+      "name": "Dibru-Saikhowa National Park",
+      "city": "Tinsukia",
+      "category": "wildlife",
+      "distance": "12 km from Tinsukia",
+      "rating": 4.6,
+      "description": "A mosaic of wetlands, grasslands, and forests unfolds across this remote sanctuary. Wild horses roam freely while migratory birds fill the skies.",
+      "history": "Declared a national park in 1999, it was created to protect rare ecosystems of the Brahmaputra floodplains.",
+      "famousFor": "Feral horses and birdlife.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "dibru-saikhowa-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/dibru-saikhowa-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dibru-saikhowa-national-park",
+      "heroImage": "assets/images/states/assam/dibru-saikhowa-national-park.webp"
+    },
+    {
+      "name": "Orang National Park",
+      "city": "Darrang",
+      "category": "wildlife",
+      "distance": "15 km from Mangaldoi",
+      "rating": 4.5,
+      "description": "Rolling grasslands and marshes create a compact yet vibrant habitat. Rhinos and deer roam against the backdrop of distant hills.",
+      "history": "Established as a wildlife sanctuary in 1985 and later upgraded to a national park.",
+      "famousFor": "Mini Kaziranga for rhino population.",
+      "bestTime": "November to April",
+      "timings": "7:30 AM – 3:30 PM",
+      "entryFee": "₹50",
+      "slug": "orang-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/orang-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "orang-national-park",
+      "heroImage": "assets/images/states/assam/orang-national-park.webp"
+    },
+    {
+      "name": "Nameri National Park",
+      "city": "Sonitpur",
+      "category": "wildlife",
+      "distance": "35 km from Tezpur",
+      "rating": 4.6,
+      "description": "Crystal-clear rivers wind through dense forests where adventure meets tranquility. Rafting and birdwatching define the park’s charm.",
+      "history": "Declared a national park in 1998, it forms part of the Eastern Himalayan biodiversity hotspot.",
+      "famousFor": "River rafting and birdwatching.",
+      "bestTime": "November to April",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "nameri-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/nameri-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "nameri-national-park",
+      "heroImage": "assets/images/states/assam/nameri-national-park.webp"
+    },
+    {
+      "name": "Talatal Ghar",
+      "city": "Sivasagar",
+      "category": "heritage",
+      "distance": "4 km from Sivasagar",
+      "rating": 4.5,
+      "description": "A maze of underground tunnels and grand architecture reveals secrets of Ahom military strategy. The structure stands as a silent witness to history.",
+      "history": "Built in the 18th century by Swargadeo Rudra Singha of the Ahom dynasty.",
+      "famousFor": "Underground tunnels and Ahom architecture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "talatal-ghar",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/talatal-ghar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kareng Ghar",
+          "city": "Sivasagar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "kareng-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/kareng-ghar.webp"
+          }
+        },
+        {
+          "name": "Rang Ghar",
+          "city": "Sivasagar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "rang-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/rang-ghar.webp"
+          }
+        }
+      ],
+      "id": "talatal-ghar",
+      "heroImage": "assets/images/states/assam/talatal-ghar.webp"
+    },
+    {
+      "name": "Umananda Temple",
+      "city": "Guwahati",
+      "category": "temples",
+      "distance": "3 km from city center",
+      "rating": 4.6,
+      "description": "Set on a river island, the temple rises above the flowing Brahmaputra, surrounded by calm waters and scenic beauty.",
+      "history": "Built in the 17th century by Ahom king Gadadhar Singha.",
+      "famousFor": "World’s smallest inhabited river island temple.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "umananda-temple",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/umananda-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "umananda-temple",
+      "heroImage": "assets/images/states/assam/umananda-temple.webp"
+    },
+    {
+      "name": "Deepor Beel",
+      "city": "Guwahati",
+      "category": "nature",
+      "distance": "13 km from Guwahati",
+      "rating": 4.5,
+      "description": "A vast freshwater lake glistens under open skies as migratory birds gather in thousands. The wetlands create a peaceful escape on the edge of the bustling city.",
+      "history": "Recognized as a Ramsar site, Deepor Beel has long been an important wetland ecosystem supporting biodiversity.",
+      "famousFor": "Birdwatching and wetland ecosystem.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "deepor-beel",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/deepor-beel.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "deepor-beel",
+      "heroImage": "assets/images/states/assam/deepor-beel.webp"
+    },
+    {
+      "name": "Navagraha Temple",
+      "city": "Guwahati",
+      "category": "temples",
+      "distance": "6 km from city center",
+      "rating": 4.4,
+      "description": "Perched atop Chitrachal Hill, the temple overlooks the city with a quiet spiritual aura. Devotees visit to seek blessings of the nine celestial bodies.",
+      "history": "Built during the Ahom period, the temple is associated with ancient astronomical and astrological practices.",
+      "famousFor": "Temple dedicated to nine planets.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "navagraha-temple",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/navagraha-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "navagraha-temple",
+      "heroImage": "assets/images/states/assam/navagraha-temple.webp"
+    },
+    {
+      "name": "Hayagriva Madhava Temple",
+      "city": "Hajo",
+      "category": "temples",
+      "distance": "3 km from Hajo",
+      "rating": 4.6,
+      "description": "Standing on Monikut Hill, the temple overlooks serene landscapes and carries a unique blend of Hindu and Buddhist influences.",
+      "history": "Originally built in the 6th century and later reconstructed by the Koch kings in the 16th century.",
+      "famousFor": "Sacred pilgrimage site for both Hindus and Buddhists.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hayagriva-madhava-temple",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/hayagriva-madhava-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hajo",
+          "city": "Kamrup",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "hajo",
+          "images": {
+            "main": "assets/images/states/assam/hajo.webp"
+          }
+        }
+      ],
+      "id": "hayagriva-madhava-temple",
+      "heroImage": "assets/images/states/assam/hayagriva-madhava-temple.webp"
+    },
+    {
+      "name": "Chandubi Lake",
+      "city": "Kamrup",
+      "category": "nature",
+      "distance": "64 km from Guwahati",
+      "rating": 4.6,
+      "description": "Surrounded by forested hills, the calm lake reflects changing skies and offers a peaceful retreat away from urban life.",
+      "history": "Formed after a major earthquake in 1897, Chandubi Lake became a natural attraction over time.",
+      "famousFor": "Scenic lake and eco-tourism.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chandubi-lake",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/chandubi-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "chandubi-lake",
+      "heroImage": "assets/images/states/assam/chandubi-lake.webp"
+    },
+    {
+      "name": "Tezpur",
+      "city": "Sonitpur",
+      "category": "cities",
+      "distance": "0 km from city center",
+      "rating": 4.5,
+      "description": "Known as the cultural capital of Assam, Tezpur blends mythology, scenic beauty, and colonial charm along the Brahmaputra.",
+      "history": "Associated with the legend of Usha and Aniruddha, Tezpur has historical significance from ancient and colonial periods.",
+      "famousFor": "Mythological heritage and scenic river views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tezpur",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/tezpur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agnigarh Hill",
+          "city": "Tezpur",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "agnigarh-hill",
+          "images": {
+            "main": "assets/images/states/assam/agnigarh-hill.webp"
+          }
+        }
+      ],
+      "id": "tezpur",
+      "heroImage": "assets/images/states/assam/tezpur.webp"
+    },
+    {
+      "name": "Pobitora Wildlife Sanctuary",
+      "city": "Morigaon",
+      "category": "wildlife",
+      "distance": "30 km from Guwahati",
+      "rating": 4.6,
+      "description": "A compact yet thriving sanctuary where rhinos graze across marshy grasslands. The closeness to wildlife makes every safari feel intense and personal.",
+      "history": "Declared a wildlife sanctuary in 1987, Pobitora is known for its dense population of one-horned rhinoceroses.",
+      "famousFor": "Highest density of one-horned rhinos.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "pobitora-wildlife-sanctuary",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/pobitora-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mayong",
+          "city": "Morigaon",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "mayong",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/mayong.webp"
+          }
+        }
+      ],
+      "id": "pobitora-wildlife-sanctuary",
+      "heroImage": "assets/images/states/assam/pobitora-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Hoollongapar Gibbon Sanctuary",
+      "city": "Jorhat",
+      "category": "wildlife",
+      "distance": "20 km from Jorhat",
+      "rating": 4.5,
+      "description": "Dense evergreen forests echo with the calls of India’s only ape species. The canopy above teems with life in a quiet, immersive jungle setting.",
+      "history": "Established in 1997, it is the only sanctuary in India dedicated to conserving hoolock gibbons.",
+      "famousFor": "Hoolock gibbons.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "hoollongapar-gibbon-sanctuary",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/hoollongapar-gibbon-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "hoollongapar-gibbon-sanctuary",
+      "heroImage": "assets/images/states/assam/hoollongapar-gibbon-sanctuary.webp"
+    },
+    {
+      "name": "Umrangso",
+      "city": "Dima Hasao",
+      "category": "hills",
+      "distance": "5 km from town center",
+      "rating": 4.5,
+      "description": "Nestled among rolling hills, Umrangso offers scenic landscapes and quiet surroundings away from crowds. The terrain blends water, forest, and sky in harmony.",
+      "history": "Developed as a hydroelectric hub, the area has grown into a scenic hill destination.",
+      "famousFor": "Kapili hydroelectric project and scenic hills.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "umrangso",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/umrangso.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "umrangso",
+      "heroImage": "assets/images/states/assam/umrangso.webp"
+    },
+    {
+      "name": "Dibrugarh",
+      "city": "Dibrugarh",
+      "category": "cities",
+      "distance": "0 km from city center",
+      "rating": 4.4,
+      "description": "Known as the Tea City of India, Dibrugarh stretches along the Brahmaputra with lush tea gardens and colonial charm.",
+      "history": "Developed during British rule as a major tea trading hub in Northeast India.",
+      "famousFor": "Tea gardens and riverfront.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dibrugarh",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/dibrugarh.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dibrugarh",
+      "heroImage": "assets/images/states/assam/dibrugarh.webp"
+    },
+    {
+      "name": "Digboi",
+      "city": "Tinsukia",
+      "category": "heritage",
+      "distance": "15 km from Tinsukia",
+      "rating": 4.5,
+      "description": "Historic oil town surrounded by forests, where colonial-era structures still stand beside modern industry.",
+      "history": "Home to Asia’s oldest operating oil refinery established in 1901 during British rule.",
+      "famousFor": "Oldest oil refinery in Asia.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "digboi",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/digboi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dehing Patkai National Park",
+          "city": "Tinsukia",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "dehing-patkai-national-park",
+          "images": {
+            "main": "assets/images/states/assam/dehing-patkai-national-park.webp"
+          }
+        }
+      ],
+      "id": "digboi",
+      "heroImage": "assets/images/states/assam/digboi.webp"
+    },
+    {
+      "name": "Charaideo Maidams",
+      "city": "Charaideo",
+      "category": "heritage",
+      "distance": "30 km from Sivasagar",
+      "rating": 4.6,
+      "description": "Rolling mounds rise quietly across a green landscape, marking the royal burial grounds of the Ahom kings. The atmosphere carries a solemn sense of history and legacy.",
+      "history": "Dating back to the 13th century, these maidams served as burial sites for Ahom royalty and reflect Tai-Ahom funerary traditions.",
+      "famousFor": "Ahom royal burial mounds.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "charaideo-maidams",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/charaideo-maidams.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "charaideo-maidams",
+      "heroImage": "assets/images/states/assam/charaideo-maidams.webp"
+    },
+    {
+      "name": "Panimur Waterfall",
+      "city": "Dima Hasao",
+      "category": "waterfalls",
+      "distance": "120 km from Haflong",
+      "rating": 4.6,
+      "description": "Foaming white water crashes over rocky terrain, creating a dramatic cascade often called the 'Niagara of the Northeast'. The surrounding greenery enhances its raw beauty.",
+      "history": "Formed naturally along the Kopili River, the waterfall has become a popular tourist and picnic spot.",
+      "famousFor": "Largest waterfall in Assam.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "panimur-waterfall",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/panimur-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "panimur-waterfall",
+      "heroImage": "assets/images/states/assam/panimur-waterfall.webp"
+    },
+    {
+      "name": "Bordoibam Bilmukh Bird Sanctuary",
+      "city": "Lakhimpur",
+      "category": "wildlife",
+      "distance": "15 km from North Lakhimpur",
+      "rating": 4.4,
+      "description": "A seasonal wetland sanctuary where migratory birds arrive in large numbers, filling the skies with movement and sound.",
+      "history": "Recognized as an Important Bird Area, it protects migratory and resident bird species.",
+      "famousFor": "Birdwatching and wetlands.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bordoibam-bilmukh-bird-sanctuary",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/bordoibam-bilmukh-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "bordoibam-bilmukh-bird-sanctuary",
+      "heroImage": "assets/images/states/assam/bordoibam-bilmukh-bird-sanctuary.webp"
+    },
+    {
+      "name": "Dehing Patkai National Park",
+      "city": "Tinsukia",
+      "category": "wildlife",
+      "distance": "25 km from Digboi",
+      "rating": 4.7,
+      "description": "Dense rainforests stretch endlessly, creating one of India’s richest biodiversity zones. Mist and towering trees give it an almost mystical aura.",
+      "history": "Upgraded to a national park in 2021, it was earlier a wildlife sanctuary known for rainforest conservation.",
+      "famousFor": "Rainforest biodiversity.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹100",
+      "slug": "dehing-patkai-national-park",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/dehing-patkai-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Digboi",
+          "city": "Tinsukia",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "digboi",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/digboi.webp"
+          }
+        }
+      ],
+      "id": "dehing-patkai-national-park",
+      "heroImage": "assets/images/states/assam/dehing-patkai-national-park.webp"
+    },
+    {
+      "name": "Sualkuchi",
+      "city": "Kamrup",
+      "category": "heritage",
+      "distance": "35 km from Guwahati",
+      "rating": 4.5,
+      "description": "Known as the silk village of Assam, Sualkuchi hums with the rhythm of handlooms weaving exquisite silk fabrics.",
+      "history": "For centuries, Sualkuchi has been the center of Assam’s silk weaving tradition, especially Muga silk.",
+      "famousFor": "Silk weaving and Muga silk.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "sualkuchi",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/sualkuchi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hajo",
+          "city": "Kamrup",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "hajo",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/hajo.webp"
+          }
+        }
+      ],
+      "id": "sualkuchi",
+      "heroImage": "assets/images/states/assam/sualkuchi.webp"
+    },
+    {
+      "name": "Batadrava Than",
+      "city": "Nagaon",
+      "category": "temples",
+      "distance": "15 km from Nagaon",
+      "rating": 4.6,
+      "description": "A peaceful Vaishnavite monastery surrounded by open fields and spiritual calm. Devotees gather to experience devotional music and rituals.",
+      "history": "Established by Srimanta Sankardeva in the 15th century as a center of Neo-Vaishnavism.",
+      "famousFor": "Birthplace of Sankardeva and Vaishnavite traditions.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "batadrava-than",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/batadrava-than.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "batadrava-than",
+      "heroImage": "assets/images/states/assam/batadrava-than.webp"
+    },
+    {
+      "name": "Padum Pukhuri",
+      "city": "Tezpur",
+      "category": "nature",
+      "distance": "2 km from Tezpur",
+      "rating": 4.4,
+      "description": "A scenic lake island surrounded by calm waters and greenery, offering boating and peaceful views in the heart of Tezpur.",
+      "history": "Developed as a recreational lake area, it has become a popular urban attraction.",
+      "famousFor": "Lake island and boating.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 7:00 PM",
+      "entryFee": "₹20",
+      "slug": "padum-pukhuri",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/padum-pukhuri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agnigarh Hill",
+          "city": "Tezpur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "agnigarh-hill",
+          "images": {
+            "main": "assets/images/states/assam/agnigarh-hill.webp"
+          }
+        }
+      ],
+      "id": "padum-pukhuri",
+      "heroImage": "assets/images/states/assam/padum-pukhuri.webp"
+    },
+    {
+      "name": "Srimanta Sankardev Kalakshetra",
+      "city": "Guwahati",
+      "category": "heritage",
+      "distance": "12 km from city center",
+      "rating": 4.6,
+      "description": "A cultural complex showcasing Assam’s art, traditions, and history through museums, performances, and open spaces.",
+      "history": "Established in 1998 to honor the life and teachings of Srimanta Sankardeva.",
+      "famousFor": "Cultural exhibitions and museum.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 7:00 PM",
+      "entryFee": "₹30",
+      "slug": "srimanta-sankardev-kalakshetra",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/srimanta-sankardev-kalakshetra.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basistha Temple",
+          "city": "Guwahati",
+          "distance": "8 km away",
+          "category": "temples",
+          "slug": "basistha-temple",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/basistha-temple.webp"
+          }
+        },
+        {
+          "name": "Assam State Zoo & Botanical Garden",
+          "city": "Guwahati",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "assam-state-zoo",
+          "images": {
+            "main": "assets/images/states/assam/assam-state-zoo.webp"
+          }
+        }
+      ],
+      "id": "srimanta-sankardev-kalakshetra",
+      "heroImage": "assets/images/states/assam/srimanta-sankardev-kalakshetra.webp"
+    },
+    {
+      "name": "Basistha Temple",
+      "city": "Guwahati",
+      "category": "temples",
+      "distance": "12 km from city center",
+      "rating": 4.5,
+      "description": "Nestled at the foothills, the temple sits beside flowing streams and lush greenery, offering a serene spiritual retreat.",
+      "history": "Believed to be associated with sage Vasistha, the temple has ancient mythological significance.",
+      "famousFor": "Temple amidst forest and streams.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "basistha-temple",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/basistha-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Srimanta Sankardev Kalakshetra",
+          "city": "Guwahati",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "srimanta-sankardev-kalakshetra",
+          "images": {
+            "main": "assets/images/states/assam/srimanta-sankardev-kalakshetra.webp"
+          }
+        },
+        {
+          "name": "Assam State Zoo & Botanical Garden",
+          "city": "Guwahati",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "assam-state-zoo",
+          "images": {
+            "main": "assets/images/states/assam/assam-state-zoo.webp"
+          }
+        }
+      ],
+      "id": "basistha-temple",
+      "heroImage": "assets/images/states/assam/basistha-temple.webp"
+    },
+    {
+      "name": "Kakochang Waterfalls",
+      "city": "Karbi Anglong",
+      "category": "waterfalls",
+      "distance": "13 km from Bokakhat",
+      "rating": 4.5,
+      "description": "A scenic cascade hidden within lush forests, where water tumbles down rocky cliffs into a serene pool below.",
+      "history": "Naturally formed waterfall near Kaziranga region, gaining popularity for eco-tourism.",
+      "famousFor": "Forest waterfall views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kakochang-waterfalls",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/kakochang-waterfalls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kakochang-waterfalls",
+      "heroImage": "assets/images/states/assam/kakochang-waterfalls.webp"
+    },
+    {
+      "name": "Laokhowa Wildlife Sanctuary",
+      "city": "Nagaon",
+      "category": "wildlife",
+      "distance": "25 km from Nagaon",
+      "rating": 4.4,
+      "description": "Grasslands and wetlands stretch across this sanctuary, offering a refuge for birds and wildlife.",
+      "history": "Established in 1972, it is part of the Laokhowa-Burachapori ecosystem.",
+      "famousFor": "Wetland wildlife habitat.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "laokhowa-wildlife-sanctuary",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/laokhowa-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "laokhowa-wildlife-sanctuary",
+      "heroImage": "assets/images/states/assam/laokhowa-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Diphu",
+      "city": "Karbi Anglong",
+      "category": "hills",
+      "distance": "0 km from town center",
+      "rating": 4.4,
+      "description": "A quiet hill town surrounded by greenery and gentle slopes, offering scenic views and cultural diversity.",
+      "history": "Diphu developed as an administrative center of Karbi Anglong district with tribal cultural heritage.",
+      "famousFor": "Hill landscapes and Karbi culture.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "diphu",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/diphu.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "diphu",
+      "heroImage": "assets/images/states/assam/diphu.webp"
+    },
+    {
+      "name": "Rang Ghar",
+      "city": "Sivasagar",
+      "category": "heritage",
+      "distance": "3 km from Sivasagar",
+      "rating": 4.7,
+      "description": "The Colosseum of the East — a two-storied oval amphitheatre built entirely without bricks or iron, where Ahom kings watched buffalo fights and other royal sports.",
+      "history": "Built by Ahom king Pramatta Singha in 1746, it is one of the oldest surviving amphitheatres in Asia and a masterpiece of Ahom engineering.",
+      "famousFor": "Asia's oldest amphitheatre and Ahom royal sports pavilion.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "rang-ghar",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/rang-ghar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Talatal Ghar",
+          "city": "Sivasagar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "talatal-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/talatal-ghar.webp"
+          }
+        },
+        {
+          "name": "Kareng Ghar",
+          "city": "Sivasagar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "kareng-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/kareng-ghar.webp"
+          }
+        },
+        {
+          "name": "Sivasagar Tank",
+          "city": "Sivasagar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "sivasagar-tank",
+          "images": {
+            "main": "assets/images/states/assam/sivasagar-tank.webp"
+          }
+        }
+      ],
+      "id": "rang-ghar",
+      "heroImage": "assets/images/states/assam/rang-ghar.webp"
+    },
+    {
+      "name": "Kareng Ghar",
+      "city": "Sivasagar",
+      "category": "heritage",
+      "distance": "4 km from Sivasagar",
+      "rating": 4.6,
+      "description": "The grand seven-storied royal palace of the Ahom kings, showcasing remarkable architecture with underground tunnels and secret escape routes.",
+      "history": "Constructed during the reign of Swargadeo Rajeswar Singha in the 18th century, it served as the final royal palace of the Ahom dynasty.",
+      "famousFor": "Seven-storied Ahom royal palace with underground passages.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "kareng-ghar",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/kareng-ghar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rang Ghar",
+          "city": "Sivasagar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "rang-ghar",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/rang-ghar.webp"
+          }
+        },
+        {
+          "name": "Sivasagar Tank",
+          "city": "Sivasagar",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "sivasagar-tank",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/sivasagar-tank.webp"
+          }
+        },
+        {
+          "name": "Talatal Ghar",
+          "city": "Sivasagar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "talatal-ghar",
+          "images": {
+            "main": "assets/images/states/assam/talatal-ghar.webp"
+          }
+        }
+      ],
+      "id": "kareng-ghar",
+      "heroImage": "assets/images/states/assam/kareng-ghar.webp"
+    },
+    {
+      "name": "Haflong",
+      "city": "Dima Hasao",
+      "category": "hills",
+      "distance": "340 km from Guwahati",
+      "rating": 4.6,
+      "description": "The only hill station in Assam, often called the 'Switzerland of the East' — a serene town surrounded by pine-clad hills, misty valleys, and the picturesque Haflong Lake.",
+      "history": "Originally a Dimasa Kachari settlement, Haflong became the district headquarters of Dima Hasao and developed as a scenic retreat during British rule.",
+      "famousFor": "Only hill station in Assam, Haflong Lake, and scenic mountain railways.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "haflong",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/haflong.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jatinga Village",
+          "city": "Dima Hasao",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "jatinga",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/jatinga.webp"
+          }
+        }
+      ],
+      "id": "haflong",
+      "heroImage": "assets/images/states/assam/haflong.webp"
+    },
+    {
+      "name": "Jatinga Village",
+      "city": "Dima Hasao",
+      "category": "nature",
+      "distance": "9 km from Haflong",
+      "rating": 4.5,
+      "description": "A mysterious village where migratory birds descend from the sky on dark foggy nights between September and November, drawn by village lights — a phenomenon that has baffled scientists for decades.",
+      "history": "The mass bird phenomenon was first documented in the 1900s. Scientists attribute it to disorientation caused by fog, monsoon winds, and high altitude.",
+      "famousFor": "Mysterious bird phenomenon and scenic hilltop village.",
+      "bestTime": "September to November (bird season), October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jatinga",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/jatinga.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Haflong",
+          "city": "Dima Hasao",
+          "distance": "9 km away",
+          "category": "hills",
+          "slug": "haflong",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/haflong.webp"
+          }
+        }
+      ],
+      "id": "jatinga",
+      "heroImage": "assets/images/states/assam/jatinga.webp"
+    },
+    {
+      "name": "Mayong",
+      "city": "Morigaon",
+      "category": "heritage",
+      "distance": "40 km from Guwahati",
+      "rating": 4.5,
+      "description": "The legendary 'Land of Black Magic' where ancient tantric practices and sorcery have been part of village life for centuries, now preserved through a fascinating museum.",
+      "history": "Mayong has been associated with black magic and witchcraft since ancient times. Archaeological findings include ancient manuscripts and tantric artifacts.",
+      "famousFor": "Land of Black Magic, Mayong Central Museum, and proximity to Pobitora.",
+      "bestTime": "October to April",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "mayong",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/mayong.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pobitora Wildlife Sanctuary",
+          "city": "Morigaon",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "pobitora-wildlife-sanctuary",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/pobitora-wildlife-sanctuary.webp"
+          }
+        }
+      ],
+      "id": "mayong",
+      "heroImage": "assets/images/states/assam/mayong.webp"
+    },
+    {
+      "name": "Madan Kamdev",
+      "city": "Kamrup",
+      "category": "heritage",
+      "distance": "40 km from Guwahati",
+      "rating": 4.6,
+      "description": "Often called the 'Khajuraho of Assam', this archaeological site features stunning ruins of ancient temples adorned with intricate erotic stone carvings dating back over a thousand years.",
+      "history": "Dating from the 9th-12th century, the site contains ruins of about 40 stone temples built during the Pala dynasty, showcasing Hindu temple architecture and sculpture.",
+      "famousFor": "Ancient erotic stone carvings and Pala dynasty temple ruins.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "madan-kamdev",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/madan-kamdev.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kamakhya Temple",
+          "city": "Guwahati",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "kamakhya-temple",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/kamakhya-temple.webp"
+          }
+        }
+      ],
+      "id": "madan-kamdev",
+      "heroImage": "assets/images/states/assam/madan-kamdev.webp"
+    },
+    {
+      "name": "Jorhat Tea Gardens",
+      "city": "Jorhat",
+      "category": "nature",
+      "distance": "0 km from Jorhat",
+      "rating": 4.6,
+      "description": "The Tea Capital of India — vast emerald-green tea estates stretch to the horizon, with colonial-era bungalows and the world-renowned Tocklai Tea Research Institute.",
+      "history": "Jorhat emerged as the epicenter of India's tea industry in the 19th century under British planters. The Tocklai Research Institute, established in 1911, is the oldest tea research facility in the world.",
+      "famousFor": "Tea Capital of India, Tocklai Tea Research Institute, and heritage tea bungalows.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Tea estate visits)",
+      "entryFee": "Unknown",
+      "slug": "jorhat-tea-gardens",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/jorhat-tea-gardens.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Majuli Island",
+          "city": "Jorhat",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "majuli-island",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/majuli-island.webp"
+          }
+        }
+      ],
+      "id": "jorhat-tea-gardens",
+      "heroImage": "assets/images/states/assam/jorhat-tea-gardens.webp"
+    },
+    {
+      "name": "Assam State Zoo & Botanical Garden",
+      "city": "Guwahati",
+      "category": "wildlife",
+      "distance": "10 km from city center",
+      "rating": 4.4,
+      "description": "A sprawling 175-hectare green oasis in the heart of Guwahati, home to one-horned rhinos, Bengal tigers, and rare species like the golden langur and pygmy hog.",
+      "history": "Established in 1957, it is one of the largest zoological gardens in Northeast India and houses the Assam State Botanical Garden.",
+      "famousFor": "One-horned rhino conservation, golden langur, and botanical garden.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 4:30 PM (Closed on Fridays)",
+      "entryFee": "₹30",
+      "slug": "assam-state-zoo",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/assam-state-zoo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Srimanta Sankardev Kalakshetra",
+          "city": "Guwahati",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "srimanta-sankardev-kalakshetra",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/srimanta-sankardev-kalakshetra.webp"
+          }
+        },
+        {
+          "name": "Basistha Temple",
+          "city": "Guwahati",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "basistha-temple",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/basistha-temple.webp"
+          }
+        }
+      ],
+      "id": "assam-state-zoo",
+      "heroImage": "assets/images/states/assam/assam-state-zoo.webp"
+    },
+    {
+      "name": "Agnigarh Hill",
+      "city": "Tezpur",
+      "category": "heritage",
+      "distance": "2 km from Tezpur center",
+      "rating": 4.5,
+      "description": "A mythological hilltop offering panoramic views of the Brahmaputra valley, believed to be where King Banasura imprisoned his daughter Usha inside a ring of fire.",
+      "history": "According to Hindu mythology, the demon king Banasura built a fortress of fire (Agni = fire, Garh = fort) atop this hill to protect his daughter Usha from suitors.",
+      "famousFor": "Mythological significance, spiral stairway, and Brahmaputra valley views.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "agnigarh-hill",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/agnigarh-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Padum Pukhuri",
+          "city": "Tezpur",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "padum-pukhuri",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/padum-pukhuri.webp"
+          }
+        },
+        {
+          "name": "Chitralekha Udyan",
+          "city": "Tezpur",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "tezpur",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/tezpur.webp"
+          }
+        }
+      ],
+      "id": "agnigarh-hill",
+      "heroImage": "assets/images/states/assam/agnigarh-hill.webp"
+    },
+    {
+      "name": "Hajo",
+      "city": "Kamrup",
+      "category": "heritage",
+      "distance": "30 km from Guwahati",
+      "rating": 4.5,
+      "description": "A unique multi-faith pilgrimage town where Hindu, Muslim, and Buddhist shrines coexist on neighboring hills — a living symbol of communal harmony.",
+      "history": "Hajo has been a sacred pilgrimage center for centuries. Poa Mecca is revered by Muslims as offering one-quarter merit of a Mecca pilgrimage, while Buddhists consider Hayagriva Madhava Temple their sacred site.",
+      "famousFor": "Multi-faith pilgrimage: Poa Mecca, Hayagriva Madhava Temple, and Kedareswara Temple.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hajo",
+      "state": "Assam",
+      "images": {
+        "main": "assets/images/states/assam/hajo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hayagriva Madhava Temple",
+          "city": "Hajo",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "hayagriva-madhava-temple",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/hayagriva-madhava-temple.webp"
+          }
+        },
+        {
+          "name": "Sualkuchi Silk Village",
+          "city": "Kamrup",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "sualkuchi",
+          "state": "Assam",
+          "images": {
+            "main": "assets/images/states/assam/sualkuchi.webp"
+          }
+        }
+      ],
+      "id": "hajo",
+      "heroImage": "assets/images/states/assam/hajo.webp"
+    },
+    {
+      "name": "Majuli River Island",
+      "city": "Majuli",
+      "distance": "347 km from Guwahati (ferry from Nimati Ghat, Jorhat)",
+      "category": "nature",
+      "slug": "majuli-river-island",
+      "images": {
+        "main": "assets/images/popular/majuli-island.webp"
+      },
+      "image": "assets/images/popular/majuli-island.webp",
+      "description": "Majuli is the world's largest river island, situated in the mighty Brahmaputra River. Home to Mishing and Deori tribal communities and numerous Vaishnavite monasteries (Satras), it is a vibrant center of Assamese neo-Vaishnavite culture, mask-making, and performing arts.",
+      "history": "Majuli has been the cultural capital of Assamese civilization since the 15th century when Srimanta Sankardev established Satras (Vaishnavite monasteries). Once over 1,200 sq km, erosion has reduced it to about 352 sq km. It was designated a district in 2016.",
+      "famousFor": "World's largest river island, Vaishnavite Satras, Mask-making (Mukha-shilpa), Raas Festival, Pottery",
+      "bestTime": "October to March (avoid monsoon flooding June–August)",
+      "timings": "Open 24 hours",
+      "entryFee": "Free (Ferry: ₹15–₹50)",
+      "nearbyAttractions": [],
+      "state": "Assam",
+      "heroImage": "assets/images/popular/majuli-island.webp"
+    }
+  ]
+}

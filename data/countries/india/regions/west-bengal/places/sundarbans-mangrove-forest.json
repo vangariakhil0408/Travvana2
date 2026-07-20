@@ -1,0 +1,70 @@
+{
+  "id": "sundarbans-mangrove-forest",
+  "slug": "sundarbans-mangrove-forest",
+  "name": "Sundarbans Mangrove Forest",
+  "location": "West Bengal, India",
+  "district": "Sundarbans",
+  "stateId": "west-bengal",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/sundarbans-mangrove-forest.webp",
+  "heroImage": "./assets/images/popular/sundarbans-mangrove-forest.webp",
+  "gallery": [
+    "./assets/images/popular/sundarbans-mangrove-forest.webp"
+  ],
+  "overview": "Experience the beauty of Sundarbans Mangrove Forest, a top destination in West Bengal, India.",
+  "description": "The Sundarbans is the world’s largest mangrove forest and a UNESCO World Heritage Site, shared by India and Bangladesh.",
+  "rating": "4.9",
+  "reviewCount": 39781,
+  "popularityScore": 26,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to March",
+  "timings": "8:00 AM - 4:00 PM",
+  "entryFee": {
+    "indian": "₹200 (Indians)",
+    "foreigner": "₹200 (Indians)"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Netaji Subhas Chandra Bose International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Sundarbans Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "100 km from Kolkata"
+  },
+  "tags": [
+    "nature",
+    "west-bengal",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2565
+    },
+    {
+      "views": 790
+    }
+  ],
+  "nearbyPlaces": [
+    "darjeeling-tea-gardens",
+    "victoria-memorial"
+  ]
+}

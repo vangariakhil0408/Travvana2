@@ -1,0 +1,99 @@
+{
+  "id": "alleppey-backwaters",
+  "name": "Alleppey Backwaters",
+  "slug": "alleppey-backwaters",
+  "stateId": "kerala",
+  "districtId": "alappuzha",
+  "category": "nature",
+  "subcategories": [
+    "backwaters",
+    "houseboat",
+    "lagoon"
+  ],
+  "description": "Alleppey (Alappuzha) is the hub of Kerala's backwater tourism, offering a mesmerizing network of lagoons, canals, lakes, and rivers stretching over 900 km. A houseboat cruise through the palm-fringed waterways is one of India's most iconic travel experiences. The Punnamada Lake, Vembanad Lake, and the maze of narrow canals create a surreal landscape that's unlike anything else in the world. Alleppey is also famous for the Nehru Trophy Boat Race, one of the most spectacular boat races in India.",
+  "heroImage": "./assets/images/states/kerala/Alleppey Backwaters.png",
+  "gallery": [
+    "./assets/images/states/kerala/Alleppey Backwaters.png"
+  ],
+  "rating": 4.8,
+  "reviewCount": 8500,
+  "priceLevel": 2,
+  "bestTimeToVisit": "September to March",
+  "timings": "Open 24 hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreign": "Free"
+  },
+  "coordinates": {
+    "lat": 9.4981,
+    "lng": 76.3388
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms",
+    "guide-available",
+    "photography"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Cochin International Airport",
+      "distance": "75 km"
+    },
+    "nearestRailway": {
+      "name": "Alleppey Railway Station",
+      "distance": "3 km"
+    },
+    "byRoad": "Well connected via NH-66, 53 km from Kottayam"
+  },
+  "nearbyPlaces": [
+    "munnar-tea-gardens",
+    "varkala-cliff-beach"
+  ],
+  "reels": [
+    {
+      "id": "reel-kl-001",
+      "thumbnail": "",
+      "videoUrl": "",
+      "title": "Houseboat Sunrise \u00f0\u0178\u0152\u2026",
+      "views": 45000
+    },
+    {
+      "id": "reel-kl-002",
+      "thumbnail": "",
+      "videoUrl": "",
+      "title": "Backwater Life",
+      "views": 32000
+    }
+  ],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": [
+      {
+        "name": "MakeMyTrip",
+        "type": "hotel",
+        "deepLink": ""
+      },
+      {
+        "name": "Kerala Tourism",
+        "type": "houseboat",
+        "deepLink": ""
+      }
+    ]
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a 3-day houseboat trip in Alleppey backwaters"
+  },
+  "tags": [
+    "backwaters",
+    "houseboat",
+    "kerala",
+    "romantic",
+    "nature",
+    "photography",
+    "sunset"
+  ],
+  "lastUpdated": "2026-03-15",
+  "image": "./assets/images/states/kerala/Alleppey Backwaters.png"
+}

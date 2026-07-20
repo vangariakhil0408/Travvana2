@@ -1,0 +1,39 @@
+{
+  "id": "jolly-buoy-island",
+  "name": "Jolly Buoy Island",
+  "city": "Wandoor",
+  "state": "Andaman and Nicobar Islands",
+  "description": "The crown jewel of the Mahatma Gandhi Marine National Park \u2014 a pristine, uninhabited island with the most vibrant and intact coral reefs in the Andaman archipelago. Only 250 visitors are allowed per day, maintaining its immaculate condition.",
+  "history": "Protected since 1983 under the MGMNP. The island alternates monthly with Red Skin Island to allow ecological recovery.",
+  "famousFor": "World-class snorkeling, pristine coral gardens, glass-bottom boat rides.",
+  "bestTime": "November to April",
+  "timings": "9:00 AM \u2013 3:00 PM (Closed on Mondays)",
+  "entryFee": "\u20b950 + boat charges",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+  ],
+  "nearbyPlaces": [
+    "marina-park",
+    "aberdeen-bazaar",
+    "kalipur-beach",
+    "corbyns-cove-beach",
+    "ross-island",
+    "mahatma-gandhi-marine-national-park",
+    "cellular-jail",
+    "diglipur-town",
+    "barren-island",
+    "mundapahad",
+    "wandoor-beach",
+    "north-bay-island",
+    "saddle-peak",
+    "samudrika-naval-marine-museum",
+    "long-island",
+    "chatham-saw-mill",
+    "mount-harriet-national-park",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "viper-island"
+  ]
+}

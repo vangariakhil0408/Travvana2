@@ -1,0 +1,18 @@
+{
+  "id": "hemis-monastery",
+  "name": "Hemis Monastery",
+  "city": "Hemis",
+  "state": "Ladakh",
+  "description": "The largest and wealthiest Buddhist monastery in Ladakh, famous for its grand architecture and the spectacular annual Hemis Tsechu festival.",
+  "history": "Re-established in 1672 by the Ladakhi king Sengge Namgyal.",
+  "famousFor": "Hemis Festival, giant thangkas, rich museum.",
+  "bestTime": "May to September (Festival in June/July)",
+  "timings": "8:00 AM \u2013 1:00 PM, 2:00 PM \u2013 6:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/ladakh/file_00000000363c7208900fdfd15b3fe501.webp",
+  "heroImage": "./assets/images/states/ladakh/file_00000000363c7208900fdfd15b3fe501.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_00000000363c7208900fdfd15b3fe501.webp"
+  ],
+  "nearbyPlaces": []
+}

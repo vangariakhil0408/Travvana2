@@ -1,0 +1,63 @@
+{
+  "id": "banke-bihari-temple",
+  "slug": "banke-bihari-temple",
+  "name": "Banke Bihari Temple",
+  "location": "Uttar Pradesh, India",
+  "district": "Vrindavan",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "The most visited and beloved temple in all of Vrindavan, dedicated to Lord Krishna in his charming 'tribhanga' pose. The temple is famous for its uniquely joyous and intensely devotional atmosphere.",
+  "description": "Established by Swami Haridas, the guru of the legendary musician Tansen, in 1864. The idol was originally worshipped at Nidhivan.",
+  "rating": "4.9",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "March (Holi) or Year-round",
+  "timings": "7:45 AM \u2013 12:00 PM, 5:30 PM \u2013 9:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "mathura-krishna-janmabhoomi",
+    "vrindavan",
+    "govardhan-hill",
+    "barsana",
+    "prem-mandir-vrindavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Banke-Bihari-Temple.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Banke-Bihari-Temple.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Banke-Bihari-Temple.webp"
+  ]
+}

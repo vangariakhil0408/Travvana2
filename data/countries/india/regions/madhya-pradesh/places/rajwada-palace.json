@@ -1,0 +1,21 @@
+{
+  "id": "rajwada-palace",
+  "name": "Rajwada Palace",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "description": "A historic seven-story palace of the Holkar dynasty, Rajwada is a stunning blend of Maratha, Mughal, and French architectural styles.",
+  "history": "Originally built by Malhar Rao Holkar in 1747. It has burned down three times in its history, with the most recent reconstruction completed in 2006.",
+  "famousFor": "Holkar heritage and Light & Sound show.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b910",
+  "image": "./assets/images/states/madhya-pradesh/Rajwada-Palace.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Rajwada-Palace.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Rajwada-Palace.webp"
+  ],
+  "nearbyPlaces": [
+    "lal-bagh-palace",
+    "patalpani-waterfall"
+  ]
+}

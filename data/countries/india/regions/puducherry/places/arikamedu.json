@@ -1,0 +1,36 @@
+{
+  "id": "arikamedu",
+  "name": "Arikamedu Archaeological Site",
+  "city": "Ariyankuppam",
+  "state": "Puducherry",
+  "description": "The fascinating ruins of an ancient Roman trade center. Excavations have unearthed massive brick structures, Roman coins, and ancient pottery dating back to 2 BCE.",
+  "history": "Discovered by archaeologists including Sir Mortimer Wheeler. It proves extensive maritime trade existed between ancient Rome and Tamil Nadu.",
+  "famousFor": "Ancient ruins, Roman history, and peaceful riverside.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 4:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+  ],
+  "nearbyPlaces": [
+    "notre-dame-des-anges",
+    "sri-karneshwar-nataraja",
+    "immaculate-conception",
+    "sacred-heart-basilica",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "thirunallar-temple",
+    "serenity-beach",
+    "french-war-memorial",
+    "bharathi-park",
+    "promenade-beach",
+    "matrimandir",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "auroville",
+    "ousteri-lake"
+  ]
+}

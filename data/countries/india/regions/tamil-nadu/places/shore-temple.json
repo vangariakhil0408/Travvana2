@@ -1,0 +1,71 @@
+{
+  "id": "shore-temple",
+  "slug": "shore-temple",
+  "name": "Shore Temple",
+  "location": "Tamil Nadu, India",
+  "district": "Mahabalipuram",
+  "stateId": "tamil-nadu",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/shore-temple.webp",
+  "heroImage": "./assets/images/popular/shore-temple.webp",
+  "gallery": [
+    "./assets/images/popular/shore-temple.webp"
+  ],
+  "overview": "Experience the beauty of Shore Temple, a top destination in Tamil Nadu, India.",
+  "description": "The Shore Temple is a majestic structural monument elegantly overlooking the rolling shore of the Bay of Bengal.",
+  "rating": "4.4",
+  "reviewCount": 11268,
+  "popularityScore": 53,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai International Airport",
+      "distance": "55 km"
+    },
+    "nearestRailway": {
+      "name": "Chengalpattu Junction",
+      "distance": "30 km"
+    },
+    "byRoad": "Readily accessible via East Coast Road from Chennai."
+  },
+  "tags": [
+    "heritage",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3970
+    },
+    {
+      "views": 4094
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple"
+  ]
+}

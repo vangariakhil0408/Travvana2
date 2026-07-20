@@ -1,0 +1,18 @@
+{
+  "id": "drass-valley",
+  "name": "Drass Valley",
+  "city": "Kargil",
+  "state": "Ladakh",
+  "description": "Known as the Gateway to Ladakh, Drass is officially the second coldest inhabited place in the world, dominated by the majestic Tiger Hill.",
+  "history": "Site of the fierce 1999 Kargil War. The Kargil War Memorial here honors the fallen soldiers.",
+  "famousFor": "Kargil War Memorial, extreme cold, Tiger Hill views.",
+  "bestTime": "May to September",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000074b07208a94eb07355d64920.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000074b07208a94eb07355d64920.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000074b07208a94eb07355d64920.webp"
+  ],
+  "nearbyPlaces": []
+}

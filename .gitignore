@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+convert-to-webp.js
+fix-placeholder-data.js
+fix-nearby-places.js
+.agents/
+.env
+.env.local

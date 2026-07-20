@@ -1,0 +1,27 @@
+{
+  "id": "jharkhand",
+  "name": "Jharkhand",
+  "slug": "jharkhand",
+  "type": "state",
+  "capital": "Ranchi",
+  "region": "east",
+  "language": [],
+  "bestTimeToVisit": "October to March",
+  "climate": "Varies",
+  "description": "Explore the wonders of Jharkhand. More destinations coming soon.",
+  "heroImage": "",
+  "gallery": [],
+  "stats": {
+    "totalDistricts": 0,
+    "totalPlaces": 0,
+    "avgRating": 0,
+    "totalReviews": 0
+  },
+  "categories": [],
+  "quickFacts": [],
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "nearbyStates": []
+}

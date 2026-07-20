@@ -1,0 +1,27 @@
+{
+  "id": "bharatpur-beach",
+  "name": "Bharatpur Beach",
+  "city": "Shaheed Dweep",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Shallow crystal-clear waters and coral gardens make this beach a vibrant aquatic playground.",
+  "history": "A well-known snorkeling hub due to calm waters and coral diversity.",
+  "famousFor": "Glass-bottom boat rides",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "laxmanpur-beach",
+    "sitapur-beach",
+    "natural-bridge",
+    "radhanagar-beach",
+    "vijaynagar-beach",
+    "havelock-island-diving",
+    "elephant-beach",
+    "kalapathar-beach"
+  ]
+}

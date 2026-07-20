@@ -1,0 +1,18 @@
+{
+  "id": "gwalior-fort",
+  "name": "Gwalior Fort",
+  "city": "Gwalior",
+  "state": "Madhya Pradesh",
+  "description": "Described by Emperor Babur as 'the pearl among fortresses in India', this massive hill fort houses stunning palaces, temples, and rock-cut Jain statues.",
+  "history": "The fort's history dates back to the 6th century. It has been ruled by many dynasties including the Tomars, Mughals, and Scindias.",
+  "famousFor": "Man Mandir Palace, Sas Bahu Temple, and Teli Ka Mandir.",
+  "bestTime": "October to March",
+  "timings": "6:00 AM \u2013 5:30 PM",
+  "entryFee": "\u20b975",
+  "image": "./assets/images/states/madhya-pradesh/Gwalior-Fort.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Gwalior-Fort.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Gwalior-Fort.webp"
+  ],
+  "nearbyPlaces": []
+}

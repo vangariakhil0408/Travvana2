@@ -1,0 +1,69 @@
+{
+  "id": "mount-abu",
+  "slug": "mount-abu",
+  "name": "Mount Abu",
+  "location": "Rajasthan, India",
+  "district": "Sirohi",
+  "stateId": "rajasthan",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/mount-abu.webp",
+  "heroImage": "./assets/images/popular/mount-abu.webp",
+  "gallery": [
+    "./assets/images/popular/mount-abu.webp"
+  ],
+  "overview": "Experience the beauty of Mount Abu, a top destination in Rajasthan, India.",
+  "description": "Mount Abu functions as the lone hill station nestled in the arid landscapes of Rajasthan, surrounded completely by serene lakes and lush greenery.",
+  "rating": "4.8",
+  "reviewCount": 35348,
+  "popularityScore": 55,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to March",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Udaipur Airport",
+      "distance": "185 km"
+    },
+    "nearestRailway": {
+      "name": "Abu Road Railway Station",
+      "distance": "28 km"
+    },
+    "byRoad": "Reached via curving drives up the Aravalli hills."
+  },
+  "tags": [
+    "nature",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2596
+    },
+    {
+      "views": 2248
+    }
+  ],
+  "nearbyPlaces": [
+    "dilwara-temples"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "darjeeling-tea-gardens",
+  "slug": "darjeeling-tea-gardens",
+  "name": "Darjeeling Tea Gardens",
+  "location": "West Bengal, India",
+  "district": "Darjeeling",
+  "stateId": "west-bengal",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/darjeeling-tea-gardens.webp",
+  "heroImage": "./assets/images/popular/darjeeling-tea-gardens.webp",
+  "gallery": [
+    "./assets/images/popular/darjeeling-tea-gardens.webp"
+  ],
+  "overview": "Experience the beauty of Darjeeling Tea Gardens, a top destination in West Bengal, India.",
+  "description": "The rolling tea estates of Darjeeling span elegantly across misty valleys and hilltops. These sprawling gardens offer tranquil walks and intriguing guided factory tours.",
+  "rating": "4.9",
+  "reviewCount": 4233,
+  "popularityScore": 78,
+  "priceLevel": 2,
+  "bestTimeToVisit": "April to June, September to December",
+  "timings": "8:00 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "Varies by estate",
+    "foreigner": "Varies by estate"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bagdogra Airport",
+      "distance": "70 km"
+    },
+    "nearestRailway": {
+      "name": "New Jalpaiguri (NJP)",
+      "distance": "75 km"
+    },
+    "byRoad": "Takes around 3 hours maneuvering via taxi from NJP."
+  },
+  "tags": [
+    "nature",
+    "west-bengal",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3896
+    },
+    {
+      "views": 3385
+    }
+  ],
+  "nearbyPlaces": [
+    "victoria-memorial",
+    "sundarbans-mangrove-forest"
+  ]
+}

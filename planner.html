@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#090909">
+  <meta name="description" content="Travvana AI Trip Planner — Smart itineraries, hidden gems, budget optimized. Your journey, perfected by AI.">
+  <title>AI Trip Planner — Travvana</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/base/reset.css?v=20">
+  <link rel="stylesheet" href="styles/base/variables.css?v=20">
+  <link rel="stylesheet" href="styles/base/typography.css?v=20">
+  <link rel="stylesheet" href="styles/base/theme.css?v=20">
+  <link rel="stylesheet" href="styles/layout/navbar.css?v=20">
+  <link rel="stylesheet" href="styles/pages/planner.css?v=20">
+  <link rel="stylesheet" href="styles/main.css?v=20">
+
+  <link rel="icon" type="image/png" href="assets/images/logo.webp">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Travvana AI Trip Planner",
+    "description": "Smart AI-powered travel planner that creates personalized itineraries for India — optimized routes, hidden gems, budget planning, and local insights.",
+    "url": "https://travvana.com/planner.html",
+    "applicationCategory": "TravelApplication",
+    "operatingSystem": "Any",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "creator": {
+      "@type": "Organization",
+      "name": "Travvana",
+      "url": "https://travvana.com"
+    },
+    "featureList": [
+      "AI-powered itinerary generation",
+      "Budget optimization",
+      "Multi-day trip planning",
+      "Interest-based recommendations",
+      "Accessibility preferences",
+      "Downloadable itineraries"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div id="app-header"></div>
+
+  <main class="planner-page" id="page-content">
+    <div class="pl-shell">
+
+      <!-- ════════════════════════════════════════
+           LEFT SIDEBAR — Step Navigation
+           ════════════════════════════════════════ -->
+      <aside class="pl-sidebar" id="pl-sidebar">
+        <div class="pl-sidebar-head">
+          <div class="pl-sidebar-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>
+          </div>
+          <span>AI Planner</span>
+        </div>
+
+        <div class="pl-progress-bar" role="progressbar" aria-valuemin="1" aria-valuemax="10" aria-valuenow="1" aria-label="Step progress" id="pl-progress-bar"><div class="pl-progress-fill" id="pl-progress-fill"></div></div>
+
+        <nav class="pl-steps-nav" id="pl-steps-nav">
+          <button class="pl-step-link pl-step-link--active" data-step="1">
+            <span class="pl-step-num">1</span><span class="pl-step-text">Destination</span>
+          </button>
+          <button class="pl-step-link" data-step="2">
+            <span class="pl-step-num">2</span><span class="pl-step-text">Duration</span>
+          </button>
+          <button class="pl-step-link" data-step="3">
+            <span class="pl-step-num">3</span><span class="pl-step-text">Budget</span>
+          </button>
+          <button class="pl-step-link" data-step="4">
+            <span class="pl-step-num">4</span><span class="pl-step-text">Travelers</span>
+          </button>
+          <button class="pl-step-link" data-step="5">
+            <span class="pl-step-num">5</span><span class="pl-step-text">Interests</span>
+          </button>
+          <button class="pl-step-link" data-step="6">
+            <span class="pl-step-num">6</span><span class="pl-step-text">Transport</span>
+          </button>
+          <button class="pl-step-link" data-step="7">
+            <span class="pl-step-num">7</span><span class="pl-step-text">Stay</span>
+          </button>
+          <button class="pl-step-link" data-step="8">
+            <span class="pl-step-num">8</span><span class="pl-step-text">Food</span>
+          </button>
+          <button class="pl-step-link" data-step="9">
+            <span class="pl-step-num">9</span><span class="pl-step-text">Accessibility</span>
+          </button>
+          <button class="pl-step-link" data-step="10">
+            <span class="pl-step-num">10</span><span class="pl-step-text">Extras</span>
+          </button>
+        </nav>
+
+        <div class="pl-sidebar-foot">
+          <div class="pl-step-counter" id="pl-step-counter" aria-live="polite">Step 1 of 10</div>
+        </div>
+      </aside>
+
+      <!-- ════════════════════════════════════════
+           CENTER — Wizard Steps
+           ════════════════════════════════════════ -->
+      <div class="pl-wizard" id="pl-wizard">
+
+        <!-- Mobile Step Indicator -->
+        <div class="pl-mobile-step-nav" id="pl-mobile-step-nav">
+          <div class="pl-mobile-step-text">Step <span id="pl-mob-step-cur">1</span> of 10</div>
+          <div class="pl-progress-bar pl-progress-bar--mobile"><div class="pl-progress-fill" id="pl-mob-progress-fill" style="width: 10%"></div></div>
+        </div>
+
+        <!-- STEP 1 — Destination -->
+        <section class="pl-step pl-step--active" data-step="1">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Where are you going?</h1>
+            <p class="pl-step-sub">Tell me your dream destination and I'll craft the perfect plan.</p>
+          </div>
+          <div class="pl-search-wrap">
+            <svg class="pl-search-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" class="pl-search-input" aria-label="Search destinations" id="pl-dest-input" placeholder="Search destinations..." autocomplete="off">
+          </div>
+          <div class="pl-trending">
+            <h3 class="pl-section-label">Trending Destinations</h3>
+            <div class="pl-dest-grid" id="pl-dest-grid">
+              <button class="pl-dest-card skeleton-card" data-dest="Himachal Pradesh">
+                <img src="https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=400&q=80" alt="Himachal Pradesh" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Himachal Pradesh</span><span class="pl-dest-region">North India</span></div>
+              </button>
+              <button class="pl-dest-card skeleton-card" data-dest="Rajasthan">
+                <img src="https://images.unsplash.com/photo-1477587458883-47145ed94245?w=400&q=80" alt="Rajasthan" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Rajasthan</span><span class="pl-dest-region">West India</span></div>
+              </button>
+              <button class="pl-dest-card skeleton-card" data-dest="Kerala">
+                <img src="https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=400&q=80" alt="Kerala" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Kerala</span><span class="pl-dest-region">South India</span></div>
+              </button>
+              <button class="pl-dest-card skeleton-card" data-dest="Goa">
+                <img src="https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=400&q=80" alt="Goa" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Goa</span><span class="pl-dest-region">West India</span></div>
+              </button>
+              <button class="pl-dest-card skeleton-card" data-dest="Uttarakhand">
+                <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&q=80" alt="Uttarakhand" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Uttarakhand</span><span class="pl-dest-region">North India</span></div>
+              </button>
+              <button class="pl-dest-card skeleton-card" data-dest="Karnataka">
+                <img src="assets/images/states/karnataka/banner.webp" alt="Karnataka" loading="lazy">
+                <div class="pl-dest-overlay"><span class="pl-dest-name">Karnataka</span><span class="pl-dest-region">South India</span></div>
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <!-- STEP 2 — Duration -->
+        <section class="pl-step" data-step="2">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">How long is your trip?</h1>
+            <p class="pl-step-sub">Select your ideal trip duration.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-duration-grid">
+            <button aria-label="Days - Weekend" class="pl-option-card" data-val="2"><span class="pl-option-num">2</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Weekend</span></button>
+            <button aria-label="Days - Long Weekend" class="pl-option-card" data-val="3"><span class="pl-option-num">3</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Long Weekend</span></button>
+            <button aria-label="Days - Short Trip" class="pl-option-card" data-val="4"><span class="pl-option-num">4</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Short Trip</span></button>
+            <button aria-label="Days - Balanced" class="pl-option-card pl-option-card--selected" data-val="5"><span class="pl-option-num">5</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Balanced</span></button>
+            <button aria-label="Days - Full Week" class="pl-option-card" data-val="7"><span class="pl-option-num">7</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Full Week</span></button>
+            <button aria-label="Days - Extended" class="pl-option-card" data-val="10"><span class="pl-option-num">10</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Extended</span></button>
+            <button aria-label="Days - Grand Tour" class="pl-option-card" data-val="14"><span class="pl-option-num">14</span><span class="pl-option-label">Days</span><span class="pl-option-hint">Grand Tour</span></button>
+            <button aria-label="Custom - Choose days" class="pl-option-card" data-val="custom"><span class="pl-option-num">?</span><span class="pl-option-label">Custom</span><span class="pl-option-hint">Choose days</span></button>
+          </div>
+          <div class="pl-custom-duration" id="pl-custom-duration" style="display:none; margin-top: var(--sp-4);">
+            <label for="pl-custom-days" class="pl-section-label">Enter number of days (1-30):</label>
+            <input type="number" id="pl-custom-days" class="pl-search-input" min="1" max="30" value="6" style="max-width:180px; margin-top: var(--sp-2);">
+          </div>
+        </section>
+
+        <!-- STEP 3 — Budget -->
+        <section class="pl-step" data-step="3">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">What's your budget?</h1>
+            <p class="pl-step-sub">Per person estimate. I'll optimize costs for you.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--2" id="pl-budget-grid">
+            <button class="pl-option-card pl-option-card--wide" data-val="backpacker">
+              <span class="pl-option-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg></span>
+              <span class="pl-option-label">Backpacker</span><span class="pl-option-hint">Under ₹5,000</span>
+            </button>
+            <button class="pl-option-card pl-option-card--wide" data-val="budget">
+              <span class="pl-option-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M16 8h-6a2 2 0 100 4h4a2 2 0 010 4H8"/><path d="M12 18V6"/></svg></span>
+              <span class="pl-option-label">Budget</span><span class="pl-option-hint">₹5,000 – ₹15,000</span>
+            </button>
+            <button class="pl-option-card pl-option-card--wide pl-option-card--selected" data-val="mid-range">
+              <span class="pl-option-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg></span>
+              <span class="pl-option-label">Mid-range</span><span class="pl-option-hint">₹15,000 – ₹30,000</span>
+            </button>
+            <button class="pl-option-card pl-option-card--wide" data-val="premium">
+              <span class="pl-option-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
+              <span class="pl-option-label">Premium</span><span class="pl-option-hint">₹30,000 – ₹50,000</span>
+            </button>
+            <button class="pl-option-card pl-option-card--wide" data-val="luxury">
+              <span class="pl-option-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg></span>
+              <span class="pl-option-label">Luxury</span><span class="pl-option-hint">₹50,000+</span>
+            </button>
+          </div>
+        </section>
+
+        <!-- STEP 4 — Travelers -->
+        <section class="pl-step" data-step="4">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Who's travelling?</h1>
+            <p class="pl-step-sub">This helps me personalize activities and accommodation.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-travelers-grid">
+            <button aria-label="Solo" class="pl-option-card" data-val="solo"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></span><span class="pl-option-label">Solo</span></button>
+            <button aria-label="Couple" class="pl-option-card" data-val="couple"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0016.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 002 8.5c0 2.3 1.5 4.05 3 5.5l7 7 7-7z"/></svg></span><span class="pl-option-label">Couple</span></button>
+            <button aria-label="Friends" class="pl-option-card pl-option-card--selected" data-val="friends"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></span><span class="pl-option-label">Friends</span></button>
+            <button aria-label="Family" class="pl-option-card" data-val="family"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></span><span class="pl-option-label">Family</span></button>
+            <button aria-label="Senior" class="pl-option-card" data-val="senior"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg></span><span class="pl-option-label">Senior</span></button>
+            <button aria-label="Group" class="pl-option-card" data-val="group"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/><path d="M12 8v8"/><path d="M8 12h8"/></svg></span><span class="pl-option-label">Group</span></button>
+          </div>
+        </section>
+
+        <!-- STEP 5 — Interests -->
+        <section class="pl-step" data-step="5">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">What excites you?</h1>
+            <p class="pl-step-sub">Select all that match. I'll find the best experiences.</p>
+          </div>
+          <div class="pl-chips-wrap" id="pl-interests-chips">
+            <button class="pl-chip pl-chip--selected" data-val="nature"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66L21 3"/><path d="M20.2 6.8C18.2 8.8 15 11 12 13"/></svg>Nature</button>
+            <button class="pl-chip pl-chip--selected" data-val="adventure"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.5 10c-.83 0-1.5-.67-1.5-1.5v-5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5c0 .83-.67 1.5-1.5 1.5z"/><path d="M20 14.5A2.5 2.5 0 0017.5 12H12V2.5A2.5 2.5 0 009.5 0 2.5 2.5 0 007 2.5V12H4.5A2.5 2.5 0 002 14.5v0A2.5 2.5 0 004.5 17H20z"/></svg>Adventure</button>
+            <button class="pl-chip" data-val="wildlife"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="3"/></svg>Wildlife</button>
+            <button class="pl-chip" data-val="temple"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/><path d="M9 21v-4h6v4"/></svg>Temple</button>
+            <button class="pl-chip pl-chip--selected" data-val="food"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 010 8h-1"/><path d="M2 8h16v9a4 4 0 01-4 4H6a4 4 0 01-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>Food</button>
+            <button class="pl-chip" data-val="history"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/></svg>History</button>
+            <button class="pl-chip" data-val="photography"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 19a2 2 0 01-2 2H3a2 2 0 01-2-2V8a2 2 0 012-2h4l2-3h6l2 3h4a2 2 0 012 2z"/><circle cx="12" cy="13" r="4"/></svg>Photography</button>
+            <button class="pl-chip" data-val="roadtrip"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>Road Trip</button>
+            <button class="pl-chip" data-val="beaches"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="6" r="4"/><path d="M2 22c2-4 4-6 10-6s8 2 10 6"/></svg>Beaches</button>
+            <button class="pl-chip" data-val="mountains"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3l4 8 5-5 5 15H2z"/></svg>Mountains</button>
+            <button class="pl-chip" data-val="camping"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 22h20L12 2z"/></svg>Camping</button>
+            <button class="pl-chip" data-val="nightlife"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/></svg>Nightlife</button>
+            <button class="pl-chip" data-val="shopping"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg>Shopping</button>
+            <button class="pl-chip" data-val="waterfalls"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v6m0 4v6m-4-8v4m8-6v6"/></svg>Waterfalls</button>
+            <button class="pl-chip" data-val="trekking"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>Trekking</button>
+            <button class="pl-chip" data-val="culture"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>Culture</button>
+            <button class="pl-chip" data-val="wellness"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0016.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 002 8.5c0 2.3 1.5 4.05 3 5.5l7 7 7-7z"/></svg>Wellness</button>
+            <button class="pl-chip" data-val="hidden-gems"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>Hidden Gems</button>
+          </div>
+        </section>
+
+        <!-- STEP 6 — Transportation -->
+        <section class="pl-step" data-step="6">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">How will you travel?</h1>
+            <p class="pl-step-sub">Choose your preferred mode of transportation.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-transport-grid">
+            <button aria-label="Flight" class="pl-option-card" data-val="flight"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17.8 19.2L16 11l3.5-3.5C21 6 21.5 4 21 3s-3-1-4.5.5L13 7 4.8 5.2c-.5-.1-1 .1-1.3.5l-.4.7c-.2.4-.1.9.3 1.1L9 10.5 5.5 14 3.7 13c-.4-.2-.9-.1-1.2.2l-.3.3c-.2.3-.2.7 0 1l3 3c.3.2.7.2 1 0l.3-.3c.3-.3.4-.8.2-1.2L6 14.5 9.5 11l3 5.6c.2.4.7.5 1.1.3l.7-.4c.4-.3.6-.8.5-1.3z"/></svg></span><span class="pl-option-label">Flight</span></button>
+            <button aria-label="Train" class="pl-option-card" data-val="train"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="3" width="16" height="16" rx="2"/><path d="M4 11h16"/><path d="M12 3v8"/><path d="M8 19l-2 3"/><path d="M16 19l2 3"/><circle cx="8" cy="15" r="1"/><circle cx="16" cy="15" r="1"/></svg></span><span class="pl-option-label">Train</span></button>
+            <button aria-label="Bus" class="pl-option-card" data-val="bus"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 6v6m8-6v6M2 12h20M6 18H4a2 2 0 01-2-2V6a2 2 0 012-2h16a2 2 0 012 2v10a2 2 0 01-2 2h-2"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="18" r="2"/></svg></span><span class="pl-option-label">Bus</span></button>
+            <button aria-label="Private Car" class="pl-option-card pl-option-card--selected" data-val="car"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 16H9m10 0h3v-3.15a1 1 0 00-.84-.99L16 11l-2.7-3.6a1 1 0 00-.8-.4H5.24a2 2 0 00-1.8 1.1l-.8 1.63A6 6 0 002 12.42V16h2"/><circle cx="6.5" cy="16.5" r="2.5"/><circle cx="16.5" cy="16.5" r="2.5"/></svg></span><span class="pl-option-label">Private Car</span></button>
+            <button aria-label="Bike" class="pl-option-card" data-val="bike"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="18.5" cy="17.5" r="3.5"/><circle cx="5.5" cy="17.5" r="3.5"/><path d="M15 6a1 1 0 100-2 1 1 0 000 2zm-3 11.5V14l-3-3 4-3 2 3h2"/></svg></span><span class="pl-option-label">Bike</span></button>
+            <button aria-label="Mixed" class="pl-option-card" data-val="mixed"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg></span><span class="pl-option-label">Mixed</span></button>
+          </div>
+        </section>
+
+        <!-- STEP 7 — Accommodation -->
+        <section class="pl-step" data-step="7">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Where will you stay?</h1>
+            <p class="pl-step-sub">Pick your comfort level. I'll find the best options.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-stay-grid">
+            <button aria-label="Hostel" class="pl-option-card" data-val="hostel"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 21h18"/><path d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16"/><path d="M9 21v-4h6v4"/></svg></span><span class="pl-option-label">Hostel</span></button>
+            <button aria-label="Hotel" class="pl-option-card pl-option-card--selected" data-val="hotel"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/><path d="M9 21v-6h6v6"/></svg></span><span class="pl-option-label">Hotel</span></button>
+            <button aria-label="Resort" class="pl-option-card" data-val="resort"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="6" r="4"/><path d="M4 22l4-10m12 10l-4-10"/><path d="M2 22h20"/></svg></span><span class="pl-option-label">Resort</span></button>
+            <button aria-label="Villa" class="pl-option-card" data-val="villa"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span><span class="pl-option-label">Villa</span></button>
+            <button aria-label="Homestay" class="pl-option-card" data-val="homestay"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0016.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 002 8.5c0 2.3 1.5 4.05 3 5.5l7 7 7-7z"/></svg></span><span class="pl-option-label">Homestay</span></button>
+            <button aria-label="Camping" class="pl-option-card" data-val="camping"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L2 22h20L12 2z"/><path d="M12 16v6"/></svg></span><span class="pl-option-label">Camping</span></button>
+          </div>
+        </section>
+
+        <!-- STEP 8 — Food -->
+        <section class="pl-step" data-step="8">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Food preferences?</h1>
+            <p class="pl-step-sub">I'll recommend restaurants and local cuisine accordingly.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-food-grid">
+            <button aria-label="Vegetarian" class="pl-option-card" data-val="veg"><span class="pl-option-icon" style="color:#34D399"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66L21 3"/></svg></span><span class="pl-option-label">Vegetarian</span></button>
+            <button aria-label="Non-Veg" class="pl-option-card" data-val="nonveg"><span class="pl-option-icon" style="color:#F87171"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 8h1a4 4 0 010 8h-1"/><path d="M2 8h16v9a4 4 0 01-4 4H6a4 4 0 01-4-4V8z"/></svg></span><span class="pl-option-label">Non-Veg</span></button>
+            <button aria-label="Vegan" class="pl-option-card" data-val="vegan"><span class="pl-option-icon" style="color:#4ADE80"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 22c4-8 9-12 20-12-8 11-12 16-20 12z"/></svg></span><span class="pl-option-label">Vegan</span></button>
+            <button aria-label="Jain" class="pl-option-card" data-val="jain"><span class="pl-option-icon" style="color:#FBBF24"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M12 2v20M2 12h20"/></svg></span><span class="pl-option-label">Jain</span></button>
+            <button aria-label="Local Cuisine" class="pl-option-card" data-val="local"><span class="pl-option-icon" style="color:#FF6B00"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg></span><span class="pl-option-label">Local Cuisine</span></button>
+            <button aria-label="No Preference" class="pl-option-card pl-option-card--selected" data-val="no-pref"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg></span><span class="pl-option-label">No Preference</span></button>
+          </div>
+        </section>
+
+        <!-- STEP 9 — Accessibility -->
+        <section class="pl-step" data-step="9">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Any special needs?</h1>
+            <p class="pl-step-sub">Select all that apply. Skip if none.</p>
+          </div>
+          <div class="pl-option-grid pl-option-grid--3" id="pl-access-grid">
+            <button aria-label="Wheelchair" class="pl-option-card" data-val="wheelchair"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 12h4l3 5"/><circle cx="12" cy="7" r="2"/></svg></span><span class="pl-option-label">Wheelchair</span></button>
+            <button aria-label="Senior Friendly" class="pl-option-card" data-val="senior"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></span><span class="pl-option-label">Senior Friendly</span></button>
+            <button aria-label="Kids Friendly" class="pl-option-card" data-val="kids"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg></span><span class="pl-option-label">Kids Friendly</span></button>
+            <button aria-label="Pet Friendly" class="pl-option-card" data-val="pet"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 5.172C10 3.782 8.884 2.5 7.5 2.5S5 3.782 5 5.172 7.5 10 7.5 10s2.5-3.453 2.5-4.828z"/><path d="M19 5.172C19 3.782 17.884 2.5 16.5 2.5S14 3.782 14 5.172 16.5 10 16.5 10s2.5-3.453 2.5-4.828z"/><path d="M7.5 14C4 14 2 18 2 20h20c0-2-2-6-5.5-6C13 14 12 16 12 16s-1-2-4.5-2z"/></svg></span><span class="pl-option-label">Pet Friendly</span></button>
+            <button aria-label="None / Skip" class="pl-option-card" data-val="none"><span class="pl-option-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="20 6 9 17 4 12"/></svg></span><span class="pl-option-label">None / Skip</span></button>
+          </div>
+        </section>
+
+        <!-- STEP 10 — Extras -->
+        <section class="pl-step" data-step="10">
+          <div class="pl-step-header">
+            <h1 class="pl-step-title">Anything else?</h1>
+            <p class="pl-step-sub">Tell me more about your dream trip. The more detail, the better.</p>
+          </div>
+          <div class="pl-extras-wrap">
+            <textarea class="pl-extras-input" id="pl-extras-input" rows="5" placeholder='e.g. "I want less crowded places" or "I love sunrise viewpoints and drone photography spots"'></textarea>
+            <div class="pl-extras-suggestions">
+              <span class="pl-extras-tag" data-text="I want less crowded places">Less crowded</span>
+              <span class="pl-extras-tag" data-text="I love sunrise viewpoints">Sunrise spots</span>
+              <span class="pl-extras-tag" data-text="I need drone photography spots">Drone spots</span>
+              <span class="pl-extras-tag" data-text="I want vegetarian restaurants only">Veg restaurants</span>
+              <span class="pl-extras-tag" data-text="I prefer offbeat destinations">Offbeat</span>
+              <span class="pl-extras-tag" data-text="I want Instagram-worthy locations">Insta worthy</span>
+            </div>
+          </div>
+        </section>
+
+        <!-- Step Navigation -->
+        <div class="pl-step-nav" id="pl-step-nav">
+          <button class="pl-nav-btn pl-nav-btn--back" id="pl-btn-back">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            Back
+          </button>
+          <button class="pl-nav-btn pl-nav-btn--next" id="pl-btn-next">
+            Continue
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </button>
+          <button class="pl-nav-btn pl-nav-btn--generate" id="pl-btn-generate" style="display:none;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>
+            Generate AI Plan
+          </button>
+        </div>
+      </div>
+
+      <!-- ════════════════════════════════════════
+           RIGHT PANEL — Live AI Preview
+           ════════════════════════════════════════ -->
+      <aside class="pl-preview" id="pl-preview">
+        <div class="pl-preview-card">
+          <div class="pl-preview-img-wrap">
+            <img id="pl-preview-img" src="https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=600&q=80" alt="Destination preview">
+            <div class="pl-preview-img-fade"></div>
+          </div>
+          <div class="pl-preview-body">
+            <div class="pl-preview-badge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>
+              Live Preview
+            </div>
+            <h3 class="pl-preview-title" id="pl-preview-title">Himachal Pradesh</h3>
+            <div class="pl-preview-chips" id="pl-preview-chips">
+              <span class="pl-preview-chip">Nature</span>
+              <span class="pl-preview-chip">Adventure</span>
+              <span class="pl-preview-chip">Food</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="pl-preview-summary">
+          <h4 class="pl-preview-sum-title">Trip Summary</h4>
+          <div class="pl-preview-row"><span class="pl-preview-key">Duration</span><span class="pl-preview-val" id="pv-duration">5 Days</span></div>
+          <div class="pl-preview-row"><span class="pl-preview-key">Budget</span><span class="pl-preview-val" id="pv-budget">Mid-range</span></div>
+          <div class="pl-preview-row"><span class="pl-preview-key">Travelers</span><span class="pl-preview-val" id="pv-travelers">Friends</span></div>
+          <div class="pl-preview-row"><span class="pl-preview-key">Transport</span><span class="pl-preview-val" id="pv-transport">Private Car</span></div>
+          <div class="pl-preview-row"><span class="pl-preview-key">Stay</span><span class="pl-preview-val" id="pv-stay">Hotel</span></div>
+          <div class="pl-preview-row"><span class="pl-preview-key">Food</span><span class="pl-preview-val" id="pv-food">No Preference</span></div>
+        </div>
+
+        <div class="pl-preview-ai-note">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>
+          <span id="pl-ai-note">I'll optimize your route for the best experience.</span>
+        </div>
+      </aside>
+
+    </div>
+
+    <!-- ════════════════════════════════════════
+         AI GENERATION OVERLAY
+         ════════════════════════════════════════ -->
+    <div class="pl-generating" id="pl-generating" role="alert" aria-live="assertive">
+      <div class="pl-gen-content">
+        <div class="pl-gen-orb"><div class="pl-gen-orb-inner"></div></div>
+        <h2 class="pl-gen-title">Crafting your perfect trip...</h2>
+        <div class="pl-gen-steps" id="pl-gen-steps">
+          <div class="pl-gen-step" data-idx="0"><span class="pl-gen-check"></span>Finding destinations...</div>
+          <div class="pl-gen-step" data-idx="1"><span class="pl-gen-check"></span>Checking weather...</div>
+          <div class="pl-gen-step" data-idx="2"><span class="pl-gen-check"></span>Optimizing routes...</div>
+          <div class="pl-gen-step" data-idx="3"><span class="pl-gen-check"></span>Finding restaurants...</div>
+          <div class="pl-gen-step" data-idx="4"><span class="pl-gen-check"></span>Calculating costs...</div>
+          <div class="pl-gen-step" data-idx="5"><span class="pl-gen-check"></span>Finding hidden gems...</div>
+          <div class="pl-gen-step" data-idx="6"><span class="pl-gen-check"></span>Checking opening hours...</div>
+          <div class="pl-gen-step" data-idx="7"><span class="pl-gen-check"></span>Finding best sunrise points...</div>
+          <div class="pl-gen-step" data-idx="8"><span class="pl-gen-check"></span>Generating itinerary...</div>
+          <div class="pl-gen-step" data-idx="9"><span class="pl-gen-check"></span>Planning day-wise schedule...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ════════════════════════════════════════
+         RESULTS — Generated Itinerary
+         ════════════════════════════════════════ -->
+    <div class="pl-results" id="pl-results">
+      <div class="pl-results-shell">
+
+        <!-- Results Header -->
+        <div class="pl-results-header">
+          <div>
+            <h1 class="pl-results-title" id="pl-res-title">Your Himachal Pradesh Itinerary</h1>
+            <p class="pl-results-sub" id="pl-res-sub">5 Days &middot; Friends &middot; Mid-range &middot; Private Car</p>
+          </div>
+          <div class="pl-results-actions">
+            <button class="pl-action-btn" id="pl-btn-edit">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+              Edit Plan
+            </button>
+            <button class="pl-action-btn" id="pl-btn-share">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+              Share
+            </button>
+            <button class="pl-action-btn" id="pl-btn-download">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download
+            </button>
+          </div>
+        </div>
+
+        <div class="pl-results-grid">
+          <!-- Left: Itinerary Timeline -->
+          <div class="pl-res-timeline-col">
+            <div class="pl-res-day-tabs" id="pl-res-day-tabs"></div>
+            <div class="pl-res-timeline" id="pl-res-timeline"></div>
+          </div>
+
+          <!-- Right: Sticky Summary -->
+          <div class="pl-res-sidebar">
+            <div class="pl-res-budget-card">
+              <div class="pl-res-budget-label">Total Estimated Cost</div>
+              <div class="pl-res-budget-value" id="pl-res-budget">₹74,000</div>
+              <div class="pl-res-budget-hint">for 4 people</div>
+            </div>
+
+            <div class="pl-res-info-card">
+              <h4 class="pl-res-info-title">Trip Details</h4>
+              <div class="pl-res-info-row"><span>Destination</span><span id="pl-res-dest">Himachal Pradesh</span></div>
+              <div class="pl-res-info-row"><span>Duration</span><span id="pl-res-dur">5 Days / 4 Nights</span></div>
+              <div class="pl-res-info-row"><span>Best Time</span><span id="pl-res-time">March – June</span></div>
+              <div class="pl-res-info-row"><span>Transport</span><span id="pl-res-trans">Private Car</span></div>
+              <div class="pl-res-info-row"><span>Accommodation</span><span id="pl-res-accom">Hotel</span></div>
+            </div>
+
+            <div class="pl-res-info-card">
+              <h4 class="pl-res-info-title">Trip Highlights</h4>
+              <div class="pl-res-highlights" id="pl-res-highlights"></div>
+            </div>
+
+            <div class="pl-res-info-card pl-res-tip-card">
+              <h4 class="pl-res-info-title">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l2.5 8.5L23 11l-8.5 2.5L12 22l-2.5-8.5L1 11l8.5-2.5z"/></svg>
+                AI Travel Tip
+              </h4>
+              <p class="pl-res-tip-text" id="pl-res-tip">Book accommodations at least 2 weeks in advance during peak season.</p>
+            </div>
+
+            <button class="pl-nav-btn pl-nav-btn--generate" id="pl-btn-new-plan" style="width:100%;">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 102.13-9.36L1 10"/></svg>
+              Plan Another Trip
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script type="module" src="js/core/app.js?v=21"></script>
+</body>
+</html>

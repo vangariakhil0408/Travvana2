@@ -1,0 +1,30 @@
+{
+  "id": "stok-palace",
+  "name": "Stok Palace",
+  "city": "Stok",
+  "state": "Ladakh",
+  "description": "The current summer residence of the royal family of Ladakh. It features a fascinating museum displaying royal artifacts, thangkas, and the queen's ancient turquoise crown.",
+  "history": "Built in 1820 by King Tsepal Namgyal when Dogra forces invaded Leh Palace.",
+  "famousFor": "Royal museum, Stok Kangri views, ancient thangkas.",
+  "bestTime": "May to September",
+  "timings": "8:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/ladakh/file_00000000b288720792bcb69bc64d7c5b.webp",
+  "heroImage": "./assets/images/states/ladakh/file_00000000b288720792bcb69bc64d7c5b.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_00000000b288720792bcb69bc64d7c5b.webp"
+  ],
+  "nearbyPlaces": [
+    "magnetic-hill",
+    "tso-kar",
+    "chang-la-pass",
+    "thiksey-monastery",
+    "pathar-sahib",
+    "leh-palace",
+    "khardung-la",
+    "hall-of-fame",
+    "kargil-town",
+    "shanti-stupa",
+    "leh-city"
+  ]
+}

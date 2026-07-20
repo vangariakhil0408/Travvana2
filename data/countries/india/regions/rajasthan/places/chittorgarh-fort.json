@@ -1,0 +1,71 @@
+{
+  "id": "chittorgarh-fort",
+  "slug": "chittorgarh-fort",
+  "name": "Chittorgarh Fort",
+  "location": "Rajasthan, India",
+  "district": "Chittorgarh",
+  "stateId": "rajasthan",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/chittorgarh-fort.webp",
+  "heroImage": "./assets/images/popular/chittorgarh-fort.webp",
+  "gallery": [
+    "./assets/images/popular/chittorgarh-fort.webp"
+  ],
+  "overview": "Experience the beauty of Chittorgarh Fort, a top destination in Rajasthan, India.",
+  "description": "One of the largest forts in India, Chittorgarh Fort symbolizes Rajput valor and sacrifice and is a UNESCO World Heritage Site.",
+  "rating": "4.9",
+  "reviewCount": 41191,
+  "popularityScore": 31,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jodhpur / Jaisalmer / Jaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Chittorgarh Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "2 km from Chittorgarh city"
+  },
+  "tags": [
+    "heritage",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1637
+    },
+    {
+      "views": 2207
+    }
+  ],
+  "nearbyPlaces": [
+    "amber-fort",
+    "hawa-mahal",
+    "ranthambore-national-park"
+  ]
+}

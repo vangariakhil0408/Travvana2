@@ -1,0 +1,36 @@
+{
+  "id": "serenity-beach",
+  "name": "Serenity Beach",
+  "city": "Kottakuppam",
+  "state": "Puducherry",
+  "description": "True to its name, a quiet and picturesque beach framed by palm trees. It is particularly famous among the surfing community for its excellent waves.",
+  "history": "The local surfing community established surfing schools here, transforming it into a hub for water sports.",
+  "famousFor": "Surfing, peaceful sunrise, and fishing boats.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+  ],
+  "nearbyPlaces": [
+    "french-war-memorial",
+    "thirunallar-temple",
+    "bharathi-park",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "promenade-beach",
+    "sri-karneshwar-nataraja",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "matrimandir",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

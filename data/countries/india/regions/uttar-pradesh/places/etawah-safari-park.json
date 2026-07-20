@@ -1,0 +1,84 @@
+{
+  "id": "etawah-safari-park",
+  "slug": "etawah-safari-park",
+  "name": "Etawah Safari Park",
+  "location": "Uttar Pradesh, India",
+  "district": "Etawah",
+  "stateId": "uttar-pradesh",
+  "category": "wildlife",
+  "uiCategory": "wildlife",
+  "overview": "UP's first and only lion safari park, housing Asiatic lions in a sprawling open habitat along the scenic Chambal ravines. It also has a successful gharial and mugger crocodile breeding center.",
+  "description": "Established in 2014 to bring the Asiatic lion experience to Uttar Pradesh. The park is built on the dramatic Chambal badlands terrain.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM \u2013 4:30 PM (Closed Mondays)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "wildlife",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "lucknow-bara-imambara",
+    "lucknow-residency",
+    "rumi-darwaza",
+    "dudhwa-national-park",
+    "shravasti",
+    "vindhyachal-devi",
+    "lucknow-ambedkar-park",
+    "kapilvastu",
+    "chandraprabha-wildlife",
+    "nawabganj-bird-sanctuary",
+    "sankisa",
+    "hastinapur",
+    "naimisharanya",
+    "kalinjar-fort",
+    "deogarh-dashavatara",
+    "gorakhpur-gorakhnath",
+    "kannauj-perfume",
+    "kaushambi",
+    "pilibhit-tiger-reserve",
+    "dilkusha-kothi",
+    "sardhana-basilica",
+    "kukrail-reserve",
+    "chattar-manzil",
+    "salkhan-fossil-park",
+    "deva-sharif",
+    "katarniaghat-wildlife"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/up-banner.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/up-banner.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/up-banner.webp"
+  ]
+}

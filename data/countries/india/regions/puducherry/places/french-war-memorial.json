@@ -1,0 +1,36 @@
+{
+  "id": "french-war-memorial",
+  "name": "French War Memorial",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "An elegant and somber memorial standing on the Promenade Beach, dedicated to the brave soldiers of French India who sacrificed their lives during World War I.",
+  "history": "Built in 1971. Every year on Bastille Day (July 14), it is beautifully illuminated to honor the fallen.",
+  "famousFor": "Bastille Day illuminations, colonial architecture.",
+  "bestTime": "Year-round",
+  "timings": "10:00 AM \u2013 5:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+  ],
+  "nearbyPlaces": [
+    "thirunallar-temple",
+    "bharathi-park",
+    "serenity-beach",
+    "promenade-beach",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "notre-dame-des-anges",
+    "sri-aurobindo-ashram",
+    "arikamedu",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "sri-karneshwar-nataraja",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

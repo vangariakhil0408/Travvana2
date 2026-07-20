@@ -1,0 +1,20 @@
+{
+  "id": "alpather-lake",
+  "name": "Alpather Lake",
+  "city": "Gulmarg",
+  "state": "Jammu and Kashmir",
+  "description": "A stunning high-altitude alpine lake located at the foot of the twin Apharwat peaks. It remains completely frozen from November until mid-June.",
+  "history": "A pristine, untouched glacial lake offering dramatic, rocky, moon-like landscapes during summer.",
+  "famousFor": "Frozen lake, challenging trek from Gondola phase 2.",
+  "bestTime": "June to September (To see water)",
+  "timings": "Unknown",
+  "entryFee": "Free (Gondola ticket extra)",
+  "image": "./assets/images/states/jammu-and-kashmir/alpather-lake.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/alpather-lake.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/alpather-lake.webp"
+  ],
+  "nearbyPlaces": [
+    "gulmarg-gondola"
+  ]
+}

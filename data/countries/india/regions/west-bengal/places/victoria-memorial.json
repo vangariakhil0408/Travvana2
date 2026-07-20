@@ -1,0 +1,70 @@
+{
+  "id": "victoria-memorial",
+  "slug": "victoria-memorial",
+  "name": "Victoria Memorial",
+  "location": "West Bengal, India",
+  "district": "Kolkata",
+  "stateId": "west-bengal",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/victoria-memorial.webp",
+  "heroImage": "./assets/images/popular/victoria-memorial.webp",
+  "gallery": [
+    "./assets/images/popular/victoria-memorial.webp"
+  ],
+  "overview": "Experience the beauty of Victoria Memorial, a top destination in West Bengal, India.",
+  "description": "The Victoria Memorial is a majestic marble building built in memory of Queen Victoria. It is a stunning architectural marvel surrounded by sprawling gardens.",
+  "rating": "4.3",
+  "reviewCount": 29021,
+  "popularityScore": 74,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "10:00 AM - 6:00 PM (Museum), 5:30 AM - 6:00 PM (Gardens)",
+  "entryFee": {
+    "indian": "₹30",
+    "foreigner": "₹500"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Netaji Subhas Chandra Bose International Airport",
+      "distance": "22 km"
+    },
+    "nearestRailway": {
+      "name": "Howrah Junction",
+      "distance": "7 km"
+    },
+    "byRoad": "Well connected to central Kolkata."
+  },
+  "tags": [
+    "heritage",
+    "west-bengal",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4165
+    },
+    {
+      "views": 2885
+    }
+  ],
+  "nearbyPlaces": [
+    "darjeeling-tea-gardens",
+    "sundarbans-mangrove-forest"
+  ]
+}

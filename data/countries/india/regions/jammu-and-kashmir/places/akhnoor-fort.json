@@ -1,0 +1,25 @@
+{
+  "id": "akhnoor-fort",
+  "name": "Akhnoor Fort",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "description": "A massive, two-storied fort perched dramatically on a cliff overlooking the mighty Chenab River. It holds immense historical and archaeological significance.",
+  "history": "Built by Raja Tej Singh in 1802. Excavations nearby have revealed ancient terracotta figures belonging to the Harappan (Indus Valley) civilization.",
+  "famousFor": "Chenab river views, ancient Indus Valley excavations.",
+  "bestTime": "September to April",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/bahu-fort.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/bahu-fort.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/bahu-fort.webp"
+  ],
+  "nearbyPlaces": [
+    "bahu-fort",
+    "mansar-lake",
+    "mubarak-mandi",
+    "surinsar-lake",
+    "purmandal",
+    "raghunath-temple"
+  ]
+}

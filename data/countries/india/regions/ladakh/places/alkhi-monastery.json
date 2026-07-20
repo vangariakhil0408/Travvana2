@@ -1,0 +1,18 @@
+{
+  "id": "alkhi-monastery",
+  "name": "Alchi Monastery",
+  "city": "Alchi",
+  "state": "Ladakh",
+  "description": "Unlike other Ladakhi monasteries located on hilltops, Alchi is situated on flat ground near the Indus River and boasts some of the oldest surviving Kashmiri-style Buddhist wall paintings in the world.",
+  "history": "Founded by the great translator Rinchen Zangpo between 958 and 1055 AD.",
+  "famousFor": "1000-year-old Kashmiri-style frescoes, wood carvings.",
+  "bestTime": "May to October",
+  "timings": "8:00 AM \u2013 6:00 PM",
+  "entryFee": "\u20b930",
+  "image": "./assets/images/states/ladakh/file_0000000093507206819d392db38a7364.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000093507206819d392db38a7364.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000093507206819d392db38a7364.webp"
+  ],
+  "nearbyPlaces": []
+}

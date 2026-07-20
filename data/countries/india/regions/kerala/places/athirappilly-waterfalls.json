@@ -1,0 +1,68 @@
+{
+  "id": "athirappilly-waterfalls",
+  "slug": "athirappilly-waterfalls",
+  "name": "Athirappilly Waterfalls",
+  "location": "Kerala, India",
+  "district": "Thrissur",
+  "stateId": "kerala",
+  "category": "waterfalls",
+  "uiCategory": "waterfalls",
+  "image": "./assets/images/states/kerala/Athirappilly Waterfalls.png",
+  "heroImage": "./assets/images/states/kerala/Athirappilly Waterfalls.png",
+  "gallery": [
+    "./assets/images/states/kerala/Athirappilly Waterfalls.png"
+  ],
+  "overview": "Experience the beauty of Athirappilly Waterfalls, a top destination in Kerala.",
+  "description": "Largest waterfall in Kerala, the Niagara of India.",
+  "rating": "4.8",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "waterfalls",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "thattekkad-bird-sanctuary",
+    "parambikulam-tiger-reserve"
+  ]
+}

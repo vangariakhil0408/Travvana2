@@ -1,0 +1,21 @@
+{
+  "id": "thinnakara-island",
+  "name": "Thinnakara Island",
+  "city": "Thinnakara",
+  "state": "Lakshadweep",
+  "description": "A stunning, uninhabited teardrop-shaped island situated just opposite Bangaram. It's renowned for its pristine white beaches and shallow lagoons ideal for snorkeling.",
+  "history": "One of the few islands where tourists can stay in beach tents under the starlit sky.",
+  "famousFor": "Tent camping, snorkeling, turtle watching.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000005f9c71fa983fd4f15f04294a.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000005f9c71fa983fd4f15f04294a.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000005f9c71fa983fd4f15f04294a.webp"
+  ],
+  "nearbyPlaces": [
+    "pitti-bird-sanctuary",
+    "kavaratti-island"
+  ]
+}

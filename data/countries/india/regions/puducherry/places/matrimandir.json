@@ -1,0 +1,36 @@
+{
+  "id": "matrimandir",
+  "name": "Matrimandir",
+  "city": "Auroville",
+  "state": "Puducherry",
+  "description": "The spiritual and physical center of Auroville. It is a massive, stunning golden metallic sphere designed as a place for silent, individual concentration.",
+  "history": "Construction took 37 years to complete. It does not belong to any religion or sect.",
+  "famousFor": "Golden dome, silent meditation chamber, and peace.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 4:00 PM",
+  "entryFee": "Free (Strictly by prior appointment)",
+  "image": "./assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp",
+  "heroImage": "./assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+  ],
+  "nearbyPlaces": [
+    "auroville",
+    "serenity-beach",
+    "sri-karneshwar-nataraja",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "french-war-memorial",
+    "immaculate-conception",
+    "sacred-heart-basilica",
+    "thirunallar-temple",
+    "bharathi-park",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "promenade-beach",
+    "puducherry-museum",
+    "ousteri-lake",
+    "paradise-beach",
+    "chunnambar-boat-house"
+  ]
+}

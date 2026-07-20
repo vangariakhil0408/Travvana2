@@ -1,0 +1,18 @@
+{
+  "id": "minicoy-island",
+  "name": "Minicoy Island",
+  "city": "Minicoy",
+  "state": "Lakshadweep",
+  "description": "Famous for its vibrant Maldivian culture, the majestic 1885 British lighthouse, and long stretches of white sand.",
+  "history": "Unlike other islands, Minicoy follows Maldivian culture and the Mahl language due to its geographical proximity to Maldives.",
+  "famousFor": "British Lighthouse, Lava Dance, Tuna fishing.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000003af47209ad615425b81abe6a.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000003af47209ad615425b81abe6a.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000003af47209ad615425b81abe6a.webp"
+  ],
+  "nearbyPlaces": []
+}

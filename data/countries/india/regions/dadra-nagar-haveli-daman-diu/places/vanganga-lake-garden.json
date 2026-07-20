@@ -1,0 +1,23 @@
+{
+  "id": "vanganga-lake-garden",
+  "name": "Vanganga Lake Garden",
+  "city": "Silvassa",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A beautifully landscaped island garden featuring Japanese-style wooden bridges, paddle boating, and jogging tracks set amidst a serene lake.",
+  "history": "Developed by the Dadra and Nagar Haveli administration as an eco-tourism park, its picturesque setting has made it a popular location for Bollywood film shoots.",
+  "famousFor": "Island garden, Japanese bridges, paddle boating",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 8:00 PM (Closed on Tuesdays)",
+  "entryFee": "\u20b920",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+  ],
+  "nearbyPlaces": [
+    "vasona-lion-safari",
+    "tribal-cultural-museum",
+    "dudhni-lake",
+    "hirwa-van-garden"
+  ]
+}

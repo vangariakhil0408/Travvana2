@@ -1,0 +1,18 @@
+{
+  "id": "lamayuru-monastery",
+  "name": "Lamayuru Monastery (Moonland)",
+  "city": "Lamayuru",
+  "state": "Ladakh",
+  "description": "One of the oldest and largest monasteries in Ladakh, famous for its surreal, cratered 'Moonland' landscape that surrounds the complex.",
+  "history": "According to legend, the great Indian scholar Naropa dried up a lake here to found the monastery in the 11th century.",
+  "famousFor": "Moon-like crater landscapes, ancient frescoes, Yuru Kabgyat festival.",
+  "bestTime": "May to October",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/ladakh/file_000000008a0472068bb7bc2309945cdb.webp",
+  "heroImage": "./assets/images/states/ladakh/file_000000008a0472068bb7bc2309945cdb.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_000000008a0472068bb7bc2309945cdb.webp"
+  ],
+  "nearbyPlaces": []
+}

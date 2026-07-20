@@ -1,0 +1,68 @@
+{
+  "id": "thirunelli-temple",
+  "slug": "thirunelli-temple",
+  "name": "Thirunelli Temple",
+  "location": "Kerala, India",
+  "district": "Wayanad",
+  "stateId": "kerala",
+  "category": "temples",
+  "uiCategory": "temples",
+  "image": "./assets/images/states/kerala/banner.webp",
+  "heroImage": "./assets/images/states/kerala/banner.webp",
+  "gallery": [
+    "./assets/images/states/kerala/banner.webp"
+  ],
+  "overview": "Experience the beauty of Thirunelli Temple, a top destination in Kerala.",
+  "description": "Ancient temple dedicated to Lord Vishnu in the Brahmagiri hills.",
+  "rating": "4.5",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "temples",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "aralam-wildlife-sanctuary",
+    "banasura-sagar-dam"
+  ]
+}

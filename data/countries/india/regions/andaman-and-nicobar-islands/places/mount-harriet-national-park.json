@@ -1,0 +1,39 @@
+{
+  "id": "mount-harriet-national-park",
+  "name": "Mount Harriet National Park",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "The third-highest peak in the Andaman archipelago, offering breathtaking panoramic views and an immersive trekking experience through dense tropical forest teeming with butterflies and rare birds.",
+  "history": "Named after Harriet Tytler, wife of Robert Tytler, a British officer stationed in the islands during the 19th century.",
+  "famousFor": "Trekking, panoramic views, and butterfly diversity",
+  "bestTime": "October to May",
+  "timings": "5:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b925",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/mount-harriet-national-park.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/mount-harriet-national-park.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/mount-harriet-national-park.webp"
+  ],
+  "nearbyPlaces": [
+    "north-bay-island",
+    "long-island",
+    "saddle-peak",
+    "barren-island",
+    "samudrika-naval-marine-museum",
+    "mundapahad",
+    "mahatma-gandhi-marine-national-park",
+    "viper-island",
+    "cellular-jail",
+    "chatham-saw-mill",
+    "aberdeen-bazaar",
+    "ross-island",
+    "marina-park",
+    "wandoor-beach",
+    "jolly-buoy-island",
+    "kalipur-beach",
+    "diglipur-town",
+    "corbyns-cove-beach",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

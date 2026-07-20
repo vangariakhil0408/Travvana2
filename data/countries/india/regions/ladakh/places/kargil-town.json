@@ -1,0 +1,30 @@
+{
+  "id": "kargil-town",
+  "name": "Kargil Town",
+  "city": "Kargil",
+  "state": "Ladakh",
+  "description": "The second-largest town in Ladakh, situated on the banks of the Suru River. It serves as the primary transit hub connecting Srinagar, Leh, and Zanskar.",
+  "history": "The epicenter of the 1999 Kargil War between India and Pakistan.",
+  "famousFor": "Gateway to Zanskar, Suru Valley, apricot orchards.",
+  "bestTime": "May to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000070ac7208b959e088e131f656.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000070ac7208b959e088e131f656.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000070ac7208b959e088e131f656.webp"
+  ],
+  "nearbyPlaces": [
+    "shanti-stupa",
+    "hall-of-fame",
+    "leh-palace",
+    "stok-palace",
+    "pathar-sahib",
+    "khardung-la",
+    "magnetic-hill",
+    "chang-la-pass",
+    "tso-kar",
+    "thiksey-monastery",
+    "leh-city"
+  ]
+}

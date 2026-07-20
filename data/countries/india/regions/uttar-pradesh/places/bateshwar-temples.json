@@ -1,0 +1,63 @@
+{
+  "id": "bateshwar-temples",
+  "slug": "bateshwar-temples",
+  "name": "Bateshwar Temples",
+  "location": "Uttar Pradesh, India",
+  "district": "Agra",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A hauntingly beautiful cluster of over 100 ancient sandstone temples spread along the banks of the Yamuna River. The site is also famous for Asia's largest cattle fair held annually.",
+  "description": "The temples date from the 8th to 10th century (Gurjara-Pratihara period). The area is also the ancestral home of Atal Bihari Vajpayee.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "agra-fort",
+    "fatehpur-sikri",
+    "itimad-ud-daulah",
+    "akbar-tomb-sikandra"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/up-banner.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/up-banner.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/up-banner.webp"
+  ]
+}

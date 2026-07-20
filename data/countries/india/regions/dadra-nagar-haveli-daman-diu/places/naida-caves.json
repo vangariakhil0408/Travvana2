@@ -1,0 +1,25 @@
+{
+  "id": "naida-caves",
+  "name": "Naida Caves",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A surreal labyrinth of interconnected caves with natural sunlit shafts piercing through orange rock formations, creating a photographer's paradise just outside the city walls.",
+  "history": "Believed to be formed when the Portuguese quarried building materials from these rocks to construct the Diu Fort. It also served as a hideout during 'Operation Vijay' in 1961.",
+  "famousFor": "Natural rock formations, sunlit tunnels, and photography.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7 (Daylight hours recommended)",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+  ],
+  "nearbyPlaces": [
+    "nagoa-beach",
+    "gangeshwar-mahadev-temple",
+    "ghoghla-beach",
+    "ins-khukri-memorial",
+    "diu-fort",
+    "panikotha"
+  ]
+}

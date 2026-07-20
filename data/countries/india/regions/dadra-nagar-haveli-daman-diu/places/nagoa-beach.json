@@ -1,0 +1,25 @@
+{
+  "id": "nagoa-beach",
+  "name": "Nagoa Beach",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A picture-perfect, crescent-shaped beach fringed with rare Hoka palm trees, famous for its golden sands, calm waters, and thrilling water sports.",
+  "history": "The unique branching Hoka trees (Hyphaene dichotoma) found here were brought from Africa by the Portuguese centuries ago.",
+  "famousFor": "Golden sands, water sports, and African Hoka trees.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Water sports extra)",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "naida-caves",
+    "ghoghla-beach",
+    "diu-fort",
+    "ins-khukri-memorial",
+    "gangeshwar-mahadev-temple",
+    "panikotha"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "surinsar-lake",
+  "name": "Surinsar Lake",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "description": "The twin lake to Mansar, Surinsar is an incredibly peaceful, deeply serene water body completely surrounded by thickly wooded mountain ranges.",
+  "history": "Legend states that the Mahabharata warrior Arjuna shot an arrow into the ground at Mansar, and it emerged at Surinsar, creating both lakes.",
+  "famousFor": "Lotus blooms, bird watching, twin to Mansar Lake.",
+  "bestTime": "September to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/surinsar-lake.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/surinsar-lake.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/surinsar-lake.webp"
+  ],
+  "nearbyPlaces": [
+    "akhnoor-fort",
+    "mansar-lake",
+    "bahu-fort",
+    "mubarak-mandi",
+    "purmandal",
+    "raghunath-temple"
+  ]
+}

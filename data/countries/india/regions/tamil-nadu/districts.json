@@ -1,0 +1,57 @@
+{
+  "stateId": "tamil-nadu",
+  "totalDistricts": 4,
+  "districts": [
+    {
+      "id": "madurai",
+      "name": "Madurai",
+      "slug": "madurai",
+      "thumbnail": "",
+      "totalPlaces": 8,
+      "popularityScore": 95,
+      "tagline": "Temple City",
+      "categories": [
+        "temples",
+        "heritage"
+      ]
+    },
+    {
+      "id": "kanchipuram",
+      "name": "Kanchipuram",
+      "slug": "kanchipuram",
+      "thumbnail": "",
+      "totalPlaces": 6,
+      "popularityScore": 88,
+      "tagline": "City of Thousand Temples",
+      "categories": [
+        "temples",
+        "heritage"
+      ]
+    },
+    {
+      "id": "nilgiris",
+      "name": "Nilgiris",
+      "slug": "nilgiris",
+      "thumbnail": "",
+      "totalPlaces": 7,
+      "popularityScore": 90,
+      "tagline": "Blue Mountains",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "ramanathapuram",
+      "name": "Ramanathapuram",
+      "slug": "ramanathapuram",
+      "thumbnail": "",
+      "totalPlaces": 4,
+      "popularityScore": 70,
+      "tagline": "Land of Rameswaram",
+      "categories": [
+        "temples",
+        "beaches"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4670 @@
+{
+  "stateSlug": "punjab",
+  "name": "Punjab",
+  "capital": "Chandigarh",
+  "tagline": "India Begins Here",
+  "heroImage": "assets/images/states/punjab/banner.webp",
+  "bestTime": "October to March",
+  "language": "Punjabi, Hindi, English",
+  "places": [
+    {
+      "name": "Golden Temple (Sri Harmandir Sahib)",
+      "city": "Amritsar",
+      "category": "temples",
+      "distance": "Center of Amritsar city",
+      "rating": 4.9,
+      "description": "Sri Harmandir Sahib, the Golden Temple, is the holiest Gurdwara of Sikhism and one of the most visited religious sites in the world. The gold-plated temple sits serenely in the middle of the Amrit Sarovar (Pool of Nectar). Its community kitchen (Langar) feeds up to 100,000 people daily for free.",
+      "history": "Founded by Guru Ram Das in 1577 CE, the temple was completed by Guru Arjan Dev who installed the Adi Granth here in 1604. Maharaja Ranjit Singh covered the upper floors with 750 kg of gold in the early 19th century. The temple was damaged during Operation Blue Star in 1984.",
+      "famousFor": "Gold-plated dome, Amrit Sarovar, Free Langar (100,000 meals/day), Palki Sahib ceremony, Night illumination",
+      "bestTime": "October to March (visit at dawn for the Palki Sahib ceremony)",
+      "timings": "Open 24 hours (Palki Sahib: 4:00 AM)",
+      "entryFee": "Free",
+      "slug": "golden-temple",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/popular/golden-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "400 m away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "700 m away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "1.6 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "800 m away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "5.7 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "5.4 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sarai Amanat Khan",
+          "city": "Sarai Amanat Khan",
+          "distance": "18.2 km away",
+          "category": "heritage",
+          "slug": "sarai-amanat-khan",
+          "state": "Punjab",
+          "id": "sarai-amanat-khan",
+          "images": {
+            "main": "assets/images/states/punjab/sarai-amanat-khan.webp"
+          },
+          "image": "assets/images/states/punjab/sarai-amanat-khan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pul Kanjari",
+          "city": "Amritsar",
+          "distance": "20.3 km away",
+          "category": "heritage",
+          "slug": "pul-kanjari",
+          "state": "Punjab",
+          "id": "pul-kanjari",
+          "images": {
+            "main": "assets/images/states/punjab/pul-kanjari.webp"
+          },
+          "image": "assets/images/states/punjab/pul-kanjari.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wagah-Attari Border",
+          "city": "Attari",
+          "distance": "28.8 km away",
+          "category": "heritage",
+          "slug": "wagah-border",
+          "state": "Punjab",
+          "id": "wagah-border",
+          "images": {
+            "main": "assets/images/states/punjab/wagah-border.webp"
+          },
+          "image": "assets/images/states/punjab/wagah-border.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Sri Tarn Taran Sahib",
+          "city": "Tarn Taran",
+          "distance": "19.2 km away",
+          "category": "temples",
+          "slug": "tarn-taran-sahib",
+          "state": "Punjab",
+          "id": "tarn-taran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "golden-temple",
+      "image": "assets/images/popular/golden-temple.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.62,
+        "lon": 74.8765
+      },
+      "heroImage": "assets/images/popular/golden-temple.webp"
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "city": "Amritsar",
+      "category": "heritage",
+      "distance": "0.5 km from Golden Temple",
+      "rating": 4.8,
+      "description": "A deeply somber and historically critical public garden that serves as a memorial to the hundreds of unarmed Indian civilians massacred by British forces in 1919.",
+      "history": "On April 13, 1919, General Dyer ordered his troops to fire on a peaceful gathering, an event that became a turning point in India's independence struggle.",
+      "famousFor": "Bullet marks on the walls, the Martyrs' Well.",
+      "bestTime": "Year-round",
+      "timings": "6:30 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "jallianwala-bagh-memorial",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "400 m away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "1.8 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "5.5 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "jallianwala-bagh-memorial",
+      "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6208,
+        "lon": 74.8803
+      },
+      "heroImage": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+    },
+    {
+      "name": "Wagah-Attari Border",
+      "city": "Attari",
+      "category": "heritage",
+      "distance": "32 km from Amritsar",
+      "rating": 4.8,
+      "description": "The geographical boundary separating India and Pakistan. Every evening, it hosts the electrifying 'Beating Retreat' ceremony performed by the border guards of both nations.",
+      "history": "The ceremony has been jointly followed by the BSF (India) and Pakistan Rangers since 1959.",
+      "famousFor": "Beating Retreat ceremony, patriotic fervor.",
+      "bestTime": "Year-round (Arrive by 3:00 PM)",
+      "timings": "4:15 PM – 5:15 PM (Winter), 5:15 PM – 6:15 PM (Summer)",
+      "entryFee": "Free",
+      "slug": "wagah-border",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/wagah-border.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "28.8 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "27.7 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "29 km away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pul Kanjari",
+          "city": "Amritsar",
+          "distance": "9.3 km away",
+          "category": "heritage",
+          "slug": "pul-kanjari",
+          "state": "Punjab",
+          "id": "pul-kanjari",
+          "images": {
+            "main": "assets/images/states/punjab/pul-kanjari.webp"
+          },
+          "image": "assets/images/states/punjab/pul-kanjari.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sarai Amanat Khan",
+          "city": "Sarai Amanat Khan",
+          "distance": "19.9 km away",
+          "category": "heritage",
+          "slug": "sarai-amanat-khan",
+          "state": "Punjab",
+          "id": "sarai-amanat-khan",
+          "images": {
+            "main": "assets/images/states/punjab/sarai-amanat-khan.webp"
+          },
+          "image": "assets/images/states/punjab/sarai-amanat-khan.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "wagah-border",
+      "image": "assets/images/states/punjab/wagah-border.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6047,
+        "lon": 74.5726
+      },
+      "heroImage": "assets/images/states/punjab/wagah-border.webp"
+    },
+    {
+      "name": "Virasat-e-Khalsa",
+      "city": "Anandpur Sahib",
+      "category": "heritage",
+      "distance": "In Anandpur Sahib",
+      "rating": 4.9,
+      "description": "A magnificent, ultra-modern museum celebrating 500 years of Sikh history and the 300th anniversary of the founding of the Khalsa. It is the most visited museum in India.",
+      "history": "Designed by renowned architect Moshe Safdie. It beautifully weaves together Punjab's history, culture, and the teachings of the Sikh Gurus.",
+      "famousFor": "Immersive exhibits, stunning architecture, Sikh history.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 6:00 PM (Closed Mondays)",
+      "entryFee": "Free",
+      "slug": "virasat-e-khalsa",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/virasat-e-khalsa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Takht Sri Keshgarh Sahib",
+          "city": "Anandpur Sahib",
+          "distance": "400 m away",
+          "category": "temples",
+          "slug": "keshgarh-sahib",
+          "state": "Punjab",
+          "id": "keshgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/keshgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/keshgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Kiratpur Sahib (Patal Puri)",
+          "city": "Kiratpur Sahib",
+          "distance": "9.6 km away",
+          "category": "temples",
+          "slug": "kiratpur-sahib",
+          "state": "Punjab",
+          "id": "kiratpur-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Ropar Wetland",
+          "city": "Rupnagar",
+          "distance": "30 km away",
+          "category": "wildlife",
+          "slug": "ropar-wetland",
+          "state": "Punjab",
+          "id": "ropar-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/ropar-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/ropar-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shaheed-e-Azam Bhagat Singh Museum",
+          "city": "Khatkar Kalan",
+          "distance": "20.4 km away",
+          "category": "heritage",
+          "slug": "bhagat-singh-museum",
+          "state": "Punjab",
+          "id": "bhagat-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "virasat-e-khalsa",
+      "image": "assets/images/states/punjab/virasat-e-khalsa.webp",
+      "district": "Rupnagar",
+      "coordinates": {
+        "lat": 31.2354,
+        "lon": 76.5033
+      },
+      "heroImage": "assets/images/states/punjab/virasat-e-khalsa.webp"
+    },
+    {
+      "name": "Sheesh Mahal",
+      "city": "Patiala",
+      "category": "heritage",
+      "distance": "In Patiala",
+      "rating": 4.5,
+      "description": "The 'Palace of Mirrors', an exquisitely designed royal residence featuring intricate mirror work, stunning frescoes, and a massive artificial lake with a suspension bridge.",
+      "history": "Built in 1847 by Maharaja Narinder Singh. The palace houses a large collection of medals, antiques, and Kangra paintings.",
+      "famousFor": "Mirror work, suspension bridge, royal artifacts.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "sheesh-mahal",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/sheesh-mahal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Qila Mubarak Patiala",
+          "city": "Patiala",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "qila-mubarak-patiala",
+          "state": "Punjab",
+          "id": "qila-mubarak-patiala",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak-patiala.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Palace",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "moti-bagh-palace",
+          "state": "Punjab",
+          "id": "moti-bagh-palace",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-palace.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Wildlife Sanctuary",
+          "city": "Patiala",
+          "distance": "2.2 km away",
+          "category": "wildlife",
+          "slug": "moti-bagh-sanctuary",
+          "state": "Punjab",
+          "id": "moti-bagh-sanctuary",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-sanctuary.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-sanctuary.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Dukh Nivaran Sahib",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "temples",
+          "slug": "dukh-nivaran-sahib",
+          "state": "Punjab",
+          "id": "dukh-nivaran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/dukh-nivaran-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kali Mata Temple",
+          "city": "Patiala",
+          "distance": "1.9 km away",
+          "category": "temples",
+          "slug": "kali-mata-temple",
+          "state": "Punjab",
+          "id": "kali-mata-temple",
+          "images": {
+            "main": "assets/images/states/punjab/kali-mata-temple.webp"
+          },
+          "image": "assets/images/states/punjab/kali-mata-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "sheesh-mahal",
+      "image": "assets/images/states/punjab/sheesh-mahal.webp",
+      "district": "Patiala",
+      "coordinates": {
+        "lat": 30.32,
+        "lon": 76.385
+      },
+      "heroImage": "assets/images/states/punjab/sheesh-mahal.webp"
+    },
+    {
+      "name": "Pushpa Gujral Science City",
+      "city": "Kapurthala",
+      "category": "museum",
+      "distance": "15 km from Jalandhar",
+      "rating": 4.6,
+      "description": "A massive, incredibly interactive science theme park spread over 72 acres. It features a dinosaur park, a flight simulator, a laser show, and a massive globe theater.",
+      "history": "Built to cultivate scientific temperament among the youth. It is named after the mother of former Prime Minister I K Gujral.",
+      "famousFor": "Dinosaur park, climate change theater, space exhibits.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹450",
+      "slug": "pushpa-gujral-science-city",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Devi Talab Mandir",
+          "city": "Jalandhar",
+          "distance": "4.9 km away",
+          "category": "temples",
+          "slug": "devi-talab-mandir",
+          "state": "Punjab",
+          "id": "devi-talab-mandir",
+          "images": {
+            "main": "assets/images/states/punjab/devi-talab-mandir.webp"
+          },
+          "image": "assets/images/states/punjab/devi-talab-mandir.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jang-e-Azadi Memorial",
+          "city": "Jalandhar",
+          "distance": "8.5 km away",
+          "category": "heritage",
+          "slug": "jang-e-azadi-memorial",
+          "state": "Punjab",
+          "id": "jang-e-azadi-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jang-e-azadi-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jang-e-azadi-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wonderland Theme Park",
+          "city": "Jalandhar",
+          "distance": "4.1 km away",
+          "category": "entertainment",
+          "slug": "wonderland-jalandhar",
+          "state": "Punjab",
+          "id": "wonderland-jalandhar",
+          "images": {
+            "main": "assets/images/states/punjab/wonderland-jalandhar.webp"
+          },
+          "image": "assets/images/states/punjab/wonderland-jalandhar.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jagatjit Palace",
+          "city": "Kapurthala",
+          "distance": "14.9 km away",
+          "category": "heritage",
+          "slug": "jagatjit-palace",
+          "state": "Punjab",
+          "id": "jagatjit-palace",
+          "images": {
+            "main": "assets/images/states/punjab/jagatjit-palace.webp"
+          },
+          "image": "assets/images/states/punjab/jagatjit-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moorish Mosque",
+          "city": "Kapurthala",
+          "distance": "14.8 km away",
+          "category": "heritage",
+          "slug": "moorish-mosque",
+          "state": "Punjab",
+          "id": "moorish-mosque",
+          "images": {
+            "main": "assets/images/states/punjab/moorish-mosque.webp"
+          },
+          "image": "assets/images/states/punjab/moorish-mosque.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kanjli Wetland",
+          "city": "Kapurthala",
+          "distance": "15.3 km away",
+          "category": "wildlife",
+          "slug": "kanjli-wetland",
+          "state": "Punjab",
+          "id": "kanjli-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/kanjli-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/kanjli-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shalimar Botanical Garden",
+          "city": "Kapurthala",
+          "distance": "15.2 km away",
+          "category": "nature",
+          "slug": "shalimar-garden",
+          "state": "Punjab",
+          "id": "shalimar-garden",
+          "images": {
+            "main": "assets/images/states/punjab/shalimar-garden.webp"
+          },
+          "image": "assets/images/states/punjab/shalimar-garden.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "pushpa-gujral-science-city",
+      "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.35,
+        "lon": 75.5333
+      },
+      "heroImage": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+    },
+    {
+      "name": "Jagatjit Palace",
+      "city": "Kapurthala",
+      "category": "heritage",
+      "distance": "Center of Kapurthala",
+      "rating": 4.7,
+      "description": "A magnificent palace designed to resemble the Palace of Versailles in France. Kapurthala is often referred to as the 'Paris of Punjab' due to its stunning architecture.",
+      "history": "Built in 1908 by Maharaja Jagatjit Singh. It currently houses the prestigious Sainik School.",
+      "famousFor": "French-style architecture, royal grandeur.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free (Exterior)",
+      "slug": "jagatjit-palace",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/jagatjit-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Moorish Mosque",
+          "city": "Kapurthala",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "moorish-mosque",
+          "state": "Punjab",
+          "id": "moorish-mosque",
+          "images": {
+            "main": "assets/images/states/punjab/moorish-mosque.webp"
+          },
+          "image": "assets/images/states/punjab/moorish-mosque.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shalimar Botanical Garden",
+          "city": "Kapurthala",
+          "distance": "400 m away",
+          "category": "nature",
+          "slug": "shalimar-garden",
+          "state": "Punjab",
+          "id": "shalimar-garden",
+          "images": {
+            "main": "assets/images/states/punjab/shalimar-garden.webp"
+          },
+          "image": "assets/images/states/punjab/shalimar-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kanjli Wetland",
+          "city": "Kapurthala",
+          "distance": "2 km away",
+          "category": "wildlife",
+          "slug": "kanjli-wetland",
+          "state": "Punjab",
+          "id": "kanjli-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/kanjli-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/kanjli-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Ber Sahib",
+          "city": "Sultanpur Lodhi",
+          "distance": "25 km away",
+          "category": "temples",
+          "slug": "ber-sahib",
+          "state": "Punjab",
+          "id": "ber-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-ber-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "14.9 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "jagatjit-palace",
+      "image": "assets/images/states/punjab/jagatjit-palace.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.38,
+        "lon": 75.38
+      },
+      "heroImage": "assets/images/states/punjab/jagatjit-palace.webp"
+    },
+    {
+      "name": "Moorish Mosque",
+      "city": "Kapurthala",
+      "category": "heritage",
+      "distance": "In Kapurthala",
+      "rating": 4.6,
+      "description": "An architectural marvel heavily inspired by the Grand Mosque of Marrakesh in Morocco. It stands as a profound symbol of secularism in Punjab.",
+      "history": "Commissioned by the Sikh ruler Maharaja Jagatjit Singh in 1930 for his Muslim subjects. Designed by French architect Monsieur M Manteaux.",
+      "famousFor": "Moroccan architecture, secular history.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "moorish-mosque",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/moorish-mosque.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jagatjit Palace",
+          "city": "Kapurthala",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "jagatjit-palace",
+          "state": "Punjab",
+          "id": "jagatjit-palace",
+          "images": {
+            "main": "assets/images/states/punjab/jagatjit-palace.webp"
+          },
+          "image": "assets/images/states/punjab/jagatjit-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shalimar Botanical Garden",
+          "city": "Kapurthala",
+          "distance": "600 m away",
+          "category": "nature",
+          "slug": "shalimar-garden",
+          "state": "Punjab",
+          "id": "shalimar-garden",
+          "images": {
+            "main": "assets/images/states/punjab/shalimar-garden.webp"
+          },
+          "image": "assets/images/states/punjab/shalimar-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kanjli Wetland",
+          "city": "Kapurthala",
+          "distance": "2.2 km away",
+          "category": "wildlife",
+          "slug": "kanjli-wetland",
+          "state": "Punjab",
+          "id": "kanjli-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/kanjli-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/kanjli-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Ber Sahib",
+          "city": "Sultanpur Lodhi",
+          "distance": "25.2 km away",
+          "category": "temples",
+          "slug": "ber-sahib",
+          "state": "Punjab",
+          "id": "ber-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-ber-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "14.8 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "moorish-mosque",
+      "image": "assets/images/states/punjab/moorish-mosque.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.3817,
+        "lon": 75.3817
+      },
+      "heroImage": "assets/images/states/punjab/moorish-mosque.webp"
+    },
+    {
+      "name": "Harike Wetland",
+      "city": "Harike",
+      "category": "wildlife",
+      "distance": "60 km from Amritsar",
+      "rating": 4.5,
+      "description": "The largest wetland in northern India, formed at the confluence of the Beas and Sutlej rivers. It is a critical sanctuary for thousands of migratory birds and the rare Indus River Dolphin.",
+      "history": "Declared a Ramsar site in 1990. It is a vital ecological zone protecting numerous endangered aquatic and avian species.",
+      "famousFor": "Migratory birds, Indus River Dolphins, and boating.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "harike-wetland",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/harike-wetland.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gurudwara Sri Tarn Taran Sahib",
+          "city": "Tarn Taran",
+          "distance": "33.9 km away",
+          "category": "temples",
+          "slug": "tarn-taran-sahib",
+          "state": "Punjab",
+          "id": "tarn-taran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "harike-wetland",
+      "image": "assets/images/states/punjab/harike-wetland.webp",
+      "district": "Tarn Taran",
+      "coordinates": {
+        "lat": 31.15,
+        "lon": 74.97
+      },
+      "heroImage": "assets/images/states/punjab/harike-wetland.webp"
+    },
+    {
+      "name": "Kila Raipur Sports Festival",
+      "city": "Kila Raipur",
+      "category": "entertainment",
+      "distance": "15 km from Ludhiana",
+      "rating": 4.7,
+      "description": "Globally famous as the 'Rural Olympics'. Every February, the village hosts incredible displays of rural sports including tractor racing, martial arts (Gatka), and strength feats.",
+      "history": "Started in 1933 by philanthropist Inder Singh Grewal to promote healthy physical activities among local youth.",
+      "famousFor": "Rural Olympics, Punjabi culture, Gatka.",
+      "bestTime": "February (During the festival)",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "kila-raipur",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/kila-raipur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "8.6 km away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "7.5 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Rakh Bagh Park",
+          "city": "Ludhiana",
+          "distance": "8.8 km away",
+          "category": "nature",
+          "slug": "rakh-bagh-park",
+          "state": "Punjab",
+          "id": "rakh-bagh-park",
+          "images": {
+            "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+          },
+          "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "9 km away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Hardy's World",
+          "city": "Ludhiana",
+          "distance": "3.4 km away",
+          "category": "entertainment",
+          "slug": "hardys-world",
+          "state": "Punjab",
+          "id": "hardys-world",
+          "images": {
+            "main": "assets/images/states/punjab/hardys-world.webp"
+          },
+          "image": "assets/images/states/punjab/hardys-world.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "kila-raipur",
+      "image": "assets/images/states/punjab/kila-raipur.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.8333,
+        "lon": 75.8667
+      },
+      "heroImage": "assets/images/states/punjab/kila-raipur.webp"
+    },
+    {
+      "name": "Gurudwara Fatehgarh Sahib",
+      "city": "Sirhind",
+      "category": "heritage",
+      "distance": "5 km from Sirhind",
+      "rating": 4.8,
+      "description": "A highly revered Sikh shrine marking the site of the martyrdom of the two youngest sons of Guru Gobind Singh, who were bricked alive in 1704.",
+      "history": "A place of immense spiritual and historical sacrifice in Sikhism. The annual Shaheedi Jor Mela attracts millions of devotees.",
+      "famousFor": "Shaheedi Jor Mela, spiritual significance.",
+      "bestTime": "December (During Jor Mela) or Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "fatehgarh-sahib",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/fatehgarh-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Aam Khas Bagh",
+          "city": "Sirhind",
+          "distance": "1.2 km away",
+          "category": "heritage",
+          "slug": "aam-khas-bagh",
+          "state": "Punjab",
+          "id": "aam-khas-bagh",
+          "images": {
+            "main": "assets/images/states/punjab/aam-khas-bagh.webp"
+          },
+          "image": "assets/images/states/punjab/aam-khas-bagh.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sanghol Museum (Ucha Pind)",
+          "city": "Sanghol",
+          "distance": "15.8 km away",
+          "category": "heritage",
+          "slug": "sanghol-museum",
+          "state": "Punjab",
+          "id": "sanghol-museum",
+          "images": {
+            "main": "assets/images/states/punjab/sanghol-museum.webp"
+          },
+          "image": "assets/images/states/punjab/sanghol-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Manji Sahib",
+          "city": "Alamgir",
+          "distance": "18.3 km away",
+          "category": "temples",
+          "slug": "manji-sahib-alamgir",
+          "state": "Punjab",
+          "id": "manji-sahib-alamgir",
+          "images": {
+            "main": "assets/images/states/punjab/manji-sahib-alamgir.webp"
+          },
+          "image": "assets/images/states/punjab/manji-sahib-alamgir.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "fatehgarh-sahib",
+      "image": "assets/images/states/punjab/fatehgarh-sahib.webp",
+      "district": "Fatehgarh Sahib",
+      "coordinates": {
+        "lat": 30.6417,
+        "lon": 76.3917
+      },
+      "heroImage": "assets/images/states/punjab/fatehgarh-sahib.webp"
+    },
+    {
+      "name": "Aam Khas Bagh",
+      "city": "Sirhind",
+      "category": "heritage",
+      "distance": "In Sirhind",
+      "rating": 4.4,
+      "description": "The ruins of a grand Mughal highway-inn and garden complex built by Emperor Babur and later expanded by Shah Jahan for royal caravans passing to Lahore.",
+      "history": "It contained both an 'Aam' (public) area for ordinary travelers and a 'Khas' (private) luxurious area for the Emperor.",
+      "famousFor": "Mughal ruins, historic highway inn.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "aam-khas-bagh",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/aam-khas-bagh.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gurudwara Fatehgarh Sahib",
+          "city": "Sirhind",
+          "distance": "1.2 km away",
+          "category": "heritage",
+          "slug": "fatehgarh-sahib",
+          "state": "Punjab",
+          "id": "fatehgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/fatehgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/fatehgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sanghol Museum (Ucha Pind)",
+          "city": "Sanghol",
+          "distance": "16.8 km away",
+          "category": "heritage",
+          "slug": "sanghol-museum",
+          "state": "Punjab",
+          "id": "sanghol-museum",
+          "images": {
+            "main": "assets/images/states/punjab/sanghol-museum.webp"
+          },
+          "image": "assets/images/states/punjab/sanghol-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Manji Sahib",
+          "city": "Alamgir",
+          "distance": "18.6 km away",
+          "category": "temples",
+          "slug": "manji-sahib-alamgir",
+          "state": "Punjab",
+          "id": "manji-sahib-alamgir",
+          "images": {
+            "main": "assets/images/states/punjab/manji-sahib-alamgir.webp"
+          },
+          "image": "assets/images/states/punjab/manji-sahib-alamgir.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "aam-khas-bagh",
+      "image": "assets/images/states/punjab/aam-khas-bagh.webp",
+      "district": "Fatehgarh Sahib",
+      "coordinates": {
+        "lat": 30.6333,
+        "lon": 76.3833
+      },
+      "heroImage": "assets/images/states/punjab/aam-khas-bagh.webp"
+    },
+    {
+      "name": "The Partition Museum",
+      "city": "Amritsar",
+      "category": "heritage",
+      "distance": "Town Hall, Amritsar",
+      "rating": 4.8,
+      "description": "The world's first museum dedicated entirely to the memory of the Partition of India in 1947. It contains deeply moving oral histories, artifacts, and photographs of the largest migration in human history.",
+      "history": "Opened in 2017 in the historic Town Hall building, serving as a repository for the stories of those who suffered.",
+      "famousFor": "Partition artifacts, oral histories, emotional exhibits.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 6:00 PM (Closed Mondays)",
+      "entryFee": "₹10",
+      "slug": "partition-museum",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/partition-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "1.7 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "5.8 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "5.5 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wagah-Attari Border",
+          "city": "Attari",
+          "distance": "29 km away",
+          "category": "heritage",
+          "slug": "wagah-border",
+          "state": "Punjab",
+          "id": "wagah-border",
+          "images": {
+            "main": "assets/images/states/punjab/wagah-border.webp"
+          },
+          "image": "assets/images/states/punjab/wagah-border.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "partition-museum",
+      "image": "assets/images/states/punjab/partition-museum.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6197,
+        "lon": 74.8786
+      },
+      "heroImage": "assets/images/states/punjab/partition-museum.webp"
+    },
+    {
+      "name": "Shaheed-e-Azam Bhagat Singh Museum",
+      "city": "Khatkar Kalan",
+      "category": "heritage",
+      "distance": "Near Nawanshahr",
+      "rating": 4.7,
+      "description": "A highly patriotic museum dedicated to the legendary freedom fighter Bhagat Singh, located in his ancestral village. It houses his personal belongings, diaries, and rare photographs.",
+      "history": "The village is highly revered. On his martyrdom anniversary, massive political and public gatherings take place here.",
+      "famousFor": "Bhagat Singh's artifacts, patriotic history.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bhagat-singh-museum",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Virasat-e-Khalsa",
+          "city": "Anandpur Sahib",
+          "distance": "20.4 km away",
+          "category": "heritage",
+          "slug": "virasat-e-khalsa",
+          "state": "Punjab",
+          "id": "virasat-e-khalsa",
+          "images": {
+            "main": "assets/images/states/punjab/virasat-e-khalsa.webp"
+          },
+          "image": "assets/images/states/punjab/virasat-e-khalsa.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Takht Sri Keshgarh Sahib",
+          "city": "Anandpur Sahib",
+          "distance": "20.8 km away",
+          "category": "temples",
+          "slug": "keshgarh-sahib",
+          "state": "Punjab",
+          "id": "keshgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/keshgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/keshgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Kiratpur Sahib (Patal Puri)",
+          "city": "Kiratpur Sahib",
+          "distance": "23.2 km away",
+          "category": "temples",
+          "slug": "kiratpur-sahib",
+          "state": "Punjab",
+          "id": "kiratpur-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Ropar Wetland",
+          "city": "Rupnagar",
+          "distance": "21.9 km away",
+          "category": "wildlife",
+          "slug": "ropar-wetland",
+          "state": "Punjab",
+          "id": "ropar-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/ropar-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/ropar-wetland.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "bhagat-singh-museum",
+      "image": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp",
+      "district": "Shaheed Bhagat Singh Nagar",
+      "coordinates": {
+        "lat": 31.0978,
+        "lon": 76.3611
+      },
+      "heroImage": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+    },
+    {
+      "name": "Durgiana Temple",
+      "city": "Amritsar",
+      "category": "temples",
+      "distance": "2 km from Golden Temple",
+      "rating": 4.6,
+      "description": "A deeply revered Hindu temple that bears a striking architectural resemblance to the Golden Temple. It sits in the middle of a sacred lake and is dedicated to Goddess Durga.",
+      "history": "Constructed in 1921. It is a major pilgrimage center for Hindus in northern India.",
+      "famousFor": "Architecture similar to Golden Temple, silver doors.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "durgiana-temple",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/durgiana-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "300 m away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "5.7 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "4.9 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Sri Tarn Taran Sahib",
+          "city": "Tarn Taran",
+          "distance": "19.7 km away",
+          "category": "temples",
+          "slug": "tarn-taran-sahib",
+          "state": "Punjab",
+          "id": "tarn-taran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "durgiana-temple",
+      "image": "assets/images/states/punjab/durgiana-temple.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6233,
+        "lon": 74.8706
+      },
+      "heroImage": "assets/images/states/punjab/durgiana-temple.webp"
+    },
+    {
+      "name": "Gobindgarh Fort",
+      "city": "Amritsar",
+      "category": "heritage",
+      "distance": "In Amritsar",
+      "rating": 4.7,
+      "description": "A historic military fort that was the very symbol of Punjab's power under Maharaja Ranjit Singh. It has recently been opened to the public as a massive heritage theme park.",
+      "history": "Built by the Bhangi Misl in the 18th century, it was conquered and upgraded by Maharaja Ranjit Singh to protect the Golden Temple from invaders.",
+      "famousFor": "Laser shows, military history, Toshakhana (royal treasury).",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 10:00 PM",
+      "entryFee": "₹150",
+      "slug": "gobindgarh-fort",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "1.6 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "1.8 km away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "1.7 km away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "5.9 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "4.2 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wagah-Attari Border",
+          "city": "Attari",
+          "distance": "27.7 km away",
+          "category": "heritage",
+          "slug": "wagah-border",
+          "state": "Punjab",
+          "id": "wagah-border",
+          "images": {
+            "main": "assets/images/states/punjab/wagah-border.webp"
+          },
+          "image": "assets/images/states/punjab/wagah-border.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "gobindgarh-fort",
+      "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6283,
+        "lon": 74.8633
+      },
+      "heroImage": "assets/images/states/punjab/gobindgarh-fort.webp"
+    },
+    {
+      "name": "Phillaur Fort",
+      "city": "Phillaur",
+      "category": "heritage",
+      "distance": "14 km from Ludhiana",
+      "rating": 4.5,
+      "description": "Originally a Mughal sarai (inn), it was converted into a massive military fort by Maharaja Ranjit Singh to act as the frontier post against the British.",
+      "history": "It later served as a major artillery magazine for the British army. Today, it houses the Maharaja Ranjit Singh Punjab Police Academy.",
+      "famousFor": "Police Academy, historic architecture, museum.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Requires permission)",
+      "entryFee": "Free",
+      "slug": "phillaur-fort",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/phillaur-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "13.5 km away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "14.7 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "13.4 km away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "phillaur-fort",
+      "image": "assets/images/states/punjab/phillaur-fort.webp",
+      "district": "Jalandhar",
+      "coordinates": {
+        "lat": 31.0167,
+        "lon": 75.7833
+      },
+      "heroImage": "assets/images/states/punjab/phillaur-fort.webp"
+    },
+    {
+      "name": "Kali Mata Temple",
+      "city": "Patiala",
+      "category": "temples",
+      "distance": "Center of Patiala",
+      "rating": 4.6,
+      "description": "A highly revered Hindu temple dedicated to Goddess Kali, heavily visited during Navratri. The massive six-foot idol was brought all the way from Bengal.",
+      "history": "Built by Maharaja Bhupinder Singh of Patiala in 1936 to serve the religious needs of his Hindu subjects.",
+      "famousFor": "Grand idol, religious fervor.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "kali-mata-temple",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/kali-mata-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sheesh Mahal",
+          "city": "Patiala",
+          "distance": "1.9 km away",
+          "category": "heritage",
+          "slug": "sheesh-mahal",
+          "state": "Punjab",
+          "id": "sheesh-mahal",
+          "images": {
+            "main": "assets/images/states/punjab/sheesh-mahal.webp"
+          },
+          "image": "assets/images/states/punjab/sheesh-mahal.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Qila Mubarak Patiala",
+          "city": "Patiala",
+          "distance": "1.3 km away",
+          "category": "heritage",
+          "slug": "qila-mubarak-patiala",
+          "state": "Punjab",
+          "id": "qila-mubarak-patiala",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak-patiala.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Palace",
+          "city": "Patiala",
+          "distance": "2.7 km away",
+          "category": "heritage",
+          "slug": "moti-bagh-palace",
+          "state": "Punjab",
+          "id": "moti-bagh-palace",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-palace.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Wildlife Sanctuary",
+          "city": "Patiala",
+          "distance": "3.3 km away",
+          "category": "wildlife",
+          "slug": "moti-bagh-sanctuary",
+          "state": "Punjab",
+          "id": "moti-bagh-sanctuary",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-sanctuary.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-sanctuary.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Dukh Nivaran Sahib",
+          "city": "Patiala",
+          "distance": "900 m away",
+          "category": "temples",
+          "slug": "dukh-nivaran-sahib",
+          "state": "Punjab",
+          "id": "dukh-nivaran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/dukh-nivaran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "kali-mata-temple",
+      "image": "assets/images/states/punjab/kali-mata-temple.webp",
+      "district": "Patiala",
+      "coordinates": {
+        "lat": 30.3267,
+        "lon": 76.4033
+      },
+      "heroImage": "assets/images/states/punjab/kali-mata-temple.webp"
+    },
+    {
+      "name": "Maharaja Ranjit Singh Museum",
+      "city": "Amritsar",
+      "category": "heritage",
+      "distance": "In Amritsar",
+      "rating": 4.5,
+      "description": "Originally the summer palace of Maharaja Ranjit Singh (the 'Lion of Punjab'), it is now a fascinating museum surrounded by the beautiful Ram Bagh gardens.",
+      "history": "It houses an incredible collection of armor, weapons, paintings, and century-old coins from the Sikh Empire.",
+      "famousFor": "Sikh Empire artifacts, Ram Bagh gardens.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹40",
+      "slug": "ranjit-singh-museum",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "800 m away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "300 m away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "4.7 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "ranjit-singh-museum",
+      "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.6258,
+        "lon": 74.8722
+      },
+      "heroImage": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+    },
+    {
+      "name": "Devi Talab Mandir",
+      "city": "Jalandhar",
+      "category": "temples",
+      "distance": "Center of Jalandhar",
+      "rating": 4.7,
+      "description": "A deeply revered, 200-year-old Hindu temple situated in the heart of Jalandhar. Known for its massive sacred tank and an annual Indian classical music festival (Harivallabh Sangeet Sammelan) that dates back 140 years.",
+      "history": "Believed to be one of the 51 Shakti Peethas. The temple was recently renovated but its historical and religious significance remains untouched.",
+      "famousFor": "Sacred tank, Harivallabh Sangeet Sammelan.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "devi-talab-mandir",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/devi-talab-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jang-e-Azadi Memorial",
+          "city": "Jalandhar",
+          "distance": "4.1 km away",
+          "category": "heritage",
+          "slug": "jang-e-azadi-memorial",
+          "state": "Punjab",
+          "id": "jang-e-azadi-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jang-e-azadi-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jang-e-azadi-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wonderland Theme Park",
+          "city": "Jalandhar",
+          "distance": "700 m away",
+          "category": "entertainment",
+          "slug": "wonderland-jalandhar",
+          "state": "Punjab",
+          "id": "wonderland-jalandhar",
+          "images": {
+            "main": "assets/images/states/punjab/wonderland-jalandhar.webp"
+          },
+          "image": "assets/images/states/punjab/wonderland-jalandhar.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "4.9 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "devi-talab-mandir",
+      "image": "assets/images/states/punjab/devi-talab-mandir.webp",
+      "district": "Jalandhar",
+      "coordinates": {
+        "lat": 31.3267,
+        "lon": 75.5767
+      },
+      "heroImage": "assets/images/states/punjab/devi-talab-mandir.webp"
+    },
+    {
+      "name": "Jang-e-Azadi Memorial",
+      "city": "Jalandhar",
+      "category": "heritage",
+      "distance": "15 km from Jalandhar",
+      "rating": 4.8,
+      "description": "A magnificent, sprawling memorial and museum built to commemorate the contributions and sacrifices made by the Punjabi community in the Indian Independence movement.",
+      "history": "Opened in 2018, it features incredible architecture, laser shows, 3D movies, and deeply moving exhibits detailing the freedom struggle.",
+      "famousFor": "Modern architecture, historical exhibits, laser show.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 6:00 PM (Closed Mondays)",
+      "entryFee": "₹50",
+      "slug": "jang-e-azadi-memorial",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/jang-e-azadi-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Devi Talab Mandir",
+          "city": "Jalandhar",
+          "distance": "4.1 km away",
+          "category": "temples",
+          "slug": "devi-talab-mandir",
+          "state": "Punjab",
+          "id": "devi-talab-mandir",
+          "images": {
+            "main": "assets/images/states/punjab/devi-talab-mandir.webp"
+          },
+          "image": "assets/images/states/punjab/devi-talab-mandir.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wonderland Theme Park",
+          "city": "Jalandhar",
+          "distance": "4.7 km away",
+          "category": "entertainment",
+          "slug": "wonderland-jalandhar",
+          "state": "Punjab",
+          "id": "wonderland-jalandhar",
+          "images": {
+            "main": "assets/images/states/punjab/wonderland-jalandhar.webp"
+          },
+          "image": "assets/images/states/punjab/wonderland-jalandhar.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "8.5 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "jang-e-azadi-memorial",
+      "image": "assets/images/states/punjab/jang-e-azadi-memorial.webp",
+      "district": "Jalandhar",
+      "coordinates": {
+        "lat": 31.2917,
+        "lon": 75.5917
+      },
+      "heroImage": "assets/images/states/punjab/jang-e-azadi-memorial.webp"
+    },
+    {
+      "name": "Chhatbir Zoo (M.C. Zoological Park)",
+      "city": "Zirakpur",
+      "category": "wildlife",
+      "distance": "17 km from Chandigarh",
+      "rating": 4.5,
+      "description": "One of the largest zoological parks in North India, spanning over 200 hectares of rich ecological habitat. It houses over 1,200 animals and birds, including the Royal Bengal Tiger.",
+      "history": "Inaugurated in 1977 by the then Governor of Punjab, it was constructed to provide a natural habitat for wildlife conservation.",
+      "famousFor": "Lion Safari, Royal Bengal Tigers, Bird Aviary.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹60",
+      "slug": "chhatbir-zoo",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/chhatbir-zoo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baba Banda Singh Bahadur War Memorial",
+          "city": "Chappar Chiri",
+          "distance": "18.3 km away",
+          "category": "heritage",
+          "slug": "baba-banda-singh-bahadur-memorial",
+          "state": "Punjab",
+          "id": "baba-banda-singh-bahadur-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/baba-banda-singh-bahadur-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/baba-banda-singh-bahadur-memorial.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "chhatbir-zoo",
+      "image": "assets/images/states/punjab/chhatbir-zoo.webp",
+      "district": "SAS Nagar",
+      "coordinates": {
+        "lat": 30.5417,
+        "lon": 76.7417
+      },
+      "heroImage": "assets/images/states/punjab/chhatbir-zoo.webp"
+    },
+    {
+      "name": "Baba Banda Singh Bahadur War Memorial",
+      "city": "Chappar Chiri",
+      "category": "heritage",
+      "distance": "15 km from Chandigarh",
+      "rating": 4.7,
+      "description": "A grand memorial celebrating the bravery of Sikh warrior Baba Banda Singh Bahadur, who defeated Wazir Khan in the Battle of Chappar Chiri. It features the towering Fateh Burj (Victory Tower).",
+      "history": "The Fateh Burj stands at 328 feet, making it the tallest victory tower in India, surpassing the Qutub Minar.",
+      "famousFor": "Tallest victory tower in India, historical statues.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "baba-banda-singh-bahadur-memorial",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/baba-banda-singh-bahadur-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chhatbir Zoo (M.C. Zoological Park)",
+          "city": "Zirakpur",
+          "distance": "18.3 km away",
+          "category": "wildlife",
+          "slug": "chhatbir-zoo",
+          "state": "Punjab",
+          "id": "chhatbir-zoo",
+          "images": {
+            "main": "assets/images/states/punjab/chhatbir-zoo.webp"
+          },
+          "image": "assets/images/states/punjab/chhatbir-zoo.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "baba-banda-singh-bahadur-memorial",
+      "image": "assets/images/states/punjab/baba-banda-singh-bahadur-memorial.webp",
+      "district": "SAS Nagar",
+      "coordinates": {
+        "lat": 30.705,
+        "lon": 76.72
+      },
+      "heroImage": "assets/images/states/punjab/baba-banda-singh-bahadur-memorial.webp"
+    },
+    {
+      "name": "Ranjit Sagar Dam",
+      "city": "Pathankot",
+      "category": "nature",
+      "distance": "30 km from Pathankot",
+      "rating": 4.6,
+      "description": "A massive hydroelectric project built on the Ravi River, forming an enormous, serene lake surrounded by the stunning Shivalik hills. A perfect spot for nature lovers and picnics.",
+      "history": "Also known as the Thein Dam, it is the highest earth-filled dam in India, completed in 2001.",
+      "famousFor": "Scenic lake, boating, hydroelectric project.",
+      "bestTime": "September to April",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "ranjit-sagar-dam",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/ranjit-sagar-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shahpur Kandi Fort",
+          "city": "Shahpur Kandi",
+          "distance": "5.6 km away",
+          "category": "heritage",
+          "slug": "shahpur-kandi-fort",
+          "state": "Punjab",
+          "id": "shahpur-kandi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/shahpur-kandi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/shahpur-kandi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Mukteshwar Mahadev Temple",
+          "city": "Pathankot",
+          "distance": "19.3 km away",
+          "category": "temples",
+          "slug": "mukteshwar-mahadev-temple",
+          "state": "Punjab",
+          "id": "mukteshwar-mahadev-temple",
+          "images": {
+            "main": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "ranjit-sagar-dam",
+      "image": "assets/images/states/punjab/ranjit-sagar-dam.webp",
+      "district": "Pathankot",
+      "coordinates": {
+        "lat": 32.4333,
+        "lon": 75.7333
+      },
+      "heroImage": "assets/images/states/punjab/ranjit-sagar-dam.webp"
+    },
+    {
+      "name": "Bhagwan Valmiki Tirath Asthan",
+      "city": "Amritsar",
+      "category": "temples",
+      "distance": "11 km from Amritsar",
+      "rating": 4.8,
+      "description": "A majestic temple complex recognized as the ashram of Sage Valmiki and the birthplace of Lord Rama's sons, Luv and Kush. It features an incredible 8-foot-tall, 800-kg gold-plated idol of Valmiki.",
+      "history": "The site holds massive significance in Hindu mythology as the place where the epic Ramayana was written.",
+      "famousFor": "Gold-plated Valmiki idol, Luv-Kush birthplace.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "ram-tirth-temple",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "5.7 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "5.8 km away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "5.7 km away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "5.9 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sadda Pind",
+          "city": "Amritsar",
+          "distance": "9.6 km away",
+          "category": "entertainment",
+          "slug": "sadda-pind",
+          "state": "Punjab",
+          "id": "sadda-pind",
+          "images": {
+            "main": "assets/images/states/punjab/sadda-pind.webp"
+          },
+          "image": "assets/images/states/punjab/sadda-pind.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Sri Tarn Taran Sahib",
+          "city": "Tarn Taran",
+          "distance": "16.5 km away",
+          "category": "temples",
+          "slug": "tarn-taran-sahib",
+          "state": "Punjab",
+          "id": "tarn-taran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "ram-tirth-temple",
+      "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.58,
+        "lon": 74.8383
+      },
+      "heroImage": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+    },
+    {
+      "name": "Mukteshwar Mahadev Temple",
+      "city": "Pathankot",
+      "category": "temples",
+      "distance": "22 km from Pathankot",
+      "rating": 4.6,
+      "description": "Ancient, rock-cut cave temples dedicated to Lord Shiva, located on the picturesque banks of the Ravi River. According to legend, these caves were carved by the Pandavas during their exile.",
+      "history": "Said to be 5,500 years old, dating back to the Mahabharata era.",
+      "famousFor": "Rock-cut caves, Ravi river views, Pandava history.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "mukteshwar-mahadev-temple",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranjit Sagar Dam",
+          "city": "Pathankot",
+          "distance": "19.3 km away",
+          "category": "nature",
+          "slug": "ranjit-sagar-dam",
+          "state": "Punjab",
+          "id": "ranjit-sagar-dam",
+          "images": {
+            "main": "assets/images/states/punjab/ranjit-sagar-dam.webp"
+          },
+          "image": "assets/images/states/punjab/ranjit-sagar-dam.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shahpur Kandi Fort",
+          "city": "Shahpur Kandi",
+          "distance": "14.4 km away",
+          "category": "heritage",
+          "slug": "shahpur-kandi-fort",
+          "state": "Punjab",
+          "id": "shahpur-kandi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/shahpur-kandi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/shahpur-kandi-fort.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "mukteshwar-mahadev-temple",
+      "image": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp",
+      "district": "Pathankot",
+      "coordinates": {
+        "lat": 32.275,
+        "lon": 75.65
+      },
+      "heroImage": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp"
+    },
+    {
+      "name": "Sanghol Museum (Ucha Pind)",
+      "city": "Sanghol",
+      "category": "heritage",
+      "distance": "40 km from Chandigarh",
+      "rating": 4.4,
+      "description": "An incredibly important archaeological site that houses relics from the Harappan civilization, Buddhism, and the Kushan period. It reveals Punjab's deep ancient history.",
+      "history": "Excavations in 1968 uncovered a massive Buddhist stupa and a cache of 117 carved stone pillars dating back to the 1st century AD.",
+      "famousFor": "Harappan artifacts, Kushan pillars, Buddhist Stupa.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹10",
+      "slug": "sanghol-museum",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/sanghol-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gurudwara Fatehgarh Sahib",
+          "city": "Sirhind",
+          "distance": "15.8 km away",
+          "category": "heritage",
+          "slug": "fatehgarh-sahib",
+          "state": "Punjab",
+          "id": "fatehgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/fatehgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/fatehgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Aam Khas Bagh",
+          "city": "Sirhind",
+          "distance": "16.8 km away",
+          "category": "heritage",
+          "slug": "aam-khas-bagh",
+          "state": "Punjab",
+          "id": "aam-khas-bagh",
+          "images": {
+            "main": "assets/images/states/punjab/aam-khas-bagh.webp"
+          },
+          "image": "assets/images/states/punjab/aam-khas-bagh.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Manji Sahib",
+          "city": "Alamgir",
+          "distance": "12.9 km away",
+          "category": "temples",
+          "slug": "manji-sahib-alamgir",
+          "state": "Punjab",
+          "id": "manji-sahib-alamgir",
+          "images": {
+            "main": "assets/images/states/punjab/manji-sahib-alamgir.webp"
+          },
+          "image": "assets/images/states/punjab/manji-sahib-alamgir.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "sanghol-museum",
+      "image": "assets/images/states/punjab/sanghol-museum.webp",
+      "district": "Fatehgarh Sahib",
+      "coordinates": {
+        "lat": 30.7833,
+        "lon": 76.4
+      },
+      "heroImage": "assets/images/states/punjab/sanghol-museum.webp"
+    },
+    {
+      "name": "Maharaja Ranjit Singh War Museum",
+      "city": "Ludhiana",
+      "category": "heritage",
+      "distance": "On GT Road, Ludhiana",
+      "rating": 4.5,
+      "description": "A vast museum dedicated to the brave soldiers of Punjab. It features galleries on ancient, medieval, and modern Indian wars, complete with real tanks, aircraft, and anti-aircraft guns.",
+      "history": "Established in 1999, it beautifully documents the martial history of Punjab and its immense contribution to India's armed forces.",
+      "famousFor": "Fighter jets, tanks, military history.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹40",
+      "slug": "maharaja-ranjit-singh-war-museum",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "1.2 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Rakh Bagh Park",
+          "city": "Ludhiana",
+          "distance": "200 m away",
+          "category": "nature",
+          "slug": "rakh-bagh-park",
+          "state": "Punjab",
+          "id": "rakh-bagh-park",
+          "images": {
+            "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+          },
+          "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "500 m away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Hardy's World",
+          "city": "Ludhiana",
+          "distance": "8.6 km away",
+          "category": "entertainment",
+          "slug": "hardys-world",
+          "state": "Punjab",
+          "id": "hardys-world",
+          "images": {
+            "main": "assets/images/states/punjab/hardys-world.webp"
+          },
+          "image": "assets/images/states/punjab/hardys-world.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kila Raipur Sports Festival",
+          "city": "Kila Raipur",
+          "distance": "8.6 km away",
+          "category": "entertainment",
+          "slug": "kila-raipur",
+          "state": "Punjab",
+          "id": "kila-raipur",
+          "images": {
+            "main": "assets/images/states/punjab/kila-raipur.webp"
+          },
+          "image": "assets/images/states/punjab/kila-raipur.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Phillaur Fort",
+          "city": "Phillaur",
+          "distance": "13.5 km away",
+          "category": "heritage",
+          "slug": "phillaur-fort",
+          "state": "Punjab",
+          "id": "phillaur-fort",
+          "images": {
+            "main": "assets/images/states/punjab/phillaur-fort.webp"
+          },
+          "image": "assets/images/states/punjab/phillaur-fort.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "maharaja-ranjit-singh-war-museum",
+      "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.91,
+        "lon": 75.8517
+      },
+      "heroImage": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+    },
+    {
+      "name": "Hussainiwala National Martyrs Memorial",
+      "city": "Hussainiwala",
+      "category": "heritage",
+      "distance": "11 km from Firozpur",
+      "rating": 4.8,
+      "description": "A deeply patriotic and solemn memorial marking the site where the great Indian freedom fighters Bhagat Singh, Rajguru, and Sukhdev were secretly cremated by British forces in 1931.",
+      "history": "It stands on the banks of the Sutlej River, near the Indo-Pak border. An eternal flame burns here in honor of the martyrs.",
+      "famousFor": "Martyrs' Memorial, Eternal Flame, patriotism.",
+      "bestTime": "March (Martyrs' Day) or Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hussainiwala-memorial",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/hussainiwala-national-martyrs-memorial.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "hussainiwala-memorial",
+      "image": "assets/images/states/punjab/hussainiwala-national-martyrs-memorial.webp",
+      "district": "Ferozepur",
+      "coordinates": {
+        "lat": 30.9408,
+        "lon": 74.0625
+      },
+      "heroImage": "assets/images/states/punjab/hussainiwala-national-martyrs-memorial.webp"
+    },
+    {
+      "name": "Anglo-Sikh War Memorial",
+      "city": "Ferozeshah",
+      "category": "heritage",
+      "distance": "In Firozpur",
+      "rating": 4.5,
+      "description": "A museum designed by the renowned architect P.S. Pierre Jeanneret. It houses incredible paintings, weapons, and artifacts honoring the soldiers who fought in the Anglo-Sikh wars.",
+      "history": "Built in 1976 near the banks of the Ferozeshah canal, marking the battlegrounds where Sikh armies fiercely fought the British East India Company.",
+      "famousFor": "War paintings, historical weapons, architecture.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹10",
+      "slug": "anglo-sikh-war-memorial",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/anglo-sikh-war-memorial.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "anglo-sikh-war-memorial",
+      "image": "assets/images/states/punjab/anglo-sikh-war-memorial.webp",
+      "district": "Ferozepur",
+      "coordinates": {
+        "lat": 30.9083,
+        "lon": 74.5917
+      },
+      "heroImage": "assets/images/states/punjab/anglo-sikh-war-memorial.webp"
+    },
+    {
+      "name": "Sadda Pind",
+      "city": "Amritsar",
+      "category": "entertainment",
+      "distance": "8 km from Golden Temple",
+      "rating": 4.6,
+      "description": "A brilliantly designed Punjabi Village resort and living museum that offers a completely immersive experience of traditional Punjabi culture, food, music, and vibrant village life.",
+      "history": "Created to preserve and showcase the authentic flavor of rural Punjab, allowing tourists to experience pottery, weaving, and traditional bhangra.",
+      "famousFor": "Punjabi culture, traditional food, folk dances.",
+      "bestTime": "Evening (4:00 PM – 10:00 PM)",
+      "timings": "11:00 AM – 10:30 PM",
+      "entryFee": "₹750 (Includes Food)",
+      "slug": "sadda-pind",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/sadda-pind.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "5.4 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "city": "Amritsar",
+          "distance": "5.5 km away",
+          "category": "heritage",
+          "slug": "jallianwala-bagh-memorial",
+          "state": "Punjab",
+          "id": "jallianwala-bagh-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jallianwala-bagh-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jallianwala-bagh-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "The Partition Museum",
+          "city": "Amritsar",
+          "distance": "5.5 km away",
+          "category": "heritage",
+          "slug": "partition-museum",
+          "state": "Punjab",
+          "id": "partition-museum",
+          "images": {
+            "main": "assets/images/states/punjab/partition-museum.webp"
+          },
+          "image": "assets/images/states/punjab/partition-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "4.9 km away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gobindgarh Fort",
+          "city": "Amritsar",
+          "distance": "4.2 km away",
+          "category": "heritage",
+          "slug": "gobindgarh-fort",
+          "state": "Punjab",
+          "id": "gobindgarh-fort",
+          "images": {
+            "main": "assets/images/states/punjab/gobindgarh-fort.webp"
+          },
+          "image": "assets/images/states/punjab/gobindgarh-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Maharaja Ranjit Singh Museum",
+          "city": "Amritsar",
+          "distance": "4.7 km away",
+          "category": "heritage",
+          "slug": "ranjit-singh-museum",
+          "state": "Punjab",
+          "id": "ranjit-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "9.6 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "sadda-pind",
+      "image": "assets/images/states/punjab/sadda-pind.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.665,
+        "lon": 74.855
+      },
+      "heroImage": "assets/images/states/punjab/sadda-pind.webp"
+    },
+    {
+      "name": "Gurudwara Sri Tarn Taran Sahib",
+      "city": "Tarn Taran",
+      "category": "temples",
+      "distance": "22 km from Amritsar",
+      "rating": 4.9,
+      "description": "An incredibly majestic Gurudwara established by the fifth Sikh Guru, Guru Arjan Dev. It features the largest 'Sarovar' (holy water tank) among all Sikh shrines.",
+      "history": "Built in the 1590s. The dome is plated in gold, much of which was donated by Maharaja Ranjit Singh.",
+      "famousFor": "Largest Sarovar, stunning gold architecture.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tarn-taran-sahib",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "19.2 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Durgiana Temple",
+          "city": "Amritsar",
+          "distance": "19.7 km away",
+          "category": "temples",
+          "slug": "durgiana-temple",
+          "state": "Punjab",
+          "id": "durgiana-temple",
+          "images": {
+            "main": "assets/images/states/punjab/durgiana-temple.webp"
+          },
+          "image": "assets/images/states/punjab/durgiana-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bhagwan Valmiki Tirath Asthan",
+          "city": "Amritsar",
+          "distance": "16.5 km away",
+          "category": "temples",
+          "slug": "ram-tirth-temple",
+          "state": "Punjab",
+          "id": "ram-tirth-temple",
+          "images": {
+            "main": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp"
+          },
+          "image": "assets/images/states/punjab/bhagwan-valmiki-tirath-asthan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Harike Wetland",
+          "city": "Harike",
+          "distance": "33.9 km away",
+          "category": "wildlife",
+          "slug": "harike-wetland",
+          "state": "Punjab",
+          "id": "harike-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/harike-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/harike-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sarai Amanat Khan",
+          "city": "Sarai Amanat Khan",
+          "distance": "18.3 km away",
+          "category": "heritage",
+          "slug": "sarai-amanat-khan",
+          "state": "Punjab",
+          "id": "sarai-amanat-khan",
+          "images": {
+            "main": "assets/images/states/punjab/sarai-amanat-khan.webp"
+          },
+          "image": "assets/images/states/punjab/sarai-amanat-khan.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "tarn-taran-sahib",
+      "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+      "district": "Tarn Taran",
+      "coordinates": {
+        "lat": 31.4528,
+        "lon": 74.9278
+      },
+      "heroImage": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+    },
+    {
+      "name": "Takht Sri Damdama Sahib",
+      "city": "Talwandi Sabo",
+      "category": "temples",
+      "distance": "28 km from Bathinda",
+      "rating": 4.9,
+      "description": "One of the Five Takhts (seats of temporal authority) of Sikhism. It is a place of immense spiritual and historical importance where Guru Gobind Singh finalized the compilation of the Guru Granth Sahib.",
+      "history": "In 1705, Guru Gobind Singh rested here (took a 'dam' or breath) after fighting battles against the Mughals.",
+      "famousFor": "One of the Five Takhts, Baisakhi festival.",
+      "bestTime": "April (During Baisakhi) or Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "damdama-sahib",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/damdama-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Qila Mubarak",
+          "city": "Bathinda",
+          "distance": "18.2 km away",
+          "category": "heritage",
+          "slug": "qila-mubarak",
+          "state": "Punjab",
+          "id": "qila-mubarak",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Bathinda Lake",
+          "city": "Bathinda",
+          "distance": "17.7 km away",
+          "category": "nature",
+          "slug": "bathinda-lake",
+          "state": "Punjab",
+          "id": "bathinda-lake",
+          "images": {
+            "main": "assets/images/states/punjab/bathinda-lake.webp"
+          },
+          "image": "assets/images/states/punjab/bathinda-lake.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "damdama-sahib",
+      "image": "assets/images/states/punjab/damdama-sahib.webp",
+      "district": "Bathinda",
+      "coordinates": {
+        "lat": 30.1167,
+        "lon": 75.1
+      },
+      "heroImage": "assets/images/states/punjab/damdama-sahib.webp"
+    },
+    {
+      "name": "Gurudwara Dukh Nivaran Sahib",
+      "city": "Patiala",
+      "category": "temples",
+      "distance": "In Patiala",
+      "rating": 4.8,
+      "description": "A highly revered Gurudwara translating to the 'Eradicator of Suffering'. It is believed that the water in its Sarovar possesses miraculous healing properties.",
+      "history": "Commemorates the visit of the ninth Sikh Guru, Guru Tegh Bahadur, who blessed the village and cured it of a deadly disease.",
+      "famousFor": "Healing Sarovar, peace, Basant Panchami festival.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dukh-nivaran-sahib",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sheesh Mahal",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "sheesh-mahal",
+          "state": "Punjab",
+          "id": "sheesh-mahal",
+          "images": {
+            "main": "assets/images/states/punjab/sheesh-mahal.webp"
+          },
+          "image": "assets/images/states/punjab/sheesh-mahal.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Qila Mubarak Patiala",
+          "city": "Patiala",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "qila-mubarak-patiala",
+          "state": "Punjab",
+          "id": "qila-mubarak-patiala",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak-patiala.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Palace",
+          "city": "Patiala",
+          "distance": "1.9 km away",
+          "category": "heritage",
+          "slug": "moti-bagh-palace",
+          "state": "Punjab",
+          "id": "moti-bagh-palace",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-palace.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Wildlife Sanctuary",
+          "city": "Patiala",
+          "distance": "2.5 km away",
+          "category": "wildlife",
+          "slug": "moti-bagh-sanctuary",
+          "state": "Punjab",
+          "id": "moti-bagh-sanctuary",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-sanctuary.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-sanctuary.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kali Mata Temple",
+          "city": "Patiala",
+          "distance": "900 m away",
+          "category": "temples",
+          "slug": "kali-mata-temple",
+          "state": "Punjab",
+          "id": "kali-mata-temple",
+          "images": {
+            "main": "assets/images/states/punjab/kali-mata-temple.webp"
+          },
+          "image": "assets/images/states/punjab/kali-mata-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "dukh-nivaran-sahib",
+      "image": "assets/images/states/punjab/dukh-nivaran-sahib.webp",
+      "district": "Patiala",
+      "coordinates": {
+        "lat": 30.33,
+        "lon": 76.395
+      },
+      "heroImage": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+    },
+    {
+      "name": "Sarai Amanat Khan",
+      "city": "Sarai Amanat Khan",
+      "category": "heritage",
+      "distance": "38 km from Amritsar",
+      "rating": 4.4,
+      "description": "A spectacular, though ruined, Mughal-era caravanserai boasting intricate glazed tile work and Persian calligraphy on its grand gateways.",
+      "history": "Built by Amanat Khan, the famous Persian calligrapher who designed the exquisite calligraphy on the Taj Mahal. He settled and was later buried here.",
+      "famousFor": "Mughal architecture, glazed tiles, Amanat Khan's tomb.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "sarai-amanat-khan",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/sarai-amanat-khan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "18.2 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pul Kanjari",
+          "city": "Amritsar",
+          "distance": "11.6 km away",
+          "category": "heritage",
+          "slug": "pul-kanjari",
+          "state": "Punjab",
+          "id": "pul-kanjari",
+          "images": {
+            "main": "assets/images/states/punjab/pul-kanjari.webp"
+          },
+          "image": "assets/images/states/punjab/pul-kanjari.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wagah-Attari Border",
+          "city": "Attari",
+          "distance": "19.9 km away",
+          "category": "heritage",
+          "slug": "wagah-border",
+          "state": "Punjab",
+          "id": "wagah-border",
+          "images": {
+            "main": "assets/images/states/punjab/wagah-border.webp"
+          },
+          "image": "assets/images/states/punjab/wagah-border.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Sri Tarn Taran Sahib",
+          "city": "Tarn Taran",
+          "distance": "18.3 km away",
+          "category": "temples",
+          "slug": "tarn-taran-sahib",
+          "state": "Punjab",
+          "id": "tarn-taran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-sri-tarn-taran-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "sarai-amanat-khan",
+      "image": "assets/images/states/punjab/sarai-amanat-khan.webp",
+      "district": "Tarn Taran",
+      "coordinates": {
+        "lat": 31.502,
+        "lon": 74.744
+      },
+      "heroImage": "assets/images/states/punjab/sarai-amanat-khan.webp"
+    },
+    {
+      "name": "Nehru Rose Garden",
+      "city": "Ludhiana",
+      "category": "nature",
+      "distance": "In Ludhiana",
+      "rating": 4.6,
+      "description": "One of the largest rose gardens in Asia, spanning 27 acres and featuring over 1,600 varieties of roses. It is a stunning, fragrant sanctuary in the middle of a bustling industrial city.",
+      "history": "Established in 1967, it features beautifully manicured lawns, musical fountains, and hosts a massive annual Rose Festival.",
+      "famousFor": "1600 rose varieties, musical fountain, walking tracks.",
+      "bestTime": "February to March (Peak bloom)",
+      "timings": "5:30 AM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "nehru-rose-garden",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "1.2 km away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Rakh Bagh Park",
+          "city": "Ludhiana",
+          "distance": "1.3 km away",
+          "category": "nature",
+          "slug": "rakh-bagh-park",
+          "state": "Punjab",
+          "id": "rakh-bagh-park",
+          "images": {
+            "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+          },
+          "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Hardy's World",
+          "city": "Ludhiana",
+          "distance": "7.4 km away",
+          "category": "entertainment",
+          "slug": "hardys-world",
+          "state": "Punjab",
+          "id": "hardys-world",
+          "images": {
+            "main": "assets/images/states/punjab/hardys-world.webp"
+          },
+          "image": "assets/images/states/punjab/hardys-world.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kila Raipur Sports Festival",
+          "city": "Kila Raipur",
+          "distance": "7.5 km away",
+          "category": "entertainment",
+          "slug": "kila-raipur",
+          "state": "Punjab",
+          "id": "kila-raipur",
+          "images": {
+            "main": "assets/images/states/punjab/kila-raipur.webp"
+          },
+          "image": "assets/images/states/punjab/kila-raipur.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Phillaur Fort",
+          "city": "Phillaur",
+          "distance": "14.7 km away",
+          "category": "heritage",
+          "slug": "phillaur-fort",
+          "state": "Punjab",
+          "id": "phillaur-fort",
+          "images": {
+            "main": "assets/images/states/punjab/phillaur-fort.webp"
+          },
+          "image": "assets/images/states/punjab/phillaur-fort.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "nehru-rose-garden",
+      "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.9,
+        "lon": 75.8567
+      },
+      "heroImage": "assets/images/states/punjab/nehru-rose-garden.webp"
+    },
+    {
+      "name": "Gurudwara Ber Sahib",
+      "city": "Sultanpur Lodhi",
+      "category": "temples",
+      "distance": "35 km from Kapurthala",
+      "rating": 4.9,
+      "description": "A profoundly spiritual site situated on the banks of the Kali Bein river. Guru Nanak Dev, the founder of Sikhism, spent 14 years of his life here and attained enlightenment.",
+      "history": "The Gurudwara marks the spot where Guru Nanak planted a Ber (jujube) tree, which is still incredibly alive and green today.",
+      "famousFor": "Guru Nanak's enlightenment, the 500-year-old Ber tree.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ber-sahib",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jagatjit Palace",
+          "city": "Kapurthala",
+          "distance": "25 km away",
+          "category": "heritage",
+          "slug": "jagatjit-palace",
+          "state": "Punjab",
+          "id": "jagatjit-palace",
+          "images": {
+            "main": "assets/images/states/punjab/jagatjit-palace.webp"
+          },
+          "image": "assets/images/states/punjab/jagatjit-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moorish Mosque",
+          "city": "Kapurthala",
+          "distance": "25.2 km away",
+          "category": "heritage",
+          "slug": "moorish-mosque",
+          "state": "Punjab",
+          "id": "moorish-mosque",
+          "images": {
+            "main": "assets/images/states/punjab/moorish-mosque.webp"
+          },
+          "image": "assets/images/states/punjab/moorish-mosque.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shalimar Botanical Garden",
+          "city": "Kapurthala",
+          "distance": "24.6 km away",
+          "category": "nature",
+          "slug": "shalimar-garden",
+          "state": "Punjab",
+          "id": "shalimar-garden",
+          "images": {
+            "main": "assets/images/states/punjab/shalimar-garden.webp"
+          },
+          "image": "assets/images/states/punjab/shalimar-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kanjli Wetland",
+          "city": "Kapurthala",
+          "distance": "23.2 km away",
+          "category": "wildlife",
+          "slug": "kanjli-wetland",
+          "state": "Punjab",
+          "id": "kanjli-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/kanjli-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/kanjli-wetland.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "ber-sahib",
+      "image": "assets/images/states/punjab/gurudwara-ber-sahib.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.2233,
+        "lon": 75.1917
+      },
+      "heroImage": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+    },
+    {
+      "name": "Gurudwara Manji Sahib",
+      "city": "Alamgir",
+      "category": "temples",
+      "distance": "11 km from Ludhiana",
+      "rating": 4.7,
+      "description": "A historic Gurudwara commemorating the visit of the tenth Sikh Guru, Guru Gobind Singh. It features a sacred tank, famously believed to have been created by the Guru shooting an arrow into the dry ground.",
+      "history": "Guru Gobind Singh stayed here for three days while retreating from Machhiwara.",
+      "famousFor": "Arrow-struck water source (Tirsar), grand architecture.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "manji-sahib-alamgir",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/manji-sahib-alamgir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gurudwara Fatehgarh Sahib",
+          "city": "Sirhind",
+          "distance": "18.3 km away",
+          "category": "heritage",
+          "slug": "fatehgarh-sahib",
+          "state": "Punjab",
+          "id": "fatehgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/fatehgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/fatehgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Aam Khas Bagh",
+          "city": "Sirhind",
+          "distance": "18.6 km away",
+          "category": "heritage",
+          "slug": "aam-khas-bagh",
+          "state": "Punjab",
+          "id": "aam-khas-bagh",
+          "images": {
+            "main": "assets/images/states/punjab/aam-khas-bagh.webp"
+          },
+          "image": "assets/images/states/punjab/aam-khas-bagh.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sanghol Museum (Ucha Pind)",
+          "city": "Sanghol",
+          "distance": "12.9 km away",
+          "category": "heritage",
+          "slug": "sanghol-museum",
+          "state": "Punjab",
+          "id": "sanghol-museum",
+          "images": {
+            "main": "assets/images/states/punjab/sanghol-museum.webp"
+          },
+          "image": "assets/images/states/punjab/sanghol-museum.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "manji-sahib-alamgir",
+      "image": "assets/images/states/punjab/manji-sahib-alamgir.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.7667,
+        "lon": 76.2667
+      },
+      "heroImage": "assets/images/states/punjab/manji-sahib-alamgir.webp"
+    },
+    {
+      "name": "Shalimar Botanical Garden",
+      "city": "Kapurthala",
+      "category": "nature",
+      "distance": "In Kapurthala",
+      "rating": 4.4,
+      "description": "A beautiful and historic Mughal-style garden featuring ornate cenotaphs (chhatris) of the royal family of Kapurthala. It provides a peaceful, green escape in the 'Paris of Punjab'.",
+      "history": "Built by the erstwhile Maharajas of Kapurthala as a royal retreat. The cenotaphs display stunning red sandstone architecture.",
+      "famousFor": "Royal cenotaphs, Basant Panchami mela, lush greenery.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "shalimar-garden",
+      "state": "Punjab",
+      "images": {
+        "main": "assets/images/states/punjab/shalimar-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jagatjit Palace",
+          "city": "Kapurthala",
+          "distance": "400 m away",
+          "category": "heritage",
+          "slug": "jagatjit-palace",
+          "state": "Punjab",
+          "id": "jagatjit-palace",
+          "images": {
+            "main": "assets/images/states/punjab/jagatjit-palace.webp"
+          },
+          "image": "assets/images/states/punjab/jagatjit-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moorish Mosque",
+          "city": "Kapurthala",
+          "distance": "600 m away",
+          "category": "heritage",
+          "slug": "moorish-mosque",
+          "state": "Punjab",
+          "id": "moorish-mosque",
+          "images": {
+            "main": "assets/images/states/punjab/moorish-mosque.webp"
+          },
+          "image": "assets/images/states/punjab/moorish-mosque.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kanjli Wetland",
+          "city": "Kapurthala",
+          "distance": "1.7 km away",
+          "category": "wildlife",
+          "slug": "kanjli-wetland",
+          "state": "Punjab",
+          "id": "kanjli-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/kanjli-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/kanjli-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Ber Sahib",
+          "city": "Sultanpur Lodhi",
+          "distance": "24.6 km away",
+          "category": "temples",
+          "slug": "ber-sahib",
+          "state": "Punjab",
+          "id": "ber-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-ber-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "15.2 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "shalimar-garden",
+      "image": "assets/images/states/punjab/shalimar-garden.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.3783,
+        "lon": 75.3767
+      },
+      "heroImage": "assets/images/states/punjab/shalimar-garden.webp"
+    },
+    {
+      "name": "Takht Sri Keshgarh Sahib",
+      "city": "Anandpur Sahib",
+      "category": "temples",
+      "distance": "Center of Anandpur Sahib",
+      "rating": 4.9,
+      "description": "One of the Five Takhts of Sikhism, it is the immensely sacred birthplace of the Khalsa. Situated on a hill, it houses authentic weapons used by Guru Gobind Singh.",
+      "history": "In 1699, Guru Gobind Singh created the Khalsa Panth here on the day of Baisakhi.",
+      "famousFor": "Birthplace of Khalsa, Hola Mohalla festival.",
+      "bestTime": "March (Hola Mohalla) or Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "keshgarh-sahib",
+      "images": {
+        "main": "assets/images/states/punjab/keshgarh-sahib.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Virasat-e-Khalsa",
+          "city": "Anandpur Sahib",
+          "distance": "400 m away",
+          "category": "heritage",
+          "slug": "virasat-e-khalsa",
+          "state": "Punjab",
+          "id": "virasat-e-khalsa",
+          "images": {
+            "main": "assets/images/states/punjab/virasat-e-khalsa.webp"
+          },
+          "image": "assets/images/states/punjab/virasat-e-khalsa.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Kiratpur Sahib (Patal Puri)",
+          "city": "Kiratpur Sahib",
+          "distance": "9.7 km away",
+          "category": "temples",
+          "slug": "kiratpur-sahib",
+          "state": "Punjab",
+          "id": "kiratpur-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Ropar Wetland",
+          "city": "Rupnagar",
+          "distance": "30.4 km away",
+          "category": "wildlife",
+          "slug": "ropar-wetland",
+          "state": "Punjab",
+          "id": "ropar-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/ropar-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/ropar-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shaheed-e-Azam Bhagat Singh Museum",
+          "city": "Khatkar Kalan",
+          "distance": "20.8 km away",
+          "category": "heritage",
+          "slug": "bhagat-singh-museum",
+          "state": "Punjab",
+          "id": "bhagat-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "keshgarh-sahib",
+      "image": "assets/images/states/punjab/keshgarh-sahib.webp",
+      "district": "Rupnagar",
+      "coordinates": {
+        "lat": 31.2389,
+        "lon": 76.5044
+      },
+      "heroImage": "assets/images/states/punjab/keshgarh-sahib.webp"
+    },
+    {
+      "name": "Qila Mubarak Patiala",
+      "city": "Patiala",
+      "category": "heritage",
+      "distance": "In Patiala",
+      "rating": 4.7,
+      "description": "A spectacular 18th-century fort standing in the heart of Patiala, reflecting an exquisite blend of Rajasthani, Pahari, and Mughal architecture.",
+      "history": "Built in 1763 by Baba Ala Singh, the founder of the Patiala dynasty.",
+      "famousFor": "Sikh architecture, Quila Androon, Darbar Hall.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹10",
+      "slug": "qila-mubarak-patiala",
+      "images": {
+        "main": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Sheesh Mahal",
+          "city": "Patiala",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "sheesh-mahal",
+          "state": "Punjab",
+          "id": "sheesh-mahal",
+          "images": {
+            "main": "assets/images/states/punjab/sheesh-mahal.webp"
+          },
+          "image": "assets/images/states/punjab/sheesh-mahal.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Palace",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "moti-bagh-palace",
+          "state": "Punjab",
+          "id": "moti-bagh-palace",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-palace.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Wildlife Sanctuary",
+          "city": "Patiala",
+          "distance": "2.2 km away",
+          "category": "wildlife",
+          "slug": "moti-bagh-sanctuary",
+          "state": "Punjab",
+          "id": "moti-bagh-sanctuary",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-sanctuary.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-sanctuary.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Dukh Nivaran Sahib",
+          "city": "Patiala",
+          "distance": "700 m away",
+          "category": "temples",
+          "slug": "dukh-nivaran-sahib",
+          "state": "Punjab",
+          "id": "dukh-nivaran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/dukh-nivaran-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kali Mata Temple",
+          "city": "Patiala",
+          "distance": "1.3 km away",
+          "category": "temples",
+          "slug": "kali-mata-temple",
+          "state": "Punjab",
+          "id": "kali-mata-temple",
+          "images": {
+            "main": "assets/images/states/punjab/kali-mata-temple.webp"
+          },
+          "image": "assets/images/states/punjab/kali-mata-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "qila-mubarak-patiala",
+      "image": "assets/images/states/punjab/qila-mubarak-patiala.webp",
+      "district": "Patiala",
+      "coordinates": {
+        "lat": 30.325,
+        "lon": 76.39
+      },
+      "heroImage": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+    },
+    {
+      "name": "Moti Bagh Palace",
+      "city": "Patiala",
+      "category": "heritage",
+      "distance": "In Patiala",
+      "rating": 4.6,
+      "description": "The stunning, massive former residence of the Maharajas of Patiala. It now houses the Netaji Subhas National Institute of Sports and a fascinating museum.",
+      "history": "Built in the 1840s, its design is inspired by the Shalimar Gardens of Lahore.",
+      "famousFor": "Rajput architecture, Sports Institute, Art gallery.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "moti-bagh-palace",
+      "images": {
+        "main": "assets/images/states/punjab/moti-bagh-palace.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Sheesh Mahal",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "sheesh-mahal",
+          "state": "Punjab",
+          "id": "sheesh-mahal",
+          "images": {
+            "main": "assets/images/states/punjab/sheesh-mahal.webp"
+          },
+          "image": "assets/images/states/punjab/sheesh-mahal.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Qila Mubarak Patiala",
+          "city": "Patiala",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "qila-mubarak-patiala",
+          "state": "Punjab",
+          "id": "qila-mubarak-patiala",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak-patiala.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak-patiala.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moti Bagh Wildlife Sanctuary",
+          "city": "Patiala",
+          "distance": "700 m away",
+          "category": "wildlife",
+          "slug": "moti-bagh-sanctuary",
+          "state": "Punjab",
+          "id": "moti-bagh-sanctuary",
+          "images": {
+            "main": "assets/images/states/punjab/moti-bagh-sanctuary.webp"
+          },
+          "image": "assets/images/states/punjab/moti-bagh-sanctuary.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Dukh Nivaran Sahib",
+          "city": "Patiala",
+          "distance": "1.9 km away",
+          "category": "temples",
+          "slug": "dukh-nivaran-sahib",
+          "state": "Punjab",
+          "id": "dukh-nivaran-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/dukh-nivaran-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/dukh-nivaran-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kali Mata Temple",
+          "city": "Patiala",
+          "distance": "2.7 km away",
+          "category": "temples",
+          "slug": "kali-mata-temple",
+          "state": "Punjab",
+          "id": "kali-mata-temple",
+          "images": {
+            "main": "assets/images/states/punjab/kali-mata-temple.webp"
+          },
+          "image": "assets/images/states/punjab/kali-mata-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "moti-bagh-palace",
+      "image": "assets/images/states/punjab/moti-bagh-palace.webp",
+      "district": "Patiala",
+      "coordinates": {
+        "lat": 30.33,
+        "lon": 76.375
+      },
+      "heroImage": "assets/images/states/punjab/moti-bagh-palace.webp"
+    },
+    {
+      "name": "Gurudwara Kiratpur Sahib (Patal Puri)",
+      "city": "Kiratpur Sahib",
+      "category": "temples",
+      "distance": "Near Anandpur Sahib",
+      "rating": 4.8,
+      "description": "A highly sacred Sikh pilgrimage center situated on the banks of the Sutlej River. It is the place where Sikhs immerse the ashes of their deceased.",
+      "history": "Established in 1627 by the sixth Sikh Guru, Guru Hargobind Sahib. Two Gurus spent their childhood here.",
+      "famousFor": "Immersion of ashes, spiritual significance.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kiratpur-sahib",
+      "images": {
+        "main": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Virasat-e-Khalsa",
+          "city": "Anandpur Sahib",
+          "distance": "9.6 km away",
+          "category": "heritage",
+          "slug": "virasat-e-khalsa",
+          "state": "Punjab",
+          "id": "virasat-e-khalsa",
+          "images": {
+            "main": "assets/images/states/punjab/virasat-e-khalsa.webp"
+          },
+          "image": "assets/images/states/punjab/virasat-e-khalsa.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Takht Sri Keshgarh Sahib",
+          "city": "Anandpur Sahib",
+          "distance": "9.7 km away",
+          "category": "temples",
+          "slug": "keshgarh-sahib",
+          "state": "Punjab",
+          "id": "keshgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/keshgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/keshgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Ropar Wetland",
+          "city": "Rupnagar",
+          "distance": "24.6 km away",
+          "category": "wildlife",
+          "slug": "ropar-wetland",
+          "state": "Punjab",
+          "id": "ropar-wetland",
+          "images": {
+            "main": "assets/images/states/punjab/ropar-wetland.webp"
+          },
+          "image": "assets/images/states/punjab/ropar-wetland.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shaheed-e-Azam Bhagat Singh Museum",
+          "city": "Khatkar Kalan",
+          "distance": "23.2 km away",
+          "category": "heritage",
+          "slug": "bhagat-singh-museum",
+          "state": "Punjab",
+          "id": "bhagat-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "kiratpur-sahib",
+      "image": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp",
+      "district": "Rupnagar",
+      "coordinates": {
+        "lat": 31.1833,
+        "lon": 76.5833
+      },
+      "heroImage": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+    },
+    {
+      "name": "Pul Kanjari",
+      "city": "Amritsar",
+      "category": "heritage",
+      "distance": "Near Wagah Border",
+      "rating": 4.4,
+      "description": "A historic village and resting place built by Maharaja Ranjit Singh. It features a stunning bathing pool, a Shiva temple, and a mosque.",
+      "history": "Built for his Muslim dancer 'Moran' who he later married. Legend says she lost her silver sandals in the canal, prompting the Maharaja to build a bridge (Pul) for her.",
+      "famousFor": "Maharaja Ranjit Singh's resting place, secular heritage.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "pul-kanjari",
+      "images": {
+        "main": "assets/images/states/punjab/pul-kanjari.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Golden Temple (Sri Harmandir Sahib)",
+          "city": "Amritsar",
+          "distance": "20.3 km away",
+          "category": "heritage",
+          "slug": "golden-temple",
+          "state": "Punjab",
+          "id": "golden-temple",
+          "images": {
+            "main": "assets/images/states/punjab/golden-temple.webp"
+          },
+          "image": "assets/images/states/punjab/golden-temple.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Sarai Amanat Khan",
+          "city": "Sarai Amanat Khan",
+          "distance": "11.6 km away",
+          "category": "heritage",
+          "slug": "sarai-amanat-khan",
+          "state": "Punjab",
+          "id": "sarai-amanat-khan",
+          "images": {
+            "main": "assets/images/states/punjab/sarai-amanat-khan.webp"
+          },
+          "image": "assets/images/states/punjab/sarai-amanat-khan.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Wagah-Attari Border",
+          "city": "Attari",
+          "distance": "9.3 km away",
+          "category": "heritage",
+          "slug": "wagah-border",
+          "state": "Punjab",
+          "id": "wagah-border",
+          "images": {
+            "main": "assets/images/states/punjab/wagah-border.webp"
+          },
+          "image": "assets/images/states/punjab/wagah-border.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "pul-kanjari",
+      "image": "assets/images/states/punjab/pul-kanjari.webp",
+      "district": "Amritsar",
+      "coordinates": {
+        "lat": 31.583,
+        "lon": 74.667
+      },
+      "heroImage": "assets/images/states/punjab/pul-kanjari.webp"
+    },
+    {
+      "name": "Shahpur Kandi Fort",
+      "city": "Shahpur Kandi",
+      "category": "heritage",
+      "distance": "On the banks of Ravi River",
+      "rating": 4.3,
+      "description": "A scenic 16th-century Rajput fort overlooking the flowing Ravi river and the majestic Himalayas.",
+      "history": "Built by a Rajput chief in 1505 and named after the Mughal emperor Shah Jahan.",
+      "famousFor": "River views, historical ruins.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "shahpur-kandi-fort",
+      "images": {
+        "main": "assets/images/states/punjab/shahpur-kandi-fort.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Ranjit Sagar Dam",
+          "city": "Pathankot",
+          "distance": "5.6 km away",
+          "category": "nature",
+          "slug": "ranjit-sagar-dam",
+          "state": "Punjab",
+          "id": "ranjit-sagar-dam",
+          "images": {
+            "main": "assets/images/states/punjab/ranjit-sagar-dam.webp"
+          },
+          "image": "assets/images/states/punjab/ranjit-sagar-dam.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Mukteshwar Mahadev Temple",
+          "city": "Pathankot",
+          "distance": "14.4 km away",
+          "category": "temples",
+          "slug": "mukteshwar-mahadev-temple",
+          "state": "Punjab",
+          "id": "mukteshwar-mahadev-temple",
+          "images": {
+            "main": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/punjab/mukteshwar-mahadev-temple.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "shahpur-kandi-fort",
+      "image": "assets/images/states/punjab/shahpur-kandi-fort.webp",
+      "district": "Pathankot",
+      "coordinates": {
+        "lat": 32.3833,
+        "lon": 75.7333
+      },
+      "heroImage": "assets/images/states/punjab/shahpur-kandi-fort.webp"
+    },
+    {
+      "name": "Ropar Wetland",
+      "city": "Rupnagar",
+      "category": "wildlife",
+      "distance": "Banks of Sutlej",
+      "rating": 4.5,
+      "description": "A crucial ecological zone and Ramsar site formed by a barrage on the Sutlej River. It is a major hub for migratory birds, pangolins, and softshell turtles.",
+      "history": "Declared a Ramsar site in 2002 to protect its vast biodiversity.",
+      "famousFor": "Bird watching, nature trails, boating.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ropar-wetland",
+      "images": {
+        "main": "assets/images/states/punjab/ropar-wetland.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Gurudwara Kiratpur Sahib (Patal Puri)",
+          "city": "Kiratpur Sahib",
+          "distance": "24.6 km away",
+          "category": "temples",
+          "slug": "kiratpur-sahib",
+          "state": "Punjab",
+          "id": "kiratpur-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-kiratpur-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Virasat-e-Khalsa",
+          "city": "Anandpur Sahib",
+          "distance": "30 km away",
+          "category": "heritage",
+          "slug": "virasat-e-khalsa",
+          "state": "Punjab",
+          "id": "virasat-e-khalsa",
+          "images": {
+            "main": "assets/images/states/punjab/virasat-e-khalsa.webp"
+          },
+          "image": "assets/images/states/punjab/virasat-e-khalsa.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Takht Sri Keshgarh Sahib",
+          "city": "Anandpur Sahib",
+          "distance": "30.4 km away",
+          "category": "temples",
+          "slug": "keshgarh-sahib",
+          "state": "Punjab",
+          "id": "keshgarh-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/keshgarh-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/keshgarh-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shaheed-e-Azam Bhagat Singh Museum",
+          "city": "Khatkar Kalan",
+          "distance": "21.9 km away",
+          "category": "heritage",
+          "slug": "bhagat-singh-museum",
+          "state": "Punjab",
+          "id": "bhagat-singh-museum",
+          "images": {
+            "main": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp"
+          },
+          "image": "assets/images/states/punjab/shaheed-e-azam-bhagat-singh-museum.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "ropar-wetland",
+      "image": "assets/images/states/punjab/ropar-wetland.webp",
+      "district": "Rupnagar",
+      "coordinates": {
+        "lat": 30.9667,
+        "lon": 76.5333
+      },
+      "heroImage": "assets/images/states/punjab/ropar-wetland.webp"
+    },
+    {
+      "name": "Kanjli Wetland",
+      "city": "Kapurthala",
+      "category": "wildlife",
+      "distance": "Near Kapurthala City",
+      "rating": 4.3,
+      "description": "A serene man-made wetland and Ramsar site created in 1870. It provides a vital wintering ground for several waterfowl species.",
+      "history": "Created by the Maharaja of Kapurthala by building a barrage across the Kali Bein river.",
+      "famousFor": "Bird watching, photography, Kali Bein river.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kanjli-wetland",
+      "images": {
+        "main": "assets/images/states/punjab/kanjli-wetland.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Jagatjit Palace",
+          "city": "Kapurthala",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "jagatjit-palace",
+          "state": "Punjab",
+          "id": "jagatjit-palace",
+          "images": {
+            "main": "assets/images/states/punjab/jagatjit-palace.webp"
+          },
+          "image": "assets/images/states/punjab/jagatjit-palace.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Moorish Mosque",
+          "city": "Kapurthala",
+          "distance": "2.2 km away",
+          "category": "heritage",
+          "slug": "moorish-mosque",
+          "state": "Punjab",
+          "id": "moorish-mosque",
+          "images": {
+            "main": "assets/images/states/punjab/moorish-mosque.webp"
+          },
+          "image": "assets/images/states/punjab/moorish-mosque.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Shalimar Botanical Garden",
+          "city": "Kapurthala",
+          "distance": "1.7 km away",
+          "category": "nature",
+          "slug": "shalimar-garden",
+          "state": "Punjab",
+          "id": "shalimar-garden",
+          "images": {
+            "main": "assets/images/states/punjab/shalimar-garden.webp"
+          },
+          "image": "assets/images/states/punjab/shalimar-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Gurudwara Ber Sahib",
+          "city": "Sultanpur Lodhi",
+          "distance": "23.2 km away",
+          "category": "temples",
+          "slug": "ber-sahib",
+          "state": "Punjab",
+          "id": "ber-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/gurudwara-ber-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/gurudwara-ber-sahib.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "15.3 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "kanjli-wetland",
+      "image": "assets/images/states/punjab/kanjli-wetland.webp",
+      "district": "Kapurthala",
+      "coordinates": {
+        "lat": 31.3633,
+        "lon": 75.3733
+      },
+      "heroImage": "assets/images/states/punjab/kanjli-wetland.webp"
+    },
+    {
+      "name": "Lodhi Fort Ruins",
+      "city": "Ludhiana",
+      "category": "heritage",
+      "distance": "In Ludhiana",
+      "rating": 3.8,
+      "description": "The 500-year-old crumbling ruins of a massive fort built along the Sutlej River, standing as a quiet testament to the city's ancient roots.",
+      "history": "Built by Sikandar Lodi. The city of Ludhiana actually derives its name from the Lodi dynasty.",
+      "famousFor": "Historical ruins.",
+      "bestTime": "Year-round",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "lodhi-fort",
+      "images": {
+        "main": "assets/images/states/punjab/lodhi-fort.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "500 m away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "1.5 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Rakh Bagh Park",
+          "city": "Ludhiana",
+          "distance": "200 m away",
+          "category": "nature",
+          "slug": "rakh-bagh-park",
+          "state": "Punjab",
+          "id": "rakh-bagh-park",
+          "images": {
+            "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+          },
+          "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Hardy's World",
+          "city": "Ludhiana",
+          "distance": "8.7 km away",
+          "category": "entertainment",
+          "slug": "hardys-world",
+          "state": "Punjab",
+          "id": "hardys-world",
+          "images": {
+            "main": "assets/images/states/punjab/hardys-world.webp"
+          },
+          "image": "assets/images/states/punjab/hardys-world.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kila Raipur Sports Festival",
+          "city": "Kila Raipur",
+          "distance": "9 km away",
+          "category": "entertainment",
+          "slug": "kila-raipur",
+          "state": "Punjab",
+          "id": "kila-raipur",
+          "images": {
+            "main": "assets/images/states/punjab/kila-raipur.webp"
+          },
+          "image": "assets/images/states/punjab/kila-raipur.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Phillaur Fort",
+          "city": "Phillaur",
+          "distance": "13.4 km away",
+          "category": "heritage",
+          "slug": "phillaur-fort",
+          "state": "Punjab",
+          "id": "phillaur-fort",
+          "images": {
+            "main": "assets/images/states/punjab/phillaur-fort.webp"
+          },
+          "image": "assets/images/states/punjab/phillaur-fort.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "lodhi-fort",
+      "image": "assets/images/states/punjab/lodhi-fort.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.9133,
+        "lon": 75.855
+      },
+      "heroImage": "assets/images/states/punjab/lodhi-fort.webp"
+    },
+    {
+      "name": "Bathinda Lake",
+      "city": "Bathinda",
+      "category": "nature",
+      "distance": "Near Thermal Plant",
+      "rating": 4.4,
+      "description": "A beautiful man-made lake located near the Guru Nanak Dev Thermal Plant. It is a major recreational hub offering boating and evening strolls.",
+      "history": "Created to support the thermal plant, it has evolved into the city's top picnic spot.",
+      "famousFor": "Boating, shikara rides, evening views.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "bathinda-lake",
+      "images": {
+        "main": "assets/images/states/punjab/bathinda-lake.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Qila Mubarak",
+          "city": "Bathinda",
+          "distance": "1.8 km away",
+          "category": "heritage",
+          "slug": "qila-mubarak",
+          "state": "Punjab",
+          "id": "qila-mubarak",
+          "images": {
+            "main": "assets/images/states/punjab/qila-mubarak.webp"
+          },
+          "image": "assets/images/states/punjab/qila-mubarak.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Takht Sri Damdama Sahib",
+          "city": "Talwandi Sabo",
+          "distance": "17.7 km away",
+          "category": "temples",
+          "slug": "damdama-sahib",
+          "state": "Punjab",
+          "id": "damdama-sahib",
+          "images": {
+            "main": "assets/images/states/punjab/damdama-sahib.webp"
+          },
+          "image": "assets/images/states/punjab/damdama-sahib.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "bathinda-lake",
+      "image": "assets/images/states/punjab/bathinda-lake.webp",
+      "district": "Bathinda",
+      "coordinates": {
+        "lat": 30.22,
+        "lon": 74.96
+      },
+      "heroImage": "assets/images/states/punjab/bathinda-lake.webp"
+    },
+    {
+      "name": "Gurudwara Nanaksar Jagraon",
+      "city": "Jagraon",
+      "category": "temples",
+      "distance": "Jagraon",
+      "rating": 4.7,
+      "description": "A beautifully constructed Gurudwara dedicated to Baba Nand Singh Ji. Unlike other Gurudwaras, it does not have a community kitchen (Langar) on its premises.",
+      "history": "Established in memory of Baba Nand Singh Ji, emphasizing extreme austerity and deep meditation.",
+      "famousFor": "Spiritual peace, distinct traditions.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nanaksar-jagraon",
+      "images": {
+        "main": "assets/images/states/punjab/nanaksar-jagraon.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [],
+      "id": "nanaksar-jagraon",
+      "image": "assets/images/states/punjab/nanaksar-jagraon.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.7917,
+        "lon": 75.475
+      },
+      "heroImage": "assets/images/states/punjab/nanaksar-jagraon.webp"
+    },
+    {
+      "name": "Rakh Bagh Park",
+      "city": "Ludhiana",
+      "category": "nature",
+      "distance": "Center of Ludhiana",
+      "rating": 4.3,
+      "description": "A lush, well-maintained park featuring a popular toy train and beautifully landscaped gardens, heavily visited by locals for morning walks.",
+      "history": "A heritage park from the British era, recently renovated.",
+      "famousFor": "Toy train, family picnics.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "rakh-bagh-park",
+      "images": {
+        "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "1.3 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Hardy's World",
+          "city": "Ludhiana",
+          "distance": "8.7 km away",
+          "category": "entertainment",
+          "slug": "hardys-world",
+          "state": "Punjab",
+          "id": "hardys-world",
+          "images": {
+            "main": "assets/images/states/punjab/hardys-world.webp"
+          },
+          "image": "assets/images/states/punjab/hardys-world.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kila Raipur Sports Festival",
+          "city": "Kila Raipur",
+          "distance": "8.8 km away",
+          "category": "entertainment",
+          "slug": "kila-raipur",
+          "state": "Punjab",
+          "id": "kila-raipur",
+          "images": {
+            "main": "assets/images/states/punjab/kila-raipur.webp"
+          },
+          "image": "assets/images/states/punjab/kila-raipur.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "rakh-bagh-park",
+      "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.9117,
+        "lon": 75.8533
+      },
+      "heroImage": "assets/images/states/punjab/rakh-bagh-park.webp"
+    },
+    {
+      "name": "Wonderland Theme Park",
+      "city": "Jalandhar",
+      "category": "entertainment",
+      "distance": "Tajpur Road",
+      "rating": 4.5,
+      "description": "A massive amusement and water park spreading over 11 acres, offering thrilling rides, wave pools, and a dedicated horror house.",
+      "history": "One of the most popular family entertainment destinations in the Doaba region.",
+      "famousFor": "Water slides, wave pool, family fun.",
+      "bestTime": "March to October",
+      "timings": "10:00 AM – 8:00 PM",
+      "entryFee": "₹1000",
+      "slug": "wonderland-jalandhar",
+      "images": {
+        "main": "assets/images/states/punjab/wonderland-jalandhar.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Devi Talab Mandir",
+          "city": "Jalandhar",
+          "distance": "700 m away",
+          "category": "temples",
+          "slug": "devi-talab-mandir",
+          "state": "Punjab",
+          "id": "devi-talab-mandir",
+          "images": {
+            "main": "assets/images/states/punjab/devi-talab-mandir.webp"
+          },
+          "image": "assets/images/states/punjab/devi-talab-mandir.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Jang-e-Azadi Memorial",
+          "city": "Jalandhar",
+          "distance": "4.7 km away",
+          "category": "heritage",
+          "slug": "jang-e-azadi-memorial",
+          "state": "Punjab",
+          "id": "jang-e-azadi-memorial",
+          "images": {
+            "main": "assets/images/states/punjab/jang-e-azadi-memorial.webp"
+          },
+          "image": "assets/images/states/punjab/jang-e-azadi-memorial.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Pushpa Gujral Science City",
+          "city": "Kapurthala",
+          "distance": "4.1 km away",
+          "category": "museum",
+          "slug": "pushpa-gujral-science-city",
+          "state": "Punjab",
+          "id": "pushpa-gujral-science-city",
+          "images": {
+            "main": "assets/images/states/punjab/pushpa-gujral-science-city.webp"
+          },
+          "image": "assets/images/states/punjab/pushpa-gujral-science-city.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "wonderland-jalandhar",
+      "image": "assets/images/states/punjab/wonderland-jalandhar.webp",
+      "district": "Jalandhar",
+      "coordinates": {
+        "lat": 31.33,
+        "lon": 75.57
+      },
+      "heroImage": "assets/images/states/punjab/wonderland-jalandhar.webp"
+    },
+    {
+      "name": "Hardy's World",
+      "city": "Ludhiana",
+      "category": "entertainment",
+      "distance": "GT Road",
+      "rating": 4.4,
+      "description": "A popular theme park offering dry rides, water attractions, snow city, and excellent food courts for a complete family outing.",
+      "history": "A major commercial entertainment hub established in Ludhiana.",
+      "famousFor": "Amusement rides, Snow City.",
+      "bestTime": "March to October",
+      "timings": "10:30 AM – 8:00 PM",
+      "entryFee": "₹900",
+      "slug": "hardys-world",
+      "images": {
+        "main": "assets/images/states/punjab/hardys-world.webp"
+      },
+      "state": "Punjab",
+      "nearbyAttractions": [
+        {
+          "name": "Maharaja Ranjit Singh War Museum",
+          "city": "Ludhiana",
+          "distance": "8.6 km away",
+          "category": "heritage",
+          "slug": "maharaja-ranjit-singh-war-museum",
+          "state": "Punjab",
+          "id": "maharaja-ranjit-singh-war-museum",
+          "images": {
+            "main": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp"
+          },
+          "image": "assets/images/states/punjab/maharaja-ranjit-singh-war-museum.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Nehru Rose Garden",
+          "city": "Ludhiana",
+          "distance": "7.4 km away",
+          "category": "nature",
+          "slug": "nehru-rose-garden",
+          "state": "Punjab",
+          "id": "nehru-rose-garden",
+          "images": {
+            "main": "assets/images/states/punjab/nehru-rose-garden.webp"
+          },
+          "image": "assets/images/states/punjab/nehru-rose-garden.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Rakh Bagh Park",
+          "city": "Ludhiana",
+          "distance": "8.7 km away",
+          "category": "nature",
+          "slug": "rakh-bagh-park",
+          "state": "Punjab",
+          "id": "rakh-bagh-park",
+          "images": {
+            "main": "assets/images/states/punjab/rakh-bagh-park.webp"
+          },
+          "image": "assets/images/states/punjab/rakh-bagh-park.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Lodhi Fort Ruins",
+          "city": "Ludhiana",
+          "distance": "8.7 km away",
+          "category": "heritage",
+          "slug": "lodhi-fort",
+          "state": "Punjab",
+          "id": "lodhi-fort",
+          "images": {
+            "main": "assets/images/states/punjab/lodhi-fort.webp"
+          },
+          "image": "assets/images/states/punjab/lodhi-fort.webp",
+          "bidirectional_verified": true
+        },
+        {
+          "name": "Kila Raipur Sports Festival",
+          "city": "Kila Raipur",
+          "distance": "3.4 km away",
+          "category": "entertainment",
+          "slug": "kila-raipur",
+          "state": "Punjab",
+          "id": "kila-raipur",
+          "images": {
+            "main": "assets/images/states/punjab/kila-raipur.webp"
+          },
+          "image": "assets/images/states/punjab/kila-raipur.webp",
+          "bidirectional_verified": true
+        }
+      ],
+      "id": "hardys-world",
+      "image": "assets/images/states/punjab/hardys-world.webp",
+      "district": "Ludhiana",
+      "coordinates": {
+        "lat": 30.845,
+        "lon": 75.9
+      },
+      "heroImage": "assets/images/states/punjab/hardys-world.webp"
+    }
+  ]
+}

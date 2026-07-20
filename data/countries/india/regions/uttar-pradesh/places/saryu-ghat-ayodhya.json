@@ -1,0 +1,60 @@
+{
+  "id": "saryu-ghat-ayodhya",
+  "slug": "saryu-ghat-ayodhya",
+  "name": "Saryu River Ghats",
+  "location": "Uttar Pradesh, India",
+  "district": "Ayodhya",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A series of magnificently renovated ghats along the sacred Saryu River where Lord Rama is believed to have bathed. The evening Saryu Aarti rivals Varanasi's Ganga Aarti in grandeur and devotion.",
+  "description": "The Saryu River is mentioned extensively in the Ramayana. The ghats have been recently renovated as part of the Ayodhya redevelopment project.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October-November (Deepotsav) or Year-round",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "ayodhya-ram-mandir",
+    "kanak-bhawan-ayodhya"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Sarayu-River-ghats.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Sarayu-River-ghats.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Sarayu-River-ghats.webp"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "jagannath-temple",
+  "slug": "jagannath-temple",
+  "name": "Jagannath Temple",
+  "location": "Odisha, India",
+  "district": "Puri",
+  "stateId": "odisha",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/jagannath-temple.webp",
+  "heroImage": "./assets/images/popular/jagannath-temple.webp",
+  "gallery": [
+    "./assets/images/popular/jagannath-temple.webp"
+  ],
+  "overview": "Experience the beauty of Jagannath Temple, a top destination in Odisha, India.",
+  "description": "The Jagannath Temple is an essential monumental Hindu temple honoring Lord Jagannath in Puri. It attracts colossal crowds each year, especially for the massive Ratha Yatra festival.",
+  "rating": "4.2",
+  "reviewCount": 14042,
+  "popularityScore": 80,
+  "priceLevel": 1,
+  "bestTimeToVisit": "July to March",
+  "timings": "5:00 AM - 11:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Entry limited to Hindus"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Biju Patnaik Airport",
+      "distance": "60 km"
+    },
+    "nearestRailway": {
+      "name": "Puri Railway Station",
+      "distance": "3 km"
+    },
+    "byRoad": "Buses connect easily from Bhubaneshwar."
+  },
+  "tags": [
+    "spiritual",
+    "odisha",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5222
+    },
+    {
+      "views": 1257
+    }
+  ],
+  "nearbyPlaces": [
+    "chilika-lake"
+  ]
+}

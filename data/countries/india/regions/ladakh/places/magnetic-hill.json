@@ -1,0 +1,30 @@
+{
+  "id": "magnetic-hill",
+  "name": "Magnetic Hill",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A gravity-defying optical illusion on the Leh-Kargil highway where stationary vehicles left in neutral gear appear to roll uphill.",
+  "history": "A popular roadside stop that has become legendary among tourists passing through the Srinagar-Leh highway.",
+  "famousFor": "Anti-gravity illusion, rugged highway, road trips.",
+  "bestTime": "May to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_000000000fb472088db3228d110052f7.webp",
+  "heroImage": "./assets/images/states/ladakh/file_000000000fb472088db3228d110052f7.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_000000000fb472088db3228d110052f7.webp"
+  ],
+  "nearbyPlaces": [
+    "thiksey-monastery",
+    "tso-kar",
+    "chang-la-pass",
+    "stok-palace",
+    "pathar-sahib",
+    "leh-palace",
+    "khardung-la",
+    "hall-of-fame",
+    "kargil-town",
+    "leh-city",
+    "shanti-stupa"
+  ]
+}

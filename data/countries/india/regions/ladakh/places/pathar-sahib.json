@@ -1,0 +1,30 @@
+{
+  "id": "pathar-sahib",
+  "name": "Gurdwara Pathar Sahib",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A beautiful Gurdwara built in 1517 to commemorate the visit of Guru Nanak Dev to the Ladakh region. It houses a large rock believed to have been thrown at him by a demon.",
+  "history": "Highly revered by both Sikhs and local Tibetan Buddhists who consider Guru Nanak as Guru Gompka Maharaj.",
+  "famousFor": "Sacred rock with an imprint, Langar (community meal), spiritual peace.",
+  "bestTime": "May to October",
+  "timings": "6:00 AM \u2013 7:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_00000000ab7c72099a749e8a6f528655.webp",
+  "heroImage": "./assets/images/states/ladakh/file_00000000ab7c72099a749e8a6f528655.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_00000000ab7c72099a749e8a6f528655.webp"
+  ],
+  "nearbyPlaces": [
+    "leh-palace",
+    "magnetic-hill",
+    "hall-of-fame",
+    "stok-palace",
+    "thiksey-monastery",
+    "tso-kar",
+    "chang-la-pass",
+    "kargil-town",
+    "shanti-stupa",
+    "khardung-la",
+    "leh-city"
+  ]
+}

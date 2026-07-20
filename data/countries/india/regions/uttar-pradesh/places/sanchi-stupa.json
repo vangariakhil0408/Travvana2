@@ -1,0 +1,70 @@
+{
+  "id": "sanchi-stupa",
+  "slug": "sanchi-stupa",
+  "name": "Sanchi Stupa",
+  "location": "Uttar Pradesh, India",
+  "district": "",
+  "stateId": "uttar-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/sanchi-stupa.webp",
+  "heroImage": "./assets/images/popular/sanchi-stupa.webp",
+  "gallery": [
+    "./assets/images/popular/sanchi-stupa.webp"
+  ],
+  "overview": "Experience the beauty of Sanchi Stupa, a top destination in Uttar Pradesh, India.",
+  "description": "One of the most celebrated spiritual destinations in Uttar Pradesh, India, Sanchi Stupa offers an unforgettable journey. It offers breathtaking views, profound historical context, and a vibrant atmosphere that captivates every traveler. Make sure to allocate enough time to fully soak in the intricate details and sweeping landscapes.",
+  "rating": "4.3",
+  "reviewCount": 16412,
+  "popularityScore": 63,
+  "priceLevel": 1,
+  "bestTimeToVisit": "All Year",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "16 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "5 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "spiritual",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4495
+    },
+    {
+      "views": 4619
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "varanasi-ghats",
+    "fatehpur-sikri"
+  ]
+}

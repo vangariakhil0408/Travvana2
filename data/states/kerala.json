@@ -1,0 +1,2380 @@
+{
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "capital": "Thiruvananthapuram",
+  "places": [
+    {
+      "name": "Fort Kochi",
+      "city": "Kochi",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Historic port city with Chinese fishing nets.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "fort-kochi",
+      "images": {
+        "main": "assets/images/states/kerala/fort-kochi.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Cherai Beach",
+          "city": "Kochi",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "cherai-beach",
+          "images": {
+            "main": "assets/images/states/kerala/cherai-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/cherai-beach.webp"
+        },
+        {
+          "name": "Vagamon",
+          "city": "Idukki",
+          "distance": "2 km away",
+          "category": "hills",
+          "slug": "vagamon",
+          "images": {
+            "main": "assets/images/states/kerala/vagamon.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vagamon.webp"
+        }
+      ],
+      "id": "fort-kochi",
+      "image": "assets/images/states/kerala/fort-kochi.webp",
+      "heroImage": "assets/images/states/kerala/fort-kochi.webp"
+    },
+    {
+      "name": "Cherai Beach",
+      "city": "Kochi",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Picturesque beach with backwaters on the other side.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "cherai-beach",
+      "images": {
+        "main": "assets/images/states/kerala/cherai-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Fort Kochi",
+          "city": "Kochi",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "fort-kochi",
+          "images": {
+            "main": "assets/images/states/kerala/fort-kochi.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/fort-kochi.webp"
+        },
+        {
+          "name": "Kozhikode Beach",
+          "city": "Kozhikode",
+          "distance": "6 km away",
+          "category": "beaches",
+          "slug": "kozhikode-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kozhikode-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kozhikode-beach.webp"
+        }
+      ],
+      "id": "cherai-beach",
+      "image": "assets/images/states/kerala/cherai-beach.webp",
+      "heroImage": "assets/images/states/kerala/cherai-beach.webp"
+    },
+    {
+      "name": "Thattekkad Bird Sanctuary",
+      "city": "Kothamangalam",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Rich bird sanctuary discovered by Dr. Salim Ali.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "thattekkad-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Athirappilly Waterfalls",
+          "city": "Thrissur",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "athirappilly-waterfalls",
+          "images": {
+            "main": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+        },
+        {
+          "name": "Illikkal Kallu",
+          "city": "Kottayam",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "illikkal-kallu",
+          "images": {
+            "main": "assets/images/states/kerala/illikkal-kallu.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/illikkal-kallu.webp"
+        }
+      ],
+      "id": "thattekkad-bird-sanctuary",
+      "image": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+    },
+    {
+      "name": "Athirappilly Waterfalls",
+      "city": "Thrissur",
+      "category": "waterfalls",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Largest waterfall in Kerala, the Niagara of India.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "athirappilly-waterfalls",
+      "images": {
+        "main": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Thattekkad Bird Sanctuary",
+          "city": "Kothamangalam",
+          "distance": "12 km away",
+          "category": "wildlife",
+          "slug": "thattekkad-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+        },
+        {
+          "name": "Parambikulam Tiger Reserve",
+          "city": "Palakkad",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "parambikulam-tiger-reserve",
+          "images": {
+            "main": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+        }
+      ],
+      "id": "athirappilly-waterfalls",
+      "image": "assets/images/states/kerala/athirappilly-waterfalls.webp",
+      "heroImage": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+    },
+    {
+      "name": "Guruvayur Sri Krishna Temple",
+      "city": "Thrissur",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Important pilgrimage site known as Dwarka of South.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "guruvayur-temple",
+      "images": {
+        "main": "assets/images/states/kerala/guruvayur-temple.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Vadakkunnathan Temple",
+          "city": "Thrissur",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "vadakkunnathan-temple",
+          "images": {
+            "main": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+        },
+        {
+          "name": "Peechi-Vazhani Wildlife Sanctuary",
+          "city": "Thrissur",
+          "distance": "17 km away",
+          "category": "wildlife",
+          "slug": "peechi-vazhani-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "guruvayur-temple",
+      "image": "assets/images/states/kerala/guruvayur-temple.webp",
+      "heroImage": "assets/images/states/kerala/guruvayur-temple.webp"
+    },
+    {
+      "name": "Vadakkunnathan Temple",
+      "city": "Thrissur",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Ancient Shiva temple hosting the famous Thrissur Pooram.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "vadakkunnathan-temple",
+      "images": {
+        "main": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Peechi-Vazhani Wildlife Sanctuary",
+          "city": "Thrissur",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "peechi-vazhani-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Guruvayur Sri Krishna Temple",
+          "city": "Thrissur",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "guruvayur-temple",
+          "images": {
+            "main": "assets/images/states/kerala/guruvayur-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/guruvayur-temple.webp"
+        }
+      ],
+      "id": "vadakkunnathan-temple",
+      "image": "assets/images/states/kerala/vadakkunnathan-temple.webp",
+      "heroImage": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+    },
+    {
+      "name": "Peechi-Vazhani Wildlife Sanctuary",
+      "city": "Thrissur",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Wildlife sanctuary surrounding the Peechi Dam.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "peechi-vazhani-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Vadakkunnathan Temple",
+          "city": "Thrissur",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "vadakkunnathan-temple",
+          "images": {
+            "main": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vadakkunnathan-temple.webp"
+        },
+        {
+          "name": "Guruvayur Sri Krishna Temple",
+          "city": "Thrissur",
+          "distance": "17 km away",
+          "category": "temples",
+          "slug": "guruvayur-temple",
+          "images": {
+            "main": "assets/images/states/kerala/guruvayur-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/guruvayur-temple.webp"
+        }
+      ],
+      "id": "peechi-vazhani-wildlife-sanctuary",
+      "image": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/peechi-vazhani-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Nilambur Teak Museum",
+      "city": "Malappuram",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "World's first museum dedicated entirely to Teak.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "nilambur-teak-museum",
+      "images": {
+        "main": "assets/images/states/kerala/nilambur-teak-museum.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Silent Valley National Park",
+          "city": "Palakkad",
+          "distance": "16 km away",
+          "category": "wildlife",
+          "slug": "silent-valley-national-park",
+          "images": {
+            "main": "assets/images/states/kerala/silent-valley-national-park.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/silent-valley-national-park.webp"
+        },
+        {
+          "name": "Wayanad Wildlife Sanctuary",
+          "city": "Wayanad",
+          "distance": "13 km away",
+          "category": "wildlife",
+          "slug": "wayanad-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "nilambur-teak-museum",
+      "image": "assets/images/states/kerala/nilambur-teak-museum.webp",
+      "heroImage": "assets/images/states/kerala/nilambur-teak-museum.webp"
+    },
+    {
+      "name": "Kozhikode Beach",
+      "city": "Kozhikode",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Historic beach where Vasco Da Gama first landed.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kozhikode-beach",
+      "images": {
+        "main": "assets/images/states/kerala/kozhikode-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Kappad Beach",
+          "city": "Kozhikode",
+          "distance": "14 km away",
+          "category": "beaches",
+          "slug": "kappad-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kappad-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kappad-beach.webp"
+        },
+        {
+          "name": "Cherai Beach",
+          "city": "Kochi",
+          "distance": "6 km away",
+          "category": "beaches",
+          "slug": "cherai-beach",
+          "images": {
+            "main": "assets/images/states/kerala/cherai-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/cherai-beach.webp"
+        }
+      ],
+      "id": "kozhikode-beach",
+      "image": "assets/images/states/kerala/kozhikode-beach.webp",
+      "heroImage": "assets/images/states/kerala/kozhikode-beach.webp"
+    },
+    {
+      "name": "Kappad Beach",
+      "city": "Kozhikode",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Historic and pristine beach with rock formations.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kappad-beach",
+      "images": {
+        "main": "assets/images/states/kerala/kappad-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Kozhikode Beach",
+          "city": "Kozhikode",
+          "distance": "14 km away",
+          "category": "beaches",
+          "slug": "kozhikode-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kozhikode-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kozhikode-beach.webp"
+        },
+        {
+          "name": "Muzhappilangad Drive-in Beach",
+          "city": "Kannur",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "muzhappilangad-drive-in-beach",
+          "images": {
+            "main": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+        }
+      ],
+      "id": "kappad-beach",
+      "image": "assets/images/states/kerala/kappad-beach.webp",
+      "heroImage": "assets/images/states/kerala/kappad-beach.webp"
+    },
+    {
+      "name": "Muzhappilangad Drive-in Beach",
+      "city": "Kannur",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.9,
+      "description": "Longest drive-in beach in Asia.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "muzhappilangad-drive-in-beach",
+      "images": {
+        "main": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Thalassery Fort",
+          "city": "Kannur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "thalassery-fort",
+          "images": {
+            "main": "assets/images/states/kerala/thalassery-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thalassery-fort.webp"
+        },
+        {
+          "name": "Kappad Beach",
+          "city": "Kozhikode",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kappad-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kappad-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kappad-beach.webp"
+        }
+      ],
+      "id": "muzhappilangad-drive-in-beach",
+      "image": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp",
+      "heroImage": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+    },
+    {
+      "name": "Aralam Wildlife Sanctuary",
+      "city": "Kannur",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Northernmost wildlife sanctuary of Kerala.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "aralam-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Thirunelli Temple",
+          "city": "Wayanad",
+          "distance": "19 km away",
+          "category": "temples",
+          "slug": "thirunelli-temple",
+          "images": {
+            "main": "assets/images/states/kerala/thirunelli-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thirunelli-temple.webp"
+        },
+        {
+          "name": "Thalassery Fort",
+          "city": "Kannur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "thalassery-fort",
+          "images": {
+            "main": "assets/images/states/kerala/thalassery-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thalassery-fort.webp"
+        }
+      ],
+      "id": "aralam-wildlife-sanctuary",
+      "image": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Bekal Fort",
+      "city": "Kasaragod",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Largest and best-preserved fort in Kerala.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "bekal-fort",
+      "images": {
+        "main": "assets/images/states/kerala/bekal-fort.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Ranipuram Hills",
+          "city": "Kasaragod",
+          "distance": "9 km away",
+          "category": "hills",
+          "slug": "ranipuram-hills",
+          "images": {
+            "main": "assets/images/states/kerala/ranipuram-hills.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ranipuram-hills.webp"
+        },
+        {
+          "name": "Kavvayi Backwaters",
+          "city": "Kannur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "kavvayi-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/kavvayi-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kavvayi-backwaters.webp"
+        }
+      ],
+      "id": "bekal-fort",
+      "image": "assets/images/states/kerala/bekal-fort.webp",
+      "heroImage": "assets/images/states/kerala/bekal-fort.webp"
+    },
+    {
+      "name": "Ranipuram Hills",
+      "city": "Kasaragod",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Ooty of Kerala, famous for its trekking trails.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ranipuram-hills",
+      "images": {
+        "main": "assets/images/states/kerala/ranipuram-hills.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Bekal Fort",
+          "city": "Kasaragod",
+          "distance": "9 km away",
+          "category": "heritage",
+          "slug": "bekal-fort",
+          "images": {
+            "main": "assets/images/states/kerala/bekal-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/bekal-fort.webp"
+        },
+        {
+          "name": "Kavvayi Backwaters",
+          "city": "Kannur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "kavvayi-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/kavvayi-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kavvayi-backwaters.webp"
+        }
+      ],
+      "id": "ranipuram-hills",
+      "image": "assets/images/states/kerala/ranipuram-hills.webp",
+      "heroImage": "assets/images/states/kerala/ranipuram-hills.webp"
+    },
+    {
+      "name": "Wayanad Wildlife Sanctuary",
+      "city": "Wayanad",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Part of Nilgiri Biosphere Reserve with wild elephants.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "wayanad-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Edakkal Caves",
+          "city": "Wayanad",
+          "distance": "11 km away",
+          "category": "heritage",
+          "slug": "edakkal-caves",
+          "images": {
+            "main": "assets/images/states/kerala/edakkal-caves.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/edakkal-caves.webp"
+        },
+        {
+          "name": "Nilambur Teak Museum",
+          "city": "Malappuram",
+          "distance": "13 km away",
+          "category": "heritage",
+          "slug": "nilambur-teak-museum",
+          "images": {
+            "main": "assets/images/states/kerala/nilambur-teak-museum.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/nilambur-teak-museum.webp"
+        }
+      ],
+      "id": "wayanad-wildlife-sanctuary",
+      "image": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Edakkal Caves",
+      "city": "Wayanad",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.9,
+      "description": "Caves with ancient petroglyphs from the Neolithic age.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "edakkal-caves",
+      "images": {
+        "main": "assets/images/states/kerala/edakkal-caves.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Meenmutty Falls",
+          "city": "Wayanad",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "meenmutty-falls",
+          "images": {
+            "main": "assets/images/states/kerala/meenmutty-falls.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/meenmutty-falls.webp"
+        },
+        {
+          "name": "Wayanad Wildlife Sanctuary",
+          "city": "Wayanad",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "wayanad-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/wayanad-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "edakkal-caves",
+      "image": "assets/images/states/kerala/edakkal-caves.webp",
+      "heroImage": "assets/images/states/kerala/edakkal-caves.webp"
+    },
+    {
+      "name": "Banasura Sagar Dam",
+      "city": "Wayanad",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Largest earth dam in India.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "banasura-sagar-dam",
+      "images": {
+        "main": "assets/images/states/kerala/banasura-sagar-dam.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Chembra Peak",
+          "city": "Wayanad",
+          "distance": "19 km away",
+          "category": "hills",
+          "slug": "chembra-peak",
+          "images": {
+            "main": "assets/images/states/kerala/chembra-peak.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/chembra-peak.webp"
+        },
+        {
+          "name": "Thirunelli Temple",
+          "city": "Wayanad",
+          "distance": "16 km away",
+          "category": "temples",
+          "slug": "thirunelli-temple",
+          "images": {
+            "main": "assets/images/states/kerala/thirunelli-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thirunelli-temple.webp"
+        }
+      ],
+      "id": "banasura-sagar-dam",
+      "image": "assets/images/states/kerala/banasura-sagar-dam.webp",
+      "heroImage": "assets/images/states/kerala/banasura-sagar-dam.webp"
+    },
+    {
+      "name": "Chembra Peak",
+      "city": "Wayanad",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Highest peak in Wayanad with a heart-shaped lake.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "chembra-peak",
+      "images": {
+        "main": "assets/images/states/kerala/chembra-peak.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Meenmutty Falls",
+          "city": "Wayanad",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "meenmutty-falls",
+          "images": {
+            "main": "assets/images/states/kerala/meenmutty-falls.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/meenmutty-falls.webp"
+        },
+        {
+          "name": "Banasura Sagar Dam",
+          "city": "Wayanad",
+          "distance": "19 km away",
+          "category": "nature",
+          "slug": "banasura-sagar-dam",
+          "images": {
+            "main": "assets/images/states/kerala/banasura-sagar-dam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/banasura-sagar-dam.webp"
+        }
+      ],
+      "id": "chembra-peak",
+      "image": "assets/images/states/kerala/chembra-peak.webp",
+      "heroImage": "assets/images/states/kerala/chembra-peak.webp"
+    },
+    {
+      "name": "Thirunelli Temple",
+      "city": "Wayanad",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Ancient temple dedicated to Lord Vishnu in the Brahmagiri hills.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "thirunelli-temple",
+      "images": {
+        "main": "assets/images/states/kerala/thirunelli-temple.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Aralam Wildlife Sanctuary",
+          "city": "Kannur",
+          "distance": "19 km away",
+          "category": "wildlife",
+          "slug": "aralam-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Banasura Sagar Dam",
+          "city": "Wayanad",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "banasura-sagar-dam",
+          "images": {
+            "main": "assets/images/states/kerala/banasura-sagar-dam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/banasura-sagar-dam.webp"
+        }
+      ],
+      "id": "thirunelli-temple",
+      "image": "assets/images/states/kerala/thirunelli-temple.webp",
+      "heroImage": "assets/images/states/kerala/thirunelli-temple.webp"
+    },
+    {
+      "name": "Silent Valley National Park",
+      "city": "Palakkad",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Pristine rainforest with the endangered Lion-tailed macaque.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "silent-valley-national-park",
+      "images": {
+        "main": "assets/images/states/kerala/silent-valley-national-park.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Nilambur Teak Museum",
+          "city": "Malappuram",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "nilambur-teak-museum",
+          "images": {
+            "main": "assets/images/states/kerala/nilambur-teak-museum.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/nilambur-teak-museum.webp"
+        },
+        {
+          "name": "Malampuzha Dam",
+          "city": "Palakkad",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "malampuzha-dam",
+          "images": {
+            "main": "assets/images/states/kerala/malampuzha-dam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/malampuzha-dam.webp"
+        }
+      ],
+      "id": "silent-valley-national-park",
+      "image": "assets/images/states/kerala/silent-valley-national-park.webp",
+      "heroImage": "assets/images/states/kerala/silent-valley-national-park.webp"
+    },
+    {
+      "name": "Malampuzha Dam",
+      "city": "Palakkad",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Largest reservoir in Kerala with a rock garden.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "malampuzha-dam",
+      "images": {
+        "main": "assets/images/states/kerala/malampuzha-dam.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Palakkad Fort",
+          "city": "Palakkad",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "palakkad-fort",
+          "images": {
+            "main": "assets/images/states/kerala/palakkad-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/palakkad-fort.webp"
+        },
+        {
+          "name": "Silent Valley National Park",
+          "city": "Palakkad",
+          "distance": "4 km away",
+          "category": "wildlife",
+          "slug": "silent-valley-national-park",
+          "images": {
+            "main": "assets/images/states/kerala/silent-valley-national-park.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/silent-valley-national-park.webp"
+        }
+      ],
+      "id": "malampuzha-dam",
+      "image": "assets/images/states/kerala/malampuzha-dam.webp",
+      "heroImage": "assets/images/states/kerala/malampuzha-dam.webp"
+    },
+    {
+      "name": "Nelliyampathy Hills",
+      "city": "Palakkad",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Stunning hill station with tea, coffee, and cardamom plantations.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "nelliyampathy-hills",
+      "images": {
+        "main": "assets/images/states/kerala/nelliyampathy-hills.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Parambikulam Tiger Reserve",
+          "city": "Palakkad",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "parambikulam-tiger-reserve",
+          "images": {
+            "main": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+        },
+        {
+          "name": "Palakkad Fort",
+          "city": "Palakkad",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "palakkad-fort",
+          "images": {
+            "main": "assets/images/states/kerala/palakkad-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/palakkad-fort.webp"
+        }
+      ],
+      "id": "nelliyampathy-hills",
+      "image": "assets/images/states/kerala/nelliyampathy-hills.webp",
+      "heroImage": "assets/images/states/kerala/nelliyampathy-hills.webp"
+    },
+    {
+      "name": "Parambikulam Tiger Reserve",
+      "city": "Palakkad",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Tiger reserve with dense forests and teak plantations.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "parambikulam-tiger-reserve",
+      "images": {
+        "main": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Nelliyampathy Hills",
+          "city": "Palakkad",
+          "distance": "18 km away",
+          "category": "hills",
+          "slug": "nelliyampathy-hills",
+          "images": {
+            "main": "assets/images/states/kerala/nelliyampathy-hills.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/nelliyampathy-hills.webp"
+        },
+        {
+          "name": "Athirappilly Waterfalls",
+          "city": "Thrissur",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "athirappilly-waterfalls",
+          "images": {
+            "main": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/athirappilly-waterfalls.webp"
+        }
+      ],
+      "id": "parambikulam-tiger-reserve",
+      "image": "assets/images/states/kerala/parambikulam-tiger-reserve.webp",
+      "heroImage": "assets/images/states/kerala/parambikulam-tiger-reserve.webp"
+    },
+    {
+      "name": "Munnar Tea Gardens",
+      "city": "Munnar",
+      "category": "nature",
+      "distance": "130 km from Kochi",
+      "rating": 4.8,
+      "description": "Munnar is a hill station at 1,600 m altitude, blanketed in emerald-green tea plantations stretching across rolling hills. Home to some of the highest tea-growing estates in the world, the town offers misty mountain vistas, rare Neelakurinji flowers (blooming once every 12 years), and rich biodiversity.",
+      "history": "Munnar was developed as a hill station by the British in the late 19th century. The tea plantations were established by the Finlay Muir Company in the 1870s. Today, the estates are managed by the Tata Group (Kannan Devan Hills Plantations).",
+      "famousFor": "Tea plantations, Eravikulam National Park, Nilgiri Tahr, Neelakurinji flowers (next bloom: 2030), Mattupetty Dam",
+      "bestTime": "September to May (December–February for mist; August–October for Neelakurinji if blooming year)",
+      "timings": "Tea Museum: 9:00 AM – 4:00 PM",
+      "entryFee": "Tea Museum: ₹125; Eravikulam NP: ₹125 Indians, ₹420 foreigners",
+      "slug": "munnar-tea-gardens",
+      "images": {
+        "main": "assets/images/states/kerala/munnar-tea-gardens.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Eravikulam National Park",
+          "city": "Idukki",
+          "distance": "16 km away",
+          "category": "wildlife",
+          "slug": "eravikulam-national-park",
+          "images": {
+            "main": "assets/images/states/kerala/eravikulam-national-park.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/eravikulam-national-park.webp"
+        },
+        {
+          "name": "Chinnar Wildlife Sanctuary",
+          "city": "Idukki",
+          "distance": "4 km away",
+          "category": "wildlife",
+          "slug": "chinnar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "munnar-tea-gardens",
+      "image": "assets/images/states/kerala/munnar-tea-gardens.webp",
+      "heroImage": "assets/images/states/kerala/munnar-tea-gardens.webp"
+    },
+    {
+      "name": "Eravikulam National Park",
+      "city": "Idukki",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Home to the endangered Nilgiri Tahr and Neelakurinji flowers.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "eravikulam-national-park",
+      "images": {
+        "main": "assets/images/states/kerala/eravikulam-national-park.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Munnar Tea Gardens",
+          "city": "Idukki",
+          "distance": "16 km away",
+          "category": "hills",
+          "slug": "munnar-tea-gardens",
+          "images": {
+            "main": "assets/images/states/kerala/munnar-tea-gardens.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/munnar-tea-gardens.webp"
+        },
+        {
+          "name": "Chinnar Wildlife Sanctuary",
+          "city": "Idukki",
+          "distance": "16 km away",
+          "category": "wildlife",
+          "slug": "chinnar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "eravikulam-national-park",
+      "image": "assets/images/states/kerala/eravikulam-national-park.webp",
+      "heroImage": "assets/images/states/kerala/eravikulam-national-park.webp"
+    },
+    {
+      "name": "Chinnar Wildlife Sanctuary",
+      "city": "Idukki",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Unique scrub forest habitat for the Grizzled Giant Squirrel.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "chinnar-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Eravikulam National Park",
+          "city": "Idukki",
+          "distance": "16 km away",
+          "category": "wildlife",
+          "slug": "eravikulam-national-park",
+          "images": {
+            "main": "assets/images/states/kerala/eravikulam-national-park.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/eravikulam-national-park.webp"
+        },
+        {
+          "name": "Munnar Tea Gardens",
+          "city": "Idukki",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "munnar-tea-gardens",
+          "images": {
+            "main": "assets/images/states/kerala/munnar-tea-gardens.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/munnar-tea-gardens.webp"
+        }
+      ],
+      "id": "chinnar-wildlife-sanctuary",
+      "image": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/chinnar-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Periyar Wildlife Sanctuary",
+      "city": "Idukki",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Famous tiger and elephant reserve centered around a lake.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "periyar-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/popular/periyar-national-park.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Gavi",
+          "city": "Pathanamthitta",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "gavi",
+          "images": {
+            "main": "assets/images/states/kerala/gavi.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/gavi.webp"
+        },
+        {
+          "name": "Sabarimala Ayyappa Temple",
+          "city": "Pathanamthitta",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "sabarimala-temple",
+          "images": {
+            "main": "assets/images/states/kerala/sabarimala-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/sabarimala-temple.webp"
+        }
+      ],
+      "id": "periyar-wildlife-sanctuary",
+      "image": "assets/images/popular/periyar-national-park.webp",
+      "heroImage": "assets/images/popular/periyar-national-park.webp"
+    },
+    {
+      "name": "Vagamon",
+      "city": "Idukki",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Serene hill station with pine forests and meadows.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "vagamon",
+      "images": {
+        "main": "assets/images/states/kerala/vagamon.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Illikkal Kallu",
+          "city": "Kottayam",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "illikkal-kallu",
+          "images": {
+            "main": "assets/images/states/kerala/illikkal-kallu.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/illikkal-kallu.webp"
+        },
+        {
+          "name": "Fort Kochi",
+          "city": "Kochi",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "fort-kochi",
+          "images": {
+            "main": "assets/images/states/kerala/fort-kochi.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/fort-kochi.webp"
+        }
+      ],
+      "id": "vagamon",
+      "image": "assets/images/states/kerala/vagamon.webp",
+      "heroImage": "assets/images/states/kerala/vagamon.webp"
+    },
+    {
+      "name": "Sabarimala Ayyappa Temple",
+      "city": "Pathanamthitta",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "One of the largest annual pilgrimage sites in the world.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "sabarimala-temple",
+      "images": {
+        "main": "assets/images/states/kerala/sabarimala-temple.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Gavi",
+          "city": "Pathanamthitta",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "gavi",
+          "images": {
+            "main": "assets/images/states/kerala/gavi.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/gavi.webp"
+        },
+        {
+          "name": "Periyar Wildlife Sanctuary",
+          "city": "Idukki",
+          "distance": "9 km away",
+          "category": "wildlife",
+          "slug": "periyar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/periyar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/periyar-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "sabarimala-temple",
+      "image": "assets/images/states/kerala/sabarimala-temple.webp",
+      "heroImage": "assets/images/states/kerala/sabarimala-temple.webp"
+    },
+    {
+      "name": "Alappuzha Backwaters",
+      "city": "Alappuzha",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Venice of the East, famous for houseboat cruises.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "alappuzha-backwaters",
+      "images": {
+        "main": "assets/images/popular/kerala-backwaters.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Marari Beach",
+          "city": "Alappuzha",
+          "distance": "11 km away",
+          "category": "beaches",
+          "slug": "marari-beach",
+          "images": {
+            "main": "assets/images/states/kerala/marari-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/marari-beach.webp"
+        },
+        {
+          "name": "Kuttanad Backwaters",
+          "city": "Alappuzha",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "kuttanad-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/kuttanad-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kuttanad-backwaters.webp"
+        }
+      ],
+      "id": "alappuzha-backwaters",
+      "image": "assets/images/popular/kerala-backwaters.webp",
+      "heroImage": "assets/images/popular/kerala-backwaters.webp"
+    },
+    {
+      "name": "Marari Beach",
+      "city": "Alappuzha",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Pristine and quiet beach ideal for relaxation.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "marari-beach",
+      "images": {
+        "main": "assets/images/states/kerala/marari-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Vembanad Lake",
+          "city": "Kottayam",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "vembanad-lake",
+          "images": {
+            "main": "assets/images/states/kerala/vembanad-lake.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vembanad-lake.webp"
+        },
+        {
+          "name": "Alappuzha Backwaters",
+          "city": "Alappuzha",
+          "distance": "11 km away",
+          "category": "nature",
+          "slug": "alappuzha-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/alappuzha-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/alappuzha-backwaters.webp"
+        }
+      ],
+      "id": "marari-beach",
+      "image": "assets/images/states/kerala/marari-beach.webp",
+      "heroImage": "assets/images/states/kerala/marari-beach.webp"
+    },
+    {
+      "name": "Kumarakom Bird Sanctuary",
+      "city": "Kottayam",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Paradise for migratory birds by the Vembanad Lake.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kumarakom-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Vembanad Lake",
+          "city": "Kottayam",
+          "distance": "11 km away",
+          "category": "nature",
+          "slug": "vembanad-lake",
+          "images": {
+            "main": "assets/images/states/kerala/vembanad-lake.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vembanad-lake.webp"
+        },
+        {
+          "name": "Kuttanad Backwaters",
+          "city": "Alappuzha",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kuttanad-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/kuttanad-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kuttanad-backwaters.webp"
+        }
+      ],
+      "id": "kumarakom-bird-sanctuary",
+      "image": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+    },
+    {
+      "name": "Ashtamudi Lake",
+      "city": "Kollam",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Gateway to the backwaters, famous for its shape.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ashtamudi-lake",
+      "images": {
+        "main": "assets/images/states/kerala/ashtamudi-lake.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Munroe Island",
+          "city": "Kollam",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "munroe-island",
+          "images": {
+            "main": "assets/images/states/kerala/munroe-island.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/munroe-island.webp"
+        },
+        {
+          "name": "Varkala Cliff",
+          "city": "Thiruvananthapuram",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "varkala-cliff",
+          "images": {
+            "main": "assets/images/states/kerala/varkala-cliff.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/varkala-cliff.webp"
+        }
+      ],
+      "id": "ashtamudi-lake",
+      "image": "assets/images/states/kerala/ashtamudi-lake.webp",
+      "heroImage": "assets/images/states/kerala/ashtamudi-lake.webp"
+    },
+    {
+      "name": "Munroe Island",
+      "city": "Kollam",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Hidden gem in the backwaters formed by the Kallada River.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "munroe-island",
+      "images": {
+        "main": "assets/images/states/kerala/munroe-island.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Ashtamudi Lake",
+          "city": "Kollam",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "ashtamudi-lake",
+          "images": {
+            "main": "assets/images/states/kerala/ashtamudi-lake.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ashtamudi-lake.webp"
+        },
+        {
+          "name": "Varkala Cliff",
+          "city": "Thiruvananthapuram",
+          "distance": "7 km away",
+          "category": "beaches",
+          "slug": "varkala-cliff",
+          "images": {
+            "main": "assets/images/states/kerala/varkala-cliff.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/varkala-cliff.webp"
+        }
+      ],
+      "id": "munroe-island",
+      "image": "assets/images/states/kerala/munroe-island.webp",
+      "heroImage": "assets/images/states/kerala/munroe-island.webp"
+    },
+    {
+      "name": "Thenmala Eco-Tourism",
+      "city": "Kollam",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "India's first planned eco-tourism destination.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "thenmala-eco-tourism",
+      "images": {
+        "main": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Ponmudi Hill Station",
+          "city": "Thiruvananthapuram",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "ponmudi-hill-station",
+          "images": {
+            "main": "assets/images/states/kerala/ponmudi-hill-station.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ponmudi-hill-station.webp"
+        },
+        {
+          "name": "Neyyar Wildlife Sanctuary",
+          "city": "Thiruvananthapuram",
+          "distance": "9 km away",
+          "category": "wildlife",
+          "slug": "neyyar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "thenmala-eco-tourism",
+      "image": "assets/images/states/kerala/thenmala-eco-tourism.webp",
+      "heroImage": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+    },
+    {
+      "name": "Varkala Cliff",
+      "city": "Thiruvananthapuram",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Unique sedimentary cliff formation adjacent to the Arabian Sea.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "varkala-cliff",
+      "images": {
+        "main": "assets/images/states/kerala/varkala-cliff.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Ashtamudi Lake",
+          "city": "Kollam",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "ashtamudi-lake",
+          "images": {
+            "main": "assets/images/states/kerala/ashtamudi-lake.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ashtamudi-lake.webp"
+        },
+        {
+          "name": "Munroe Island",
+          "city": "Kollam",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "munroe-island",
+          "images": {
+            "main": "assets/images/states/kerala/munroe-island.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/munroe-island.webp"
+        }
+      ],
+      "id": "varkala-cliff",
+      "image": "assets/images/states/kerala/varkala-cliff.webp",
+      "heroImage": "assets/images/states/kerala/varkala-cliff.webp"
+    },
+    {
+      "name": "Sree Padmanabhaswamy Temple",
+      "city": "Thiruvananthapuram",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "World's wealthiest place of worship dedicated to Lord Vishnu.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "padmanabhaswamy-temple",
+      "images": {
+        "main": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Kovalam Beach",
+          "city": "Thiruvananthapuram",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kovalam-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kovalam-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kovalam-beach.webp"
+        },
+        {
+          "name": "Poovar Island",
+          "city": "Thiruvananthapuram",
+          "distance": "17 km away",
+          "category": "beaches",
+          "slug": "poovar-island",
+          "images": {
+            "main": "assets/images/states/kerala/poovar-island.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/poovar-island.webp"
+        }
+      ],
+      "id": "padmanabhaswamy-temple",
+      "image": "assets/images/states/kerala/padmanabhaswamy-temple.webp",
+      "heroImage": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+    },
+    {
+      "name": "Kovalam Beach",
+      "city": "Thiruvananthapuram",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Internationally renowned crescent-shaped beach.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kovalam-beach",
+      "images": {
+        "main": "assets/images/states/kerala/kovalam-beach.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Sree Padmanabhaswamy Temple",
+          "city": "Thiruvananthapuram",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "padmanabhaswamy-temple",
+          "images": {
+            "main": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+        },
+        {
+          "name": "Poovar Island",
+          "city": "Thiruvananthapuram",
+          "distance": "12 km away",
+          "category": "beaches",
+          "slug": "poovar-island",
+          "images": {
+            "main": "assets/images/states/kerala/poovar-island.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/poovar-island.webp"
+        }
+      ],
+      "id": "kovalam-beach",
+      "image": "assets/images/states/kerala/kovalam-beach.webp",
+      "heroImage": "assets/images/states/kerala/kovalam-beach.webp"
+    },
+    {
+      "name": "Poovar Island",
+      "city": "Thiruvananthapuram",
+      "category": "beaches",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Tranquil estuary where backwaters meet the sea.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "poovar-island",
+      "images": {
+        "main": "assets/images/states/kerala/poovar-island.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Kovalam Beach",
+          "city": "Thiruvananthapuram",
+          "distance": "12 km away",
+          "category": "beaches",
+          "slug": "kovalam-beach",
+          "images": {
+            "main": "assets/images/states/kerala/kovalam-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kovalam-beach.webp"
+        },
+        {
+          "name": "Sree Padmanabhaswamy Temple",
+          "city": "Thiruvananthapuram",
+          "distance": "17 km away",
+          "category": "temples",
+          "slug": "padmanabhaswamy-temple",
+          "images": {
+            "main": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/padmanabhaswamy-temple.webp"
+        }
+      ],
+      "id": "poovar-island",
+      "image": "assets/images/states/kerala/poovar-island.webp",
+      "heroImage": "assets/images/states/kerala/poovar-island.webp"
+    },
+    {
+      "name": "Neyyar Wildlife Sanctuary",
+      "city": "Thiruvananthapuram",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Sanctuary housing a crocodile rehabilitation center.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "neyyar-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Agasthyakoodam",
+          "city": "Thiruvananthapuram",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "agasthyakoodam",
+          "images": {
+            "main": "assets/images/states/kerala/agasthyakoodam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/agasthyakoodam.webp"
+        },
+        {
+          "name": "Thenmala Eco-Tourism",
+          "city": "Kollam",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "thenmala-eco-tourism",
+          "images": {
+            "main": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+        }
+      ],
+      "id": "neyyar-wildlife-sanctuary",
+      "image": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Ponmudi Hill Station",
+      "city": "Thiruvananthapuram",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Golden peak offering winding roads and mist-covered hills.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ponmudi-hill-station",
+      "images": {
+        "main": "assets/images/states/kerala/ponmudi-hill-station.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Agasthyakoodam",
+          "city": "Thiruvananthapuram",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "agasthyakoodam",
+          "images": {
+            "main": "assets/images/states/kerala/agasthyakoodam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/agasthyakoodam.webp"
+        },
+        {
+          "name": "Thenmala Eco-Tourism",
+          "city": "Kollam",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "thenmala-eco-tourism",
+          "images": {
+            "main": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thenmala-eco-tourism.webp"
+        }
+      ],
+      "id": "ponmudi-hill-station",
+      "image": "assets/images/states/kerala/ponmudi-hill-station.webp",
+      "heroImage": "assets/images/states/kerala/ponmudi-hill-station.webp"
+    },
+    {
+      "name": "Agasthyakoodam",
+      "city": "Thiruvananthapuram",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Second highest peak in Kerala and a biosphere reserve.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "agasthyakoodam",
+      "images": {
+        "main": "assets/images/states/kerala/agasthyakoodam.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Neyyar Wildlife Sanctuary",
+          "city": "Thiruvananthapuram",
+          "distance": "14 km away",
+          "category": "wildlife",
+          "slug": "neyyar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/neyyar-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Ponmudi Hill Station",
+          "city": "Thiruvananthapuram",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "ponmudi-hill-station",
+          "images": {
+            "main": "assets/images/states/kerala/ponmudi-hill-station.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ponmudi-hill-station.webp"
+        }
+      ],
+      "id": "agasthyakoodam",
+      "image": "assets/images/states/kerala/agasthyakoodam.webp",
+      "heroImage": "assets/images/states/kerala/agasthyakoodam.webp"
+    },
+    {
+      "name": "Kuttanad Backwaters",
+      "city": "Alappuzha",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.8,
+      "description": "Rice bowl of Kerala with farming below sea level.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kuttanad-backwaters",
+      "images": {
+        "main": "assets/images/states/kerala/kuttanad-backwaters.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Alappuzha Backwaters",
+          "city": "Alappuzha",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "alappuzha-backwaters",
+          "images": {
+            "main": "assets/images/states/kerala/alappuzha-backwaters.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/alappuzha-backwaters.webp"
+        },
+        {
+          "name": "Kumarakom Bird Sanctuary",
+          "city": "Kottayam",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "kumarakom-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+        }
+      ],
+      "id": "kuttanad-backwaters",
+      "image": "assets/images/states/kerala/kuttanad-backwaters.webp",
+      "heroImage": "assets/images/states/kerala/kuttanad-backwaters.webp"
+    },
+    {
+      "name": "Illikkal Kallu",
+      "city": "Kottayam",
+      "category": "hills",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "A magnificent rock formation towering over the hills.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "illikkal-kallu",
+      "images": {
+        "main": "assets/images/states/kerala/illikkal-kallu.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Vagamon",
+          "city": "Idukki",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "vagamon",
+          "images": {
+            "main": "assets/images/states/kerala/vagamon.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/vagamon.webp"
+        },
+        {
+          "name": "Thattekkad Bird Sanctuary",
+          "city": "Kothamangalam",
+          "distance": "14 km away",
+          "category": "wildlife",
+          "slug": "thattekkad-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/thattekkad-bird-sanctuary.webp"
+        }
+      ],
+      "id": "illikkal-kallu",
+      "image": "assets/images/states/kerala/illikkal-kallu.webp",
+      "heroImage": "assets/images/states/kerala/illikkal-kallu.webp"
+    },
+    {
+      "name": "Gavi",
+      "city": "Pathanamthitta",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Untouched eco-tourism spot inside the Periyar reserve.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "gavi",
+      "images": {
+        "main": "assets/images/states/kerala/gavi.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Periyar Wildlife Sanctuary",
+          "city": "Idukki",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "periyar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/periyar-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/periyar-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Sabarimala Ayyappa Temple",
+          "city": "Pathanamthitta",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "sabarimala-temple",
+          "images": {
+            "main": "assets/images/states/kerala/sabarimala-temple.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/sabarimala-temple.webp"
+        }
+      ],
+      "id": "gavi",
+      "image": "assets/images/states/kerala/gavi.webp",
+      "heroImage": "assets/images/states/kerala/gavi.webp"
+    },
+    {
+      "name": "Meenmutty Falls",
+      "city": "Wayanad",
+      "category": "waterfalls",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Spectacular three-tiered waterfall.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "meenmutty-falls",
+      "images": {
+        "main": "assets/images/states/kerala/meenmutty-falls.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Edakkal Caves",
+          "city": "Wayanad",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "edakkal-caves",
+          "images": {
+            "main": "assets/images/states/kerala/edakkal-caves.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/edakkal-caves.webp"
+        },
+        {
+          "name": "Chembra Peak",
+          "city": "Wayanad",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "chembra-peak",
+          "images": {
+            "main": "assets/images/states/kerala/chembra-peak.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/chembra-peak.webp"
+        }
+      ],
+      "id": "meenmutty-falls",
+      "image": "assets/images/states/kerala/meenmutty-falls.webp",
+      "heroImage": "assets/images/states/kerala/meenmutty-falls.webp"
+    },
+    {
+      "name": "Palakkad Fort",
+      "city": "Palakkad",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.6,
+      "description": "Well-preserved fort built by Hyder Ali.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "palakkad-fort",
+      "images": {
+        "main": "assets/images/states/kerala/palakkad-fort.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Malampuzha Dam",
+          "city": "Palakkad",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "malampuzha-dam",
+          "images": {
+            "main": "assets/images/states/kerala/malampuzha-dam.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/malampuzha-dam.webp"
+        },
+        {
+          "name": "Nelliyampathy Hills",
+          "city": "Palakkad",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "nelliyampathy-hills",
+          "images": {
+            "main": "assets/images/states/kerala/nelliyampathy-hills.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/nelliyampathy-hills.webp"
+        }
+      ],
+      "id": "palakkad-fort",
+      "image": "assets/images/states/kerala/palakkad-fort.webp",
+      "heroImage": "assets/images/states/kerala/palakkad-fort.webp"
+    },
+    {
+      "name": "Kavvayi Backwaters",
+      "city": "Kannur",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Unexplored backwater destination in North Kerala.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kavvayi-backwaters",
+      "images": {
+        "main": "assets/images/states/kerala/kavvayi-backwaters.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Bekal Fort",
+          "city": "Kasaragod",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "bekal-fort",
+          "images": {
+            "main": "assets/images/states/kerala/bekal-fort.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/bekal-fort.webp"
+        },
+        {
+          "name": "Ranipuram Hills",
+          "city": "Kasaragod",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "ranipuram-hills",
+          "images": {
+            "main": "assets/images/states/kerala/ranipuram-hills.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/ranipuram-hills.webp"
+        }
+      ],
+      "id": "kavvayi-backwaters",
+      "image": "assets/images/states/kerala/kavvayi-backwaters.webp",
+      "heroImage": "assets/images/states/kerala/kavvayi-backwaters.webp"
+    },
+    {
+      "name": "Thalassery Fort",
+      "city": "Kannur",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Historic fort built by the British East India Company.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "thalassery-fort",
+      "images": {
+        "main": "assets/images/states/kerala/thalassery-fort.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Muzhappilangad Drive-in Beach",
+          "city": "Kannur",
+          "distance": "6 km away",
+          "category": "beaches",
+          "slug": "muzhappilangad-drive-in-beach",
+          "images": {
+            "main": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/muzhappilangad-drive-in-beach.webp"
+        },
+        {
+          "name": "Aralam Wildlife Sanctuary",
+          "city": "Kannur",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "aralam-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/aralam-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "thalassery-fort",
+      "image": "assets/images/states/kerala/thalassery-fort.webp",
+      "heroImage": "assets/images/states/kerala/thalassery-fort.webp"
+    },
+    {
+      "name": "Vembanad Lake",
+      "city": "Kottayam",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.7,
+      "description": "Longest lake in India and the heart of Kerala backwaters.",
+      "history": "Historical and cultural significance in Kerala.",
+      "famousFor": "Scenic beauty and vibrant culture.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "vembanad-lake",
+      "images": {
+        "main": "assets/images/states/kerala/vembanad-lake.webp"
+      },
+      "state": "Kerala",
+      "nearbyAttractions": [
+        {
+          "name": "Marari Beach",
+          "city": "Alappuzha",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "marari-beach",
+          "images": {
+            "main": "assets/images/states/kerala/marari-beach.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/marari-beach.webp"
+        },
+        {
+          "name": "Kumarakom Bird Sanctuary",
+          "city": "Kottayam",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "kumarakom-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+          },
+          "state": "Kerala",
+          "image": "assets/images/states/kerala/kumarakom-bird-sanctuary.webp"
+        }
+      ],
+      "id": "vembanad-lake",
+      "image": "assets/images/states/kerala/vembanad-lake.webp",
+      "heroImage": "assets/images/states/kerala/vembanad-lake.webp"
+    },
+    {
+      "name": "Alleppey Backwaters",
+      "city": "Alappuzha",
+      "distance": "53 km from Kochi",
+      "category": "nature",
+      "slug": "alleppey-backwaters",
+      "images": {
+        "main": "assets/images/popular/kerala-backwaters.webp"
+      },
+      "image": "assets/images/popular/kerala-backwaters.webp",
+      "description": "Alappuzha (Alleppey) is the \"Venice of the East,\" famous for its labyrinthine network of backwater canals, lagoons, and lakes. Houseboat cruises through the palm-fringed waterways offer an enchanting glimpse into Kerala's traditional village life, paddy fields, and coconut groves.",
+      "history": "Alleppey was developed as a major trading port by Diwan Surya Narayana Rao in the late 18th century. The famous Nehru Trophy Boat Race, held annually on Punnamada Lake since 1952, features traditional snake boats (chundan vallam) with 100+ oarsmen.",
+      "famousFor": "Houseboat cruises, Nehru Trophy Boat Race, Punnamada Lake, Coir making, Rice paddies",
+      "bestTime": "September to March (August for Snake Boat Race)",
+      "timings": "Houseboats: Check-in 12:00 PM, Check-out 9:00 AM",
+      "entryFee": "Houseboats: ₹6,000–₹25,000 per night, Shikara rides: ₹400–₹800/hour",
+      "nearbyAttractions": [],
+      "state": "Kerala",
+      "heroImage": "assets/images/popular/kerala-backwaters.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/kerala/banner.webp",
+  "bestTime": "September to March",
+  "language": "Malayalam, English"
+}

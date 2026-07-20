@@ -1,0 +1,71 @@
+{
+  "id": "sonamarg",
+  "slug": "sonamarg",
+  "name": "Sonamarg",
+  "location": "Jammu & Kashmir, India",
+  "district": "Ganderbal",
+  "stateId": "jammu-and-kashmir",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/sonamarg.webp",
+  "heroImage": "./assets/images/popular/sonamarg.webp",
+  "gallery": [
+    "./assets/images/popular/sonamarg.webp"
+  ],
+  "overview": "Experience the beauty of Sonamarg, a top destination in Jammu & Kashmir, India.",
+  "description": "Sonamarg, translated to the 'Meadow of Gold', acts as a gorgeous gateway to the ancient Silk Road and breathtaking nearby glaciers.",
+  "rating": "4.8",
+  "reviewCount": 25437,
+  "popularityScore": 61,
+  "priceLevel": 2,
+  "bestTimeToVisit": "April to October",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Srinagar Airport",
+      "distance": "80 km"
+    },
+    "nearestRailway": {
+      "name": "Jammu Tawi",
+      "distance": "360 km"
+    },
+    "byRoad": "Beautiful driving route along the Nallah Sindh."
+  },
+  "tags": [
+    "nature",
+    "jammu-and-kashmir",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3903
+    },
+    {
+      "views": 3193
+    }
+  ],
+  "nearbyPlaces": [
+    "dal-lake",
+    "vaishno-devi",
+    "amarnath-cave"
+  ]
+}

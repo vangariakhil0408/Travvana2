@@ -1,0 +1,39 @@
+{
+  "id": "saddle-peak",
+  "name": "Saddle Peak",
+  "city": "North Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "The highest point in the entire Andaman and Nicobar archipelago at 732 meters, offering a challenging trekking route through dense tropical rainforests.",
+  "history": "Part of the Saddle Peak National Park, the dense forests are home to rare endemic flora and fauna.",
+  "famousFor": "Highest peak, trekking, panoramic island views.",
+  "bestTime": "October to April",
+  "timings": "6:00 AM - 5:00 PM",
+  "entryFee": "\u20b925",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+  ],
+  "nearbyPlaces": [
+    "samudrika-naval-marine-museum",
+    "north-bay-island",
+    "mundapahad",
+    "mount-harriet-national-park",
+    "barren-island",
+    "long-island",
+    "mahatma-gandhi-marine-national-park",
+    "cellular-jail",
+    "viper-island",
+    "aberdeen-bazaar",
+    "chatham-saw-mill",
+    "marina-park",
+    "jolly-buoy-island",
+    "ross-island",
+    "kalipur-beach",
+    "wandoor-beach",
+    "corbyns-cove-beach",
+    "diglipur-town",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

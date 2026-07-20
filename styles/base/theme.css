@@ -1,0 +1,73 @@
+/* ============================================
+   TRAVVANA — Advanced Premium Theme Ecosystem (2-Theme System)
+   ============================================ */
+
+/* ── Global Transitions ── */
+body, .card, .bottom-nav, .top-bar, .theme-switch-pill, .section-title, .heading-1, .heading-2, p, span {
+  transition: background 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+              color 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+              border-color 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+              box-shadow 0.4s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+/* ── ☀️ Light Mode: Golden Daylight ── */
+[data-theme="light"] {
+  --clr-bg-primary:      #F8FAFC;
+  --clr-bg-secondary:    #FFFFFF;
+  --clr-bg-tertiary:     #F1F5F9;
+  --clr-bg-card:         #FFFFFF;
+  --clr-bg-card-hover:   #F8FAFC;
+  --clr-bg-elevated:     #E5E7EB;
+  --clr-bg-overlay:      rgba(0, 0, 0, 0.3);
+  --clr-bg-glass:        rgba(255, 255, 255, 0.72);
+  --clr-bg-surface:      #FFFFFF;
+  --clr-bg-page-gradient: linear-gradient(180deg, #F8FAFC 0%, #FFFFFF 100%);
+
+  --clr-text-primary:    #111827;
+  --clr-text-secondary:  #4B5563;
+  --clr-text-muted:      #6B7280;
+
+  --clr-border:          #E5E7EB;
+  --clr-border-active:   rgba(255, 138, 0, 0.4);
+  --clr-divider:         #E5E7EB;
+
+  --clr-accent:          #D97706;
+  --clr-accent-hover:    #B45309;
+  --clr-accent-light:    rgba(217, 119, 6, 0.1);
+  --clr-accent-gradient: linear-gradient(135deg, #D97706 0%, #F59E0B 100%);
+  --clr-accent-glow:     0 0 24px rgba(217, 119, 6, 0.2);
+
+  --glass-bg:            rgba(255, 255, 255, 0.75);
+  --glass-border:        rgba(0, 0, 0, 0.08);
+}
+
+/* ── 🌙 Dark Mode: Midnight Explorer (Default override) ── */
+[data-theme="dark"] {
+  --clr-bg-primary:      #050816;
+  --clr-bg-secondary:    #0A1228;
+  --clr-bg-tertiary:     #111827;
+  --clr-bg-card:         #111827;
+  --clr-bg-card-hover:   #1F2937;
+  --clr-bg-elevated:     #374151;
+  --clr-bg-overlay:      rgba(0, 0, 0, 0.6);
+  --clr-bg-glass:        rgba(10, 18, 40, 0.72);
+  --clr-bg-surface:      #1F2937;
+  --clr-bg-page-gradient: linear-gradient(180deg, #050816 0%, #0A1228 100%);
+
+  --clr-text-primary:    #FFFFFF;
+  --clr-text-secondary:  #D1D5DB;
+  --clr-text-muted:      #9CA3AF;
+
+  --clr-border:          rgba(255, 255, 255, 0.08);
+  --clr-border-active:   rgba(255, 138, 0, 0.4);
+  --clr-divider:         rgba(255, 255, 255, 0.05);
+
+  --clr-accent:          #FF8A00;
+  --clr-accent-hover:    #FBBF24;
+  --clr-accent-light:    rgba(255, 138, 0, 0.15);
+  --clr-accent-gradient: linear-gradient(135deg, #FF8A00 0%, #FBBF24 100%);
+  --clr-accent-glow:     0 0 24px rgba(255, 138, 0, 0.15);
+
+  --glass-bg:            rgba(10, 18, 40, 0.65);
+  --glass-border:        rgba(255, 255, 255, 0.05);
+}

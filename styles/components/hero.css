@@ -1,0 +1,219 @@
+/* ============================================
+   TRAVVANA — Hero Component
+   ============================================ */
+
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 320px;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  margin-top: calc(-1 * var(--nav-height));
+  padding-top: var(--nav-height);
+}
+
+.hero--full { min-height: 70vh; }
+.hero--compact { min-height: 240px; }
+
+/* Banner variant: image fills the hero as rounded container */
+.hero--banner {
+  min-height: auto;
+  margin-top: 0;
+  padding-top: 0;
+  align-items: stretch;
+}
+
+.hero--banner .hero__bg {
+  position: relative;
+  width: 100%;
+  border-radius: 0;
+  overflow: hidden;
+  aspect-ratio: 16 / 7;
+}
+
+.hero--banner .hero__bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero--banner .hero__bg-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.1) 40%,
+    transparent 70%
+  );
+}
+
+.hero--banner .hero__content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  padding: var(--sp-6) var(--sp-6) var(--sp-5);
+}
+
+.hero--banner .hero__title {
+  font-size: var(--fs-3xl);
+  font-weight: var(--fw-extrabold);
+  color: white;
+  line-height: 1.1;
+  margin: 0;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+
+.hero--banner .hero__subtitle {
+  font-size: var(--fs-sm);
+  color: #FFFFFF;
+  margin-top: var(--sp-1);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+
+/* Standard hero backgrounds */
+.hero__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.hero__bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero__bg-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(10, 10, 15, 0.3) 0%,
+    rgba(10, 10, 15, 0.6) 50%,
+    rgba(10, 10, 15, 0.95) 100%
+  );
+}
+
+/* Gradient placeholder when no image */
+.hero__bg-gradient {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding: var(--sp-8) var(--sp-4) var(--sp-6);
+}
+
+.hero__label {
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-bold);
+  text-transform: uppercase;
+  letter-spacing: var(--ls-wider);
+  color: var(--clr-accent);
+  margin-bottom: var(--sp-2);
+}
+
+.hero__title {
+  font-size: var(--fs-3xl);
+  font-weight: var(--fw-extrabold);
+  color: white;
+  line-height: var(--lh-tight);
+  margin-bottom: var(--sp-2);
+}
+
+.hero__subtitle {
+  font-size: var(--fs-base);
+  color: #FFFFFF;
+  max-width: 500px;
+  line-height: var(--lh-relaxed);
+}
+
+.hero__actions {
+  display: flex;
+  gap: var(--sp-3);
+  margin-top: var(--sp-6);
+  flex-wrap: wrap;
+}
+
+/* ── Hero Search (landing page) ── */
+.hero__search {
+  width: 100%;
+  max-width: 480px;
+  margin-top: var(--sp-6);
+}
+
+.hero__search .search-bar__input {
+  background: var(--glass-bg);
+  border-color: var(--glass-border);
+  backdrop-filter: var(--glass-blur);
+  color: white;
+}
+
+.hero__search .search-bar__input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.hero__search .search-bar__icon {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* ── Hero Stats ── */
+.hero__stats {
+  display: flex;
+  gap: var(--sp-6);
+  margin-top: var(--sp-4);
+}
+
+.hero__stat {
+  text-align: left;
+}
+
+.hero__stat-value {
+  font-size: var(--fs-2xl);
+  font-weight: var(--fw-extrabold);
+  color: white;
+}
+
+.hero__stat-label {
+  font-size: var(--fs-xs);
+  color: #FFFFFF;
+}
+
+/* ── Parallax-like effect on scroll ── */
+.hero__bg img {
+  transition: transform 0.1s linear;
+}
+
+@media (min-width: 768px) {
+  .hero { min-height: 400px; }
+  .hero--full { min-height: 80vh; }
+  .hero__title { font-size: var(--fs-5xl); }
+  .hero__content { padding: var(--sp-12) var(--sp-8) var(--sp-8); }
+
+  .hero--banner .hero__bg {
+    aspect-ratio: 16 / 6;
+  }
+  .hero--banner .hero__title {
+    font-size: var(--fs-4xl);
+  }
+  .hero--banner .hero__content {
+    padding: var(--sp-8);
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero--banner .hero__bg {
+    aspect-ratio: 21 / 8;
+  }
+  .hero--banner .hero__title {
+    font-size: var(--fs-5xl);
+  }
+}

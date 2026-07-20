@@ -1,0 +1,71 @@
+{
+  "id": "meenakshi-amman-temple",
+  "slug": "meenakshi-amman-temple",
+  "name": "Meenakshi Amman Temple",
+  "location": "Tamil Nadu, India",
+  "district": "Madurai",
+  "stateId": "tamil-nadu",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/meenakshi-amman-temple.webp",
+  "heroImage": "./assets/images/popular/meenakshi-amman-temple.webp",
+  "gallery": [
+    "./assets/images/popular/meenakshi-amman-temple.webp"
+  ],
+  "overview": "Experience the beauty of Meenakshi Amman Temple, a top destination in Tamil Nadu, India.",
+  "description": "Meenakshi Temple is a prominent Hindu temple located on the southern bank of the Vaigai River. It is famously dedicated to the goddess Meenakshi and her consort, Sundareshwara.",
+  "rating": "4.4",
+  "reviewCount": 21276,
+  "popularityScore": 91,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Madurai Airport",
+      "distance": "12 km"
+    },
+    "nearestRailway": {
+      "name": "Madurai Junction",
+      "distance": "2 km"
+    },
+    "byRoad": "Centrally located in Madurai."
+  },
+  "tags": [
+    "spiritual",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2191
+    },
+    {
+      "views": 4283
+    }
+  ],
+  "nearbyPlaces": [
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple",
+    "ooty"
+  ]
+}

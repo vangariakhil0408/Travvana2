@@ -1,0 +1,21 @@
+{
+  "id": "patalpani-waterfall",
+  "name": "Patalpani Waterfall",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "description": "A popular picnic spot near Indore where the waterfall plunges 300 feet into a pool that legend says goes as deep as 'Patal' (the underworld).",
+  "history": "A natural waterfall in the Malwa plateau region. It is a seasonal attraction that becomes roaringly beautiful during the monsoons.",
+  "famousFor": "300-ft plunge and trekking.",
+  "bestTime": "July to October",
+  "timings": "9:00 AM \u2013 6:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/patalpani-waterfall.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/patalpani-waterfall.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/patalpani-waterfall.webp"
+  ],
+  "nearbyPlaces": [
+    "lal-bagh-palace",
+    "rajwada-palace"
+  ]
+}

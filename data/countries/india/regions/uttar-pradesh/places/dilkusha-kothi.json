@@ -1,0 +1,84 @@
+{
+  "id": "dilkusha-kothi",
+  "slug": "dilkusha-kothi",
+  "name": "Dilkusha Kothi",
+  "location": "Uttar Pradesh, India",
+  "district": "Lucknow",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The romantic, haunting ruins of a British-era baroque palace originally used as a royal hunting lodge. Its towering pillars and crumbling arches set amidst sprawling gardens create an incredibly atmospheric scene.",
+  "description": "Built in the early 19th century by Major Gore Ouseley. It was severely damaged during the Siege of Lucknow in 1857 and has been preserved in its ruined state.",
+  "rating": "4.5",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "lucknow-bara-imambara",
+    "lucknow-residency",
+    "rumi-darwaza",
+    "dudhwa-national-park",
+    "shravasti",
+    "vindhyachal-devi",
+    "lucknow-ambedkar-park",
+    "kapilvastu",
+    "chandraprabha-wildlife",
+    "nawabganj-bird-sanctuary",
+    "sankisa",
+    "hastinapur",
+    "naimisharanya",
+    "kalinjar-fort",
+    "deogarh-dashavatara",
+    "gorakhpur-gorakhnath",
+    "kannauj-perfume",
+    "kaushambi",
+    "pilibhit-tiger-reserve",
+    "etawah-safari-park",
+    "sardhana-basilica",
+    "kukrail-reserve",
+    "chattar-manzil",
+    "salkhan-fossil-park",
+    "deva-sharif",
+    "katarniaghat-wildlife"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Dilkusha-Kothi.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Dilkusha-Kothi.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Dilkusha-Kothi.webp"
+  ]
+}

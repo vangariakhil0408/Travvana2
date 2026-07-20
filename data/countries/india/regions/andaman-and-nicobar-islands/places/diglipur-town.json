@@ -1,0 +1,39 @@
+{
+  "id": "diglipur-town",
+  "name": "Diglipur Town",
+  "city": "North Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "The largest town and commercial hub of North Andaman, serving as the primary base for exploring Saddle Peak National Park, the famous twin islands, and Kalipur Beach's turtle nesting site.",
+  "history": "Settled by Bengali refugees after the 1947 partition, Diglipur retains a unique cultural identity blending Bengal and Andaman traditions.",
+  "famousFor": "Base for North Andaman exploration, turtle nesting, local markets.",
+  "bestTime": "November to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar.webp"
+  ],
+  "nearbyPlaces": [
+    "ross-island",
+    "corbyns-cove-beach",
+    "wandoor-beach",
+    "kalipur-beach",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "aberdeen-bazaar",
+    "cellular-jail",
+    "chatham-saw-mill",
+    "mahatma-gandhi-marine-national-park",
+    "marina-park",
+    "jolly-buoy-island",
+    "barren-island",
+    "long-island",
+    "north-bay-island",
+    "mundapahad",
+    "mount-harriet-national-park",
+    "viper-island",
+    "saddle-peak",
+    "samudrika-naval-marine-museum"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "north-bay-island",
+  "name": "North Bay Island",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A coral paradise where crystal-clear waters reveal a kaleidoscope of marine life, making it the top destination for sea walking and glass-bottom boat rides.",
+  "history": "Featured in the Bollywood film Kaho Naa Pyaar Hai, this island has been a major water-sports hub since the early 2000s.",
+  "famousFor": "Sea walking, snorkeling, scuba diving",
+  "bestTime": "October to May",
+  "timings": "8:00 AM \u2013 4:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+  ],
+  "nearbyPlaces": [
+    "saddle-peak",
+    "mount-harriet-national-park",
+    "barren-island",
+    "mundapahad",
+    "samudrika-naval-marine-museum",
+    "long-island",
+    "mahatma-gandhi-marine-national-park",
+    "cellular-jail",
+    "viper-island",
+    "chatham-saw-mill",
+    "aberdeen-bazaar",
+    "marina-park",
+    "ross-island",
+    "jolly-buoy-island",
+    "kalipur-beach",
+    "wandoor-beach",
+    "diglipur-town",
+    "corbyns-cove-beach",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

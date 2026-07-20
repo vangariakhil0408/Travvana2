@@ -1,0 +1,25 @@
+{
+  "id": "ins-khukri-memorial",
+  "name": "INS Khukri Memorial",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A solemn and beautifully situated memorial paying tribute to the officers and sailors of the Indian Naval Ship Khukri, which sank during the 1971 Indo-Pak war.",
+  "history": "The INS Khukri was torpedoed by a Pakistani submarine on December 9, 1971, off the coast of Diu. The memorial features a scaled model of the frigate encased in glass facing the sea.",
+  "famousFor": "Naval war memorial, glass-encased ship model, and sunset views.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+  ],
+  "nearbyPlaces": [
+    "ghoghla-beach",
+    "diu-fort",
+    "gangeshwar-mahadev-temple",
+    "panikotha",
+    "nagoa-beach",
+    "naida-caves"
+  ]
+}

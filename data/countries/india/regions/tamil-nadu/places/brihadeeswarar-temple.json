@@ -1,0 +1,71 @@
+{
+  "id": "brihadeeswarar-temple",
+  "slug": "brihadeeswarar-temple",
+  "name": "Brihadeeswarar Temple",
+  "location": "Tamil Nadu, India",
+  "district": "Thanjavur",
+  "stateId": "tamil-nadu",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/brihadeeswarar-temple.webp",
+  "heroImage": "./assets/images/popular/brihadeeswarar-temple.webp",
+  "gallery": [
+    "./assets/images/popular/brihadeeswarar-temple.webp"
+  ],
+  "overview": "Experience the beauty of Brihadeeswarar Temple, a top destination in Tamil Nadu, India.",
+  "description": "The Brihadeeswarar Temple is a magnificent Chola era Hindu temple built entirely out of granite. It remains one of the largest South Indian temples.",
+  "rating": "4.6",
+  "reviewCount": 20901,
+  "popularityScore": 70,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Tiruchirappalli International Airport",
+      "distance": "60 km"
+    },
+    "nearestRailway": {
+      "name": "Thanjavur Junction",
+      "distance": "2 km"
+    },
+    "byRoad": "Buses commute frequently across the district."
+  },
+  "tags": [
+    "spiritual",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3570
+    },
+    {
+      "views": 3765
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple"
+  ]
+}

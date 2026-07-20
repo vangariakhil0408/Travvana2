@@ -1,0 +1,64 @@
+{
+  "id": "sarnath",
+  "slug": "sarnath",
+  "name": "Sarnath",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The sacred site where Lord Buddha delivered his first sermon (Dharma Chakra Pravartan) after attaining enlightenment. The Dhamek Stupa and Ashoka Pillar with the Lion Capital (India's national emblem) stand here.",
+  "description": "Emperor Ashoka built stupas and monasteries here in the 3rd century BCE. The Lion Capital of Ashoka found here became independent India's national emblem.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "kashi-vishwanath",
+    "ramnagar-fort",
+    "tulsi-manas-temple",
+    "bharat-kala-bhavan",
+    "assi-ghat"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Sarnath.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Sarnath.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Sarnath.webp"
+  ]
+}

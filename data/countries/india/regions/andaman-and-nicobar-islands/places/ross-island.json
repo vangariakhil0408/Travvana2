@@ -1,0 +1,39 @@
+{
+  "id": "ross-island",
+  "name": "Ross Island (Netaji Subhash Chandra Bose Island)",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Haunting colonial ruins reclaimed by nature, where massive tree roots engulf crumbling British buildings and spotted deer roam freely through the overgrown pathways.",
+  "history": "Served as the administrative headquarters of the British in the Andaman Islands from 1858 until an earthquake in 1941 forced evacuation.",
+  "famousFor": "British colonial ruins, free-roaming deer, and Light & Sound show",
+  "bestTime": "October to May",
+  "timings": "8:30 AM \u2013 4:00 PM (Closed on Wednesdays)",
+  "entryFee": "\u20b930",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/ross-island.webp"
+  ],
+  "nearbyPlaces": [
+    "diglipur-town",
+    "corbyns-cove-beach",
+    "wandoor-beach",
+    "kalipur-beach",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "aberdeen-bazaar",
+    "marina-park",
+    "chatham-saw-mill",
+    "jolly-buoy-island",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "barren-island",
+    "long-island",
+    "north-bay-island",
+    "mundapahad",
+    "mount-harriet-national-park",
+    "saddle-peak",
+    "viper-island",
+    "samudrika-naval-marine-museum"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "tsomgo-lake",
+  "slug": "tsomgo-lake",
+  "name": "Tsomgo Lake",
+  "location": "Ladakh, India",
+  "district": "",
+  "stateId": "ladakh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/tsomgo-lake.webp",
+  "heroImage": "./assets/images/popular/tsomgo-lake.webp",
+  "gallery": [
+    "./assets/images/popular/tsomgo-lake.webp"
+  ],
+  "overview": "Experience the beauty of Tsomgo Lake, a top destination in Ladakh, India.",
+  "description": "One of the most celebrated nature destinations in Ladakh, India, Tsomgo Lake offers an unforgettable journey. Drawing explorers from all corners of the globe, it stands as a testament to India's unparalleled diversity. Make sure to allocate enough time to fully soak in the intricate details and sweeping landscapes.",
+  "rating": "4.9",
+  "reviewCount": 15867,
+  "popularityScore": 15,
+  "priceLevel": 1,
+  "bestTimeToVisit": "Oct - Mar",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "₹50 - ₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "54 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "19 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "nature",
+    "ladakh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1877
+    },
+    {
+      "views": 4787
+    }
+  ],
+  "nearbyPlaces": [
+    "leh-ladakh",
+    "pangong-lake",
+    "hemis-monastery"
+  ]
+}

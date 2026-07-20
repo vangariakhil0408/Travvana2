@@ -1,0 +1,161 @@
+/* ============================================
+   TRAVVANA — Skeleton Loading Animations
+   ============================================ */
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--clr-bg-tertiary);
+  border-radius: var(--radius-md);
+}
+
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--clr-bg-surface) 50%,
+    transparent 100%
+  );
+  animation: skeleton-shimmer 1.5s infinite;
+}
+
+@keyframes skeleton-shimmer {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* ── Skeleton Variants ── */
+.skeleton--text {
+  height: 14px;
+  width: 100%;
+  border-radius: var(--radius-sm);
+}
+
+.skeleton--text-sm {
+  height: 12px;
+  width: 60%;
+  border-radius: var(--radius-sm);
+}
+
+.skeleton--title {
+  height: 20px;
+  width: 75%;
+  border-radius: var(--radius-sm);
+}
+
+.skeleton--circle {
+  border-radius: 50%;
+}
+
+.skeleton--card {
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--clr-border);
+}
+
+/* ── Skeleton Card Layout ── */
+.skeleton-card {
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--clr-border);
+  overflow: hidden;
+  background: var(--clr-bg-card);
+}
+
+.skeleton-card__image {
+  aspect-ratio: 4 / 3;
+  background: var(--clr-bg-tertiary);
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-card__image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--clr-bg-surface) 50%,
+    transparent 100%
+  );
+  animation: skeleton-shimmer 1.5s infinite;
+}
+
+.skeleton-card__body {
+  padding: var(--sp-3) var(--sp-4) var(--sp-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+}
+
+/* ── State card skeleton ── */
+.skeleton-card--state .skeleton-card__image {
+  aspect-ratio: 16 / 10;
+}
+
+/* ── Hero skeleton ── */
+.skeleton-hero {
+  min-height: 320px;
+  background: var(--clr-bg-tertiary);
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--clr-bg-surface) 50%,
+    transparent 100%
+  );
+  animation: skeleton-shimmer 2s infinite;
+}
+
+/* ── Skeleton Grid ── */
+.skeleton-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--sp-3);
+}
+
+@media (min-width: 768px) {
+  .skeleton-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .skeleton-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* ── Fade in transition ── */
+.fade-in {
+  animation: fadeIn 0.4s var(--ease-out) forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Staggered children ── */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.4s var(--ease-out) forwards;
+}
+
+.stagger-children > *:nth-child(1)  { animation-delay: 0ms; }
+.stagger-children > *:nth-child(2)  { animation-delay: 50ms; }
+.stagger-children > *:nth-child(3)  { animation-delay: 100ms; }
+.stagger-children > *:nth-child(4)  { animation-delay: 150ms; }
+.stagger-children > *:nth-child(5)  { animation-delay: 200ms; }
+.stagger-children > *:nth-child(6)  { animation-delay: 250ms; }
+.stagger-children > *:nth-child(7)  { animation-delay: 300ms; }
+.stagger-children > *:nth-child(8)  { animation-delay: 350ms; }
+.stagger-children > *:nth-child(9)  { animation-delay: 400ms; }
+.stagger-children > *:nth-child(10) { animation-delay: 450ms; }
+.stagger-children > *:nth-child(11) { animation-delay: 500ms; }
+.stagger-children > *:nth-child(12) { animation-delay: 550ms; }

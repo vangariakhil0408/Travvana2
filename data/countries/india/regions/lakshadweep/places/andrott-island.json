@@ -1,0 +1,18 @@
+{
+  "id": "andrott-island",
+  "name": "Andrott Island",
+  "city": "Andrott",
+  "state": "Lakshadweep",
+  "description": "The largest island in Lakshadweep and the closest to the Indian mainland. It is famous for the tomb of Saint Ubaidullah.",
+  "history": "Saint Ubaidullah, who brought Islam to Lakshadweep, is buried here in the Juma Mosque.",
+  "famousFor": "Juma Mosque, Tomb of Saint Ubaidullah, fishing.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000005aa47206ac6fb72c78ff81f8.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000005aa47206ac6fb72c78ff81f8.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000005aa47206ac6fb72c78ff81f8.webp"
+  ],
+  "nearbyPlaces": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "chunnambar-boat-house",
+  "name": "Chunnambar Boat House",
+  "city": "Ariyankuppam",
+  "state": "Puducherry",
+  "description": "A deeply scenic backwater boating facility that serves as the exclusive gateway to the pristine Paradise Beach. It is surrounded by thick mangrove forests.",
+  "history": "Operated by the Puducherry Tourism Development Corporation, it offers tree houses and riverside accommodations.",
+  "famousFor": "Ferry to Paradise Beach, backwater boating, and treehouses.",
+  "bestTime": "October to March",
+  "timings": "9:30 AM \u2013 4:00 PM",
+  "entryFee": "\u20b915 (Boating extra)",
+  "image": "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+  ],
+  "nearbyPlaces": [
+    "paradise-beach",
+    "promenade-beach",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "bharathi-park",
+    "sacred-heart-basilica",
+    "thirunallar-temple",
+    "french-war-memorial",
+    "immaculate-conception",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "serenity-beach",
+    "sri-karneshwar-nataraja",
+    "ousteri-lake",
+    "matrimandir",
+    "auroville"
+  ]
+}

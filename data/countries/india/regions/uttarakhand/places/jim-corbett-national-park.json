@@ -1,0 +1,71 @@
+{
+  "id": "jim-corbett-national-park",
+  "slug": "jim-corbett-national-park",
+  "name": "Jim Corbett National Park",
+  "location": "Uttarakhand, India",
+  "district": "Nainital",
+  "stateId": "uttarakhand",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/jim-corbett-national-park.webp",
+  "heroImage": "./assets/images/popular/jim-corbett-national-park.webp",
+  "gallery": [
+    "./assets/images/popular/jim-corbett-national-park.webp"
+  ],
+  "overview": "Experience the beauty of Jim Corbett National Park, a top destination in Uttarakhand, India.",
+  "description": "Jim Corbett is legally the absolute oldest national park in India, renowned deeply for its endangered Bengal tigers and thrilling dense safaris.",
+  "rating": "4.4",
+  "reviewCount": 20870,
+  "popularityScore": 58,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to June",
+  "timings": "6:00 AM - 10:00 AM, 2:00 PM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹200",
+    "foreigner": "₹1000"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Pantnagar Airport",
+      "distance": "80 km"
+    },
+    "nearestRailway": {
+      "name": "Ramnagar Railway Station",
+      "distance": "12 km"
+    },
+    "byRoad": "Extremely robust road transit from New Delhi."
+  },
+  "tags": [
+    "nature",
+    "uttarakhand",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1256
+    },
+    {
+      "views": 3848
+    }
+  ],
+  "nearbyPlaces": [
+    "badrinath-temple",
+    "kedarnath-temple",
+    "dzukou-valley"
+  ]
+}

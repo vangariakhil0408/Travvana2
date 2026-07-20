@@ -1,0 +1,63 @@
+{
+  "id": "prem-mandir-vrindavan",
+  "slug": "prem-mandir-vrindavan",
+  "name": "Prem Mandir",
+  "location": "Uttar Pradesh, India",
+  "district": "Vrindavan",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "A jaw-droppingly beautiful white marble temple that glows in a mesmerizing rainbow of LED lights at night. Every inch of the marble is carved with scenes from Lord Krishna's life \u2014 Ras Leela, Govardhan Leela, and Kaliya Daman.",
+  "description": "Built by Jagadguru Kripalu Maharaj over 12 years and inaugurated in 2012. The temple cost over \u20b9150 crores to construct entirely from Italian Carrara marble.",
+  "rating": "4.9",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round (evenings for light show)",
+  "timings": "5:30 AM \u2013 12:00 PM, 4:30 PM \u2013 8:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "mathura-krishna-janmabhoomi",
+    "vrindavan",
+    "govardhan-hill",
+    "barsana",
+    "banke-bihari-temple"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Prem-Mandir.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Prem-Mandir.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Prem-Mandir.webp"
+  ]
+}

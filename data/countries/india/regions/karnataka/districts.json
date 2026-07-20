@@ -1,0 +1,57 @@
+{
+  "stateId": "karnataka",
+  "totalDistricts": 4,
+  "districts": [
+    {
+      "id": "kodagu",
+      "name": "Kodagu (Coorg)",
+      "slug": "kodagu",
+      "thumbnail": "",
+      "totalPlaces": 8,
+      "popularityScore": 92,
+      "tagline": "Scotland of India",
+      "categories": [
+        "nature",
+        "food"
+      ]
+    },
+    {
+      "id": "ballari",
+      "name": "Ballari",
+      "slug": "ballari",
+      "thumbnail": "",
+      "totalPlaces": 5,
+      "popularityScore": 90,
+      "tagline": "Home of Hampi",
+      "categories": [
+        "heritage"
+      ]
+    },
+    {
+      "id": "uttara-kannada",
+      "name": "Uttara Kannada",
+      "slug": "uttara-kannada",
+      "thumbnail": "",
+      "totalPlaces": 6,
+      "popularityScore": 82,
+      "tagline": "Coastal Paradise",
+      "categories": [
+        "beaches",
+        "nature"
+      ]
+    },
+    {
+      "id": "mysuru",
+      "name": "Mysuru",
+      "slug": "mysuru",
+      "thumbnail": "",
+      "totalPlaces": 10,
+      "popularityScore": 94,
+      "tagline": "City of Palaces",
+      "categories": [
+        "heritage",
+        "food"
+      ]
+    }
+  ]
+}

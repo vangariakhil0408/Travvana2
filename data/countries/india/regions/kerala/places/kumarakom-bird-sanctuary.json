@@ -1,0 +1,68 @@
+{
+  "id": "kumarakom-bird-sanctuary",
+  "slug": "kumarakom-bird-sanctuary",
+  "name": "Kumarakom Bird Sanctuary",
+  "location": "Kerala, India",
+  "district": "Kottayam",
+  "stateId": "kerala",
+  "category": "wildlife",
+  "uiCategory": "wildlife",
+  "image": "./assets/images/states/kerala/Kumarakom Bird Sanctuary.png",
+  "heroImage": "./assets/images/states/kerala/Kumarakom Bird Sanctuary.png",
+  "gallery": [
+    "./assets/images/states/kerala/Kumarakom Bird Sanctuary.png"
+  ],
+  "overview": "Experience the beauty of Kumarakom Bird Sanctuary, a top destination in Kerala.",
+  "description": "Paradise for migratory birds by the Vembanad Lake.",
+  "rating": "4.6",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "wildlife",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "vembanad-lake",
+    "kuttanad-backwaters"
+  ]
+}

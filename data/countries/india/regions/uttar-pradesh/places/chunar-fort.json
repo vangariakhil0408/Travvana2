@@ -1,0 +1,59 @@
+{
+  "id": "chunar-fort",
+  "slug": "chunar-fort",
+  "name": "Chunar Fort",
+  "location": "Uttar Pradesh, India",
+  "district": "Mirzapur",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A massive, ancient fortress perched dramatically on a rocky cliff overlooking the Ganges. It is one of the oldest forts in India, believed to have been built by Maharaja Vikramaditya.",
+  "description": "Captured by Babur in 1529, it later served as Sher Shah Suri's stronghold. The British used it as a military depot during the colonial era.",
+  "rating": "4.5",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "tanda-falls"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Chunar-Fort.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Chunar-Fort.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Chunar-Fort.webp"
+  ]
+}

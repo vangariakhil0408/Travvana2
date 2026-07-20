@@ -1,0 +1,39 @@
+{
+  "id": "mundapahad",
+  "name": "Mundapahar (Chidiya Tapu Viewpoint)",
+  "city": "South Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A dense, forested coastal hillock at the tip of the Andaman archipelago, offering the most spectacular sunset views in all of the islands.",
+  "history": "Part of the Chidiya Tapu (Bird Island) ecosystem, historically a serene retreat for British administrators.",
+  "famousFor": "Sunset views, birdwatching, trekking trails.",
+  "bestTime": "October to May",
+  "timings": "6:00 AM \u2013 5:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+  ],
+  "nearbyPlaces": [
+    "saddle-peak",
+    "north-bay-island",
+    "barren-island",
+    "samudrika-naval-marine-museum",
+    "mount-harriet-national-park",
+    "mahatma-gandhi-marine-national-park",
+    "long-island",
+    "cellular-jail",
+    "aberdeen-bazaar",
+    "marina-park",
+    "jolly-buoy-island",
+    "chatham-saw-mill",
+    "viper-island",
+    "kalipur-beach",
+    "ross-island",
+    "corbyns-cove-beach",
+    "wandoor-beach",
+    "diglipur-town",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

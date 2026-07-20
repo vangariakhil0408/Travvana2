@@ -1,0 +1,63 @@
+{
+  "id": "agra-fort",
+  "slug": "agra-fort",
+  "name": "Agra Fort",
+  "location": "Uttar Pradesh, India",
+  "district": "Agra",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A massive UNESCO World Heritage red sandstone fortress that served as the main residence of the Mughal emperors until 1638. It contains stunning palaces, audience halls, and the poignant Musamman Burj where Shah Jahan spent his last days gazing at the Taj.",
+  "description": "Originally built by the Lodhi dynasty, it was significantly expanded by Emperor Akbar in 1565 and further embellished by Shah Jahan.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "fatehpur-sikri",
+    "itimad-ud-daulah",
+    "bateshwar-temples",
+    "akbar-tomb-sikandra"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Agra-Fort.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Agra-Fort.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Agra-Fort.webp"
+  ]
+}

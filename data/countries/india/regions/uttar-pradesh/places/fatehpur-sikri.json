@@ -1,0 +1,73 @@
+{
+  "id": "fatehpur-sikri",
+  "slug": "fatehpur-sikri",
+  "name": "Fatehpur Sikri",
+  "location": "Uttar Pradesh, India",
+  "district": "Fatehpur Sikri",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/states/uttar-pradesh/Fatehpur-Sikri.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Fatehpur-Sikri.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Fatehpur-Sikri.webp"
+  ],
+  "overview": "Experience the beauty of Fatehpur Sikri, a top destination in Uttar Pradesh, India.",
+  "description": "Built by Emperor Akbar in the 16th century, Fatehpur Sikri served as the Mughal capital for a brief period and is now a UNESCO site.",
+  "rating": "4.4",
+  "reviewCount": 31834,
+  "popularityScore": 40,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "\u20b940",
+    "foreigner": "\u20b9600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Agra Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Fatehpur Sikri Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "40 km from Agra"
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4620
+    },
+    {
+      "views": 947
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "agra-fort",
+    "itimad-ud-daulah",
+    "bateshwar-temples",
+    "akbar-tomb-sikandra"
+  ]
+}

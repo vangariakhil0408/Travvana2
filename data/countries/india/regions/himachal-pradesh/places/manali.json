@@ -1,0 +1,71 @@
+{
+  "id": "manali",
+  "slug": "manali",
+  "name": "Manali Hill Station",
+  "location": "Himachal Pradesh, India",
+  "district": "Kullu",
+  "stateId": "himachal-pradesh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/manali.webp",
+  "heroImage": "./assets/images/popular/manali.webp",
+  "gallery": [
+    "./assets/images/popular/manali.webp"
+  ],
+  "overview": "Experience the beauty of Manali Hill Station, a top destination in Himachal Pradesh, India.",
+  "description": "Situated comfortably inside the Beas River Valley, Manali offers a legendary high-altitude paradise known explicitly for rugged backpacking trails, snowy slopes, and profound tranquility.",
+  "rating": "4.5",
+  "reviewCount": 29231,
+  "popularityScore": 76,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to June",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bhuntar Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Chandigarh Railway Station",
+      "distance": "310 km"
+    },
+    "byRoad": "Extremely popular for overnight transit from Delhi."
+  },
+  "tags": [
+    "nature",
+    "himachal-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2333
+    },
+    {
+      "views": 4727
+    }
+  ],
+  "nearbyPlaces": [
+    "shimla-mall-road",
+    "rohtang-pass",
+    "spiti-valley"
+  ]
+}

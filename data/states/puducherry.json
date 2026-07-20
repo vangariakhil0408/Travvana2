@@ -1,0 +1,5060 @@
+{
+  "stateSlug": "puducherry",
+  "name": "Puducherry",
+  "capital": "Puducherry",
+  "tagline": "The French Riviera of the East",
+  "heroImage": "assets/images/states/puducherry/banner.webp",
+  "bestTime": "October to March",
+  "language": "Tamil, French, English",
+  "places": [
+    {
+      "name": "Auroville",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "12 km from Puducherry",
+      "rating": 4.8,
+      "description": "An experimental, universal township dedicated to the ideal of human unity. It was founded in 1968 by Mirra Alfassa (The Mother) and designed by architect Roger Anger.",
+      "history": "Designed to be a place where men and women of all countries are able to live in peace and progressive harmony above all creeds.",
+      "famousFor": "Matrimandir, sustainable living, and universal peace.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Prior booking for Matrimandir)",
+      "slug": "auroville",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "7.4 km",
+          "distance_km": 7.4,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "7.6 km",
+          "distance_km": 7.6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "7.6 km",
+          "distance_km": 7.6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "7.8 km",
+          "distance_km": 7.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "8.2 km",
+          "distance_km": 8.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "10.7 km",
+          "distance_km": 10.7,
+          "distance_band": "10-15 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "13.8 km",
+          "distance_km": 13.8,
+          "distance_band": "10-15 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "14.0 km",
+          "distance_km": 14,
+          "distance_band": "10-15 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        }
+      ],
+      "id": "auroville",
+      "heroImage": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+    },
+    {
+      "name": "Matrimandir",
+      "city": "Auroville",
+      "category": "heritage",
+      "distance": "12 km from Puducherry",
+      "rating": 4.9,
+      "description": "The spiritual and physical center of Auroville. It is a massive, stunning golden metallic sphere designed as a place for silent, individual concentration.",
+      "history": "Construction took 37 years to complete. It does not belong to any religion or sect.",
+      "famousFor": "Golden dome, silent meditation chamber, and peace.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "Free (Strictly by prior appointment)",
+      "slug": "matrimandir",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "10.3 km",
+          "distance_km": 10.3,
+          "distance_band": "10-15 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "13.0 km",
+          "distance_km": 13,
+          "distance_band": "10-15 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "13.2 km",
+          "distance_km": 13.2,
+          "distance_band": "10-15 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        }
+      ],
+      "id": "matrimandir",
+      "heroImage": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "White Town",
+      "rating": 4.8,
+      "description": "A highly revered spiritual community founded by the Indian freedom fighter and philosopher, Sri Aurobindo, in 1926. It is one of the most visited ashrams in India.",
+      "history": "Sri Aurobindo retreated here after leaving politics, focusing entirely on spiritual evolution and 'Integral Yoga'.",
+      "famousFor": "Samadhi (tomb) of Sri Aurobindo and The Mother.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 12:00 PM, 2:00 PM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "sri-aurobindo-ashram",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.0 km",
+          "distance_km": 0,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "sri-aurobindo-ashram",
+      "heroImage": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+    },
+    {
+      "name": "Promenade Beach (Rock Beach)",
+      "city": "Puducherry",
+      "category": "beaches",
+      "distance": "White Town",
+      "rating": 4.7,
+      "description": "A deeply scenic, 1.2-kilometer long rocky beachfront stretching along the vibrant French Quarter. It is entirely pedestrianized every evening.",
+      "history": "Features historic landmarks including the French War Memorial, a towering statue of Mahatma Gandhi, and the old lighthouse.",
+      "famousFor": "Evening strolls, cafes, and Gandhi statue.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "promenade-beach",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "5.7 km",
+          "distance_km": 5.7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "5.9 km",
+          "distance_km": 5.9,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "8.2 km",
+          "distance_km": 8.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "promenade-beach",
+      "heroImage": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+    },
+    {
+      "name": "Paradise Beach",
+      "city": "Chunnambar",
+      "category": "beaches",
+      "distance": "8 km from Puducherry",
+      "rating": 4.8,
+      "description": "An incredibly pristine, isolated beach boasting ultra-soft golden sand and clear blue waters. It is accessible only via a scenic boat ride through the Chunnambar backwaters.",
+      "history": "Maintained exceptionally well by the tourism department, ensuring it remains one of the cleanest beaches in South India.",
+      "famousFor": "Pristine sands, boating, and beach volleyball.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹150 (Boat ride)",
+      "slug": "paradise-beach",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "5.7 km",
+          "distance_km": 5.7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "6.1 km",
+          "distance_km": 6.1,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "6.3 km",
+          "distance_km": 6.3,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "6.6 km",
+          "distance_km": 6.6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "6.7 km",
+          "distance_km": 6.7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "9.4 km",
+          "distance_km": 9.4,
+          "distance_band": "5-10 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "13.0 km",
+          "distance_km": 13,
+          "distance_band": "10-15 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "13.8 km",
+          "distance_km": 13.8,
+          "distance_band": "10-15 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "paradise-beach",
+      "heroImage": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+    },
+    {
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "South Boulevard",
+      "rating": 4.6,
+      "description": "A magnificent Gothic architecture church, striking with its bold red and white facade and stunning, incredibly rare stained glass panels depicting the life of Christ.",
+      "history": "Consecrated in 1907. It is the only basilica in Puducherry and a deeply significant pilgrimage center.",
+      "famousFor": "Gothic architecture, stained glass, and peaceful ambiance.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "sacred-heart-basilica",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.1 km",
+          "distance_km": 6.1,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.3 km",
+          "distance_km": 6.3,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        }
+      ],
+      "id": "sacred-heart-basilica",
+      "heroImage": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+    },
+    {
+      "name": "Serenity Beach",
+      "city": "Kottakuppam",
+      "category": "beaches",
+      "distance": "7 km from Puducherry",
+      "rating": 4.5,
+      "description": "True to its name, a quiet and picturesque beach framed by palm trees. It is particularly famous among the surfing community for its excellent waves.",
+      "history": "The local surfing community established surfing schools here, transforming it into a hub for water sports.",
+      "famousFor": "Surfing, peaceful sunrise, and fishing boats.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "serenity-beach",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.6 km",
+          "distance_km": 6.6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "serenity-beach",
+      "heroImage": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+    },
+    {
+      "name": "Arikamedu Archaeological Site",
+      "city": "Ariyankuppam",
+      "category": "heritage",
+      "distance": "7 km from Puducherry",
+      "rating": 4.4,
+      "description": "The fascinating ruins of an ancient Roman trade center. Excavations have unearthed massive brick structures, Roman coins, and ancient pottery dating back to 2 BCE.",
+      "history": "Discovered by archaeologists including Sir Mortimer Wheeler. It proves extensive maritime trade existed between ancient Rome and Tamil Nadu.",
+      "famousFor": "Ancient ruins, Roman history, and peaceful riverside.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "arikamedu",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.7 km",
+          "distance_km": 6.7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.4 km",
+          "distance_km": 7.4,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        }
+      ],
+      "id": "arikamedu",
+      "heroImage": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+    },
+    {
+      "name": "Ousteri Lake (Osudu Lake)",
+      "city": "Puducherry",
+      "category": "nature",
+      "distance": "10 km from Puducherry",
+      "rating": 4.5,
+      "description": "The largest freshwater lake in Puducherry, recognized as an IUCN designated wetland. It is a critical sanctuary for numerous migratory bird species.",
+      "history": "Man-made lake constructed a century ago. It acts as the primary freshwater source and an ecological lifeline for the region.",
+      "famousFor": "Bird watching, boating, and scenic sunsets.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "ousteri-lake",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "9.4 km",
+          "distance_km": 9.4,
+          "distance_band": "5-10 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "9.7 km",
+          "distance_km": 9.7,
+          "distance_band": "5-10 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "10.3 km",
+          "distance_km": 10.3,
+          "distance_band": "10-15 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "10.7 km",
+          "distance_km": 10.7,
+          "distance_band": "10-15 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "ousteri-lake",
+      "heroImage": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+    },
+    {
+      "name": "Karaikal Beach",
+      "city": "Karaikal",
+      "category": "beaches",
+      "distance": "130 km from Puducherry",
+      "rating": 4.6,
+      "description": "One of the finest and cleanest natural beaches in South India. It features a wide beachfront, calm waters perfect for swimming, and extensive boating facilities on the Arasalar River.",
+      "history": "Developed heavily by the local tourism department to feature a scenic 2km road along the river leading to the beach.",
+      "famousFor": "Clean sands, river boating, and beautiful sunrises.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "karaikal-beach",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "karaikal-beach",
+      "heroImage": "assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp"
+    },
+    {
+      "name": "Sri Dharbaranyeswarar Temple",
+      "city": "Thirunallar",
+      "category": "temples",
+      "distance": "5 km from Karaikal",
+      "rating": 4.8,
+      "description": "An incredibly famous and powerful Hindu temple dedicated to Lord Saturn (Saneeswarar). Millions of pilgrims visit this shrine seeking relief from astrological afflictions.",
+      "history": "According to legend, King Nala was relieved of his afflictions by Lord Saneeswarar here. It is one of the Navagraha temples.",
+      "famousFor": "Lord Saneeswarar shrine, Nala Theertham holy tank.",
+      "bestTime": "Year-round (Saturdays are highly crowded)",
+      "timings": "6:00 AM – 1:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free (VIP Darshan available)",
+      "slug": "thirunallar-temple",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "thirunallar-temple",
+      "heroImage": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+    },
+    {
+      "name": "French War Memorial",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "White Town",
+      "rating": 4.5,
+      "description": "An elegant and somber memorial standing on the Promenade Beach, dedicated to the brave soldiers of French India who sacrificed their lives during World War I.",
+      "history": "Built in 1971. Every year on Bastille Day (July 14), it is beautifully illuminated to honor the fallen.",
+      "famousFor": "Bastille Day illuminations, colonial architecture.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "french-war-memorial",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.6 km",
+          "distance_km": 7.6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "french-war-memorial",
+      "heroImage": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+    },
+    {
+      "name": "Chunnambar Boat House",
+      "city": "Ariyankuppam",
+      "category": "nature",
+      "distance": "8 km from Puducherry",
+      "rating": 4.6,
+      "description": "A deeply scenic backwater boating facility that serves as the exclusive gateway to the pristine Paradise Beach. It is surrounded by thick mangrove forests.",
+      "history": "Operated by the Puducherry Tourism Development Corporation, it offers tree houses and riverside accommodations.",
+      "famousFor": "Ferry to Paradise Beach, backwater boating, and treehouses.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 4:00 PM",
+      "entryFee": "₹15 (Boating extra)",
+      "slug": "chunnambar-boat-house",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "5.9 km",
+          "distance_km": 5.9,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "6.3 km",
+          "distance_km": 6.3,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "6.7 km",
+          "distance_km": 6.7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "9.7 km",
+          "distance_km": 9.7,
+          "distance_band": "5-10 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "13.2 km",
+          "distance_km": 13.2,
+          "distance_band": "10-15 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "14.0 km",
+          "distance_km": 14,
+          "distance_band": "10-15 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "chunnambar-boat-house",
+      "heroImage": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+    },
+    {
+      "name": "Bharathi Park",
+      "city": "Puducherry",
+      "category": "nature",
+      "distance": "White Town",
+      "rating": 4.4,
+      "description": "A lush, well-maintained green park located at the exact center of the French Quarter, featuring the stunning Aayi Mandapam monument at its core.",
+      "history": "The Aayi Mandapam was built in the 19th century by Napoleon III to honor Aayi, a local courtesan who demolished her house to supply water to the city.",
+      "famousFor": "Aayi Mandapam, peaceful walking paths, and heritage buildings.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "bharathi-park",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.2 km",
+          "distance_km": 6.2,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.0 km",
+          "distance_km": 7,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.8 km",
+          "distance_km": 7.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "bharathi-park",
+      "heroImage": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+    },
+    {
+      "name": "Immaculate Conception Cathedral",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "Mission Street",
+      "rating": 4.5,
+      "description": "The mother church of the Roman Catholic Archdiocese of Pondicherry and Cuddalore. This massive cathedral boasts stunning Portuguese and French architectural elements.",
+      "history": "Built in 1791 over the ruins of three older churches that were repeatedly destroyed during the colonial wars between the French, British, and Dutch.",
+      "famousFor": "Colonial architecture, grand altar, and historical significance.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 12:00 PM, 3:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "immaculate-conception",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.3 km",
+          "distance_km": 6.3,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.6 km",
+          "distance_km": 7.6,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.7 km",
+          "distance_km": 7.7,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        }
+      ],
+      "id": "immaculate-conception",
+      "heroImage": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+    },
+    {
+      "name": "Sri Manakula Vinayagar Temple",
+      "city": "Puducherry",
+      "category": "temples",
+      "distance": "White Town",
+      "rating": 4.8,
+      "description": "An incredibly historic Hindu temple dedicated to Lord Ganesha, existing since before the French arrived in Puducherry. The temple is famous for its golden chariot and the temple elephant, Lakshmi.",
+      "history": "Surviving multiple attempts at destruction during the colonial era, it remains one of the most culturally significant sites in the French Quarter.",
+      "famousFor": "Golden chariot, ancient idol, and intricate ceiling murals.",
+      "bestTime": "Year-round",
+      "timings": "5:45 AM – 12:30 PM, 4:00 PM – 9:30 PM",
+      "entryFee": "Free",
+      "slug": "manakula-vinayagar",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.0 km",
+          "distance_km": 0,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.4 km",
+          "distance_km": 0.4,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "manakula-vinayagar",
+      "heroImage": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+    },
+    {
+      "name": "Eglise de Notre Dame des Anges",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "White Town",
+      "rating": 4.6,
+      "description": "A stunning Greco-Roman style church that is the only one in Puducherry to offer mass in three languages: French, Tamil, and English. It closely resembles the Basilica at Lourdes in France.",
+      "history": "Constructed in 1855 by Napoleon III. It is famous for its smooth limestone interior mixed with the whites of eggs.",
+      "famousFor": "Greco-Roman architecture, Joan of Arc statue.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "notre-dame-des-anges",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.5 km",
+          "distance_km": 6.5,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.8 km",
+          "distance_km": 6.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "7.9 km",
+          "distance_km": 7.9,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        }
+      ],
+      "id": "notre-dame-des-anges",
+      "heroImage": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+    },
+    {
+      "name": "Puducherry Museum",
+      "city": "Puducherry",
+      "category": "heritage",
+      "distance": "White Town",
+      "rating": 4.4,
+      "description": "Housed in a beautiful heritage building, this museum boasts an incredible collection of ancient artifacts from the Arikamedu Roman settlement, Chola bronzes, and French colonial furniture.",
+      "history": "It serves as the definitive guardian of the region's diverse history, from prehistoric times through to the French colonial period.",
+      "famousFor": "Roman artifacts, ancient bronze sculptures.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹15",
+      "slug": "puducherry-museum",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.1 km",
+          "distance_km": 0.1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.7 km",
+          "distance_km": 0.7,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.8 km",
+          "distance_km": 0.8,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Sri Karneshwar Nataraja Temple",
+          "slug": "sri-karneshwar-nataraja",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "5.8 km",
+          "distance_km": 5.8,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.0 km",
+          "distance_km": 6,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "7.3 km",
+          "distance_km": 7.3,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "8.1 km",
+          "distance_km": 8.1,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        }
+      ],
+      "id": "puducherry-museum",
+      "heroImage": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+    },
+    {
+      "name": "Mahe Beach",
+      "city": "Mahe",
+      "category": "beaches",
+      "distance": "In Mahe (Kerala Coast)",
+      "rating": 4.5,
+      "description": "Located in the Mahe district of Puducherry (geographically situated in Kerala), this pristine and relatively unknown beach offers stunning sunset views over the Arabian Sea.",
+      "history": "Mahe was a former French colony on the Malabar coast, maintaining its distinct French-Malayali cultural blend.",
+      "famousFor": "Arabian sea sunsets, palm-fringed coastline, fishing boats.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mahe-beach",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mahe-beach",
+      "heroImage": "assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+    },
+    {
+      "name": "Yanam River Walk",
+      "city": "Yanam",
+      "category": "nature",
+      "distance": "In Yanam (Andhra Coast)",
+      "rating": 4.6,
+      "description": "A beautifully landscaped promenade along the Gauthami Godavari River in the Yanam enclave of Puducherry. It features a massive replica of the Eiffel Tower.",
+      "history": "Yanam is a former French colony surrounded geographically by Andhra Pradesh, retaining a unique Franco-Telugu heritage.",
+      "famousFor": "Eiffel Tower replica, river boating, and serene evenings.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "yanam-river-walk",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yanam-river-walk",
+      "heroImage": "assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp"
+    },
+    {
+      "name": "Sri Karneshwar Nataraja Temple",
+      "city": "Pudukuppam",
+      "category": "temples",
+      "distance": "15 km from Puducherry",
+      "rating": 4.7,
+      "description": "An incredibly unique and striking temple built entirely in the shape of a massive Egyptian pyramid. It is dedicated to Lord Shiva in his Nataraja form.",
+      "history": "Constructed relatively recently with the support of the Auroville community, blending Indian spirituality with global architectural geometry.",
+      "famousFor": "Pyramid architecture, beachfront location, and meditation.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 12:00 PM, 4:00 PM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "sri-karneshwar-nataraja",
+      "state": "Puducherry",
+      "images": {
+        "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arikamedu Archaeological Site",
+          "slug": "arikamedu",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+          }
+        },
+        {
+          "name": "Eglise de Notre Dame des Anges",
+          "slug": "notre-dame-des-anges",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+          }
+        },
+        {
+          "name": "Immaculate Conception Cathedral",
+          "slug": "immaculate-conception",
+          "distance": "0.5 km",
+          "distance_km": 0.5,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+          }
+        },
+        {
+          "name": "Basilica of the Sacred Heart of Jesus",
+          "slug": "sacred-heart-basilica",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+          }
+        },
+        {
+          "name": "Sri Aurobindo Ashram",
+          "slug": "sri-aurobindo-ashram",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+          }
+        },
+        {
+          "name": "Sri Dharbaranyeswarar Temple",
+          "slug": "thirunallar-temple",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+          }
+        },
+        {
+          "name": "Sri Manakula Vinayagar Temple",
+          "slug": "manakula-vinayagar",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+          }
+        },
+        {
+          "name": "Puducherry Museum",
+          "slug": "puducherry-museum",
+          "distance": "0.9 km",
+          "distance_km": 0.9,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+          }
+        },
+        {
+          "name": "Serenity Beach",
+          "slug": "serenity-beach",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+          }
+        },
+        {
+          "name": "French War Memorial",
+          "slug": "french-war-memorial",
+          "distance": "1.1 km",
+          "distance_km": 1.1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+          }
+        },
+        {
+          "name": "Bharathi Park",
+          "slug": "bharathi-park",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+          }
+        },
+        {
+          "name": "Promenade Beach (Rock Beach)",
+          "slug": "promenade-beach",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+          }
+        },
+        {
+          "name": "Matrimandir",
+          "slug": "matrimandir",
+          "distance": "6.4 km",
+          "distance_km": 6.4,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+          }
+        },
+        {
+          "name": "Paradise Beach",
+          "slug": "paradise-beach",
+          "distance": "6.7 km",
+          "distance_km": 6.7,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+          }
+        },
+        {
+          "name": "Chunnambar Boat House",
+          "slug": "chunnambar-boat-house",
+          "distance": "6.9 km",
+          "distance_km": 6.9,
+          "distance_band": "5-10 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+          }
+        },
+        {
+          "name": "Auroville",
+          "slug": "auroville",
+          "distance": "7.2 km",
+          "distance_km": 7.2,
+          "distance_band": "5-10 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+          }
+        },
+        {
+          "name": "Ousteri Lake (Osudu Lake)",
+          "slug": "ousteri-lake",
+          "distance": "8.0 km",
+          "distance_km": 8,
+          "distance_band": "5-10 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+          }
+        }
+      ],
+      "id": "sri-karneshwar-nataraja",
+      "heroImage": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+    }
+  ]
+}

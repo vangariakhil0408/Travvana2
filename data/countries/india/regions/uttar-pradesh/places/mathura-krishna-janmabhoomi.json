@@ -1,0 +1,63 @@
+{
+  "id": "mathura-krishna-janmabhoomi",
+  "slug": "mathura-krishna-janmabhoomi",
+  "name": "Shri Krishna Janmasthan",
+  "location": "Uttar Pradesh, India",
+  "district": "Mathura",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "The exact birthplace of Lord Krishna, one of the most sacred sites in Hinduism. The temple complex includes a prison cell believed to be where Krishna was born to Devaki and Vasudeva.",
+  "description": "The site has been destroyed and rebuilt multiple times. The current structure was built after the Mughal period alongside the adjacent Shahi Idgah mosque.",
+  "rating": "4.9",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "August (Janmashtami) or October to March",
+  "timings": "5:00 AM \u2013 12:00 PM, 4:00 PM \u2013 9:30 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "vrindavan",
+    "govardhan-hill",
+    "barsana",
+    "banke-bihari-temple",
+    "prem-mandir-vrindavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Shri-Krishna-Janmasthan.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Shri-Krishna-Janmasthan.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Shri-Krishna-Janmasthan.webp"
+  ]
+}

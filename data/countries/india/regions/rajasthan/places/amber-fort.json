@@ -1,0 +1,71 @@
+{
+  "id": "amber-fort",
+  "slug": "amber-fort",
+  "name": "Amber Fort",
+  "location": "Rajasthan, India",
+  "district": "Jaipur",
+  "stateId": "rajasthan",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/amber-fort.webp",
+  "heroImage": "./assets/images/popular/amber-fort.webp",
+  "gallery": [
+    "./assets/images/popular/amber-fort.webp"
+  ],
+  "overview": "Experience the beauty of Amber Fort, a top destination in Rajasthan, India.",
+  "description": "Amber Fort is a stunning fort located in Amer, Rajasthan. Known for its artistic style elements, the fort is built of red sandstone and marble, offering breathtaking views of the Maota Lake.",
+  "rating": "4.7",
+  "reviewCount": 35976,
+  "popularityScore": 99,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 5:30 PM",
+  "entryFee": {
+    "indian": "₹100",
+    "foreigner": "₹500"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jaipur International Airport",
+      "distance": "22 km"
+    },
+    "nearestRailway": {
+      "name": "Jaipur Junction",
+      "distance": "13 km"
+    },
+    "byRoad": "Easily accessible from Jaipur city center."
+  },
+  "tags": [
+    "heritage",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2010
+    },
+    {
+      "views": 1203
+    }
+  ],
+  "nearbyPlaces": [
+    "hawa-mahal",
+    "ranthambore-national-park",
+    "mount-abu"
+  ]
+}

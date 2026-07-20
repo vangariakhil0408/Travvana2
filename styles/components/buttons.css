@@ -1,0 +1,174 @@
+/* ============================================
+   TRAVVANA — Button Components
+   ============================================ */
+
+/* ── Base Button ── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-2);
+  padding: var(--sp-3) var(--sp-6);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  border-radius: var(--radius-full);
+  transition: all var(--tr-fast);
+  white-space: nowrap;
+  -webkit-tap-highlight-color: transparent;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn:active { transform: scale(0.96); }
+
+/* ── Variants ── */
+.btn--primary {
+  background: var(--clr-accent);
+  color: white;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn--primary:hover {
+  box-shadow: var(--shadow-glow);
+  filter: brightness(1.1);
+}
+
+.btn--secondary {
+  background: var(--clr-bg-tertiary);
+  color: var(--clr-text-primary);
+  border: 1px solid var(--clr-border);
+}
+
+.btn--secondary:hover {
+  background: var(--clr-bg-card-hover);
+  border-color: var(--clr-border-active);
+}
+
+.btn--ghost {
+  background: transparent;
+  color: var(--clr-accent);
+}
+
+.btn--ghost:hover {
+  background: var(--clr-accent-light);
+}
+
+.btn--outline {
+  background: transparent;
+  color: var(--clr-accent);
+  border: 1.5px solid var(--clr-accent);
+}
+
+.btn--outline:hover {
+  background: var(--clr-accent-light);
+}
+
+/* ── Sizes ── */
+.btn--sm {
+  padding: var(--sp-2) var(--sp-4);
+  font-size: var(--fs-xs);
+  border-radius: var(--radius-md);
+}
+
+.btn--lg {
+  padding: var(--sp-4) var(--sp-8);
+  font-size: var(--fs-md);
+  border-radius: var(--radius-xl);
+}
+
+.btn--full {
+  width: 100%;
+}
+
+/* ── Icon Button ── */
+.btn--icon {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border-radius: var(--radius-full);
+}
+
+.btn--icon-sm {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border-radius: var(--radius-full);
+  font-size: var(--fs-sm);
+}
+
+/* ── CTA Buttons ── */
+.btn--cta {
+  background: var(--clr-accent-gradient);
+  color: white;
+  padding: var(--sp-4) var(--sp-8);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-bold);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-glow);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn--cta::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn--cta:hover::before {
+  left: 100%;
+}
+
+/* ── Booking CTA ── */
+.btn--booking {
+  background: linear-gradient(135deg, #00B894 0%, #00CEC9 100%);
+  color: white;
+  font-weight: var(--fw-bold);
+}
+
+.btn--booking:hover {
+  box-shadow: 0 0 20px rgba(0, 184, 148, 0.4);
+}
+
+/* ── AI Trip CTA ── */
+.btn--ai {
+  background: linear-gradient(135deg, #6C5CE7 0%, #A29BFE 100%);
+  color: white;
+  font-weight: var(--fw-bold);
+}
+
+.btn--ai:hover {
+  box-shadow: 0 0 20px rgba(108, 92, 231, 0.4);
+}
+
+/* ── Ripple Effect ── */
+.btn .ripple {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(0);
+  animation: ripple-anim 0.6s linear;
+  pointer-events: none;
+}
+
+@keyframes ripple-anim {
+  to {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
+
+/* ── Button Group ── */
+.btn-group {
+  display: flex;
+  gap: var(--sp-3);
+}
+
+.btn-group--stack {
+  flex-direction: column;
+}

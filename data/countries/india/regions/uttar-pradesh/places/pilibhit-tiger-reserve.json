@@ -1,0 +1,84 @@
+{
+  "id": "pilibhit-tiger-reserve",
+  "slug": "pilibhit-tiger-reserve",
+  "name": "Pilibhit Tiger Reserve",
+  "location": "Uttar Pradesh, India",
+  "district": "Pilibhit",
+  "stateId": "uttar-pradesh",
+  "category": "wildlife",
+  "uiCategory": "wildlife",
+  "overview": "A UNESCO-recognized tiger reserve in the Terai-Arc landscape along the Indo-Nepal border. Dense sal forests and sprawling grasslands shelter Bengal tigers, swamp deer, and the rare hispid hare.",
+  "description": "Won the prestigious TX2 Award in 2020 for doubling its tiger population ahead of schedule.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to May",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "wildlife",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "lucknow-bara-imambara",
+    "lucknow-residency",
+    "rumi-darwaza",
+    "dudhwa-national-park",
+    "shravasti",
+    "vindhyachal-devi",
+    "lucknow-ambedkar-park",
+    "kapilvastu",
+    "chandraprabha-wildlife",
+    "nawabganj-bird-sanctuary",
+    "sankisa",
+    "hastinapur",
+    "naimisharanya",
+    "kalinjar-fort",
+    "deogarh-dashavatara",
+    "gorakhpur-gorakhnath",
+    "kannauj-perfume",
+    "kaushambi",
+    "etawah-safari-park",
+    "dilkusha-kothi",
+    "sardhana-basilica",
+    "kukrail-reserve",
+    "chattar-manzil",
+    "salkhan-fossil-park",
+    "deva-sharif",
+    "katarniaghat-wildlife"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Pilibhit-Tiger-Reserve.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Pilibhit-Tiger-Reserve.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Pilibhit-Tiger-Reserve.webp"
+  ]
+}

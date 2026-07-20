@@ -1,0 +1,25 @@
+{
+  "id": "sinthan-top",
+  "name": "Sinthan Top",
+  "city": "Anantnag",
+  "state": "Jammu and Kashmir",
+  "description": "A magnificent mountain pass sitting at an altitude of 3,800 meters. It offers a spectacular 360-degree panoramic view of both the Kashmir and Jammu valleys.",
+  "history": "Traditionally a highly challenging mountain crossing connecting the Kashmir valley to the Chenab valley in the Jammu region.",
+  "famousFor": "360-degree views, snow virtually year-round, thrilling drive.",
+  "bestTime": "May to October (Closed in heavy winter)",
+  "timings": "Unknown",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/sinthan-top.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/sinthan-top.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/sinthan-top.webp"
+  ],
+  "nearbyPlaces": [
+    "verinag-spring",
+    "martand-sun-temple",
+    "chatpal",
+    "daksum",
+    "kokernag",
+    "achabal"
+  ]
+}

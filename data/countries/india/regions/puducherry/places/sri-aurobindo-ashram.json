@@ -1,0 +1,36 @@
+{
+  "id": "sri-aurobindo-ashram",
+  "name": "Sri Aurobindo Ashram",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "A highly revered spiritual community founded by the Indian freedom fighter and philosopher, Sri Aurobindo, in 1926. It is one of the most visited ashrams in India.",
+  "history": "Sri Aurobindo retreated here after leaving politics, focusing entirely on spiritual evolution and 'Integral Yoga'.",
+  "famousFor": "Samadhi (tomb) of Sri Aurobindo and The Mother.",
+  "bestTime": "Year-round",
+  "timings": "8:00 AM \u2013 12:00 PM, 2:00 PM \u2013 6:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+  ],
+  "nearbyPlaces": [
+    "manakula-vinayagar",
+    "puducherry-museum",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "promenade-beach",
+    "arikamedu",
+    "thirunallar-temple",
+    "notre-dame-des-anges",
+    "bharathi-park",
+    "sri-karneshwar-nataraja",
+    "french-war-memorial",
+    "serenity-beach",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

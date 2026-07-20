@@ -1,0 +1,71 @@
+{
+  "id": "periyar-national-park",
+  "slug": "periyar-national-park",
+  "name": "Periyar National Park",
+  "location": "Kerala, India",
+  "district": "Thekkady",
+  "stateId": "kerala",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/states/kerala/banner.webp",
+  "heroImage": "./assets/images/states/kerala/banner.webp",
+  "gallery": [
+    "./assets/images/states/kerala/banner.webp"
+  ],
+  "overview": "Experience the beauty of Periyar National Park, a top destination in Kerala, India.",
+  "description": "Established in 1934 as a wildlife sanctuary, Periyar is one of India\u00e2\u20ac\u2122s best-managed tiger reserves, centered around the Periyar Lake.",
+  "rating": "4.4",
+  "reviewCount": 2770,
+  "popularityScore": 28,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "\u00e2\u201a\u00b945",
+    "foreigner": "\u00e2\u201a\u00b9500"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Cochin International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Thekkady Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "4 km from Thekkady town"
+  },
+  "tags": [
+    "nature",
+    "kerala",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3941
+    },
+    {
+      "views": 2655
+    }
+  ],
+  "nearbyPlaces": [
+    "kerala-backwaters",
+    "varkala-cliff",
+    "athirappilly-waterfalls"
+  ]
+}

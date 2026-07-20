@@ -1,0 +1,24 @@
+{
+  "id": "tribal-cultural-museum",
+  "name": "Tribal Cultural Museum",
+  "city": "Silvassa",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A fascinating museum displaying rare artifacts, hunting tools, traditional clothing, musical instruments, and life-size models depicting the heritage of the Varli, Kokna, and Dodhia tribes.",
+  "history": "Set up by the government to preserve and promote the indigenous culture of Dadra and Nagar Haveli, which has a predominantly tribal population.",
+  "famousFor": "Tribal artifacts, masks, musical instruments",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+  ],
+  "nearbyPlaces": [
+    "vanganga-lake-garden",
+    "dudhni-lake",
+    "vasona-lion-safari",
+    "hirwa-van-garden",
+    "moti-daman-fort"
+  ]
+}

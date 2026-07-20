@@ -1,0 +1,3515 @@
+{
+  "state": "Telangana",
+  "slug": "telangana",
+  "places": [
+    {
+      "name": "Charminar",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "5 km from Hyderabad City Center",
+      "rating": 4.7,
+      "description": "The magnificent 16th-century monument and mosque standing at the intersection of Hyderabad's old city. Its four grand arches facing the four cardinal directions support four elegant 48.7-meter tall minarets.",
+      "history": "Built in 1591 by Muhammad Quli Qutb Shah, supposedly to commemorate the end of a devastating plague epidemic in Hyderabad.",
+      "famousFor": "Iconic four minarets, Laad Bazaar, Old City atmosphere.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 5:30 PM",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "slug": "charminar",
+      "images": {
+        "main": "assets/images/popular/charminar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mecca Masjid",
+          "city": "Hyderabad",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "mecca-masjid",
+          "images": {
+            "main": "assets/images/popular/mecca-masjid.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mecca-masjid.webp"
+        },
+        {
+          "name": "Chowmahalla Palace",
+          "city": "Hyderabad",
+          "distance": "500 m away",
+          "category": "heritage",
+          "slug": "chowmahalla-palace",
+          "images": {
+            "main": "assets/images/popular/chowmahalla-palace.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/chowmahalla-palace.webp"
+        },
+        {
+          "name": "Salar Jung Museum",
+          "city": "Hyderabad",
+          "distance": "1.2 km away",
+          "category": "heritage",
+          "slug": "salar-jung-museum",
+          "images": {
+            "main": "assets/images/popular/salar-jung-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/salar-jung-museum.webp"
+        },
+        {
+          "name": "Spanish Mosque",
+          "city": "Hyderabad",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "spanish-mosque",
+          "images": {
+            "main": "assets/images/popular/spanish-mosque.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/spanish-mosque.webp"
+        },
+        {
+          "name": "Falaknuma Palace",
+          "city": "Hyderabad",
+          "distance": "3.4 km away",
+          "category": "heritage",
+          "slug": "falaknuma-palace",
+          "images": {
+            "main": "assets/images/popular/falaknuma-palace.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/falaknuma-palace.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "charminar",
+      "district": "Hyderabad",
+      "image": "assets/images/popular/charminar.webp",
+      "coordinates": {
+        "lat": 17.3616,
+        "lon": 78.4747
+      },
+      "heroImage": "assets/images/states/telangana/charminar.webp"
+    },
+    {
+      "name": "Golconda Fort",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "11 km from Hyderabad city center",
+      "rating": 4.6,
+      "description": "Golconda Fort is a massive 16th-century citadel and former capital of the Golconda Sultanate, renowned for its ingenious acoustic system where a clap at the entrance can be heard at the highest point, nearly 1 km away. The fort once housed the famous Koh-i-Noor and Hope diamonds.",
+      "history": "Originally a mud fort built by the Kakatiya dynasty in the 13th century, it was expanded into a grand citadel by the Qutb Shahi dynasty (1518–1687). The fort fell to Mughal Emperor Aurangzeb after an 8-month siege in 1687 through treachery. The Golconda mines produced the world's most famous diamonds.",
+      "famousFor": "Acoustic engineering (clapping system), Koh-i-Noor diamond origin, Light & Sound Show, Fatima Sultana tomb",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:30 PM; Light & Sound Show: 6:30 PM (English), 7:45 PM (Telugu/Hindi)",
+      "entryFee": "₹25 for Indians, ₹300 for foreigners; Light Show: ₹130",
+      "slug": "golconda-fort",
+      "images": {
+        "main": "assets/images/popular/golconda-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Qutb Shahi Tombs",
+          "city": "Hyderabad",
+          "distance": "1.4 km away",
+          "category": "heritage",
+          "slug": "qutb-shahi-tombs",
+          "images": {
+            "main": "assets/images/popular/qutb-shahi-tombs.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/qutb-shahi-tombs.webp"
+        },
+        {
+          "name": "Taramati Baradari",
+          "city": "Hyderabad",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "taramati-baradari",
+          "images": {
+            "main": "assets/images/states/telangana/taramati.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "golconda-fort",
+      "district": "Hyderabad",
+      "image": "assets/images/popular/golconda-fort.webp",
+      "coordinates": {
+        "lat": 17.3833,
+        "lon": 78.4011
+      },
+      "heroImage": "assets/images/states/telangana/golconda-fort.webp"
+    },
+    {
+      "name": "Hussain Sagar Lake",
+      "city": "Hyderabad",
+      "category": "nature",
+      "distance": "2 km from City Center",
+      "rating": 4.5,
+      "description": "A massive heart-shaped artificial lake built in 1563, famous for the towering 18-meter monolithic statue of Lord Buddha erected on a rock in the middle of the lake — the world's tallest monolithic Buddha statue.",
+      "history": "Constructed during the reign of Ibrahim Quli Qutb Shah by Hussain Shah Wali, it once supplied drinking water to the entire city of Hyderabad.",
+      "famousFor": "World's tallest monolithic Buddha, Lumbini Park, Tank Bund statues.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "hussain-sagar",
+      "images": {
+        "main": "assets/images/states/telangana/hussain-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Birla Mandir",
+          "city": "Hyderabad",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "birla-mandir",
+          "images": {
+            "main": "assets/images/popular/birla-mandir.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/birla-mandir.webp"
+        },
+        {
+          "name": "Birla Science Museum",
+          "city": "Hyderabad",
+          "distance": "2.1 km away",
+          "category": "heritage",
+          "slug": "birla-science-museum",
+          "images": {
+            "main": "assets/images/popular/birla-science-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/birla-science-museum.webp"
+        },
+        {
+          "name": "Tank Bund",
+          "city": "Hyderabad",
+          "distance": "800 m away",
+          "category": "heritage",
+          "slug": "tank-bund",
+          "images": {
+            "main": "assets/images/popular/tank-bund.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/tank-bund.webp"
+        },
+        {
+          "name": "Lumbini Park",
+          "city": "Hyderabad",
+          "distance": "1.2 km away",
+          "category": "nature",
+          "slug": "lumbini-park",
+          "images": {
+            "main": "assets/images/popular/lumbini-park.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/lumbini-park.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "hussain-sagar",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/hussain-sagar.webp",
+      "coordinates": {
+        "lat": 17.4239,
+        "lon": 78.4738
+      },
+      "heroImage": "assets/images/states/telangana/hussain-sagar.webp"
+    },
+    {
+      "name": "Birla Mandir",
+      "city": "Hyderabad",
+      "category": "temples",
+      "distance": "3 km from City Center",
+      "rating": 4.7,
+      "description": "A stunning white marble temple dedicated to Lord Venkateswara, perched on the 280-foot high Naubath Pahad hillock. Built entirely from Rajasthani white marble, it offers commanding views of the twin cities and Hussain Sagar lake.",
+      "history": "Constructed by the Birla Foundation and inaugurated in 1976. The temple took 10 years to build.",
+      "famousFor": "White marble architecture, hilltop views, serene atmosphere.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "birla-mandir",
+      "images": {
+        "main": "assets/images/states/telangana/birla-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hussain Sagar Lake",
+          "city": "Hyderabad",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "hussain-sagar",
+          "images": {
+            "main": "assets/images/popular/hussain-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/hussain-sagar.webp"
+        },
+        {
+          "name": "Birla Science Museum",
+          "city": "Hyderabad",
+          "distance": "100 m away",
+          "category": "heritage",
+          "slug": "birla-science-museum",
+          "images": {
+            "main": "assets/images/popular/birla-science-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/birla-science-museum.webp"
+        },
+        {
+          "name": "Tank Bund",
+          "city": "Hyderabad",
+          "distance": "1.3 km away",
+          "category": "heritage",
+          "slug": "tank-bund",
+          "images": {
+            "main": "assets/images/popular/tank-bund.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/tank-bund.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "birla-mandir",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/birla-mandir.webp",
+      "coordinates": {
+        "lat": 17.4062,
+        "lon": 78.4691
+      },
+      "heroImage": "assets/images/states/telangana/birla-mandir.webp"
+    },
+    {
+      "name": "Ramoji Film City",
+      "city": "Hyderabad",
+      "category": "entertainment",
+      "distance": "30 km from Hyderabad",
+      "rating": 4.5,
+      "description": "The world’s largest film studio complex with themed attractions and entertainment zones.",
+      "history": "Established in 1996 by Ramoji Rao and listed in Guinness World Records.",
+      "famousFor": "Film sets, theme park",
+      "bestTime": "October to February",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "₹1250 approx",
+      "slug": "ramoji-film-city",
+      "images": {
+        "main": "assets/images/states/telangana/ramoji-entrance.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "ramoji-film-city",
+      "district": "Rangareddy",
+      "image": "assets/images/states/telangana/ramoji-entrance.webp",
+      "coordinates": {
+        "lat": 17.2543,
+        "lon": 78.6808
+      },
+      "heroImage": "assets/images/states/telangana/ramoji-entrance.webp"
+    },
+    {
+      "name": "Salar Jung Museum",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "4 km from City Center",
+      "rating": 4.6,
+      "description": "One of the three National Museums of India, housing the largest one-man collection of antiques in the world. Its most famous exhibit is the mesmerizing 'Veiled Rebecca' marble sculpture and a 200-year-old musical clock.",
+      "history": "The collection was amassed by Mir Yousuf Ali Khan (Salar Jung III) over 35 years, spending a third of his income on art acquisition.",
+      "famousFor": "Veiled Rebecca sculpture, Musical clock, Mughal jade collection.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "salar-jung-museum",
+      "images": {
+        "main": "assets/images/states/telangana/salar-jung-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charminar",
+          "city": "Hyderabad",
+          "distance": "1.2 km away",
+          "category": "heritage",
+          "slug": "charminar",
+          "images": {
+            "main": "assets/images/popular/charminar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/charminar.webp"
+        },
+        {
+          "name": "Mecca Masjid",
+          "city": "Hyderabad",
+          "distance": "1.4 km away",
+          "category": "heritage",
+          "slug": "mecca-masjid",
+          "images": {
+            "main": "assets/images/popular/mecca-masjid.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mecca-masjid.webp"
+        },
+        {
+          "name": "Chowmahalla Palace",
+          "city": "Hyderabad",
+          "distance": "1.7 km away",
+          "category": "heritage",
+          "slug": "chowmahalla-palace",
+          "images": {
+            "main": "assets/images/popular/chowmahalla-palace.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/chowmahalla-palace.webp"
+        },
+        {
+          "name": "Purani Haveli",
+          "city": "Hyderabad",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "purani-haveli",
+          "images": {
+            "main": "assets/images/popular/purani-haveli.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/purani-haveli.webp"
+        },
+        {
+          "name": "Mir Alam Tank",
+          "city": "Hyderabad",
+          "distance": "3.1 km away",
+          "category": "nature",
+          "slug": "mir-alam-tank",
+          "images": {
+            "main": "assets/images/popular/mir-alam-tank.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mir-alam-tank.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "salar-jung-museum",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/salar-jung-museum.webp",
+      "coordinates": {
+        "lat": 17.3714,
+        "lon": 78.4804
+      },
+      "heroImage": "assets/images/states/telangana/salar-jung-museum.webp"
+    },
+    {
+      "name": "Nehru Zoological Park",
+      "city": "Hyderabad",
+      "category": "wildlife",
+      "distance": "6 km from City Center",
+      "rating": 4.4,
+      "description": "One of the largest zoos in India, spread across 380 acres of pristine forest. It houses over 1,500 species and is renowned for its successful breeding programs for endangered Indian species.",
+      "history": "Established in 1963, it was the first zoo in India to have a Lion Safari and a Butterfly Park.",
+      "famousFor": "Lion Safari, Nocturnal Animal House, Butterfly Park",
+      "bestTime": "October to February",
+      "timings": "8:30 AM – 5:00 PM",
+      "entryFee": "₹60",
+      "slug": "nehru-zoo",
+      "images": {
+        "main": "assets/images/states/telangana/nehru-zoo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mir Alam Tank",
+          "city": "Hyderabad",
+          "distance": "3.2 km away",
+          "category": "nature",
+          "slug": "mir-alam-tank",
+          "images": {
+            "main": "assets/images/popular/mir-alam-tank.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mir-alam-tank.webp"
+        },
+        {
+          "name": "Sudha Cars Museum",
+          "city": "Hyderabad",
+          "distance": "12.7 km away",
+          "category": "heritage",
+          "slug": "sudha-cars-museum",
+          "images": {
+            "main": "assets/images/popular/sudha-cars-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/sudha-cars-museum.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "nehru-zoo",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/nehru-zoo.webp",
+      "coordinates": {
+        "lat": 17.35,
+        "lon": 78.4519
+      },
+      "heroImage": "assets/images/states/telangana/nehru-zoo.webp"
+    },
+    {
+      "name": "Chowmahalla Palace",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "5 km from City Center",
+      "rating": 4.6,
+      "description": "The official residence of the Nizams of Hyderabad during the Asaf Jahi dynasty. This stunning palace complex features grand durbar halls, exquisite courtyards, and a collection of vintage Rolls-Royce cars.",
+      "history": "Built by Nizam Salabat Jung in the late 18th century, modelled after the Shah's palace in Tehran.",
+      "famousFor": "Khilwat Mubarak durbar hall, vintage car collection, clock tower.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹80",
+      "slug": "chowmahalla-palace",
+      "images": {
+        "main": "assets/images/states/telangana/chowmahalla-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charminar",
+          "city": "Hyderabad",
+          "distance": "500 m away",
+          "category": "heritage",
+          "slug": "charminar",
+          "images": {
+            "main": "assets/images/popular/charminar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/charminar.webp"
+        },
+        {
+          "name": "Mecca Masjid",
+          "city": "Hyderabad",
+          "distance": "300 m away",
+          "category": "heritage",
+          "slug": "mecca-masjid",
+          "images": {
+            "main": "assets/images/popular/mecca-masjid.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mecca-masjid.webp"
+        },
+        {
+          "name": "Salar Jung Museum",
+          "city": "Hyderabad",
+          "distance": "1.7 km away",
+          "category": "heritage",
+          "slug": "salar-jung-museum",
+          "images": {
+            "main": "assets/images/popular/salar-jung-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/salar-jung-museum.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "chowmahalla-palace",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/chowmahalla-palace.webp",
+      "coordinates": {
+        "lat": 17.3585,
+        "lon": 78.4718
+      },
+      "heroImage": "assets/images/states/telangana/chowmahalla-palace.webp"
+    },
+    {
+      "name": "Yadadri Temple",
+      "city": "Yadagirigutta",
+      "category": "temples",
+      "distance": "60 km from Hyderabad",
+      "rating": 4.8,
+      "description": "A newly renovated, breathtakingly grand temple complex dedicated to Lord Narasimha, perched on top of the Yadagiri Hill. The recent multi-crore renovation turned it into one of the most visually stunning temples in South India.",
+      "history": "One of the Pancha Narasimha Kshetras, the temple dates back over a thousand years. It underwent a massive ₹1,800 crore renovation completed in 2022.",
+      "famousFor": "Newly renovated grandeur, five forms of Narasimha, hilltop location.",
+      "bestTime": "October to March",
+      "timings": "4:00 AM – 9:45 PM",
+      "entryFee": "Free",
+      "slug": "yadagirigutta",
+      "images": {
+        "main": "assets/images/states/telangana/yadagirigutta.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "yadagirigutta",
+      "district": "Yadadri Bhuvanagiri",
+      "image": "assets/images/states/telangana/yadagirigutta.webp",
+      "coordinates": {
+        "lat": 17.5907,
+        "lon": 78.9496
+      },
+      "heroImage": "assets/images/states/telangana/yadagirigutta.webp"
+    },
+    {
+      "name": "Warangal Fort",
+      "city": "Warangal",
+      "category": "heritage",
+      "distance": "5 km from City",
+      "rating": 4.5,
+      "description": "The imposing ruins of the medieval capital of the powerful Kakatiya dynasty. Its signature ornately carved four Kirti Thoranas (ornamental gateways) are now the official emblem of the Telangana state.",
+      "history": "Built by King Ganapati Deva and his daughter Rudrama Devi in the 13th century, the fort was destroyed by the Delhi Sultanate in 1323.",
+      "famousFor": "Kakatiya Thoranam (state emblem), Swayambhu temple, massive stone gateways.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 7:00 PM",
+      "entryFee": "₹15",
+      "slug": "warangal-fort",
+      "images": {
+        "main": "assets/images/states/telangana/warangal-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thousand Pillar Temple",
+          "city": "Hanamkonda",
+          "distance": "3.8 km away",
+          "category": "temples",
+          "slug": "thousand-pillar-temple",
+          "images": {
+            "main": "assets/images/popular/thousand-pillar-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/thousand-pillar-temple.webp"
+        },
+        {
+          "name": "Bhadrakali Temple",
+          "city": "Warangal",
+          "distance": "1.5 km away",
+          "category": "temples",
+          "slug": "bhadrakali-temple",
+          "images": {
+            "main": "assets/images/popular/bhadrakali-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/bhadrakali-temple.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "warangal-fort",
+      "district": "Warangal",
+      "image": "assets/images/states/telangana/warangal-fort.webp",
+      "coordinates": {
+        "lat": 17.9543,
+        "lon": 79.5889
+      },
+      "heroImage": "assets/images/states/telangana/warangal-fort.webp"
+    },
+    {
+      "name": "Bhongir Fort",
+      "city": "Bhongir",
+      "category": "heritage",
+      "distance": "50 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A spectacular, impregnable hill fort built atop a massive, egg-shaped monolithic rock. It is one of the most thrilling trekking destinations in Telangana with extremely steep, challenging rock faces.",
+      "history": "Built by the Western Chalukya ruler Tribhuvanamalla Vikramaditya VI in the 10th century.",
+      "famousFor": "Egg-shaped monolith, challenging trek, panoramic views.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "bhongir-fort",
+      "images": {
+        "main": "assets/images/states/telangana/bhongir-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "bhongir-fort",
+      "district": "Yadadri Bhuvanagiri",
+      "image": "assets/images/states/telangana/bhongir-fort.webp",
+      "coordinates": {
+        "lat": 17.5122,
+        "lon": 78.8853
+      },
+      "heroImage": "assets/images/states/telangana/bhongir-fort.webp"
+    },
+    {
+      "name": "Thousand Pillar Temple",
+      "city": "Hanamkonda",
+      "category": "temples",
+      "distance": "4 km from Warangal City",
+      "rating": 4.6,
+      "description": "A masterpiece of Kakatiya architecture featuring intricately carved pillars and sculptures.",
+      "history": "Built in 1163 AD by King Rudra Deva of the Kakatiya dynasty.",
+      "famousFor": "Star-shaped temple, intricate carvings",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "thousand-pillar-temple",
+      "images": {
+        "main": "assets/images/states/telangana/thousand-pillar-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Warangal Fort",
+          "city": "Warangal",
+          "distance": "3.8 km away",
+          "category": "heritage",
+          "slug": "warangal-fort",
+          "images": {
+            "main": "assets/images/popular/warangal-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/warangal-fort.webp"
+        },
+        {
+          "name": "Bhadrakali Temple",
+          "city": "Warangal",
+          "distance": "2.6 km away",
+          "category": "temples",
+          "slug": "bhadrakali-temple",
+          "images": {
+            "main": "assets/images/popular/bhadrakali-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/bhadrakali-temple.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "thousand-pillar-temple",
+      "district": "Hanumakonda",
+      "image": "assets/images/states/telangana/thousand-pillar-temple.webp",
+      "coordinates": {
+        "lat": 17.9746,
+        "lon": 79.56
+      },
+      "heroImage": "assets/images/states/telangana/thousand-pillar-temple.webp"
+    },
+    {
+      "name": "Ramappa Temple",
+      "city": "Palampet",
+      "category": "temples",
+      "distance": "70 km from Warangal",
+      "rating": 4.8,
+      "description": "A UNESCO World Heritage Site known for its floating bricks and exquisite carvings.",
+      "history": "Constructed in 1213 AD during the Kakatiya dynasty under Recharla Rudra.",
+      "famousFor": "Floating bricks, Kakatiya art",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ramappa-temple",
+      "images": {
+        "main": "assets/images/states/telangana/ramappa-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Laknavaram Lake",
+          "city": "Mulugu",
+          "distance": "22.6 km away",
+          "category": "nature",
+          "slug": "laknavaram-lake",
+          "images": {
+            "main": "assets/images/popular/laknavaram-lake.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/laknavaram-lake.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "ramappa-temple",
+      "district": "Mulugu",
+      "image": "assets/images/states/telangana/ramappa-temple.webp",
+      "coordinates": {
+        "lat": 17.8888,
+        "lon": 79.9439
+      },
+      "heroImage": "assets/images/states/telangana/ramappa-temple.webp"
+    },
+    {
+      "name": "Laknavaram Lake",
+      "city": "Mulugu",
+      "category": "nature",
+      "distance": "80 km from Warangal",
+      "rating": 4.6,
+      "description": "A spectacularly beautiful lake surrounded by dense forests, famous for its unique 200-meter long hanging bridge that connects two small islands in the middle of the crystal-clear waters.",
+      "history": "Originally a natural lake that was enhanced and developed by the Kakatiya kings for irrigation purposes.",
+      "famousFor": "Hanging bridge, island boating, pristine forest surroundings.",
+      "bestTime": "September to February",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "laknavaram-lake",
+      "images": {
+        "main": "assets/images/states/telangana/laknavaram-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ramappa Temple",
+          "city": "Palampet",
+          "distance": "22.6 km away",
+          "category": "temples",
+          "slug": "ramappa-temple",
+          "images": {
+            "main": "assets/images/popular/ramappa-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/ramappa-temple.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "laknavaram-lake",
+      "district": "Mulugu",
+      "image": "assets/images/states/telangana/laknavaram-lake.webp",
+      "coordinates": {
+        "lat": 17.9833,
+        "lon": 80.1333
+      },
+      "heroImage": "assets/images/states/telangana/laknavaram-lake.webp"
+    },
+    {
+      "name": "Pakhal Lake",
+      "city": "Warangal",
+      "category": "nature",
+      "distance": "50 km from Warangal",
+      "rating": 4.5,
+      "description": "A massive, ancient man-made lake spread over 30 square kilometers, created by the Kakatiya rulers. It is now surrounded by a protected wildlife sanctuary teeming with leopards, deer, and migrant birds.",
+      "history": "Built by King Ganapati Deva of the Kakatiya dynasty in 1213 AD as a giant irrigation reservoir.",
+      "famousFor": "Kakatiya-era lake, wildlife sanctuary, scenic boating.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pakhal-lake",
+      "images": {
+        "main": "assets/images/states/telangana/pakhal-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pandavula Gutta",
+          "city": "Pakhal",
+          "distance": "9.6 km away",
+          "category": "heritage",
+          "slug": "pandavula-gutta",
+          "images": {
+            "main": "assets/images/popular/pandavula-gutta.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/pandavula-gutta.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "pakhal-lake",
+      "district": "Warangal",
+      "image": "assets/images/states/telangana/pakhal-lake.webp",
+      "coordinates": {
+        "lat": 18.1,
+        "lon": 79.95
+      },
+      "heroImage": "assets/images/states/telangana/pakhal-lake.webp"
+    },
+    {
+      "name": "Bogatha Waterfall",
+      "city": "Wazeedu",
+      "category": "waterfalls",
+      "distance": "120 km from Warangal",
+      "rating": 4.7,
+      "description": "Known as the 'Niagara of Telangana', this stunning waterfall plunges 100 feet down a massive rocky cliff amidst the incredibly dense Eturnagaram tribal forests.",
+      "history": "Sacred to the local Koya and Gond tribal communities who perform rituals at the falls during festivals.",
+      "famousFor": "100-foot plunge, tribal forests, monsoon spectacle.",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "₹30",
+      "slug": "bogatha-waterfall",
+      "images": {
+        "main": "assets/images/states/telangana/bogatha-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "bogatha-waterfall",
+      "district": "Mulugu",
+      "image": "assets/images/states/telangana/bogatha-waterfall.webp",
+      "coordinates": {
+        "lat": 18.0667,
+        "lon": 80.5
+      },
+      "heroImage": "assets/images/states/telangana/bogatha-waterfall.webp"
+    },
+    {
+      "name": "Kuntala Waterfall",
+      "city": "Neredigonda",
+      "category": "waterfalls",
+      "distance": "260 km from Hyderabad",
+      "rating": 4.6,
+      "description": "The tallest waterfall in all of Telangana, cascading magnificently down 200 feet in two dramatic tiers. It is tucked away in the remote Sahyadri hills of Adilabad district.",
+      "history": "Named after a Gond tribal princess, the waterfall was a closely guarded secret of the local tribes for centuries.",
+      "famousFor": "Tallest waterfall in Telangana (200 ft), two-tier cascade, remote beauty.",
+      "bestTime": "July to October",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "kuntala-waterfall",
+      "images": {
+        "main": "assets/images/states/telangana/kuntala-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pochera Waterfall",
+          "city": "Boath",
+          "distance": "12.6 km away",
+          "category": "waterfalls",
+          "slug": "pochera-waterfall",
+          "images": {
+            "main": "assets/images/popular/pochera-waterfall.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/pochera-waterfall.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "kuntala-waterfall",
+      "district": "Adilabad",
+      "image": "assets/images/states/telangana/kuntala-waterfall.webp",
+      "coordinates": {
+        "lat": 19.5125,
+        "lon": 78.4333
+      },
+      "heroImage": "assets/images/states/telangana/kuntala-waterfall.webp"
+    },
+    {
+      "name": "Pochera Waterfall",
+      "city": "Boath",
+      "category": "waterfalls",
+      "distance": "270 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A beautiful, multi-tiered waterfall descending gracefully across wide rocky steps on the Godavari plateau. Its uniquely wide, fan-shaped cascade makes it an exceptionally photogenic destination.",
+      "history": "Part of the ancient Godavari drainage system and a sacred bathing site for local tribal communities.",
+      "famousFor": "Fan-shaped cascade, rock bathing pools, monsoon grandeur.",
+      "bestTime": "July to October",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "pochera-waterfall",
+      "images": {
+        "main": "assets/images/states/telangana/pochera-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kuntala Waterfall",
+          "city": "Neredigonda",
+          "distance": "12.6 km away",
+          "category": "waterfalls",
+          "slug": "kuntala-waterfall",
+          "images": {
+            "main": "assets/images/popular/kuntala-waterfall.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/kuntala-waterfall.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "pochera-waterfall",
+      "district": "Adilabad",
+      "image": "assets/images/states/telangana/pochera-waterfall.webp",
+      "coordinates": {
+        "lat": 19.4,
+        "lon": 78.4167
+      },
+      "heroImage": "assets/images/states/telangana/pochera-waterfall.webp"
+    },
+    {
+      "name": "Basara Saraswati Temple",
+      "city": "Basar",
+      "category": "temples",
+      "distance": "210 km from Hyderabad",
+      "rating": 4.7,
+      "description": "One of only two temples in all of India dedicated to Goddess Saraswati (the goddess of knowledge). Located on the banks of the Godavari River, it is where families bring young children for the sacred 'Aksharabhyasam' (first writing) ceremony.",
+      "history": "According to legend, Sage Vyasa meditated here and composed parts of the Mahabharata on the banks of the Godavari.",
+      "famousFor": "Aksharabhyasam ceremonies, only Saraswati temple in South India, Godavari banks.",
+      "bestTime": "October to March",
+      "timings": "4:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "basar-saraswati",
+      "images": {
+        "main": "assets/images/states/telangana/basara-saraswati-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "basar-saraswati",
+      "district": "Nirmal",
+      "image": "assets/images/states/telangana/basara-saraswati-temple.webp",
+      "coordinates": {
+        "lat": 18.8667,
+        "lon": 77.9333
+      },
+      "heroImage": "assets/images/states/telangana/basara-saraswati-temple.webp"
+    },
+    {
+      "name": "Medak Cathedral",
+      "city": "Medak",
+      "category": "heritage",
+      "distance": "100 km from Hyderabad",
+      "rating": 4.6,
+      "description": "The largest church in Asia and the second largest in the world after the Vatican. Its stunning stained-glass windows imported from Europe and the massive 30-foot tall granite cross dominate the Medak skyline.",
+      "history": "Built between 1914 and 1924 by Wesleyan Methodist missionaries, funded entirely by local donations from converts.",
+      "famousFor": "Largest church in Asia, stained glass windows, 30-foot cross.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "medak-cathedral",
+      "images": {
+        "main": "assets/images/states/telangana/medak-cathedral.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Medak Fort",
+          "city": "Medak",
+          "distance": "500 m away",
+          "category": "heritage",
+          "slug": "medak-fort",
+          "images": {
+            "main": "assets/images/popular/medak-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/medak-fort.webp"
+        },
+        {
+          "name": "Edupayala Vana Durga Temple",
+          "city": "Edupayala",
+          "distance": "17.9 km away",
+          "category": "temples",
+          "slug": "edupayala-temple",
+          "images": {
+            "main": "assets/images/popular/edupayala-temple.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "medak-cathedral",
+      "district": "Medak",
+      "image": "assets/images/states/telangana/medak-cathedral.webp",
+      "coordinates": {
+        "lat": 18.05,
+        "lon": 78.2667
+      },
+      "heroImage": "assets/images/states/telangana/medak-cathedral.webp"
+    },
+    {
+      "name": "Ananthagiri Hills",
+      "city": "Vikarabad",
+      "category": "hills",
+      "distance": "80 km from Hyderabad",
+      "rating": 4.6,
+      "description": "A lush, peaceful hill station just outside Hyderabad, set amidst a dense forest with a sacred Shiva temple at its heart. It is the source of the Musi River that flows through Hyderabad.",
+      "history": "The Anantha Padmanabha Swamy Temple here is believed to be over 800 years old, built during the Vijayanagara era.",
+      "famousFor": "Weekend getaway, forest trekking, Anantha Padmanabha Temple.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ananthagiri-hills",
+      "images": {
+        "main": "assets/images/states/telangana/ananthagiri-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "ananthagiri-hills",
+      "district": "Vikarabad",
+      "image": "assets/images/states/telangana/ananthagiri-hills.webp",
+      "coordinates": {
+        "lat": 17.25,
+        "lon": 78.1
+      },
+      "heroImage": "assets/images/states/telangana/ananthagiri-hills.webp"
+    },
+    {
+      "name": "Nagarjuna Sagar Dam",
+      "city": "Nagarjuna Sagar",
+      "category": "nature",
+      "distance": "150 km from Hyderabad",
+      "rating": 4.8,
+      "description": "The world's largest masonry dam built across the mighty Krishna River. It creates one of the largest man-made lakes in the world, offering spectacular views and thrilling boat rides.",
+      "history": "Constructed between 1955 and 1967, it was a massive green revolution initiative. The submerged ancient Buddhist settlements were relocated to the island of Nagarjunakonda.",
+      "famousFor": "Massive dam gates, Nagarjunakonda island, boating.",
+      "bestTime": "August to February",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating ₹150)",
+      "slug": "nagarjuna-sagar-dam",
+      "images": {
+        "main": "assets/images/states/telangana/nagarjuna-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ethipothala Waterfall",
+          "city": "Nagarjuna Sagar",
+          "distance": "13.5 km away",
+          "category": "waterfalls",
+          "slug": "ethipothala-waterfall",
+          "images": {
+            "main": "assets/images/popular/ethipothala-waterfall.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "nagarjuna-sagar-dam",
+      "district": "Nalgonda",
+      "image": "assets/images/states/telangana/nagarjuna-sagar.webp",
+      "coordinates": {
+        "lat": 16.575,
+        "lon": 79.3111
+      },
+      "heroImage": "assets/images/states/telangana/nagarjuna-sagar.webp"
+    },
+    {
+      "name": "Bhadrachalam Temple",
+      "city": "Bhadrachalam",
+      "category": "temples",
+      "distance": "310 km from Hyderabad",
+      "rating": 4.9,
+      "description": "Widely known as the 'Ayodhya of the South', this magnificent 17th-century temple dedicated to Lord Rama sits majestically on the banks of the Godavari River.",
+      "history": "Constructed by the legendary devotee Kancharla Gopanna (Bhakta Ramadasu) in the 17th century.",
+      "famousFor": "Lord Rama, Godavari river, Vaikuntha Ekadasi festival.",
+      "bestTime": "October to March",
+      "timings": "4:30 AM – 1:00 PM, 3:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "bhadrachalam-temple",
+      "images": {
+        "main": "assets/images/states/telangana/bhadrachalam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Parnasala",
+          "city": "Bhadrachalam",
+          "distance": "35 km",
+          "slug": "parnasala",
+          "image": "assets/images/states/telangana/bhadrachalam.webp"
+        },
+        {
+          "name": "Kinnerasani Dam",
+          "city": "Bhadrachalam",
+          "distance": "20 km",
+          "slug": "kinnerasani-dam",
+          "image": "assets/images/states/telangana/kinnerasani-dam.png"
+        }
+      ],
+      "state": "Telangana",
+      "id": "bhadrachalam-temple",
+      "district": "Bhadradri Kothagudem",
+      "image": "assets/images/states/telangana/bhadrachalam.webp",
+      "coordinates": {
+        "lat": 17.6689,
+        "lon": 80.8928
+      },
+      "heroImage": "assets/images/states/telangana/bhadrachalam.webp"
+    },
+    {
+      "name": "Qutb Shahi Tombs",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "2 km from Golconda Fort",
+      "rating": 4.7,
+      "description": "An incredibly grand and hauntingly beautiful complex containing the tombs and mosques built by the various kings of the Qutb Shahi dynasty. It features a unique blend of Persian, Pashtun, and Hindu architecture.",
+      "history": "Built during the 16th and 17th centuries, it is one of the only places in the world where an entire dynasty is buried in one single spot.",
+      "famousFor": "Domed architecture, dynastic burial ground, intricate stonework.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 4:30 PM",
+      "entryFee": "₹10",
+      "slug": "qutb-shahi-tombs",
+      "images": {
+        "main": "assets/images/states/telangana/qutb-shahi-tombs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golconda Fort",
+          "city": "Hyderabad",
+          "distance": "1.4 km away",
+          "category": "heritage",
+          "slug": "golconda-fort",
+          "images": {
+            "main": "assets/images/popular/golconda-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/golconda-fort.webp"
+        },
+        {
+          "name": "Taramati Baradari",
+          "city": "Hyderabad",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "taramati-baradari",
+          "images": {
+            "main": "assets/images/states/telangana/taramati.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "qutb-shahi-tombs",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/qutb-shahi-tombs.webp",
+      "coordinates": {
+        "lat": 17.3953,
+        "lon": 78.3989
+      },
+      "heroImage": "assets/images/states/telangana/qutb-shahi-tombs.webp"
+    },
+    {
+      "name": "Jogulamba Temple",
+      "city": "Alampur",
+      "category": "temples",
+      "distance": "200 km from Hyderabad",
+      "rating": 4.8,
+      "description": "An extremely powerful and revered ancient temple dedicated to Goddess Jogulamba. It holds massive spiritual importance as one of the 18 Maha Shakti Peethas in India.",
+      "history": "Built by the Badami Chalukyas in the 7th century, the temple was destroyed by Bahmani Sultans and finally rebuilt in 2005.",
+      "famousFor": "Maha Shakti Peetha, Chalukyan architecture, Tungabhadra river.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 1:00 PM, 2:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "alampur-jogulamba",
+      "images": {
+        "main": "assets/images/states/telangana/jogulamba.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "alampur-jogulamba",
+      "district": "Jogulamba Gadwal",
+      "image": "assets/images/states/telangana/jogulamba.webp",
+      "coordinates": {
+        "lat": 15.8833,
+        "lon": 78.1333
+      },
+      "heroImage": "assets/images/states/telangana/jogulamba.webp"
+    },
+    {
+      "name": "Mecca Masjid",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "Next to Charminar",
+      "rating": 4.7,
+      "description": "One of the largest and oldest mosques in India, capable of hosting 10,000 worshippers at once. Its massive arches and colonnades are carved from single pieces of granite.",
+      "history": "Commissioned by Muhammad Quli Qutb Shah in 1614, the central arch was built using bricks made from soil brought all the way from Mecca.",
+      "famousFor": "Massive granite arches, Charminar proximity, historical bricks.",
+      "bestTime": "Year-round",
+      "timings": "4:00 AM – 9:30 PM",
+      "entryFee": "Free",
+      "slug": "mecca-masjid",
+      "images": {
+        "main": "assets/images/states/telangana/mecca-masjid.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charminar",
+          "city": "Hyderabad",
+          "distance": "200 m away",
+          "category": "heritage",
+          "slug": "charminar",
+          "images": {
+            "main": "assets/images/popular/charminar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/charminar.webp"
+        },
+        {
+          "name": "Chowmahalla Palace",
+          "city": "Hyderabad",
+          "distance": "300 m away",
+          "category": "heritage",
+          "slug": "chowmahalla-palace",
+          "images": {
+            "main": "assets/images/popular/chowmahalla-palace.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/chowmahalla-palace.webp"
+        },
+        {
+          "name": "Salar Jung Museum",
+          "city": "Hyderabad",
+          "distance": "1.4 km away",
+          "category": "heritage",
+          "slug": "salar-jung-museum",
+          "images": {
+            "main": "assets/images/popular/salar-jung-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/salar-jung-museum.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "mecca-masjid",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/mecca-masjid.webp",
+      "coordinates": {
+        "lat": 17.3606,
+        "lon": 78.4736
+      },
+      "heroImage": "assets/images/states/telangana/mecca-masjid.webp"
+    },
+    {
+      "name": "Chilkur Balaji Temple",
+      "city": "Chilkur",
+      "category": "temples",
+      "distance": "30 km from Hyderabad",
+      "rating": 4.6,
+      "description": "Widely known across India as the 'Visa Balaji Temple'. Devotees flock here in massive numbers to perform 108 pradakshinas (circumambulations) after their wishes, particularly for foreign visas, are fulfilled.",
+      "history": "One of the oldest temples in Hyderabad, built half a millennium ago on the banks of Osman Sagar.",
+      "famousFor": "Visa wishes, 108 pradakshinas, no VIP darshan system.",
+      "bestTime": "Year-round (Avoid weekends for crowds)",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "chilkur-balaji-temple",
+      "images": {
+        "main": "assets/images/states/telangana/chilkur-balaji.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Osman Sagar",
+          "city": "Gandipet",
+          "distance": "7.6 km away",
+          "category": "nature",
+          "slug": "osman-sagar",
+          "images": {
+            "main": "assets/images/popular/osman-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/osman-sagar.webp"
+        },
+        {
+          "name": "Mrugavani National Park",
+          "city": "Chilkur",
+          "distance": "6.5 km away",
+          "category": "wildlife",
+          "slug": "mrugavani-national-park",
+          "images": {
+            "main": "assets/images/popular/mrugavani-national-park.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mrugavani-national-park.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "chilkur-balaji-temple",
+      "district": "Rangareddy",
+      "image": "assets/images/states/telangana/chilkur-balaji.webp",
+      "coordinates": {
+        "lat": 17.3167,
+        "lon": 78.3333
+      },
+      "heroImage": "assets/images/states/telangana/chilkur-balaji.webp"
+    },
+    {
+      "name": "Statue of Equality",
+      "city": "Shamshabad",
+      "category": "heritage",
+      "distance": "35 km from Hyderabad",
+      "rating": 4.8,
+      "description": "A magnificent, gleaming 216-foot tall metallic statue dedicated to the 11th-century Vaishnava saint Sri Ramanujacharya. It is the second tallest sitting statue in the world.",
+      "history": "Inaugurated in 2022 to commemorate the 1000th birth anniversary of Ramanujacharya, promoting his teachings of equality.",
+      "famousFor": "216-foot golden statue, 108 divya desam replicas, musical fountain.",
+      "bestTime": "Year-round (Evenings for lights)",
+      "timings": "3:00 PM – 8:00 PM (Closed Wednesdays)",
+      "entryFee": "₹200",
+      "slug": "statue-of-equality",
+      "images": {
+        "main": "assets/images/states/telangana/statue-of-equality.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "statue-of-equality",
+      "district": "Rangareddy",
+      "image": "assets/images/states/telangana/statue-of-equality.webp",
+      "coordinates": {
+        "lat": 17.2483,
+        "lon": 78.425
+      },
+      "heroImage": "assets/images/states/telangana/statue-of-equality.webp"
+    },
+    {
+      "name": "Khammam Fort",
+      "city": "Khammam",
+      "category": "heritage",
+      "distance": "Center of Khammam",
+      "rating": 4.5,
+      "description": "An imposing 1000-year-old fort perched atop a granite hill (Stambhadri). It features a brilliant blend of Hindu and Islamic architectural styles.",
+      "history": "Built by the Kakatiyas in 950 AD, it was later significantly upgraded by the Qutb Shahis and Asaf Jahis.",
+      "famousFor": "Granite hill fortifications, panoramic city views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "khammam-fort",
+      "images": {
+        "main": "assets/images/states/telangana/khammam-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nelakondapalli Buddhist Stupa",
+          "city": "Nelakondapalli",
+          "distance": "16.2 km away",
+          "category": "heritage",
+          "slug": "nelakondapalli",
+          "images": {
+            "main": "assets/images/popular/nelakondapalli.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nelakondapalli.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "khammam-fort",
+      "district": "Khammam",
+      "image": "assets/images/states/telangana/khammam-fort.webp",
+      "coordinates": {
+        "lat": 17.2473,
+        "lon": 80.1514
+      },
+      "heroImage": "assets/images/states/telangana/khammam-fort.webp"
+    },
+    {
+      "name": "Kawal Tiger Reserve",
+      "city": "Jannaram",
+      "category": "wildlife",
+      "distance": "50 km from Mancherial",
+      "rating": 4.6,
+      "description": "A dense, dry deciduous teak forest serving as a critical corridor for tigers moving between Maharashtra and Telangana.",
+      "history": "Declared a Tiger Reserve in 2012 by the Government of India to protect the shrinking tiger habitats in the Deccan plateau.",
+      "famousFor": "Jeep Safaris, Teak forests, Tiger conservation.",
+      "bestTime": "November to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹50 (Safari extra)",
+      "slug": "kawal-tiger-reserve",
+      "images": {
+        "main": "assets/images/states/telangana/kawal.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "kawal-tiger-reserve",
+      "district": "Mancherial",
+      "image": "assets/images/states/telangana/kawal.webp",
+      "coordinates": {
+        "lat": 19.2333,
+        "lon": 78.8167
+      },
+      "heroImage": "assets/images/states/telangana/kawal.webp"
+    },
+    {
+      "name": "Kinnersani Wildlife Sanctuary",
+      "city": "Palvancha",
+      "category": "wildlife",
+      "distance": "25 km from Bhadrachalam",
+      "rating": 4.6,
+      "description": "A deeply tranquil sanctuary wrapped around the picturesque Kinnersani Lake. It is home to leopards, gaurs, and a famous deer park.",
+      "history": "Developed around the Kinnersani Dam built in the 1960s to provide water to the Kothagudem thermal power station.",
+      "famousFor": "Deer Park, Glass house, Kinnersani Lake boating.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "kinnersani-wildlife",
+      "images": {
+        "main": "assets/images/states/telangana/kinnersani.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "kinnersani-wildlife",
+      "district": "Bhadradri Kothagudem",
+      "image": "assets/images/states/telangana/kinnersani.webp",
+      "coordinates": {
+        "lat": 17.4833,
+        "lon": 80.7167
+      },
+      "heroImage": "assets/images/states/telangana/kinnersani.webp"
+    },
+    {
+      "name": "KBR National Park",
+      "city": "Hyderabad",
+      "category": "nature",
+      "distance": "Jubilee Hills, Hyderabad",
+      "rating": 4.7,
+      "description": "A sprawling 390-acre urban oasis situated right in the middle of upscale Jubilee Hills. It features hundreds of peafowl, dense foliage, and the stunning Chiran Palace.",
+      "history": "Declared a national park in 1998, it was formerly the private estate of the Nizam of Hyderabad.",
+      "famousFor": "Peacocks, urban forest trails, Chiran Palace.",
+      "bestTime": "Year-round",
+      "timings": "5:30 AM – 9:30 AM, 4:00 PM – 6:30 PM",
+      "entryFee": "₹30",
+      "slug": "kbr-national-park",
+      "images": {
+        "main": "assets/images/states/telangana/kbr-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Durgam Cheruvu",
+          "city": "Hyderabad",
+          "distance": "5.1 km away",
+          "category": "nature",
+          "slug": "durgam-cheruvu",
+          "images": {
+            "main": "assets/images/popular/durgam-cheruvu.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/durgam-cheruvu.webp"
+        },
+        {
+          "name": "Shilparamam",
+          "city": "Hyderabad",
+          "distance": "6.6 km away",
+          "category": "heritage",
+          "slug": "shilparamam",
+          "images": {
+            "main": "assets/images/popular/shilparamam.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/shilparamam.webp"
+        },
+        {
+          "name": "Raymond's Tomb",
+          "city": "Hyderabad",
+          "distance": "1.6 km away",
+          "category": "heritage",
+          "slug": "raymonds-tomb",
+          "images": {
+            "main": "assets/images/states/telangana/paigah-tombs.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "kbr-national-park",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/kbr-park.webp",
+      "coordinates": {
+        "lat": 17.414,
+        "lon": 78.433
+      },
+      "heroImage": "assets/images/states/telangana/kbr-park.webp"
+    },
+    {
+      "name": "Kaleshwara Mukteswara Swamy Temple",
+      "city": "Kaleshwaram",
+      "category": "temples",
+      "distance": "130 km from Warangal",
+      "rating": 4.8,
+      "description": "A highly unique and sacred Shiva temple situated at the confluence of the Godavari and Pranahita rivers. It is the only temple in the world where two Shiva Lingams (Shiva and Yama) rest on a single pedestal.",
+      "history": "An ancient temple forming one of the three corners of the 'Trilinga Desam', from which the word 'Telangana' is derived.",
+      "famousFor": "Two Lingas on one pedestal, Triveni Sangamam, Trilinga Desam history.",
+      "bestTime": "October to March",
+      "timings": "4:30 AM – 1:00 PM, 3:30 PM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kaleshwaram-temple",
+      "images": {
+        "main": "assets/images/states/telangana/kaleshwara-mukteswara-swamy-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "kaleshwaram-temple",
+      "district": "Jayashankar Bhupalpally",
+      "image": "assets/images/states/telangana/kaleshwara-mukteswara-swamy-temple.webp",
+      "coordinates": {
+        "lat": 18.8103,
+        "lon": 79.9069
+      },
+      "heroImage": "assets/images/states/telangana/kaleshwara-mukteswara-swamy-temple.webp"
+    },
+    {
+      "name": "Singur Dam",
+      "city": "Sangareddy",
+      "category": "nature",
+      "distance": "90 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A massive and profoundly beautiful reservoir built across the Manjeera River. It serves as a huge wetland ecosystem supporting migratory birds and mugger crocodiles.",
+      "history": "Constructed in 1989 to serve as a major drinking water source for the twin cities of Hyderabad and Secunderabad.",
+      "famousFor": "Bird watching, mugger crocodiles, boating.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "singur-dam",
+      "images": {
+        "main": "assets/images/states/telangana/singur-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manjira Wildlife Sanctuary",
+          "city": "Sangareddy",
+          "distance": "1.8 km away",
+          "category": "wildlife",
+          "slug": "manjira-wildlife",
+          "images": {
+            "main": "assets/images/states/telangana/manjira-wildlife-sanctuary.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "singur-dam",
+      "district": "Sangareddy",
+      "image": "assets/images/states/telangana/singur-dam.webp",
+      "coordinates": {
+        "lat": 17.75,
+        "lon": 78.2833
+      },
+      "heroImage": "assets/images/states/telangana/singur-dam.webp"
+    },
+    {
+      "name": "Pocharam Wildlife Sanctuary",
+      "city": "Pocharam",
+      "category": "wildlife",
+      "distance": "115 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A lovely, highly dense forest sanctuary surrounding the Pocharam Lake. It was the former hunting ground of the Nizams and now houses deer, antelopes, and migratory birds.",
+      "history": "Established in 1952, it features an old hunting lodge built by the Nizam in 1916.",
+      "famousFor": "Nizam's hunting lodge, Pocharam Lake, Deer spotting.",
+      "bestTime": "October to May",
+      "timings": "8:30 AM – 5:30 PM",
+      "entryFee": "₹20",
+      "slug": "pocharam-wildlife",
+      "images": {
+        "main": "assets/images/states/telangana/pocharam-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nizam Sagar",
+          "city": "Achampet",
+          "distance": "13.5 km away",
+          "category": "nature",
+          "slug": "nizam-sagar",
+          "images": {
+            "main": "assets/images/popular/nizam-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nizam-sagar.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "pocharam-wildlife",
+      "district": "Kamareddy",
+      "image": "assets/images/states/telangana/pocharam-dam.webp",
+      "coordinates": {
+        "lat": 18.6333,
+        "lon": 78.1833
+      },
+      "heroImage": "assets/images/states/telangana/pocharam-dam.webp"
+    },
+    {
+      "name": "Nelakondapalli Buddhist Stupa",
+      "city": "Nelakondapalli",
+      "category": "heritage",
+      "distance": "22 km from Khammam",
+      "rating": 4.6,
+      "description": "An incredibly significant archaeological site featuring a massive 3rd-century Buddhist Maha Stupa, alongside ruins of viharas, wells, and a completely intact bronze idol of Buddha.",
+      "history": "A flourishing center of Buddhism during the Ikshvaku and Vishnukundina dynasties.",
+      "famousFor": "Maha Stupa, ancient terracotta idols, Buddhist heritage.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "nelakondapalli",
+      "images": {
+        "main": "assets/images/states/telangana/nelakondapalli.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khammam Fort",
+          "city": "Khammam",
+          "distance": "16.2 km away",
+          "category": "heritage",
+          "slug": "khammam-fort",
+          "images": {
+            "main": "assets/images/popular/khammam-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/khammam-fort.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "nelakondapalli",
+      "district": "Khammam",
+      "image": "assets/images/states/telangana/nelakondapalli.webp",
+      "coordinates": {
+        "lat": 17.1167,
+        "lon": 80.0833
+      },
+      "heroImage": "assets/images/states/telangana/nelakondapalli.webp"
+    },
+    {
+      "name": "Rajarajeshwara Swamy Temple",
+      "city": "Vemulawada",
+      "category": "temples",
+      "distance": "150 km from Hyderabad",
+      "rating": 4.8,
+      "description": "Known as the 'Dakshina Kasi' (Varanasi of the South), this highly revered temple is dedicated to Lord Shiva. It is famous for the unique ritual of 'Kode Mokku' where devotees tie an ox to the temple.",
+      "history": "Built by the Chalukya Kings between 750 and 973 AD.",
+      "famousFor": "Kode Mokku ritual, Dakshina Kasi, Dharma Gundam.",
+      "bestTime": "October to March (especially Maha Shivaratri)",
+      "timings": "4:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "vemulawada-temple",
+      "images": {
+        "main": "assets/images/states/telangana/rajarajeshwara-swamy-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "vemulawada-temple",
+      "district": "Rajanna Sircilla",
+      "image": "assets/images/states/telangana/rajarajeshwara-swamy-temple.webp",
+      "coordinates": {
+        "lat": 18.4667,
+        "lon": 78.8667
+      },
+      "heroImage": "assets/images/states/telangana/rajarajeshwara-swamy-temple.webp"
+    },
+    {
+      "name": "Kondagattu Hanuman Temple",
+      "city": "Kondagattu",
+      "category": "temples",
+      "distance": "35 km from Karimnagar",
+      "rating": 4.7,
+      "description": "One of the most famous Hanuman temples in Telangana, perched atop scenic hills. The presiding deity, Lord Anjaneya Swamy, has two faces—one of Hanuman and the other of Narasimha.",
+      "history": "According to legend, the temple was discovered by a cowherd about 300 years ago.",
+      "famousFor": "Two-faced Hanuman idol, hill views, Hanuman Jayanthi.",
+      "bestTime": "October to March",
+      "timings": "4:00 AM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "kondagattu-temple",
+      "images": {
+        "main": "assets/images/states/telangana/kondagattu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Elgandal Fort",
+          "city": "Karimnagar",
+          "distance": "12.8 km away",
+          "category": "heritage",
+          "slug": "elgandal-fort",
+          "images": {
+            "main": "assets/images/popular/elgandal-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/elgandal-fort.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "kondagattu-temple",
+      "district": "Jagtial",
+      "image": "assets/images/states/telangana/kondagattu.webp",
+      "coordinates": {
+        "lat": 18.7167,
+        "lon": 79.05
+      },
+      "heroImage": "assets/images/states/telangana/kondagattu.webp"
+    },
+    {
+      "name": "Mallela Theertham Waterfalls",
+      "city": "Srisailam Road",
+      "category": "waterfalls",
+      "distance": "58 km from Srisailam",
+      "rating": 4.6,
+      "description": "A magnificent waterfall located deep inside the dense Nallamala Forest. Water plunges gracefully from a height of 150 feet directly onto a natural lingam-shaped rock.",
+      "history": "Local legend claims that several sages have performed penance here, and tigers visit the pool to drink water during the summer.",
+      "famousFor": "150-foot waterfall, dense Nallamala forest, trekking.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "mallela-theertham",
+      "images": {
+        "main": "assets/images/states/telangana/mallela-theertham.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "mallela-theertham",
+      "district": "Nagarkurnool",
+      "image": "assets/images/states/telangana/mallela-theertham.webp",
+      "coordinates": {
+        "lat": 16.1833,
+        "lon": 78.8
+      },
+      "heroImage": "assets/images/states/telangana/mallela-theertham.webp"
+    },
+    {
+      "name": "Sammakka Saralamma Temple",
+      "city": "Medaram",
+      "category": "heritage",
+      "distance": "100 km from Warangal",
+      "rating": 4.8,
+      "description": "The epicenter of the legendary Medaram Jatara, the largest tribal religious congregation in Asia (often compared to the Kumbh Mela). It honors the tribal goddesses Sammakka and Saralamma.",
+      "history": "Commemorates the 13th-century valiant fight of a mother and daughter against the unjust taxes imposed by the Kakatiya rulers.",
+      "famousFor": "Asia's largest tribal festival, Jaggery (Bangaram) offerings, forest setting.",
+      "bestTime": "January to February (during Jatara)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "medaram-jatara",
+      "images": {
+        "main": "assets/images/states/telangana/medaram.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "medaram-jatara",
+      "district": "Mulugu",
+      "image": "assets/images/states/telangana/medaram.webp",
+      "coordinates": {
+        "lat": 18.1833,
+        "lon": 80.1667
+      },
+      "heroImage": "assets/images/states/telangana/medaram.webp"
+    },
+    {
+      "name": "Pillalamarri Banyan Tree",
+      "city": "Mahabubnagar",
+      "category": "nature",
+      "distance": "4 km from Mahabubnagar",
+      "rating": 4.5,
+      "description": "A gargantuan, 800-year-old banyan tree whose massive aerial roots spread across a sprawling 4 acres, essentially forming an entire dense forest from a single tree.",
+      "history": "Protected by the state, the tree is so massive that it can easily shelter over 1,000 people under its canopy.",
+      "famousFor": "800-year-old tree, 4-acre canopy, mini zoo.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "pillalamarri-banyan",
+      "images": {
+        "main": "assets/images/states/telangana/pillalamarri-banyan-tree.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "pillalamarri-banyan",
+      "district": "Mahabubnagar",
+      "image": "assets/images/states/telangana/pillalamarri-banyan-tree.webp",
+      "coordinates": {
+        "lat": 16.7333,
+        "lon": 78
+      },
+      "heroImage": "assets/images/states/telangana/pillalamarri-banyan-tree.webp"
+    },
+    {
+      "name": "Somasila Backwaters",
+      "city": "Somasila",
+      "category": "nature",
+      "distance": "100 km from Mahabubnagar",
+      "rating": 4.6,
+      "description": "An incredibly scenic and peaceful tourist destination located on the banks of the Krishna River, featuring fifteen intricately carved ancient Shiva temples that were relocated from submergence.",
+      "history": "The ancient temples were moved block by block to protect them from the rising waters of the Srisailam Dam.",
+      "famousFor": "Coracle rides, relocated temples, Krishna river backwaters.",
+      "bestTime": "August to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "somasila-backwaters",
+      "images": {
+        "main": "assets/images/states/telangana/somasila.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "somasila-backwaters",
+      "district": "Nagarkurnool",
+      "image": "assets/images/states/telangana/somasila.webp",
+      "coordinates": {
+        "lat": 15.9,
+        "lon": 78.9333
+      },
+      "heroImage": "assets/images/states/telangana/somasila.webp"
+    },
+    {
+      "name": "Mahavir Harina Vanasthali",
+      "city": "Vanasthalipuram",
+      "category": "wildlife",
+      "distance": "Vanasthalipuram, Hyderabad",
+      "rating": 4.5,
+      "description": "A beautiful national park situated in the heart of the city, created primarily to preserve the endangered Blackbuck (the state animal of Andhra Pradesh and Telangana).",
+      "history": "Formerly the private hunting grounds of the Nizam, it was converted into a protected park in 1975.",
+      "famousFor": "Blackbuck deer, urban wildlife safaris, butterfly park.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:30 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "mahavir-harina-vanasthali",
+      "images": {
+        "main": "assets/images/states/telangana/mahavir-harina.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shamirpet Lake & Deer Park",
+          "city": "Shamirpet",
+          "distance": "26 km away",
+          "category": "nature",
+          "slug": "shamirpet-lake",
+          "images": {
+            "main": "assets/images/popular/shamirpet-lake.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/shamirpet-lake.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "mahavir-harina-vanasthali",
+      "district": "Rangareddy",
+      "image": "assets/images/states/telangana/mahavir-harina.webp",
+      "coordinates": {
+        "lat": 17.3333,
+        "lon": 78.5833
+      },
+      "heroImage": "assets/images/states/telangana/mahavir-harina.webp"
+    },
+    {
+      "name": "Edupayala Vana Durga Temple",
+      "city": "Edupayala",
+      "category": "temples",
+      "distance": "18 km from Medak",
+      "rating": 4.7,
+      "description": "A deeply unique and holy temple dedicated to Goddess Durga, located precisely where the Manjeera River splits into seven distinct streams before converging again.",
+      "history": "Believed to be the spot where the great King Parikshit performed the 'Sarpayagam' (snake sacrifice).",
+      "famousFor": "Seven river streams, natural rock formations, Shivaratri Jatara.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "edupayala-temple",
+      "images": {
+        "main": "assets/images/states/telangana/edupayala.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Medak Cathedral",
+          "city": "Medak",
+          "distance": "17.9 km away",
+          "category": "heritage",
+          "slug": "medak-cathedral",
+          "images": {
+            "main": "assets/images/popular/medak-cathedral.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/medak-cathedral.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "edupayala-temple",
+      "district": "Medak",
+      "image": "assets/images/states/telangana/edupayala.webp",
+      "coordinates": {
+        "lat": 17.9333,
+        "lon": 78.15
+      },
+      "heroImage": "assets/images/states/telangana/edupayala.webp"
+    },
+    {
+      "name": "Kadam Dam",
+      "city": "Kadam",
+      "category": "nature",
+      "distance": "40 km from Nirmal",
+      "rating": 4.5,
+      "description": "An incredibly scenic reservoir constructed across the Kadam River, situated right at the edge of the Godavari basin and surrounded by lush green hills.",
+      "history": "Built between 1949 and 1965 as part of the Godavari River basin irrigation projects.",
+      "famousFor": "Scenic boating, green hills, monsoon gate-openings.",
+      "bestTime": "August to December",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kadam-dam",
+      "images": {
+        "main": "assets/images/states/telangana/kadam-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "kadam-dam",
+      "district": "Nirmal",
+      "image": "assets/images/states/telangana/kadam-dam.webp",
+      "coordinates": {
+        "lat": 19.1333,
+        "lon": 78.2333
+      },
+      "heroImage": "assets/images/states/telangana/kadam-dam.webp"
+    },
+    {
+      "name": "Ethipothala Waterfall",
+      "city": "Nagarjuna Sagar",
+      "category": "waterfalls",
+      "distance": "11 km from Nagarjuna Sagar",
+      "rating": 4.6,
+      "description": "A gorgeous 70-foot waterfall formed by the confluence of three mountain streams — Nakka Vagu, Tummala Vagu, and Chandravanka Vagu. The base of the falls features a natural pool home to freshwater crocodiles.",
+      "history": "A historical site that has been associated with the nearby Nagarjunakonda Buddhist complex since the 3rd century.",
+      "famousFor": "70-foot cascade, freshwater crocodiles, triple-stream confluence.",
+      "bestTime": "July to December",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "ethipothala-waterfall",
+      "images": {
+        "main": "assets/images/states/telangana/ethipothala-crocs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nagarjuna Sagar Dam",
+          "city": "Nagarjuna Sagar",
+          "distance": "13.5 km away",
+          "category": "nature",
+          "slug": "nagarjuna-sagar-dam",
+          "images": {
+            "main": "assets/images/popular/nagarjuna-sagar-dam.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "ethipothala-waterfall",
+      "district": "Nalgonda",
+      "image": "assets/images/states/telangana/ethipothala-crocs.webp",
+      "coordinates": {
+        "lat": 16.5167,
+        "lon": 79.2
+      },
+      "heroImage": "assets/images/states/telangana/ethipothala-crocs.webp"
+    },
+    {
+      "name": "Keesaragutta Temple",
+      "city": "Keesara",
+      "category": "temples",
+      "distance": "25 km from Hyderabad",
+      "rating": 4.6,
+      "description": "An ancient Shiva temple complex set atop a scenic hillock, featuring a cluster of over 100 individual Shiva lingams in various sizes. It becomes spectacularly crowded and colorful during Maha Shivaratri.",
+      "history": "Believed to have been built during the Chalukya period, the temple's name derives from 'Keesara' meaning 'parrot' — referring to the parrots that once filled these hilltops.",
+      "famousFor": "100 Shiva Lingams, Maha Shivaratri celebrations, hilltop views.",
+      "bestTime": "February to March (Shivaratri)",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "keesaragutta-temple",
+      "images": {
+        "main": "assets/images/states/telangana/keesaragutta.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sanghi Temple",
+          "city": "Sanghi Nagar",
+          "distance": "17.5 km away",
+          "category": "temples",
+          "slug": "sanghi-temple",
+          "images": {
+            "main": "assets/images/popular/sanghi-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/sanghi-temple.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "keesaragutta-temple",
+      "district": "Medchal-Malkajgiri",
+      "image": "assets/images/states/telangana/keesaragutta.webp",
+      "coordinates": {
+        "lat": 17.4833,
+        "lon": 78.65
+      },
+      "heroImage": "assets/images/states/telangana/keesaragutta.webp"
+    },
+    {
+      "name": "Gandhari Kota (Godavari Valley)",
+      "city": "Mahadevpur",
+      "category": "nature",
+      "distance": "180 km from Warangal",
+      "rating": 4.7,
+      "description": "A breathtaking, deeply remote river valley where the mighty Godavari squeezes through a narrow gorge flanked by towering cliffs. Often called the 'hidden gem of Telangana'.",
+      "history": "According to legend, Gandhari (from the Mahabharata) performed penance in a cave in these cliffs.",
+      "famousFor": "Godavari gorge, coracle rides, cliff-side caves.",
+      "bestTime": "September to February",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free (Coracle extra)",
+      "slug": "gandhari-kota",
+      "images": {
+        "main": "assets/images/states/telangana/gandhari-kota.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "gandhari-kota",
+      "district": "Jayashankar Bhupalpally",
+      "image": "assets/images/states/telangana/gandhari-kota.webp",
+      "coordinates": {
+        "lat": 18.4167,
+        "lon": 80.0833
+      },
+      "heroImage": "assets/images/states/telangana/gandhari-kota.webp"
+    },
+    {
+      "name": "Amrabad Tiger Reserve",
+      "city": "Amrabad",
+      "category": "wildlife",
+      "distance": "170 km from Hyderabad",
+      "rating": 4.7,
+      "description": "A massive 2,611 sq km tiger reserve carved out of the dense Nallamala Hills. It is the second largest tiger reserve in India and home to tigers, leopards, sloth bears, and the elusive Indian pangolin.",
+      "history": "Established as a separate reserve in 2014 after the bifurcation of Andhra Pradesh, from the Nagarjunasagar-Srisailam reserve.",
+      "famousFor": "Second largest tiger reserve in India, Nallamala Hills, Farahabad viewpoint.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹50 (Safari extra)",
+      "slug": "amrabad-tiger-reserve",
+      "images": {
+        "main": "assets/images/states/telangana/amrabad-camp.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "amrabad-tiger-reserve",
+      "district": "Nagarkurnool",
+      "image": "assets/images/states/telangana/amrabad-camp.webp",
+      "coordinates": {
+        "lat": 16.3167,
+        "lon": 78.8333
+      },
+      "heroImage": "assets/images/states/telangana/amrabad-camp.webp"
+    },
+    {
+      "name": "Paigah Tombs",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "6 km from Charminar",
+      "rating": 4.6,
+      "description": "A hauntingly beautiful, hidden necropolis containing the tombs of the powerful Paigah noble family. The marble lattice screens (jaali work) are so incredibly intricate that they rival the Taj Mahal's craftsmanship.",
+      "history": "Built in the 19th century for the Paigah family — the premier nobles and relatives by marriage of the Nizams of Hyderabad.",
+      "famousFor": "Marble jaali work, Indo-Saracenic architecture, hidden gem.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "paigah-tombs",
+      "images": {
+        "main": "assets/images/states/telangana/paigah-tombs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Falaknuma Palace",
+          "city": "Hyderabad",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "falaknuma-palace",
+          "images": {
+            "main": "assets/images/popular/falaknuma-palace.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/falaknuma-palace.webp"
+        },
+        {
+          "name": "Mir Alam Tank",
+          "city": "Hyderabad",
+          "distance": "1.8 km away",
+          "category": "nature",
+          "slug": "mir-alam-tank",
+          "images": {
+            "main": "assets/images/popular/mir-alam-tank.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/mir-alam-tank.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "paigah-tombs",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/paigah-tombs.webp",
+      "coordinates": {
+        "lat": 17.35,
+        "lon": 78.4667
+      },
+      "heroImage": "assets/images/states/telangana/paigah-tombs.webp"
+    },
+    {
+      "name": "Falaknuma Palace",
+      "city": "Hyderabad",
+      "category": "heritage",
+      "distance": "5 km from Charminar",
+      "rating": 4.9,
+      "description": "A jaw-droppingly opulent palace set on a hilltop, once the grandest residence of the sixth Nizam of Hyderabad. It features the world's longest dining table (seating 101) and a Venetian chandelier worth £50 million.",
+      "history": "Built in 1894 by Nawab Vikar-ul-Umra (the Prime Minister of Hyderabad), it was later purchased by the Nizam and is now a Taj Heritage hotel.",
+      "famousFor": "World's longest dining table, Venetian chandeliers, scorpion-shaped layout.",
+      "bestTime": "Year-round",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "₹1500 (High tea included)",
+      "slug": "falaknuma-palace",
+      "images": {
+        "main": "assets/images/states/telangana/falaknuma-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charminar",
+          "city": "Hyderabad",
+          "distance": "3.4 km away",
+          "category": "heritage",
+          "slug": "charminar",
+          "images": {
+            "main": "assets/images/popular/charminar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/charminar.webp"
+        },
+        {
+          "name": "Paigah Tombs",
+          "city": "Hyderabad",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "paigah-tombs",
+          "images": {
+            "main": "assets/images/popular/paigah-tombs.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/paigah-tombs.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "falaknuma-palace",
+      "district": "Hyderabad",
+      "image": "assets/images/states/telangana/falaknuma-palace.webp",
+      "coordinates": {
+        "lat": 17.3319,
+        "lon": 78.4672
+      },
+      "heroImage": "assets/images/states/telangana/falaknuma-palace.webp"
+    },
+    {
+      "name": "Shamirpet Lake & Deer Park",
+      "city": "Shamirpet",
+      "category": "nature",
+      "distance": "25 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A tranquil, sprawling freshwater lake surrounded by a dense forest sanctuary and a dedicated deer park. It is one of Hyderabad's most peaceful weekend escapes.",
+      "history": "Originally built during the Nizam era as a reservoir for irrigation and water supply.",
+      "famousFor": "Deer Park, tranquil lakeside walks, migratory birds.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "shamirpet-lake",
+      "images": {
+        "main": "assets/images/states/telangana/shamirpet-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahavir Harina Vanasthali",
+          "city": "Vanasthalipuram",
+          "distance": "26 km away",
+          "category": "wildlife",
+          "slug": "mahavir-harina-vanasthali",
+          "images": {
+            "main": "assets/images/popular/mahavir-harina-vanasthali.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "shamirpet-lake",
+      "district": "Medchal-Malkajgiri",
+      "image": "assets/images/states/telangana/shamirpet-lake.webp",
+      "coordinates": {
+        "lat": 17.5667,
+        "lon": 78.5833
+      },
+      "heroImage": "assets/images/states/telangana/shamirpet-lake.webp"
+    },
+    {
+      "name": "Purani Haveli",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "4 km from Charminar",
+      "rating": 4.5,
+      "description": "A grand 18th-century palace complex that served as the residence of the Nizam of Hyderabad. It houses the Nizam's Museum with a stunning collection including the Nizam's wardrobe, vintage cars, and a massive 150-year-old hand-carved wooden wardrobe.",
+      "history": "Built in 1750 by Nizam Ali Khan as his personal residence. The complex later became the repository of the fabulous Nizam collection of weapons, clothes, and carriages.",
+      "famousFor": "Nizam's Museum, vintage car collection, 150-year-old wardrobe.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹100",
+      "slug": "purani-haveli",
+      "images": {
+        "main": "assets/images/states/telangana/purani-haveli.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Salar Jung Museum",
+          "city": "Hyderabad",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "salar-jung-museum",
+          "images": {
+            "main": "assets/images/popular/salar-jung-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/salar-jung-museum.webp"
+        },
+        {
+          "name": "Nizam Museum",
+          "city": "Hyderabad",
+          "distance": "100 m away",
+          "category": "heritage",
+          "slug": "nizam-museum",
+          "images": {
+            "main": "assets/images/popular/nizam-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nizam-museum.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "purani-haveli",
+      "image": "assets/images/states/telangana/purani-haveli.webp",
+      "coordinates": {
+        "lat": 17.3639,
+        "lon": 78.4833
+      },
+      "heroImage": "assets/images/states/telangana/purani-haveli.webp"
+    },
+    {
+      "name": "Taramati Baradari",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "3 km from Golconda Fort",
+      "rating": 4.5,
+      "description": "An exquisitely beautiful open-air amphitheater and pavilion built for the legendary courtesan and singer Taramati. The acoustics are so brilliant that her singing at this pavilion could be heard at Golconda Fort, 3 km away.",
+      "history": "Built by Abdullah Qutb Shah in the 17th century for the famous dancer-singer Taramati. The pavilion's remarkable acoustic design carried her voice to the king's chambers in Golconda.",
+      "famousFor": "Acoustic engineering, Qutb Shahi architecture, cultural events venue.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "taramati-baradari",
+      "images": {
+        "main": "assets/images/states/telangana/taramati.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golconda Fort",
+          "city": "Hyderabad",
+          "distance": "900 m away",
+          "category": "heritage",
+          "slug": "golconda-fort",
+          "images": {
+            "main": "assets/images/popular/golconda-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/golconda-fort.webp"
+        },
+        {
+          "name": "Qutb Shahi Tombs",
+          "city": "Hyderabad",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "qutb-shahi-tombs",
+          "images": {
+            "main": "assets/images/popular/qutb-shahi-tombs.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/qutb-shahi-tombs.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "taramati-baradari",
+      "image": "assets/images/states/telangana/taramati.webp",
+      "coordinates": {
+        "lat": 17.3867,
+        "lon": 78.4092
+      },
+      "heroImage": "assets/images/states/telangana/taramati.webp"
+    },
+    {
+      "name": "Spanish Mosque",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "2 km from Charminar",
+      "rating": 4.4,
+      "description": "A strikingly unique mosque blending Moorish Spanish architecture with Hyderabadi Islamic design. Its ornate arches and geometric patterns are unlike any other mosque in India.",
+      "history": "Built during the Asaf Jahi dynasty period, the mosque was designed with heavy influence from Moorish architecture of Spain, reflecting the cosmopolitan culture of Nizam-era Hyderabad.",
+      "famousFor": "Moorish architecture, unique blend of Spanish and Hyderabadi styles.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "spanish-mosque",
+      "images": {
+        "main": "assets/images/states/telangana/spanish-mosque.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charminar",
+          "city": "Hyderabad",
+          "distance": "700 m away",
+          "category": "heritage",
+          "slug": "charminar",
+          "images": {
+            "main": "assets/images/popular/charminar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/charminar.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "spanish-mosque",
+      "image": "assets/images/states/telangana/spanish-mosque.webp",
+      "coordinates": {
+        "lat": 17.3567,
+        "lon": 78.47
+      },
+      "heroImage": "assets/images/states/telangana/spanish-mosque.webp"
+    },
+    {
+      "name": "Raymond's Tomb",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "8 km from Charminar",
+      "rating": 4.3,
+      "description": "A towering black granite obelisk marking the grave of Michel Joachim Marie Raymond, a beloved French general who served the Nizam. Locals still worship at the tomb, calling him 'Musa Ram', and it remains one of Hyderabad's most curious monuments.",
+      "history": "Built in 1798 to honor General Raymond, who commanded a 14,000-strong army for Nizam Ali Khan. He was so beloved that the entire city mourned his death and locals began worshipping at his tomb.",
+      "famousFor": "French military heritage, black granite obelisk, local worship tradition.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "raymonds-tomb",
+      "images": {
+        "main": "assets/images/states/telangana/paigah-tombs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "KBR National Park",
+          "city": "Hyderabad",
+          "distance": "1.6 km away",
+          "category": "nature",
+          "slug": "kbr-national-park",
+          "images": {
+            "main": "assets/images/popular/kbr-national-park.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "raymonds-tomb",
+      "image": "assets/images/states/telangana/paigah-tombs.webp",
+      "coordinates": {
+        "lat": 17.4117,
+        "lon": 78.4483
+      },
+      "heroImage": "assets/images/states/telangana/paigah-tombs.webp"
+    },
+    {
+      "name": "Elgandal Fort",
+      "city": "Karimnagar",
+      "district": "Karimnagar",
+      "category": "heritage",
+      "distance": "12 km from Karimnagar",
+      "rating": 4.4,
+      "description": "A massive, imposing hilltop fortress with a history spanning over a thousand years. The fort offers commanding views of the Manair River and the surrounding countryside.",
+      "history": "Originally built by the Kakatiya dynasty in the 12th century, the fort changed hands multiple times — Bahmanis, Qutb Shahis, Mughals, and Asaf Jahis all controlled it.",
+      "famousFor": "Kakatiya-era fortifications, Manair River views, historical layering.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "elgandal-fort",
+      "images": {
+        "main": "assets/images/states/telangana/elgandal-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kondagattu Hanuman Temple",
+          "city": "Kondagattu",
+          "distance": "12.8 km away",
+          "category": "temples",
+          "slug": "kondagattu-temple",
+          "images": {
+            "main": "assets/images/popular/kondagattu-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/kondagattu.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "elgandal-fort",
+      "image": "assets/images/states/telangana/elgandal-fort.webp",
+      "coordinates": {
+        "lat": 18.6333,
+        "lon": 79.1333
+      },
+      "heroImage": "assets/images/states/telangana/elgandal-fort.webp"
+    },
+    {
+      "name": "Koilkonda Fort",
+      "city": "Koilkonda",
+      "district": "Mahabubnagar",
+      "category": "heritage",
+      "distance": "15 km from Mahabubnagar",
+      "rating": 4.3,
+      "description": "A sprawling fortification complex perched on twin hills, featuring elaborate bastions, granaries, and water systems. The fort offers panoramic views of the Deccan plateau.",
+      "history": "Built by the Qutb Shahi rulers as a strategic military outpost in the 16th century. It served as a crucial link in the chain of fortifications protecting the Golconda kingdom.",
+      "famousFor": "Twin-hill fortifications, Qutb Shahi military architecture, panoramic views.",
+      "bestTime": "October to March",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "Free",
+      "slug": "koilkonda-fort",
+      "images": {
+        "main": "assets/images/states/telangana/koilkonda-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "koilkonda-fort",
+      "image": "assets/images/states/telangana/koilkonda-fort.webp",
+      "coordinates": {
+        "lat": 16.7167,
+        "lon": 77.8333
+      },
+      "heroImage": "assets/images/states/telangana/koilkonda-fort.webp"
+    },
+    {
+      "name": "Devarakonda Fort",
+      "city": "Devarakonda",
+      "district": "Nalgonda",
+      "category": "heritage",
+      "distance": "90 km from Hyderabad",
+      "rating": 4.3,
+      "description": "A majestic hilltop fort that was the seat of the Recherla Nayaka kingdom. The massive stone walls and bastions still stand prominently against the skyline.",
+      "history": "Built in the 14th century by the Recherla Nayaks, who were feudatories of the Kakatiya and later Bahmani kingdoms. The fort witnessed numerous medieval battles.",
+      "famousFor": "Recherla Nayaka history, hilltop fortifications, medieval ruins.",
+      "bestTime": "October to March",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "Free",
+      "slug": "devarakonda-fort",
+      "images": {
+        "main": "assets/images/states/telangana/devarakonda-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "devarakonda-fort",
+      "image": "assets/images/states/telangana/devarakonda-fort.webp",
+      "coordinates": {
+        "lat": 16.6833,
+        "lon": 79.0333
+      },
+      "heroImage": "assets/images/states/telangana/devarakonda-fort.webp"
+    },
+    {
+      "name": "Rachakonda Fort",
+      "city": "Rachakonda",
+      "district": "Rangareddy",
+      "category": "heritage",
+      "distance": "65 km from Hyderabad",
+      "rating": 4.3,
+      "description": "An expansive medieval fortress spread across a hilltop, featuring massive stone walls, watchtowers, and ancient Jain and Hindu temples within its perimeter.",
+      "history": "Built by the Recherla Padma Nayaka dynasty in the 14th century, this fort was the capital of a powerful kingdom that once rivaled the Vijayanagara empire.",
+      "famousFor": "Recherla dynasty capital, Jain temples inside fort, medieval ruins.",
+      "bestTime": "October to March",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "Free",
+      "slug": "rachakonda-fort",
+      "images": {
+        "main": "assets/images/states/telangana/rachakonda-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "rachakonda-fort",
+      "image": "assets/images/states/telangana/rachakonda-fort.webp",
+      "coordinates": {
+        "lat": 17.2833,
+        "lon": 78.8333
+      },
+      "heroImage": "assets/images/states/telangana/rachakonda-fort.webp"
+    },
+    {
+      "name": "Gadwal Fort",
+      "city": "Gadwal",
+      "district": "Jogulamba Gadwal",
+      "category": "heritage",
+      "distance": "230 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A stunning 15th-century fortress surrounded by a moat, with a unique blend of Hindu and Islamic architectural elements. The fort houses the famous Chennakesava Swamy temple within its walls.",
+      "history": "Built by the Gadwal Samsthanam rulers in the 15th century, the fort is famous for the handloom weaving tradition of Gadwal sarees that originated within its walls.",
+      "famousFor": "Moated fort, Chennakesava temple, Gadwal saree heritage.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "gadwal-fort",
+      "images": {
+        "main": "assets/images/states/telangana/gadwal-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "gadwal-fort",
+      "image": "assets/images/states/telangana/gadwal-fort.webp",
+      "coordinates": {
+        "lat": 16.2333,
+        "lon": 77.7833
+      },
+      "heroImage": "assets/images/states/telangana/gadwal-fort.webp"
+    },
+    {
+      "name": "Domakonda Fort",
+      "city": "Domakonda",
+      "district": "Kamareddy",
+      "category": "heritage",
+      "distance": "120 km from Hyderabad",
+      "rating": 4.3,
+      "description": "A well-preserved feudal-era fort featuring beautiful European-influenced architecture blended with local Deccani styles. The inner palace has stunning colonial-era rooms and durbar halls.",
+      "history": "Built by the Domakonda Samsthanam, powerful feudal lords under the Nizam. The fort's palace section was built with European architectural influence in the 19th century.",
+      "famousFor": "Colonial-Deccani architecture, preserved durbar halls, feudal heritage.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "domakonda-fort",
+      "images": {
+        "main": "assets/images/states/telangana/domakonda-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nizam Sagar",
+          "city": "Achampet",
+          "distance": "24.6 km away",
+          "category": "nature",
+          "slug": "nizam-sagar",
+          "images": {
+            "main": "assets/images/popular/nizam-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nizam-sagar.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "domakonda-fort",
+      "image": "assets/images/states/telangana/domakonda-fort.webp",
+      "coordinates": {
+        "lat": 18.5833,
+        "lon": 78.3
+      },
+      "heroImage": "assets/images/states/telangana/domakonda-fort.webp"
+    },
+    {
+      "name": "Bhadrakali Temple",
+      "city": "Warangal",
+      "district": "Hanumakonda",
+      "category": "temples",
+      "distance": "5 km from Warangal Fort",
+      "rating": 4.7,
+      "description": "One of the most ancient and powerful Shakti Peethas in Telangana, dedicated to Goddess Bhadrakali. The massive stone idol of the goddess sitting on a lotus is one of the largest in South India.",
+      "history": "Built by the Chalukya kings in the 7th century and later expanded by the Kakatiya dynasty. The temple's presiding deity is believed to be a self-manifested (swayambhu) form of Goddess Kali.",
+      "famousFor": "Shakti Peetha, massive Kali idol, Bhadrakali Lake views.",
+      "bestTime": "October to March",
+      "timings": "4:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "bhadrakali-temple",
+      "images": {
+        "main": "assets/images/states/telangana/bhadrakali-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Warangal Fort",
+          "city": "Warangal",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "warangal-fort",
+          "images": {
+            "main": "assets/images/popular/warangal-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/warangal-fort.webp"
+        },
+        {
+          "name": "Thousand Pillar Temple",
+          "city": "Hanamkonda",
+          "distance": "2.6 km away",
+          "category": "temples",
+          "slug": "thousand-pillar-temple",
+          "images": {
+            "main": "assets/images/popular/thousand-pillar-temple.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/thousand-pillar-temple.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "bhadrakali-temple",
+      "image": "assets/images/states/telangana/bhadrakali-temple.webp",
+      "coordinates": {
+        "lat": 17.9667,
+        "lon": 79.5833
+      },
+      "heroImage": "assets/images/states/telangana/bhadrakali-temple.webp"
+    },
+    {
+      "name": "Sanghi Temple",
+      "city": "Sanghi Nagar",
+      "district": "Rangareddy",
+      "category": "temples",
+      "distance": "30 km from Hyderabad",
+      "rating": 4.6,
+      "description": "A stunning modern temple complex atop Paramanand Giri hill, featuring pristine white marble architecture and elaborate carvings inspired by ancient temple traditions. The hilltop offers breathtaking 360-degree views.",
+      "history": "Built in 1991 by the Sanghi family, the temple was designed to replicate the grand temple-building traditions of ancient India using modern construction techniques.",
+      "famousFor": "White marble architecture, hilltop views, peaceful meditation.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "sanghi-temple",
+      "images": {
+        "main": "assets/images/states/telangana/sanghi-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Keesaragutta Temple",
+          "city": "Keesara",
+          "distance": "17.5 km away",
+          "category": "temples",
+          "slug": "keesaragutta-temple",
+          "images": {
+            "main": "assets/images/popular/keesaragutta-temple.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "sanghi-temple",
+      "image": "assets/images/states/telangana/sanghi-temple.webp",
+      "coordinates": {
+        "lat": 17.3333,
+        "lon": 78.6
+      },
+      "heroImage": "assets/images/states/telangana/sanghi-temple.webp"
+    },
+    {
+      "name": "Komuravelli Mallanna Temple",
+      "city": "Komuravelli",
+      "district": "Siddipet",
+      "category": "temples",
+      "distance": "80 km from Hyderabad",
+      "rating": 4.7,
+      "description": "A famous hilltop temple dedicated to Lord Mallanna (a form of Lord Shiva), deeply revered by people across Telangana. The unique tradition of offering toy horses and bangles to the deity makes it culturally distinctive.",
+      "history": "An ancient temple with roots in tribal worship traditions, it is one of the most visited temples in Telangana. The deity is worshipped as the protector of travelers and merchants.",
+      "famousFor": "Toy horse offerings, tribal worship traditions, hilltop setting.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "komuravelli-mallanna",
+      "images": {
+        "main": "assets/images/states/telangana/komuravelli-mallanna-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "komuravelli-mallanna",
+      "image": "assets/images/states/telangana/komuravelli-mallanna-temple.webp",
+      "coordinates": {
+        "lat": 17.9333,
+        "lon": 78.55
+      },
+      "heroImage": "assets/images/states/telangana/komuravelli-mallanna-temple.webp"
+    },
+    {
+      "name": "Durgam Cheruvu",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "nature",
+      "distance": "Madhapur, Hyderabad",
+      "rating": 4.5,
+      "description": "A stunning freshwater lake nestled between massive granite rock formations in the heart of Hyderabad's IT corridor. The recently built cable-stayed bridge over the lake has become a new iconic landmark of the city.",
+      "history": "An ancient lake dating back to the Kakatiya era, it was once hidden (hence 'Durgam' = inaccessible) between tall rock formations. Recently redeveloped as a scenic urban waterfront.",
+      "famousFor": "Cable-stayed bridge, granite rock formations, urban lakefront.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "durgam-cheruvu",
+      "images": {
+        "main": "assets/images/states/telangana/durgam-cheruvu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shilparamam",
+          "city": "Hyderabad",
+          "distance": "2.7 km away",
+          "category": "heritage",
+          "slug": "shilparamam",
+          "images": {
+            "main": "assets/images/popular/shilparamam.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/shilparamam.webp"
+        },
+        {
+          "name": "KBR National Park",
+          "city": "Hyderabad",
+          "distance": "5.1 km away",
+          "category": "nature",
+          "slug": "kbr-national-park",
+          "images": {
+            "main": "assets/images/popular/kbr-national-park.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "durgam-cheruvu",
+      "image": "assets/images/states/telangana/durgam-cheruvu.webp",
+      "coordinates": {
+        "lat": 17.4263,
+        "lon": 78.3866
+      },
+      "heroImage": "assets/images/states/telangana/durgam-cheruvu.webp"
+    },
+    {
+      "name": "Osman Sagar",
+      "city": "Gandipet",
+      "district": "Rangareddy",
+      "category": "nature",
+      "distance": "25 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A massive, serene reservoir built across the Musi River, popularly known as 'Gandipet Lake'. It is one of Hyderabad's favorite sunset spots with stunning views over the vast expanse of shimmering water.",
+      "history": "Built between 1912 and 1921 by the Nizam Osman Ali Khan to prevent recurring floods in Hyderabad and provide drinking water. Named after the last Nizam.",
+      "famousFor": "Sunset views, Gandipet lakefront, historical Nizam reservoir.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "osman-sagar",
+      "images": {
+        "main": "assets/images/states/telangana/osman-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chilkur Balaji Temple",
+          "city": "Chilkur",
+          "distance": "7.6 km away",
+          "category": "temples",
+          "slug": "chilkur-balaji-temple",
+          "images": {
+            "main": "assets/images/popular/chilkur-balaji-temple.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        },
+        {
+          "name": "Himayat Sagar",
+          "city": "Himayat Nagar",
+          "distance": "6.6 km away",
+          "category": "nature",
+          "slug": "himayat-sagar",
+          "images": {
+            "main": "assets/images/states/telangana/himayat-sagar-dam.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "osman-sagar",
+      "image": "assets/images/states/telangana/osman-sagar.webp",
+      "coordinates": {
+        "lat": 17.3833,
+        "lon": 78.3167
+      },
+      "heroImage": "assets/images/states/telangana/osman-sagar.webp"
+    },
+    {
+      "name": "Himayat Sagar",
+      "city": "Himayat Nagar",
+      "district": "Rangareddy",
+      "category": "nature",
+      "distance": "20 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A tranquil reservoir built across the Esi River, serving as one of Hyderabad's original water supply sources. The dam's serene surroundings offer excellent birdwatching and peaceful weekend getaways.",
+      "history": "Commissioned by the seventh Nizam, Mir Osman Ali Khan, in 1927 to supplement the city's water supply alongside Osman Sagar. Named after Prince Himayat Ali Khan.",
+      "famousFor": "Serene lakeside, birdwatching, monsoon overflow views.",
+      "bestTime": "August to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "himayat-sagar",
+      "images": {
+        "main": "assets/images/states/telangana/himayat-sagar-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Osman Sagar",
+          "city": "Gandipet",
+          "distance": "6.6 km away",
+          "category": "nature",
+          "slug": "osman-sagar",
+          "images": {
+            "main": "assets/images/popular/osman-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/osman-sagar.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "himayat-sagar",
+      "image": "assets/images/states/telangana/himayat-sagar-dam.webp",
+      "coordinates": {
+        "lat": 17.3333,
+        "lon": 78.35
+      },
+      "heroImage": "assets/images/states/telangana/himayat-sagar-dam.webp"
+    },
+    {
+      "name": "Mir Alam Tank",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "nature",
+      "distance": "6 km from Charminar",
+      "rating": 4.3,
+      "description": "One of the oldest artificial lakes in Hyderabad, notable for its unique engineering — constructed as a multi-arch masonry dam. The tank now serves as a habitat for painted storks and other wading birds.",
+      "history": "Built in 1806 by the renowned engineer Henry Russell under the direction of Mir Alam, the Prime Minister of Hyderabad. Its multi-arch dam design was revolutionary for its time.",
+      "famousFor": "Multi-arch dam engineering, painted stork colony, heritage reservoir.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mir-alam-tank",
+      "images": {
+        "main": "assets/images/states/telangana/mir-alam-tank.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Salar Jung Museum",
+          "city": "Hyderabad",
+          "distance": "3.1 km away",
+          "category": "heritage",
+          "slug": "salar-jung-museum",
+          "images": {
+            "main": "assets/images/popular/salar-jung-museum.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/salar-jung-museum.webp"
+        },
+        {
+          "name": "Paigah Tombs",
+          "city": "Hyderabad",
+          "distance": "1.8 km away",
+          "category": "heritage",
+          "slug": "paigah-tombs",
+          "images": {
+            "main": "assets/images/popular/paigah-tombs.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/paigah-tombs.webp"
+        },
+        {
+          "name": "Nehru Zoological Park",
+          "city": "Hyderabad",
+          "distance": "3.2 km away",
+          "category": "wildlife",
+          "slug": "nehru-zoo",
+          "images": {
+            "main": "assets/images/popular/nehru-zoo.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nehru-zoo.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "mir-alam-tank",
+      "image": "assets/images/states/telangana/mir-alam-tank.webp",
+      "coordinates": {
+        "lat": 17.3433,
+        "lon": 78.4817
+      },
+      "heroImage": "assets/images/states/telangana/mir-alam-tank.webp"
+    },
+    {
+      "name": "Sriram Sagar Project",
+      "city": "Pochampad",
+      "district": "Nizamabad",
+      "category": "nature",
+      "distance": "180 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A massive reservoir on the Godavari River, also known as Pochampadu Dam. When the gates are opened during monsoon, the spectacular sight draws thousands of visitors.",
+      "history": "Built between 1963 and 1970 as a major irrigation project on the Godavari River. It irrigates millions of acres in Telangana and is the lifeline of north Telangana agriculture.",
+      "famousFor": "Godavari reservoir, monsoon gate opening spectacle, birdwatching.",
+      "bestTime": "August to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sriram-sagar",
+      "images": {
+        "main": "assets/images/states/telangana/srisram-sagar.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "sriram-sagar",
+      "image": "assets/images/states/telangana/srisram-sagar.webp",
+      "coordinates": {
+        "lat": 18.9667,
+        "lon": 78.35
+      },
+      "heroImage": "assets/images/states/telangana/srisram-sagar.webp"
+    },
+    {
+      "name": "Nizam Sagar",
+      "city": "Achampet",
+      "district": "Kamareddy",
+      "category": "nature",
+      "distance": "140 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A historic reservoir on the Manjira River built during the Nizam era. The dam's scenic surroundings and the picturesque sunset views over the water make it a popular weekend destination.",
+      "history": "Built between 1923 and 1931 by the Nizam's government to provide irrigation to the famine-prone Nizamabad district. It was one of the earliest large dam projects in the Deccan.",
+      "famousFor": "Nizam-era dam, sunset views, Manjira River reservoir.",
+      "bestTime": "August to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nizam-sagar",
+      "images": {
+        "main": "assets/images/states/telangana/nizam-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Domakonda Fort",
+          "city": "Domakonda",
+          "distance": "24.6 km away",
+          "category": "heritage",
+          "slug": "domakonda-fort",
+          "images": {
+            "main": "assets/images/popular/domakonda-fort.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/domakonda-fort.webp"
+        },
+        {
+          "name": "Pocharam Wildlife Sanctuary",
+          "city": "Pocharam",
+          "distance": "13.5 km away",
+          "category": "wildlife",
+          "slug": "pocharam-wildlife",
+          "images": {
+            "main": "assets/images/popular/pocharam-wildlife.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "nizam-sagar",
+      "image": "assets/images/states/telangana/nizam-sagar.webp",
+      "coordinates": {
+        "lat": 18.5833,
+        "lon": 78.0667
+      },
+      "heroImage": "assets/images/states/telangana/nizam-sagar.webp"
+    },
+    {
+      "name": "Gayatri Waterfall",
+      "city": "Indervelly",
+      "district": "Adilabad",
+      "category": "waterfalls",
+      "distance": "240 km from Hyderabad",
+      "rating": 4.5,
+      "description": "A beautiful seasonal waterfall cascading through the dense forests of the Sahyadri ranges in Adilabad district. The falls are surrounded by lush tribal forest and offer a remote, unspoiled experience.",
+      "history": "Named after the sacred Gayatri mantra, the waterfall is revered by local tribal communities as a sacred site. It remains one of Telangana's least commercialized natural attractions.",
+      "famousFor": "Remote forest setting, tribal area, pristine cascading falls.",
+      "bestTime": "July to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "gayatri-waterfall",
+      "images": {
+        "main": "assets/images/states/telangana/gayatri-waterfalls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "gayatri-waterfall",
+      "image": "assets/images/states/telangana/gayatri-waterfalls.webp",
+      "coordinates": {
+        "lat": 19.5,
+        "lon": 78.3333
+      },
+      "heroImage": "assets/images/states/telangana/gayatri-waterfalls.webp"
+    },
+    {
+      "name": "Mrugavani National Park",
+      "city": "Chilkur",
+      "district": "Rangareddy",
+      "category": "wildlife",
+      "distance": "22 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A 3.5 sq km protected urban forest park harboring a surprisingly rich biodiversity including spotted deer, wild boars, jackals, and over 100 species of birds right on the outskirts of Hyderabad.",
+      "history": "Declared a national park in 1994 to preserve the unique scrub-forest ecosystem on the southern outskirts of Hyderabad. The name means 'Garden of Animals' in Telugu.",
+      "famousFor": "Urban wildlife, scrub forest ecosystem, birdwatching.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "mrugavani-national-park",
+      "images": {
+        "main": "assets/images/states/telangana/mrugavani-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chilkur Balaji Temple",
+          "city": "Chilkur",
+          "distance": "6.5 km away",
+          "category": "temples",
+          "slug": "chilkur-balaji-temple",
+          "images": {
+            "main": "assets/images/popular/chilkur-balaji-temple.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "mrugavani-national-park",
+      "image": "assets/images/states/telangana/mrugavani-national-park.webp",
+      "coordinates": {
+        "lat": 17.2833,
+        "lon": 78.3833
+      },
+      "heroImage": "assets/images/states/telangana/mrugavani-national-park.webp"
+    },
+    {
+      "name": "Eturnagaram Wildlife Sanctuary",
+      "city": "Eturnagaram",
+      "district": "Mulugu",
+      "category": "wildlife",
+      "distance": "220 km from Hyderabad",
+      "rating": 4.5,
+      "description": "One of Telangana's oldest and most pristine wildlife sanctuaries, spread across dense deciduous forests along the Godavari River. It is home to tigers, leopards, gaur, and sambar deer.",
+      "history": "Established in 1953, it is one of the first wildlife sanctuaries in the Telangana region. The forest is also sacred to local Koya and Gond tribal communities.",
+      "famousFor": "Tigers, Godavari river forest, tribal heritage, pristine wilderness.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "eturnagaram-wildlife",
+      "images": {
+        "main": "assets/images/states/telangana/eturnagaram-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "eturnagaram-wildlife",
+      "image": "assets/images/states/telangana/eturnagaram-wildlife-sanctuary.webp",
+      "coordinates": {
+        "lat": 18.3333,
+        "lon": 80.3333
+      },
+      "heroImage": "assets/images/states/telangana/eturnagaram-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Manjira Wildlife Sanctuary",
+      "city": "Sangareddy",
+      "district": "Sangareddy",
+      "category": "wildlife",
+      "distance": "50 km from Hyderabad",
+      "rating": 4.4,
+      "description": "A unique riverine wildlife sanctuary built around the Manjira Dam. It is famous as one of the last remaining habitats of the endangered Indian mugger crocodile and freshwater turtles.",
+      "history": "Established in 1978 to protect the mugger crocodile population in the Manjira River. The sanctuary also serves as an important stopover for migratory birds.",
+      "famousFor": "Mugger crocodiles, freshwater turtles, migratory birds, river safari.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:30 PM",
+      "entryFee": "₹20",
+      "slug": "manjira-wildlife",
+      "images": {
+        "main": "assets/images/states/telangana/manjira-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Singur Dam",
+          "city": "Sangareddy",
+          "distance": "1.8 km away",
+          "category": "nature",
+          "slug": "singur-dam",
+          "images": {
+            "main": "assets/images/popular/singur-dam.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/singur-dam.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "manjira-wildlife",
+      "image": "assets/images/states/telangana/manjira-wildlife-sanctuary.webp",
+      "coordinates": {
+        "lat": 17.75,
+        "lon": 78.2667
+      },
+      "heroImage": "assets/images/states/telangana/manjira-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Pandavula Gutta",
+      "city": "Pakhal",
+      "district": "Warangal",
+      "category": "heritage",
+      "distance": "30 km from Warangal",
+      "rating": 4.5,
+      "description": "A remarkable prehistoric cave site with ancient rock paintings dating back tens of thousands of years. The caves contain some of the oldest human art found in South India, depicting animals, human figures, and geometric patterns.",
+      "history": "The rock shelters contain paintings from the Mesolithic period (around 10,000–5,000 BCE). According to local legend, the Pandava brothers from the Mahabharata took shelter in these caves during their exile.",
+      "famousFor": "Prehistoric rock art, Mesolithic caves, archaeological significance.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "pandavula-gutta",
+      "images": {
+        "main": "assets/images/states/telangana/pandavula-gutta.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pakhal Lake",
+          "city": "Warangal",
+          "distance": "9.6 km away",
+          "category": "nature",
+          "slug": "pakhal-lake",
+          "images": {
+            "main": "assets/images/popular/pakhal-lake.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/pakhal-lake.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "pandavula-gutta",
+      "image": "assets/images/states/telangana/pandavula-gutta.webp",
+      "coordinates": {
+        "lat": 18.1333,
+        "lon": 79.8667
+      },
+      "heroImage": "assets/images/states/telangana/pandavula-gutta.webp"
+    },
+    {
+      "name": "Phanigiri Buddhist Site",
+      "city": "Phanigiri",
+      "district": "Suryapet",
+      "category": "heritage",
+      "distance": "120 km from Hyderabad",
+      "rating": 4.6,
+      "description": "A major Buddhist archaeological site atop a serpent-shaped hill (hence 'Phanigiri' — serpent hill). Excavations have revealed a 2,000-year-old Maha Stupa, viharas, chaityas, and exquisite limestone Buddha statues.",
+      "history": "Flourishing between the 1st century BCE and 4th century CE, Phanigiri was a major center of Buddhist learning along the ancient trade routes. Rare limestone Buddha statues found here are now in the Telangana State Museum.",
+      "famousFor": "Maha Stupa, limestone Buddha statues, 2000-year-old Buddhist ruins.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "phanigiri",
+      "images": {
+        "main": "assets/images/states/telangana/phanigiri-buddhist-site.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "phanigiri",
+      "image": "assets/images/states/telangana/phanigiri-buddhist-site.webp",
+      "coordinates": {
+        "lat": 16.9833,
+        "lon": 79.45
+      },
+      "heroImage": "assets/images/states/telangana/phanigiri-buddhist-site.webp"
+    },
+    {
+      "name": "Dhulikatta Archaeological Site",
+      "city": "Eligaid",
+      "district": "Peddapalli",
+      "category": "heritage",
+      "distance": "200 km from Hyderabad",
+      "rating": 4.4,
+      "description": "An important Buddhist archaeological site featuring a well-preserved Maha Stupa and monastic complex dating to the Satavahana period. The site is a key stop on Telangana's Buddhist heritage trail.",
+      "history": "Excavated in the 1970s–80s, revealing a Satavahana-era Buddhist complex from the 2nd century BCE. The stupa's base features decorative panels with lotus motifs and Buddhist symbols.",
+      "famousFor": "Satavahana-era stupa, Buddhist monastic ruins, heritage trail.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "dhulikatta",
+      "images": {
+        "main": "assets/images/states/telangana/dhulikatta-archaeological-site.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "dhulikatta",
+      "image": "assets/images/states/telangana/dhulikatta-archaeological-site.webp",
+      "coordinates": {
+        "lat": 18.5333,
+        "lon": 79.4333
+      },
+      "heroImage": "assets/images/states/telangana/dhulikatta-archaeological-site.webp"
+    },
+    {
+      "name": "Nizam Museum",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "4 km from Charminar",
+      "rating": 4.6,
+      "description": "Housed inside the grand Purani Haveli palace, this museum showcases the opulent lifestyle of the Nizams of Hyderabad — including a solid gold model of the Buckingham Palace, precious jewels, vintage Rolls-Royce cars, and exquisite royal wardrobes.",
+      "history": "The museum was established to display the collection of the seventh Nizam, Mir Osman Ali Khan, once the richest man in the world. The collection reflects centuries of Asaf Jahi dynasty grandeur.",
+      "famousFor": "Golden Buckingham Palace model, vintage cars, royal jewels.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹100",
+      "slug": "nizam-museum",
+      "images": {
+        "main": "assets/images/states/telangana/nizam-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Purani Haveli",
+          "city": "Hyderabad",
+          "distance": "100 m away",
+          "category": "heritage",
+          "slug": "purani-haveli",
+          "images": {
+            "main": "assets/images/popular/purani-haveli.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/purani-haveli.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "nizam-museum",
+      "image": "assets/images/states/telangana/nizam-museum.webp",
+      "coordinates": {
+        "lat": 17.3644,
+        "lon": 78.4838
+      },
+      "heroImage": "assets/images/states/telangana/nizam-museum.webp"
+    },
+    {
+      "name": "Sudha Cars Museum",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "8 km from City Center",
+      "rating": 4.5,
+      "description": "The world's only museum of handmade wacky cars, featuring over 150 cars built from scrap in the shapes of everyday objects — including a cricket ball car, a camera car, a Brinjal car, and even a sofa car.",
+      "history": "Created by K. Sudhakar who started building these unique cars from scrap materials in 1996. His work earned him a Guinness World Record and numerous international awards.",
+      "famousFor": "World's only handmade wacky car museum, Guinness Record, 150+ cars.",
+      "bestTime": "Year-round",
+      "timings": "9:30 AM – 6:15 PM",
+      "entryFee": "₹80",
+      "slug": "sudha-cars-museum",
+      "images": {
+        "main": "assets/images/states/telangana/sudha-cars-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nehru Zoological Park",
+          "city": "Hyderabad",
+          "distance": "12.7 km away",
+          "category": "wildlife",
+          "slug": "nehru-zoo",
+          "images": {
+            "main": "assets/images/popular/nehru-zoo.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/nehru-zoo.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "sudha-cars-museum",
+      "image": "assets/images/states/telangana/sudha-cars-museum.webp",
+      "coordinates": {
+        "lat": 17.4333,
+        "lon": 78.5333
+      },
+      "heroImage": "assets/images/states/telangana/sudha-cars-museum.webp"
+    },
+    {
+      "name": "Birla Science Museum",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "3 km from City Center",
+      "rating": 4.5,
+      "description": "A comprehensive science museum and planetarium complex situated on the Naubath Pahad hillock adjacent to Birla Mandir. It features a dinosaur gallery, archaeological section, and one of India's best planetariums.",
+      "history": "Established by the Birla Foundation, the museum complex includes the Birla Planetarium (opened 1985), Science Museum, and Archaeology Museum — all serving as Hyderabad's premier educational tourism destination.",
+      "famousFor": "Planetarium shows, dinosaur gallery, science exhibitions.",
+      "bestTime": "Year-round",
+      "timings": "10:30 AM – 8:00 PM",
+      "entryFee": "₹50",
+      "slug": "birla-science-museum",
+      "images": {
+        "main": "assets/images/states/telangana/birla-science-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hussain Sagar Lake",
+          "city": "Hyderabad",
+          "distance": "2.1 km away",
+          "category": "nature",
+          "slug": "hussain-sagar",
+          "images": {
+            "main": "assets/images/popular/hussain-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/hussain-sagar.webp"
+        },
+        {
+          "name": "Birla Mandir",
+          "city": "Hyderabad",
+          "distance": "100 m away",
+          "category": "temples",
+          "slug": "birla-mandir",
+          "images": {
+            "main": "assets/images/popular/birla-mandir.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/birla-mandir.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "birla-science-museum",
+      "image": "assets/images/states/telangana/birla-science-museum.webp",
+      "coordinates": {
+        "lat": 17.4058,
+        "lon": 78.47
+      },
+      "heroImage": "assets/images/states/telangana/birla-science-museum.webp"
+    },
+    {
+      "name": "Pochampally Village",
+      "city": "Pochampally",
+      "district": "Yadadri Bhuvanagiri",
+      "category": "heritage",
+      "distance": "50 km from Hyderabad",
+      "rating": 4.6,
+      "description": "India's first UNESCO-recognized 'World Craft Village', famous for the exquisite ikat handloom weaving that produces the world-renowned Pochampally sarees. Visitors can watch weavers at work in traditional homes.",
+      "history": "The ikat weaving tradition here is over 200 years old. In 2014, UNESCO designated Pochampally as a 'World Craft Village' in recognition of its unique handloom heritage.",
+      "famousFor": "UNESCO World Craft Village, Pochampally ikat sarees, weaver demonstrations.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pochampally-village",
+      "images": {
+        "main": "assets/images/states/telangana/pochampally-village.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Telangana",
+      "id": "pochampally-village",
+      "image": "assets/images/states/telangana/pochampally-village.webp",
+      "coordinates": {
+        "lat": 17.35,
+        "lon": 78.8167
+      },
+      "heroImage": "assets/images/states/telangana/pochampally-village.webp"
+    },
+    {
+      "name": "Shilparamam",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "Madhapur, Hyderabad",
+      "rating": 4.5,
+      "description": "A vibrant arts, crafts, and cultural village showcasing the traditional artisanship of India's rural heritage. The open-air complex features replicated village huts, live craft demonstrations, an amphitheater, and a large handicraft bazaar.",
+      "history": "Established in 1992 by the Government of Telangana to preserve and promote traditional Indian arts and crafts. It has become Hyderabad's premier cultural tourism destination.",
+      "famousFor": "Handicraft bazaar, live craft demos, cultural village, amphitheater.",
+      "bestTime": "Year-round",
+      "timings": "10:30 AM – 8:00 PM",
+      "entryFee": "₹50",
+      "slug": "shilparamam",
+      "images": {
+        "main": "assets/images/states/telangana/shilparamam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Durgam Cheruvu",
+          "city": "Hyderabad",
+          "distance": "2.7 km away",
+          "category": "nature",
+          "slug": "durgam-cheruvu",
+          "images": {
+            "main": "assets/images/popular/durgam-cheruvu.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/durgam-cheruvu.webp"
+        },
+        {
+          "name": "KBR National Park",
+          "city": "Hyderabad",
+          "distance": "6.6 km away",
+          "category": "nature",
+          "slug": "kbr-national-park",
+          "images": {
+            "main": "assets/images/popular/kbr-national-park.webp"
+          },
+          "state": "Telangana",
+          "image": null
+        }
+      ],
+      "state": "Telangana",
+      "id": "shilparamam",
+      "image": "assets/images/states/telangana/shilparamam.webp",
+      "coordinates": {
+        "lat": 17.45,
+        "lon": 78.3833
+      },
+      "heroImage": "assets/images/states/telangana/shilparamam.webp"
+    },
+    {
+      "name": "Tank Bund",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "heritage",
+      "distance": "2 km from City Center",
+      "rating": 4.5,
+      "description": "The iconic road built on a dam across Hussain Sagar Lake, famous for its 33 bronze statues of notable Telugu personalities. Tank Bund is one of Hyderabad's most beloved promenades, offering spectacular lake views and evening breezes.",
+      "history": "Built during the reign of Ibrahim Quli Qutb Shah in 1562 as a dam to create Hussain Sagar lake. The 33 bronze statues were installed in 1988 to honor prominent Telugu figures.",
+      "famousFor": "33 bronze statues, lakeside promenade, sunset views, Necklace Road.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tank-bund",
+      "images": {
+        "main": "assets/images/states/telangana/tank-bund.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hussain Sagar Lake",
+          "city": "Hyderabad",
+          "distance": "800 m away",
+          "category": "nature",
+          "slug": "hussain-sagar",
+          "images": {
+            "main": "assets/images/popular/hussain-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/hussain-sagar.webp"
+        },
+        {
+          "name": "Lumbini Park",
+          "city": "Hyderabad",
+          "distance": "600 m away",
+          "category": "nature",
+          "slug": "lumbini-park",
+          "images": {
+            "main": "assets/images/popular/lumbini-park.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/lumbini-park.webp"
+        },
+        {
+          "name": "Birla Mandir",
+          "city": "Hyderabad",
+          "distance": "1.3 km away",
+          "category": "temples",
+          "slug": "birla-mandir",
+          "images": {
+            "main": "assets/images/popular/birla-mandir.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/birla-mandir.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "tank-bund",
+      "coordinates": {
+        "lat": 17.4168,
+        "lon": 78.4744
+      },
+      "image": "assets/images/states/telangana/tank-bund.webp",
+      "heroImage": "assets/images/states/telangana/tank-bund.webp"
+    },
+    {
+      "name": "Lumbini Park",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "category": "nature",
+      "distance": "Adjacent to Hussain Sagar",
+      "rating": 4.4,
+      "description": "A beautiful urban park on the banks of Hussain Sagar lake, known for its laser show, musical fountain, and the ferry service to the iconic Buddha statue in the middle of the lake.",
+      "history": "Named after Lumbini, the birthplace of Gautama Buddha, this park was developed to complement the monolithic Buddha statue installed in Hussain Sagar in 1992.",
+      "famousFor": "Laser show, musical fountain, Buddha statue ferry, lake views.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 9:00 PM",
+      "entryFee": "₹20",
+      "slug": "lumbini-park",
+      "images": {
+        "main": "assets/images/states/telangana/lumbini-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hussain Sagar Lake",
+          "city": "Hyderabad",
+          "distance": "1.2 km away",
+          "category": "nature",
+          "slug": "hussain-sagar",
+          "images": {
+            "main": "assets/images/popular/hussain-sagar.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/hussain-sagar.webp"
+        },
+        {
+          "name": "Tank Bund",
+          "city": "Hyderabad",
+          "distance": "600 m away",
+          "category": "heritage",
+          "slug": "tank-bund",
+          "images": {
+            "main": "assets/images/popular/tank-bund.webp"
+          },
+          "state": "Telangana",
+          "image": "assets/images/states/telangana/tank-bund.webp"
+        }
+      ],
+      "state": "Telangana",
+      "id": "lumbini-park",
+      "coordinates": {
+        "lat": 17.4133,
+        "lon": 78.47
+      },
+      "image": "assets/images/states/telangana/lumbini-park.webp",
+      "heroImage": "assets/images/states/telangana/lumbini-park.webp"
+    }
+  ],
+  "tagline": "The Land of the Kakatiya Legacy",
+  "bestTime": "October to March",
+  "language": "Telugu, Urdu",
+  "heroImage": "assets/images/states/telangana/banner.webp",
+  "capital": "Hyderabad"
+}

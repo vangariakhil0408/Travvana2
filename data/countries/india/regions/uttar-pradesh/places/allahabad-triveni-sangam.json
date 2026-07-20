@@ -1,0 +1,60 @@
+{
+  "id": "allahabad-triveni-sangam",
+  "slug": "allahabad-triveni-sangam",
+  "name": "Triveni Sangam",
+  "location": "Uttar Pradesh, India",
+  "district": "Prayagraj",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The holiest river confluence in Hinduism, where the Ganga, Yamuna, and the mythical Saraswati rivers merge. It is the site of the massive Kumbh Mela \u2014 the largest peaceful gathering on Earth.",
+  "description": "Mentioned in the Rigveda and Puranas. The Maha Kumbh Mela held here every 12 years attracts over 200 million pilgrims.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March (Kumbh years)",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "anand-bhavan",
+    "khusro-bagh"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Triveni-Sangam.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Triveni-Sangam.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Triveni-Sangam.webp"
+  ]
+}

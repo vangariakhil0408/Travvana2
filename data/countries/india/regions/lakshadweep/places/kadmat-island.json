@@ -1,0 +1,20 @@
+{
+  "id": "kadmat-island",
+  "name": "Kadmat Island",
+  "city": "Kadmat",
+  "state": "Lakshadweep",
+  "description": "A long, narrow island with vast lagoons on both sides, making it a paradise for water sports and diving enthusiasts.",
+  "history": "Known for its limestone and coconut plantations. It is a popular destination for tourists arriving via cruise ships.",
+  "famousFor": "Kayaking, windsurfing, long sandy beaches.",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000003c8c7206afaad7dc5cb1c8d7.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000003c8c7206afaad7dc5cb1c8d7.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000003c8c7206afaad7dc5cb1c8d7.webp"
+  ],
+  "nearbyPlaces": [
+    "amini-island"
+  ]
+}

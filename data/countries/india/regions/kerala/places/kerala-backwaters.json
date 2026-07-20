@@ -1,0 +1,71 @@
+{
+  "id": "kerala-backwaters",
+  "slug": "kerala-backwaters",
+  "name": "Kerala Backwaters",
+  "location": "Kerala, India",
+  "district": "Alappuzha",
+  "stateId": "kerala",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/states/kerala/banner.webp",
+  "heroImage": "./assets/images/states/kerala/banner.webp",
+  "gallery": [
+    "./assets/images/states/kerala/banner.webp"
+  ],
+  "overview": "Experience the beauty of Kerala Backwaters, a top destination in Kerala, India.",
+  "description": "The Kerala backwaters are an extensive, tranquil network of brackish lagoons and lakes. Taking a houseboat cruise along these palm-fringed waterways provides an incredibly mesmerizing experience.",
+  "rating": "4.9",
+  "reviewCount": 3635,
+  "popularityScore": 86,
+  "priceLevel": 1,
+  "bestTimeToVisit": "September to March",
+  "timings": "Houseboat check-in typically 12:00 PM",
+  "entryFee": {
+    "indian": "Houseboat rental required",
+    "foreigner": "Houseboat rental required"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Cochin International Airport",
+      "distance": "85 km"
+    },
+    "nearestRailway": {
+      "name": "Alappuzha Railway Station",
+      "distance": "5 km"
+    },
+    "byRoad": "Well connected to Ernakulam and Trivandrum via Highway."
+  },
+  "tags": [
+    "nature",
+    "kerala",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2606
+    },
+    {
+      "views": 5085
+    }
+  ],
+  "nearbyPlaces": [
+    "varkala-cliff",
+    "athirappilly-waterfalls",
+    "periyar-national-park"
+  ]
+}

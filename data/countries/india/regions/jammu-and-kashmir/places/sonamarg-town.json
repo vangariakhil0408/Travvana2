@@ -1,0 +1,21 @@
+{
+  "id": "sonamarg-town",
+  "name": "Sonamarg Town",
+  "city": "Sonamarg",
+  "state": "Jammu and Kashmir",
+  "description": "Literally translating to 'Meadow of Gold', this magnificent hill station is surrounded by majestic glaciers, pristine lakes, and the roaring Sindh River.",
+  "history": "Historically a gateway on the ancient Silk Road connecting Kashmir with Tibet and China.",
+  "famousFor": "Alpine meadows, base for Amarnath Yatra, Sindh River.",
+  "bestTime": "April to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/sonamarg-town.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/sonamarg-town.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/sonamarg-town.webp"
+  ],
+  "nearbyPlaces": [
+    "zojila-pass",
+    "thajiwas-glacier"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "tawang-monastery",
+  "slug": "tawang-monastery",
+  "name": "Tawang Monastery",
+  "location": "Arunachal Pradesh, India",
+  "district": "Tawang",
+  "stateId": "arunachal-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/tawang-monastery.webp",
+  "heroImage": "./assets/images/popular/tawang-monastery.webp",
+  "gallery": [
+    "./assets/images/popular/tawang-monastery.webp"
+  ],
+  "overview": "Experience the beauty of Tawang Monastery, a top destination in Arunachal Pradesh, India.",
+  "description": "Founded in 1681, Tawang Monastery is the largest monastery in India and a major center of Mahayana Buddhism.",
+  "rating": "4.7",
+  "reviewCount": 3532,
+  "popularityScore": 21,
+  "priceLevel": 2,
+  "bestTimeToVisit": "March to October",
+  "timings": "7:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Tezpur Airport (Assam)",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Tawang Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "2 km from Tawang town"
+  },
+  "tags": [
+    "spiritual",
+    "arunachal-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5141
+    },
+    {
+      "views": 2248
+    }
+  ],
+  "nearbyPlaces": [
+    "ziro-valley"
+  ]
+}

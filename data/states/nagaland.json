@@ -1,0 +1,1864 @@
+{
+  "state": "Nagaland",
+  "slug": "nagaland",
+  "capital": "Kohima",
+  "tagline": "Land of Festivals",
+  "heroImage": "assets/images/states/nagaland/banner.webp",
+  "bestTime": "October to May",
+  "language": "English, Nagamese",
+  "total_places": 38,
+  "places": [
+    {
+      "place_id": "ngl-001",
+      "name": "Kohima War Cemetery",
+      "official_name": "Kohima War Cemetery",
+      "alternate_names": [
+        "CWGC Kohima War Cemetery"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "Center of Kohima",
+      "rating": 4.9,
+      "latitude": 25.6675,
+      "longitude": 94.1031,
+      "description": "A beautifully maintained memorial dedicated to the 1,420 soldiers of the Allied Forces who fell in the epic Battle of Kohima during World War II. The terraced gardens on the hillside feature rows of bronze plaques, and the famous Kohima Epitaph reads: 'When You Go Home, Tell Them Of Us And Say, For Your Tomorrow, We Gave Our Today.'",
+      "history": "Built on the site of the former Deputy Commissioner's tennis court, where some of the most intense hand-to-hand combat of WWII took place in April 1944. The Battle of Kohima, along with the Battle of Imphal, is widely regarded as the turning point of the war in Asia.",
+      "famousFor": "WWII history, the Kohima Epitaph, peaceful terraced gardens, Battle of Kohima.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "kohima-war-cemetery",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nagaland State Museum",
+          "city": "Kohima",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "nagaland-state-museum",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/nagaland-state-museum.webp"
+          },
+          "image": "assets/images/states/nagaland/nagaland-state-museum.webp"
+        },
+        {
+          "name": "Kohima Cathedral",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kohima-cathedral",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-cathedral.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-cathedral.webp"
+        },
+        {
+          "name": "Kohima Botanical Garden",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "kohima-botanical-garden",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+        },
+        {
+          "name": "Kisama Heritage Village",
+          "city": "Kohima",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "kisama-heritage-village",
+          "images": {
+            "main": "assets/images/states/nagaland/kisama-heritage-village.webp"
+          },
+          "state": "Nagaland",
+          "image": "assets/images/states/nagaland/kisama-heritage-village.webp"
+        }
+      ],
+      "id": "kohima-war-cemetery",
+      "image": "assets/images/states/nagaland/kohima-war-cemetery.webp",
+      "heroImage": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+    },
+    {
+      "place_id": "ngl-002",
+      "name": "Kisama Heritage Village",
+      "official_name": "Kisama Heritage Village",
+      "alternate_names": [
+        "Kisama",
+        "Hornbill Festival Grounds",
+        "Naga Heritage Village"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "12 km from Kohima",
+      "rating": 4.8,
+      "latitude": 25.6161,
+      "longitude": 94.1147,
+      "description": "An open-air museum and heritage village that serves as the permanent venue for the internationally renowned Hornbill Festival held every December. It features traditional Naga morungs (dormitories) representing all 16 recognized Naga tribes, showcasing their distinct architecture, art, and cultural traditions.",
+      "history": "Developed by the Government of Nagaland to protect and preserve the rich cultural heritage and traditions of the 16 recognized Naga tribes. The word 'Kisama' is derived from the Angami villages Kigwema ('Ki') and Phesama ('Sa').",
+      "famousFor": "Hornbill Festival (Dec 1-10), Naga Morungs, traditional architecture, tribal performances.",
+      "bestTime": "December (Hornbill Festival)",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹20 (₹500 during Hornbill Festival for foreigners)",
+      "slug": "kisama-heritage-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kisama-heritage-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kohima War Cemetery",
+          "city": "Kohima",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "kohima-war-cemetery",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+        },
+        {
+          "name": "Pulie Badze Wildlife Sanctuary",
+          "city": "Kohima",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "pulie-badze-wildlife-sanctuary",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/pulie-badze.webp"
+          },
+          "image": "assets/images/states/nagaland/pulie-badze.webp"
+        }
+      ],
+      "id": "kisama-heritage-village",
+      "image": "assets/images/states/nagaland/kisama-heritage-village.webp",
+      "heroImage": "assets/images/states/nagaland/kisama-heritage-village.webp"
+    },
+    {
+      "place_id": "ngl-003",
+      "name": "Nagaland State Museum",
+      "official_name": "Nagaland State Museum",
+      "alternate_names": [
+        "Kohima State Museum"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "In Kohima (Bayavu Hill)",
+      "rating": 4.5,
+      "latitude": 25.685,
+      "longitude": 94.105,
+      "description": "A comprehensive museum showcasing the rich cultural heritage of all the Naga tribes through a vast collection of traditional artifacts, weapons, jewelry, textiles, musical instruments, and ceremonial objects. The museum provides an encyclopedic overview of Naga tribal life and history.",
+      "history": "Established by the Government of Nagaland to preserve and display the diverse cultural patrimony of the Naga tribes. Located on Bayavu Hill in Kohima, it serves as the primary repository of Naga material culture.",
+      "famousFor": "Tribal artifacts, traditional weapons, warrior headdresses, handwoven textiles.",
+      "bestTime": "Year-round",
+      "timings": "9:30 AM – 3:30 PM (Closed Sundays & Govt Holidays)",
+      "entryFee": "₹5",
+      "slug": "nagaland-state-museum",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/nagaland-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kohima War Cemetery",
+          "city": "Kohima",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "kohima-war-cemetery",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+        },
+        {
+          "name": "Kohima Cathedral",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kohima-cathedral",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-cathedral.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-cathedral.webp"
+        }
+      ],
+      "id": "nagaland-state-museum",
+      "image": "assets/images/states/nagaland/nagaland-state-museum.webp",
+      "heroImage": "assets/images/states/nagaland/nagaland-state-museum.webp"
+    },
+    {
+      "place_id": "ngl-004",
+      "name": "Kohima Cathedral",
+      "official_name": "Kohima Cathedral",
+      "alternate_names": [
+        "Mary Help of Christians Cathedral Kohima"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "In Kohima (Aradura Hill)",
+      "rating": 4.6,
+      "latitude": 25.6525,
+      "longitude": 94.1047,
+      "description": "One of the largest cathedrals in Asia, the Kohima Cathedral is a magnificent architectural landmark perched on Aradura Hill. The soaring structure with its modern design can accommodate thousands of worshippers and offers panoramic views of Kohima city and the surrounding mountains.",
+      "history": "The cathedral was consecrated in 2010 and stands as a testament to the deep Christian faith of the Naga people. It serves as the seat of the Roman Catholic Diocese of Kohima and has become one of the most iconic structures in Northeast India.",
+      "famousFor": "One of Asia's largest cathedrals, panoramic views, modern architecture, Christmas celebrations.",
+      "bestTime": "Year-round (Christmas for festivities)",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kohima-cathedral",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kohima-cathedral.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kohima War Cemetery",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kohima-war-cemetery",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+        },
+        {
+          "name": "Nagaland State Museum",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "nagaland-state-museum",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/nagaland-state-museum.webp"
+          },
+          "image": "assets/images/states/nagaland/nagaland-state-museum.webp"
+        }
+      ],
+      "id": "kohima-cathedral",
+      "image": "assets/images/states/nagaland/kohima-cathedral.webp",
+      "heroImage": "assets/images/states/nagaland/kohima-cathedral.webp"
+    },
+    {
+      "place_id": "ngl-005",
+      "name": "Dzukou Valley",
+      "official_name": "Dzukou Valley",
+      "alternate_names": [
+        "Dzükou Valley",
+        "Dzuko Valley"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "nature",
+      "distance": "25 km from Kohima",
+      "rating": 4.9,
+      "latitude": 25.5536,
+      "longitude": 94.0669,
+      "description": "Often called the 'Valley of Flowers of the Northeast', Dzukou Valley is a stunning, emerald-green valley at an altitude of 2,452 meters. It features undulating rolling hills, pristine streams, and the rare Dzukou Lily that blooms in July. Accessible only by a challenging 8 km trek, the valley is one of India's most beautiful and untouched natural landscapes.",
+      "history": "A pristine high-altitude valley on the Nagaland-Manipur border, highly revered for its untouched, ethereal beauty. The Nagaland side is the primary tourism-accessible entry point via Viswema village. The valley has been proposed as a UNESCO World Heritage Site.",
+      "famousFor": "Trekking, Dzukou Lily, rolling green hills, camping, sunrise views.",
+      "bestTime": "June to September (flowers), October to November (clear skies)",
+      "timings": "Open 24/7 (Daylight trek recommended)",
+      "entryFee": "₹50 (Trekking permit)",
+      "slug": "dzukou-valley",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/dzukou-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Japfu Peak",
+          "city": "Kohima",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "japfu-peak",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/japfu-peak.webp"
+          },
+          "image": "assets/images/states/nagaland/japfu-peak.webp"
+        },
+        {
+          "name": "Khonoma Green Village",
+          "city": "Kohima",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "khonoma-green-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/khonoma.webp"
+          },
+          "image": "assets/images/states/nagaland/khonoma.webp"
+        }
+      ],
+      "id": "dzukou-valley",
+      "image": "assets/images/states/nagaland/dzukou-valley.webp",
+      "heroImage": "assets/images/states/nagaland/dzukou-valley.webp"
+    },
+    {
+      "place_id": "ngl-006",
+      "name": "Japfu Peak",
+      "official_name": "Japfu Peak",
+      "alternate_names": [
+        "Japfü Peak",
+        "Mount Japfu"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "hills",
+      "distance": "15 km from Kohima",
+      "rating": 4.8,
+      "latitude": 25.5975,
+      "longitude": 94.0667,
+      "description": "The second-highest peak in Nagaland at 3,048 meters, Japfu Peak offers breathtaking panoramic views of the surrounding mountains and valleys. The trek to the summit passes through dense bamboo forests and rhododendron groves, and features the world's tallest rhododendron tree (estimated at over 30 meters).",
+      "history": "A revered peak in Angami Naga culture and a major trekking destination. The trail begins near Viswema village and is the same route used to access Dzukou Valley. The world's tallest rhododendron tree, estimated at over 30 meters, grows on its slopes.",
+      "famousFor": "Second-highest peak in Nagaland, tallest rhododendron tree, panoramic views.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7 (Daylight trek recommended)",
+      "entryFee": "Free",
+      "slug": "japfu-peak",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/japfu-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dzukou Valley",
+          "city": "Kohima",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "dzukou-valley",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/dzukou-valley.webp"
+          },
+          "image": "assets/images/states/nagaland/dzukou-valley.webp"
+        }
+      ],
+      "id": "japfu-peak",
+      "image": "assets/images/states/nagaland/japfu-peak.webp",
+      "heroImage": "assets/images/states/nagaland/japfu-peak.webp"
+    },
+    {
+      "place_id": "ngl-007",
+      "name": "Pulie Badze Wildlife Sanctuary",
+      "official_name": "Pulie Badze Wildlife Sanctuary",
+      "alternate_names": [
+        "Pulie Badze Bird Sanctuary"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "wildlife",
+      "distance": "10 km from Kohima",
+      "rating": 4.5,
+      "latitude": 25.63,
+      "longitude": 94.1,
+      "description": "A beautiful and deeply serene wildlife sanctuary covering 9.23 sq km, offering excellent trekking trails up to Pulie Badze peak. It is home to the rare Blyth's Tragopan, Dark-Rumped Swift, and various species of rare orchids and butterflies.",
+      "history": "Named after a legendary Naga folk hero, Pulie. The sanctuary is a critical catchment area for the water supply of Kohima city and was established to protect the unique montane biodiversity of the region.",
+      "famousFor": "Blyth's Tragopan, Dark-Rumped Swift, scenic trekking, rare orchids.",
+      "bestTime": "November to March",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "pulie-badze-wildlife-sanctuary",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/pulie-badze.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kisama Heritage Village",
+          "city": "Kohima",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "kisama-heritage-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kisama-heritage-village.webp"
+          },
+          "image": "assets/images/states/nagaland/kisama-heritage-village.webp"
+        }
+      ],
+      "id": "pulie-badze-wildlife-sanctuary",
+      "image": "assets/images/states/nagaland/pulie-badze.webp",
+      "heroImage": "assets/images/states/nagaland/pulie-badze.webp"
+    },
+    {
+      "place_id": "ngl-008",
+      "name": "Khonoma Green Village",
+      "official_name": "Khonoma Green Village",
+      "alternate_names": [
+        "Khonoma",
+        "Khonoma Village"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "20 km from Kohima",
+      "rating": 4.8,
+      "latitude": 25.6543,
+      "longitude": 94.022,
+      "description": "India's first officially recognized 'green village', Khonoma is renowned for its strict community-enforced bans on hunting and logging. The village showcases the indigenous Angami Naga lifestyle, incredible terraced rice paddies carved into hillsides, and traditional stone-and-wood architecture.",
+      "history": "Famous for its fierce resistance against the British in 1879 during the Anglo-Naga War. The village shifted from a hunting culture to a pioneering conservation model in the late 1990s, banning all hunting and establishing the Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS).",
+      "famousFor": "India's first green village, eco-tourism, terraced agriculture, Angami warrior heritage.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "₹50 (Village entry)",
+      "slug": "khonoma-green-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/khonoma.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dzuleke Village",
+          "city": "Kohima",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "dzuleke-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/dzuleke.webp"
+          },
+          "image": "assets/images/states/nagaland/dzuleke.webp"
+        },
+        {
+          "name": "Dzukou Valley",
+          "city": "Kohima",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "dzukou-valley",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/dzukou-valley.webp"
+          },
+          "image": "assets/images/states/nagaland/dzukou-valley.webp"
+        }
+      ],
+      "id": "khonoma-green-village",
+      "image": "assets/images/states/nagaland/khonoma.webp",
+      "heroImage": "assets/images/states/nagaland/khonoma.webp"
+    },
+    {
+      "place_id": "ngl-009",
+      "name": "Touphema Heritage Village",
+      "official_name": "Touphema Heritage Village",
+      "alternate_names": [
+        "Tuophema Tourist Village",
+        "Touphema"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "heritage",
+      "distance": "41 km from Kohima",
+      "rating": 4.6,
+      "latitude": 25.82,
+      "longitude": 94.15,
+      "description": "A model heritage village built by the local Angami Naga community to promote rural tourism. Visitors can stay in traditionally styled bamboo huts, experience authentic Angami cuisine (including rice beer), participate in cultural performances, and immerse themselves in the rhythms of Naga village life.",
+      "history": "Established in 2001 in collaboration with the Nagaland Tourism Department to showcase Naga hospitality and living traditions. The village operates as a community-owned tourism venture, with revenues benefiting the entire village.",
+      "famousFor": "Rural eco-tourism, Angami Sekrenyi festival, traditional huts, rice beer, cultural immersion.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "₹50",
+      "slug": "touphema-heritage-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sendenyu Village",
+          "city": "Tseminyu",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "sendenyu-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/sendenyu-village.webp"
+          },
+          "image": "assets/images/states/nagaland/sendenyu-village.webp"
+        }
+      ],
+      "id": "touphema-heritage-village",
+      "image": "assets/images/states/nagaland/kohima-botanical-garden.webp",
+      "heroImage": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+    },
+    {
+      "place_id": "ngl-010",
+      "name": "Ntangki National Park",
+      "official_name": "Ntangki National Park",
+      "alternate_names": [
+        "Intanki National Park"
+      ],
+      "former_names": [],
+      "city": "Peren",
+      "district": "Peren",
+      "category": "wildlife",
+      "distance": "40 km from Dimapur",
+      "rating": 4.4,
+      "latitude": 25.5497,
+      "longitude": 93.5206,
+      "description": "A dense tropical and subtropical forest covering 202 sq km, known for its rich biodiversity. Ntangki is home to Hoolock Gibbons, Asian Elephants, Tigers, Hornbills, and the rare Blyth's Tragopan. The park offers jungle safaris, bird watching, and nature trails through pristine forest.",
+      "history": "Declared a National Park in 1993 after being a wildlife sanctuary since 1976. It is one of the most important protected areas in Nagaland and a key habitat for the Western Hoolock Gibbon.",
+      "famousFor": "Hoolock Gibbons, Hornbills, Asian Elephants, dense jungle safaris.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "ntangki-national-park",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/ntangki.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Benreu Village",
+          "city": "Peren",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "benreu-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/benreu-village.webp"
+          },
+          "image": "assets/images/states/nagaland/benreu-village.webp"
+        }
+      ],
+      "id": "ntangki-national-park",
+      "image": "assets/images/states/nagaland/ntangki.webp",
+      "heroImage": "assets/images/states/nagaland/ntangki.webp"
+    },
+    {
+      "place_id": "ngl-011",
+      "name": "Shilloi Lake",
+      "official_name": "Shilloi Lake",
+      "alternate_names": [
+        "Latsam Lake"
+      ],
+      "former_names": [],
+      "city": "Phek",
+      "district": "Phek",
+      "category": "nature",
+      "distance": "Near Lutsam village, Phek district",
+      "rating": 4.5,
+      "latitude": 25.5953,
+      "longitude": 94.7931,
+      "description": "A beautiful, footprint-shaped natural lake surrounded by dense pine forests in the Patkai mountain range. The lake holds deep spiritual significance for the local Lhotsü Pochury tribe, who believe it is inhabited by spirits. No fishing or drinking from its waters is allowed.",
+      "history": "According to local legend, the lake was created by a supernatural footprint and is inhabited by powerful spirits. The sacred nature of the lake has ensured its pristine preservation for centuries. It is the largest natural lake in Nagaland.",
+      "famousFor": "Footprint shape, spiritual legends, bird watching, pine forest setting.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "shilloi-lake",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/shilloi-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Meluri",
+          "city": "Meluri",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "meluri",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/meluri.webp"
+          },
+          "image": "assets/images/states/nagaland/meluri.webp"
+        },
+        {
+          "name": "Caves of Phek",
+          "city": "Phek",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "caves-of-phek",
+          "images": {
+            "main": "assets/images/states/nagaland/caves-of-phek.webp"
+          },
+          "state": "Nagaland",
+          "image": "assets/images/states/nagaland/caves-of-phek.webp"
+        }
+      ],
+      "id": "shilloi-lake",
+      "image": "assets/images/states/nagaland/shilloi-lake.webp",
+      "heroImage": "assets/images/states/nagaland/shilloi-lake.webp"
+    },
+    {
+      "place_id": "ngl-012",
+      "name": "Mount Tiyi",
+      "official_name": "Mount Tiyi",
+      "alternate_names": [
+        "Tiyi Peak"
+      ],
+      "former_names": [],
+      "city": "Wokha",
+      "district": "Wokha",
+      "category": "hills",
+      "distance": "Near Wokha Town",
+      "rating": 4.4,
+      "latitude": 26.1,
+      "longitude": 94.2667,
+      "description": "A mystic peak deeply embedded in the folklore of the Lotha Nagas, offering magnificent views of the surrounding valleys and the Doyang River. The mountain is covered in rhododendron forests that burst into spectacular bloom during spring.",
+      "history": "According to Lotha and Sema Naga traditions, Mount Tiyi is believed to be the abode of departed souls. It holds profound spiritual significance and is one of the most culturally important mountains in Nagaland.",
+      "famousFor": "Mystic folklore, panoramic valley views, rhododendrons, Lotha Naga culture.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mount-tiyi",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/mount-tiyi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Doyang Reservoir",
+          "city": "Wokha",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "doyang-reservoir",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/doyang-view.webp"
+          },
+          "image": "assets/images/states/nagaland/doyang-view.webp"
+        }
+      ],
+      "id": "mount-tiyi",
+      "image": "assets/images/states/nagaland/mount-tiyi.webp",
+      "heroImage": "assets/images/states/nagaland/mount-tiyi.webp"
+    },
+    {
+      "place_id": "ngl-013",
+      "name": "Longwa Village",
+      "official_name": "Longwa Village",
+      "alternate_names": [
+        "Longwa Border Village"
+      ],
+      "former_names": [],
+      "city": "Mon",
+      "district": "Mon",
+      "category": "heritage",
+      "distance": "42 km from Mon town",
+      "rating": 4.7,
+      "latitude": 26.6614,
+      "longitude": 95.2197,
+      "description": "A unique Konyak Naga village where the international border between India and Myanmar literally passes through the middle of the village chief's (Angh's) house. The Angh sleeps in India and eats in Myanmar. The village is famous for its tattooed warriors, the last generation of headhunters.",
+      "history": "The village is home to the Konyak Nagas, famous for their elaborate facial tattoos and history as fierce headhunters before the advent of Christianity in the 1960s-70s. The last tattooed warriors are now in their 80s and 90s, making this a living museum of a vanishing culture.",
+      "famousFor": "Indo-Myanmar border through Angh's house, Konyak tattoed warriors, wood carving, opium history.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "longwa-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/longwa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mon Town",
+          "city": "Mon",
+          "distance": "42 km away",
+          "category": "cities",
+          "slug": "mon-town",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mon-town.webp"
+          },
+          "image": "assets/images/states/nagaland/mon-town.webp"
+        },
+        {
+          "name": "Shangnyu Village",
+          "city": "Mon",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "shangnyu-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/shangnyu-village.webp"
+          },
+          "image": "assets/images/states/nagaland/shangnyu-village.webp"
+        }
+      ],
+      "id": "longwa-village",
+      "image": "assets/images/states/nagaland/longwa.webp",
+      "heroImage": "assets/images/states/nagaland/longwa.webp"
+    },
+    {
+      "place_id": "ngl-014",
+      "name": "Triple Falls",
+      "official_name": "Triple Falls",
+      "alternate_names": [
+        "Seithekima Falls"
+      ],
+      "former_names": [],
+      "city": "Dimapur",
+      "district": "Chümoukedima",
+      "category": "waterfalls",
+      "distance": "15 km from Dimapur",
+      "rating": 4.6,
+      "latitude": 25.88,
+      "longitude": 93.75,
+      "description": "A stunning natural cascade in Seithekima where three distinct streams of water plunge 280 feet into a pristine natural pool surrounded by lush tropical vegetation. The falls are accessible via a scenic trek through dense forest.",
+      "history": "Maintained by the tourism department, the falls are deeply integrated into the surrounding tropical flora. They serve as a vital trekker's path and a popular destination for day-trippers from Dimapur.",
+      "famousFor": "Three parallel cascades, trekking, picnics, natural swimming pool.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "triple-falls",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/triple-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kachari Ruins",
+          "city": "Dimapur",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "kachari-ruins",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kachari-ruins.webp"
+          },
+          "image": "assets/images/states/nagaland/kachari-ruins.webp"
+        }
+      ],
+      "id": "triple-falls",
+      "image": "assets/images/states/nagaland/triple-falls.webp",
+      "heroImage": "assets/images/states/nagaland/triple-falls.webp"
+    },
+    {
+      "place_id": "ngl-015",
+      "name": "Kachari Ruins",
+      "official_name": "Kachari Ruins",
+      "alternate_names": [
+        "Dimapur Ruins",
+        "Dimasa Kachari Ruins"
+      ],
+      "former_names": [],
+      "city": "Dimapur",
+      "district": "Dimapur",
+      "category": "heritage",
+      "distance": "In Dimapur",
+      "rating": 4.4,
+      "latitude": 25.91,
+      "longitude": 93.73,
+      "description": "A series of mysterious, mushroom-domed megalithic pillars dating back to the 10th-13th century. The intricately carved pillars — some depicting fertility symbols — are the only remnant of the ancient Kachari Kingdom, and their original purpose remains an archaeological mystery.",
+      "history": "Remnants of the ancient Dimasa Kachari Kingdom that existed before the Ahom invasion in the 13th century. Dimapur was the capital of this kingdom, and the ruins are believed to be from a royal recreation area, possibly a chess field or religious site.",
+      "famousFor": "Ancient megalithic pillars, Kachari history, archaeological mystery, fertility carvings.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kachari-ruins",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kachari-ruins.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dimapur Jain Temple",
+          "city": "Dimapur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "dimapur-jain-temple",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/dimapur-jain-temple.webp"
+          },
+          "image": "assets/images/states/nagaland/dimapur-jain-temple.webp"
+        },
+        {
+          "name": "Triple Falls",
+          "city": "Dimapur",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "triple-falls",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/triple-falls.webp"
+          },
+          "image": "assets/images/states/nagaland/triple-falls.webp"
+        }
+      ],
+      "id": "kachari-ruins",
+      "image": "assets/images/states/nagaland/kachari-ruins.webp",
+      "heroImage": "assets/images/states/nagaland/kachari-ruins.webp"
+    },
+    {
+      "place_id": "ngl-016",
+      "name": "Dimapur Jain Temple",
+      "official_name": "Dimapur Jain Temple",
+      "alternate_names": [
+        "Nagaland Jain Temple"
+      ],
+      "former_names": [],
+      "city": "Dimapur",
+      "district": "Dimapur",
+      "category": "heritage",
+      "distance": "Center of Dimapur",
+      "rating": 4.4,
+      "latitude": 25.905,
+      "longitude": 93.728,
+      "description": "An exquisitely crafted Jain temple renowned for its intricate glasswork and beautiful architecture, offering a striking cultural contrast in predominantly Christian Nagaland. The temple features elaborate mosaics, colorful interiors, and a peaceful ambiance.",
+      "history": "Built in 1947 by early Jain settlers who arrived in Dimapur for trade and commerce. The temple remains a vital spiritual center for the Jain community in Nagaland and is a testament to the state's cultural diversity.",
+      "famousFor": "Intricate glasswork, peaceful ambiance, cultural diversity, spiritual heritage.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "dimapur-jain-temple",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/dimapur-jain-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kachari Ruins",
+          "city": "Dimapur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kachari-ruins",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kachari-ruins.webp"
+          },
+          "image": "assets/images/states/nagaland/kachari-ruins.webp"
+        }
+      ],
+      "id": "dimapur-jain-temple",
+      "image": "assets/images/states/nagaland/dimapur-jain-temple.webp",
+      "heroImage": "assets/images/states/nagaland/dimapur-jain-temple.webp"
+    },
+    {
+      "place_id": "ngl-017",
+      "name": "Mokokchung Town",
+      "official_name": "Mokokchung Town",
+      "alternate_names": [
+        "Mokokchung"
+      ],
+      "former_names": [],
+      "city": "Mokokchung",
+      "district": "Mokokchung",
+      "category": "cities",
+      "distance": "145 km from Kohima",
+      "rating": 4.5,
+      "latitude": 26.3247,
+      "longitude": 94.5222,
+      "description": "The cultural and intellectual center of the Ao Naga tribe, Mokokchung is a picturesque hill town known for its vibrant festivals (Moatsu and Tsungremong), colorful tribal culture, and stunning mountain setting. The town has produced many of Nagaland's leading writers, poets, and intellectuals.",
+      "history": "Established during the British era, it was one of the first areas in Nagaland to embrace Christianity and modern education. It has evolved into the cultural capital of the Ao Naga community, known for its progressive outlook and preservation of traditions.",
+      "famousFor": "Ao Naga culture, Moatsu Festival, scenic hills, intellectual capital.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mokokchung-town",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/mokokchung-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chuchuyimlang Village",
+          "city": "Mokokchung",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "chuchuyimlang-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+          },
+          "image": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+        },
+        {
+          "name": "Ungma Village",
+          "city": "Mokokchung",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "ungma-village",
+          "images": {
+            "main": "assets/images/states/nagaland/ungma-village.webp"
+          },
+          "state": "Nagaland",
+          "image": "assets/images/states/nagaland/ungma-village.webp"
+        }
+      ],
+      "id": "mokokchung-town",
+      "image": "assets/images/states/nagaland/mokokchung-town.webp",
+      "heroImage": "assets/images/states/nagaland/mokokchung-town.webp"
+    },
+    {
+      "place_id": "ngl-018",
+      "name": "Chuchuyimlang Village",
+      "official_name": "Chuchuyimlang Village",
+      "alternate_names": [
+        "Chuchuyimlang"
+      ],
+      "former_names": [],
+      "city": "Mokokchung",
+      "district": "Mokokchung",
+      "category": "heritage",
+      "distance": "20 km from Mokokchung",
+      "rating": 4.6,
+      "latitude": 26.4581,
+      "longitude": 94.6389,
+      "description": "One of the oldest and largest Ao Naga villages, Chuchuyimlang is a living museum of Ao tribal heritage. The village features traditional morungs (youth dormitories), ancient stone monuments, and incredible panoramic views of the surrounding valleys and hills.",
+      "history": "According to Ao Naga tradition, Chuchuyimlang is one of the original villages from which the Ao people dispersed. The village has preserved its ancient morungs and traditional governance system, and is a key site for understanding the origins of the Ao Naga civilization.",
+      "famousFor": "Ancient Ao Naga heritage, traditional morungs, stone monuments, panoramic views.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chuchuyimlang-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mokokchung Town",
+          "city": "Mokokchung",
+          "distance": "20 km away",
+          "category": "cities",
+          "slug": "mokokchung-town",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mokokchung-town.webp"
+          },
+          "image": "assets/images/states/nagaland/mokokchung-town.webp"
+        },
+        {
+          "name": "Ungma Village",
+          "city": "Mokokchung",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "ungma-village",
+          "images": {
+            "main": "assets/images/states/nagaland/ungma-village.webp"
+          },
+          "state": "Nagaland",
+          "image": "assets/images/states/nagaland/ungma-village.webp"
+        }
+      ],
+      "id": "chuchuyimlang-village",
+      "image": "assets/images/states/nagaland/chuchuyimlang-village.webp",
+      "heroImage": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+    },
+    {
+      "place_id": "ngl-019",
+      "name": "Mon Town",
+      "official_name": "Mon Town",
+      "alternate_names": [
+        "Mon"
+      ],
+      "former_names": [],
+      "city": "Mon",
+      "district": "Mon",
+      "category": "cities",
+      "distance": "355 km from Kohima",
+      "rating": 4.5,
+      "latitude": 26.75,
+      "longitude": 94.9167,
+      "description": "The cultural heartland of the Konyak Naga tribe, Mon Town is the gateway to experiencing one of the last surviving headhunting cultures in the world. The town serves as a base for visiting the famous tattooed warrior villages and features its own vibrant local markets.",
+      "history": "Mon district was carved out of Tuensang in 1973. The town is the administrative center for the Konyak Naga territory and has become a major hub for tribal heritage tourism focused on the vanishing tattooed warrior culture.",
+      "famousFor": "Konyak tribal culture, gateway to Longwa, tattooed warriors, local markets.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mon-town",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/mon-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Longwa Village",
+          "city": "Mon",
+          "distance": "42 km away",
+          "category": "heritage",
+          "slug": "longwa-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/longwa.webp"
+          },
+          "image": "assets/images/states/nagaland/longwa.webp"
+        },
+        {
+          "name": "Shangnyu Village",
+          "city": "Mon",
+          "distance": "25 km away",
+          "category": "heritage",
+          "slug": "shangnyu-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/shangnyu-village.webp"
+          },
+          "image": "assets/images/states/nagaland/shangnyu-village.webp"
+        },
+        {
+          "name": "Veda Peak",
+          "city": "Mon",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "veda-peak",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/veda-peak.webp"
+          },
+          "image": "assets/images/states/nagaland/veda-peak.webp"
+        }
+      ],
+      "id": "mon-town",
+      "image": "assets/images/states/nagaland/mon-town.webp",
+      "heroImage": "assets/images/states/nagaland/mon-town.webp"
+    },
+    {
+      "place_id": "ngl-020",
+      "name": "Veda Peak",
+      "official_name": "Veda Peak",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Mon",
+      "district": "Mon",
+      "category": "hills",
+      "distance": "70 km from Mon",
+      "rating": 4.6,
+      "latitude": 26.77,
+      "longitude": 95.05,
+      "description": "The highest peak in Mon district, offering breathtaking views of the Brahmaputra River plains in Assam and the Chindwin River in Myanmar on clear days. The peak is steeped in Konyak Naga legends and offers a challenging but rewarding trekking experience.",
+      "history": "Historically significant as the site where British soldiers first established a camp in the Naga hills. The peak holds deep cultural significance for the Konyak Naga community and their folklore.",
+      "famousFor": "Brahmaputra valley views, high altitude trekking, Konyak legends, Myanmar border views.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "veda-peak",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/veda-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mon Town",
+          "city": "Mon",
+          "distance": "20 km away",
+          "category": "cities",
+          "slug": "mon-town",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mon-town.webp"
+          },
+          "image": "assets/images/states/nagaland/mon-town.webp"
+        }
+      ],
+      "id": "veda-peak",
+      "image": "assets/images/states/nagaland/veda-peak.webp",
+      "heroImage": "assets/images/states/nagaland/veda-peak.webp"
+    },
+    {
+      "place_id": "ngl-021",
+      "name": "Shangnyu Village",
+      "official_name": "Shangnyu Village",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Mon",
+      "district": "Mon",
+      "category": "heritage",
+      "distance": "25 km from Mon",
+      "rating": 4.7,
+      "latitude": 26.73,
+      "longitude": 94.95,
+      "description": "One of the most prominent Konyak Naga villages, world-famous for its massive, intricately carved wooden monument (8 feet high and 12 feet wide) housed in the Angh's palace. The village is a living testament to the artistic and cultural traditions of the Konyak warrior society.",
+      "history": "Folklore says heavenly angels carved the massive wooden monument depicting human figures and animals. It is considered a masterpiece of Konyak art and one of the most important tribal cultural artifacts in all of Northeast India.",
+      "famousFor": "Giant wooden monument, Konyak culture, Angh's palace, wood carving traditions.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "shangnyu-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/shangnyu-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Longwa Village",
+          "city": "Mon",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "longwa-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/longwa.webp"
+          },
+          "image": "assets/images/states/nagaland/longwa.webp"
+        },
+        {
+          "name": "Mon Town",
+          "city": "Mon",
+          "distance": "25 km away",
+          "category": "cities",
+          "slug": "mon-town",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mon-town.webp"
+          },
+          "image": "assets/images/states/nagaland/mon-town.webp"
+        }
+      ],
+      "id": "shangnyu-village",
+      "image": "assets/images/states/nagaland/shangnyu-village.webp",
+      "heroImage": "assets/images/states/nagaland/shangnyu-village.webp"
+    },
+    {
+      "place_id": "ngl-022",
+      "name": "Dzuleke Village",
+      "official_name": "Dzuleke Village",
+      "alternate_names": [
+        "Dzuleke Eco-Tourism Village",
+        "Dzülekie Village"
+      ],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "nature",
+      "distance": "40 km from Kohima",
+      "rating": 4.8,
+      "latitude": 25.58,
+      "longitude": 94.12,
+      "description": "A deeply tranquil, offbeat Angami Naga village set amidst lush green forests. Dzuleke is renowned for its highly successful community-based eco-tourism initiative where the entire village banned hunting in 1999 and now operates on eco-tourism, offering authentic homestays, guided forest treks, and an underground river experience.",
+      "history": "The village made the collective decision to ban all hunting and logging in 1999, transforming itself into one of Nagaland's premier eco-tourism destinations. The community-managed tourism model has become a case study in sustainable rural development.",
+      "famousFor": "Eco-tourism, homestays, underground Dzuleke river, forest treks, bird watching.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dzuleke-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/dzuleke.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khonoma Green Village",
+          "city": "Kohima",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "khonoma-green-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/khonoma.webp"
+          },
+          "image": "assets/images/states/nagaland/khonoma.webp"
+        }
+      ],
+      "id": "dzuleke-village",
+      "image": "assets/images/states/nagaland/dzuleke.webp",
+      "heroImage": "assets/images/states/nagaland/dzuleke.webp"
+    },
+    {
+      "place_id": "ngl-023",
+      "name": "Mount Saramati",
+      "official_name": "Mount Saramati",
+      "alternate_names": [
+        "Saramati Peak"
+      ],
+      "former_names": [],
+      "city": "Kiphire",
+      "district": "Kiphire",
+      "category": "hills",
+      "distance": "Near Thanamir Village",
+      "rating": 4.8,
+      "latitude": 25.74,
+      "longitude": 95.0375,
+      "description": "Standing at 3,826 meters, Mount Saramati is the highest peak in Nagaland and forms a natural boundary with Myanmar. The summit remains snow-capped during winter and offers a challenging multi-day trek through pristine forest, passing through beautiful villages and dense bamboo groves.",
+      "history": "A challenging trekking destination highly revered by the local Yimkhiung Naga tribe. The trek starts from Thanamir village (the 'Apple Village') and typically takes 2-3 days. The peak is believed to be sacred and holds deep spiritual significance.",
+      "famousFor": "Highest peak in Nagaland, snow in winter, multi-day trekking, Myanmar border.",
+      "bestTime": "October to November, March to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Trekking permit required)",
+      "slug": "mount-saramati",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/mount-saramati.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thanamir Village",
+          "city": "Kiphire",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "thanamir-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/thanamir.webp"
+          },
+          "image": "assets/images/states/nagaland/thanamir.webp"
+        },
+        {
+          "name": "Fakim Wildlife Sanctuary",
+          "city": "Kiphire",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "fakim-wildlife-sanctuary",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/fakim-village.webp"
+          },
+          "image": "assets/images/states/nagaland/fakim-village.webp"
+        }
+      ],
+      "id": "mount-saramati",
+      "image": "assets/images/states/nagaland/mount-saramati.webp",
+      "heroImage": "assets/images/states/nagaland/mount-saramati.webp"
+    },
+    {
+      "place_id": "ngl-024",
+      "name": "Fakim Wildlife Sanctuary",
+      "official_name": "Fakim Wildlife Sanctuary",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Kiphire",
+      "district": "Kiphire",
+      "category": "wildlife",
+      "distance": "Close to Myanmar Border",
+      "rating": 4.5,
+      "latitude": 25.75,
+      "longitude": 95,
+      "description": "A dense and diverse forest sanctuary near the Myanmar border, covering 6.42 sq km. Fakim is highly regarded for its exceptional orchid diversity (hundreds of species) and serves as a critical habitat for Hoolock Gibbons, Tragopan, and other rare wildlife.",
+      "history": "Established in 1980 to protect the unique biodiversity of the Kiphire region. Despite its small size, the sanctuary is one of the most biodiversity-rich protected areas in Nagaland, located at the transition zone between Indo-Malayan and Palearctic biogeographic realms.",
+      "famousFor": "Rare orchids, Hoolock Gibbons, Tragopan, virgin forests, Myanmar border proximity.",
+      "bestTime": "November to February",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "fakim-wildlife-sanctuary",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/fakim-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mount Saramati",
+          "city": "Kiphire",
+          "distance": "18 km away",
+          "category": "hills",
+          "slug": "mount-saramati",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mount-saramati.webp"
+          },
+          "image": "assets/images/states/nagaland/mount-saramati.webp"
+        },
+        {
+          "name": "Thanamir Village",
+          "city": "Kiphire",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "thanamir-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/thanamir.webp"
+          },
+          "image": "assets/images/states/nagaland/thanamir.webp"
+        }
+      ],
+      "id": "fakim-wildlife-sanctuary",
+      "image": "assets/images/states/nagaland/fakim-village.webp",
+      "heroImage": "assets/images/states/nagaland/fakim-village.webp"
+    },
+    {
+      "place_id": "ngl-025",
+      "name": "Benreu Village",
+      "official_name": "Benreu Village",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Peren",
+      "district": "Peren",
+      "category": "heritage",
+      "distance": "35 km from Peren",
+      "rating": 4.6,
+      "latitude": 25.52,
+      "longitude": 93.68,
+      "description": "An incredibly scenic and secluded eco-tourism village perched on the slopes of Mount Pauna. Benreu is the cultural heartland of the Zeliangrong Naga tribe and offers an authentic experience of traditional Naga village life, complete with unique wooden houses and ancient morungs.",
+      "history": "Known for preserving ancient animist traditions alongside Christianity, Benreu is a rare example of a village that has maintained its traditional governance structures and ceremonial practices while embracing modernity.",
+      "famousFor": "Eco-tourism, Mount Pauna trekking, Zeliangrong culture, traditional wooden houses.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "benreu-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/benreu-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ntangki National Park",
+          "city": "Peren",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "ntangki-national-park",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/ntangki.webp"
+          },
+          "image": "assets/images/states/nagaland/ntangki.webp"
+        }
+      ],
+      "id": "benreu-village",
+      "image": "assets/images/states/nagaland/benreu-village.webp",
+      "heroImage": "assets/images/states/nagaland/benreu-village.webp"
+    },
+    {
+      "place_id": "ngl-026",
+      "name": "Kohima Botanical Garden",
+      "official_name": "Kohima Botanical Garden",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Kohima",
+      "district": "Kohima",
+      "category": "nature",
+      "distance": "In Kohima",
+      "rating": 4.5,
+      "latitude": 25.672,
+      "longitude": 94.108,
+      "description": "A deeply serene and meticulously maintained garden in the heart of Kohima city, offering a peaceful retreat amidst rare indigenous orchids, vibrant rhododendrons, and diverse native flora. The garden serves as both a conservation area and a recreational space for visitors.",
+      "history": "Maintained by the Forest Department of Nagaland to conserve the rich botanical diversity of the region. The garden features a curated collection of Nagaland's native plant species, including many rare orchids.",
+      "famousFor": "Rare orchids, peaceful walking trails, nature photography, rhododendrons.",
+      "bestTime": "October to April",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹10",
+      "slug": "kohima-botanical-garden",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kohima War Cemetery",
+          "city": "Kohima",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kohima-war-cemetery",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+          },
+          "image": "assets/images/states/nagaland/kohima-war-cemetery.webp"
+        }
+      ],
+      "id": "kohima-botanical-garden",
+      "image": "assets/images/states/nagaland/kohima-botanical-garden.webp",
+      "heroImage": "assets/images/states/nagaland/kohima-botanical-garden.webp"
+    },
+    {
+      "place_id": "ngl-027",
+      "name": "Doyang Reservoir",
+      "official_name": "Doyang Reservoir",
+      "alternate_names": [
+        "Doyang Hydro Project",
+        "Falcon Capital of the World"
+      ],
+      "former_names": [],
+      "city": "Wokha",
+      "district": "Wokha",
+      "category": "nature",
+      "distance": "22 km from Wokha",
+      "rating": 4.7,
+      "latitude": 26.2292,
+      "longitude": 94.2975,
+      "description": "A massive reservoir created by the Doyang hydroelectric dam, globally famous as the roosting site for millions of migrating Amur Falcons every autumn during their epic journey from Siberia to South Africa. The region has transformed from mass hunting to becoming the 'Falcon Capital of the World'.",
+      "history": "The region transformed from mass hunting of Amur Falcons into a globally celebrated conservation success story through intense community-driven conservation efforts, supported by organizations like the Nagaland Wildlife & Biodiversity Conservation Trust and the Wildlife Trust of India.",
+      "famousFor": "Amur Falcon migration (Oct-Nov), boating, eco-tourism, conservation success story.",
+      "bestTime": "October to November (For Falcons), Year-round for boating",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "doyang-reservoir",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/doyang-view.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mount Tiyi",
+          "city": "Wokha",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "mount-tiyi",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mount-tiyi.webp"
+          },
+          "image": "assets/images/states/nagaland/mount-tiyi.webp"
+        },
+        {
+          "name": "Pangti Village",
+          "city": "Wokha",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "pangti-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/pangti.webp"
+          },
+          "image": "assets/images/states/nagaland/pangti.webp"
+        }
+      ],
+      "id": "doyang-reservoir",
+      "image": "assets/images/states/nagaland/doyang-view.webp",
+      "heroImage": "assets/images/states/nagaland/doyang-view.webp"
+    },
+    {
+      "place_id": "ngl-028",
+      "name": "Sumi Baptist Church",
+      "official_name": "Sumi Baptist Church",
+      "alternate_names": [
+        "Zunheboto Baptist Church",
+        "Largest Baptist Church in Asia"
+      ],
+      "former_names": [],
+      "city": "Zunheboto",
+      "district": "Zunheboto",
+      "category": "heritage",
+      "distance": "Center of Zunheboto",
+      "rating": 4.8,
+      "latitude": 25.97,
+      "longitude": 94.52,
+      "description": "An architectural marvel and deeply significant spiritual center that holds the distinction of being the largest Baptist church in Asia. The massive structure can seat over 8,500 worshippers and features stunning modern architecture that dominates the Zunheboto skyline.",
+      "history": "The massive structure took over a decade to complete and stands as the pride of the Sumi Naga tribe. It reflects the deep Baptist Christian faith that has become integral to Sumi Naga identity since the 20th century.",
+      "famousFor": "Largest Baptist church in Asia, stunning modern architecture, Sumi Naga culture.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "sumi-baptist-church",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/sumi-baptist-church.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sumi-baptist-church",
+      "image": "assets/images/states/nagaland/sumi-baptist-church.webp",
+      "heroImage": "assets/images/states/nagaland/sumi-baptist-church.webp"
+    },
+    {
+      "place_id": "ngl-029",
+      "name": "Tuensang Town",
+      "official_name": "Tuensang Town",
+      "alternate_names": [
+        "Tuensang"
+      ],
+      "former_names": [],
+      "city": "Tuensang",
+      "district": "Tuensang",
+      "category": "cities",
+      "distance": "260 km from Kohima",
+      "rating": 4.3,
+      "latitude": 26.27,
+      "longitude": 94.83,
+      "description": "The cultural nerve center of eastern Nagaland, Tuensang is the largest district and home to multiple tribes including the Chang, Yimkhiung, Khiamniungan, Sangtam, and Phom. The town offers an authentic, unhurried experience of tribal life far from mainstream tourism.",
+      "history": "Historically significant as the headquarters of the Tuensang Frontier Division before Nagaland was formed as a state in 1963. The town has been the administrative hub for the diverse eastern Naga tribes for decades.",
+      "famousFor": "Vibrant tribal festivals, handlooms, eastern Naga culture, off-the-beaten-path tourism.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tuensang-town",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/tuensang-town.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tuensang-town",
+      "image": "assets/images/states/nagaland/tuensang-town.webp",
+      "heroImage": "assets/images/states/nagaland/tuensang-town.webp"
+    },
+    {
+      "place_id": "ngl-030",
+      "name": "Thanamir Village",
+      "official_name": "Thanamir Village",
+      "alternate_names": [
+        "Apple Village of Nagaland"
+      ],
+      "former_names": [],
+      "city": "Kiphire",
+      "district": "Kiphire",
+      "category": "heritage",
+      "distance": "Near Mount Saramati",
+      "rating": 4.5,
+      "latitude": 25.72,
+      "longitude": 95.02,
+      "description": "Known as the 'Apple Village' of Nagaland, Thanamir is a picturesque Yimkhiung Naga village that serves as the primary base camp for Mount Saramati treks. The village is famous for its organic apple orchards, terraced farming, and the annual Apple Festival held in September.",
+      "history": "A traditional Yimkhiung Naga settlement that has maintained its cultural practices while developing sustainable agriculture. The village introduced apple cultivation that has become a signature product, earning it the name 'Apple Village'.",
+      "famousFor": "Apple orchards, Mount Saramati base camp, Apple Festival, Yimkhiung Naga culture.",
+      "bestTime": "September (Apple Festival), October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "thanamir-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/thanamir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mount Saramati",
+          "city": "Kiphire",
+          "distance": "5 km away",
+          "category": "hills",
+          "slug": "mount-saramati",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mount-saramati.webp"
+          },
+          "image": "assets/images/states/nagaland/mount-saramati.webp"
+        },
+        {
+          "name": "Fakim Wildlife Sanctuary",
+          "city": "Kiphire",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "fakim-wildlife-sanctuary",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/fakim-village.webp"
+          },
+          "image": "assets/images/states/nagaland/fakim-village.webp"
+        }
+      ],
+      "id": "thanamir-village",
+      "image": "assets/images/states/nagaland/thanamir.webp",
+      "heroImage": "assets/images/states/nagaland/thanamir.webp"
+    },
+    {
+      "place_id": "ngl-031",
+      "name": "Meluri",
+      "official_name": "Meluri",
+      "alternate_names": [
+        "Meluri Town"
+      ],
+      "former_names": [],
+      "city": "Meluri",
+      "district": "Meluri",
+      "category": "heritage",
+      "distance": "125 km from Kohima",
+      "rating": 4.4,
+      "latitude": 25.6667,
+      "longitude": 94.5,
+      "description": "The ancestral home of the Pochury Naga tribe and Nagaland's newest district (declared 2024). Meluri offers a hub for exploring local Pochury culture, traditional craftsmanship, and the stunning natural beauty of the surrounding mountains and valleys. Nearby Shilloi Lake is a major attraction.",
+      "history": "Meluri has been the cultural center of the Pochury tribe for centuries. The area was declared Nagaland's 17th district in November 2024, reflecting its growing significance as an administrative and tourism center.",
+      "famousFor": "Pochury tribal culture, gateway to Shilloi Lake, traditional craftsmanship, newest district.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "meluri",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/meluri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shilloi Lake",
+          "city": "Phek",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "shilloi-lake",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/shilloi-lake.webp"
+          },
+          "image": "assets/images/states/nagaland/shilloi-lake.webp"
+        }
+      ],
+      "id": "meluri",
+      "image": "assets/images/states/nagaland/meluri.webp",
+      "heroImage": "assets/images/states/nagaland/meluri.webp"
+    },
+    {
+      "place_id": "ngl-032",
+      "name": "Yingnyushang",
+      "official_name": "Yingnyushang",
+      "alternate_names": [
+        "Mount Yingnyushang"
+      ],
+      "former_names": [],
+      "city": "Longleng",
+      "district": "Longleng",
+      "category": "hills",
+      "distance": "Near Longleng Town",
+      "rating": 4.4,
+      "latitude": 26.4,
+      "longitude": 94.87,
+      "description": "A sacred mountain peak in the Longleng district holding deep cultural and mystical significance for the Phom Naga community. At approximately 2,500 meters, the peak offers stunning views and is steeped in fascinating folklore about ancient village sites and supernatural beings.",
+      "history": "The mountain holds a special place in Phom Naga mythology, featuring prominently in stories about the origins of the tribe. According to local legends, the mountain is associated with lycanthropic spirits and ancient village sites.",
+      "famousFor": "Phom Naga mythology, sacred mountain, folklore, trekking, panoramic views.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "yingnyushang",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/yingnyushang.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yingnyushang",
+      "heroImage": "assets/images/states/nagaland/yingnyushang.webp"
+    },
+    {
+      "place_id": "ngl-033",
+      "name": "Pangti Village",
+      "official_name": "Pangti Village",
+      "alternate_names": [
+        "Pangti Amur Falcon Village"
+      ],
+      "former_names": [],
+      "city": "Wokha",
+      "district": "Wokha",
+      "category": "nature",
+      "distance": "Near Doyang Reservoir",
+      "rating": 4.7,
+      "latitude": 26.22,
+      "longitude": 94.3,
+      "description": "A small Lotha Naga village that gained global fame for its community-led conservation of the Amur Falcon. Every October-November, millions of Amur Falcons roost in the area around the Doyang reservoir, creating one of the world's greatest wildlife spectacles.",
+      "history": "Pangti was once a site of mass Amur Falcon hunting, with tens of thousands of birds killed annually. Through intensive community engagement by conservation organizations, the village transformed into a flagship conservation success story, now welcoming birdwatchers from around the world.",
+      "famousFor": "Amur Falcon roosting, community conservation, birdwatching, eco-tourism.",
+      "bestTime": "October to November (Amur Falcon season)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pangti-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/pangti.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Doyang Reservoir",
+          "city": "Wokha",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "doyang-reservoir",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/doyang-view.webp"
+          },
+          "image": "assets/images/states/nagaland/doyang-view.webp"
+        }
+      ],
+      "id": "pangti-village",
+      "image": "assets/images/states/nagaland/pangti.webp",
+      "heroImage": "assets/images/states/nagaland/pangti.webp"
+    },
+    {
+      "place_id": "ngl-035",
+      "name": "Sendenyu Village",
+      "official_name": "Sendenyu Village",
+      "alternate_names": [
+        "Sendenyu Conservation Village"
+      ],
+      "former_names": [],
+      "city": "Tseminyu",
+      "district": "Tseminyu",
+      "category": "nature",
+      "distance": "60 km from Kohima",
+      "rating": 4.5,
+      "latitude": 25.85,
+      "longitude": 94.2,
+      "description": "A pioneering conservation success story, Sendenyu Village established the Sendenyu Community Biodiversity & Wildlife Conservation Reserve protecting over 18 sq km of forest. The community banned all hunting and logging, leading to a remarkable revival of local wildlife and the rejuvenation of Nsonji Lake.",
+      "history": "The village established its community conservation reserve as a grassroots initiative, becoming a model for community-driven biodiversity conservation in Nagaland. The ban on hunting and logging has led to the return of many species that had disappeared from the area.",
+      "famousFor": "Community conservation, Nsonji Lake, biodiversity reserve, eco-tourism, wildlife revival.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sendenyu-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/sendenyu-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Touphema Heritage Village",
+          "city": "Kohima",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "touphema-heritage-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/tuophema-heritage-village.webp"
+          }
+        }
+      ],
+      "id": "sendenyu-village",
+      "image": "assets/images/states/nagaland/sendenyu-village.webp",
+      "heroImage": "assets/images/states/nagaland/sendenyu-village.webp"
+    },
+    {
+      "place_id": "ngl-036",
+      "name": "Caves of Phek",
+      "official_name": "Caves of Phek",
+      "alternate_names": [
+        "Phek Caves"
+      ],
+      "former_names": [],
+      "city": "Phek",
+      "district": "Phek",
+      "category": "nature",
+      "distance": "In Phek district",
+      "rating": 4.3,
+      "latitude": 25.67,
+      "longitude": 94.47,
+      "description": "A network of natural rock formations and caves scattered throughout the rugged Phek district. These geological formations, nestled within dense forests and dramatic mountain terrain, offer spelunking and adventure tourism opportunities for intrepid travelers accompanied by local guides.",
+      "history": "The caves are natural geological formations carved over millennia by water and tectonic forces in the Patkai mountain range. The Chakhesang Naga communities have known these caves for generations, and some hold local cultural significance.",
+      "famousFor": "Spelunking, rock formations, adventure tourism, rugged mountain terrain.",
+      "bestTime": "October to March",
+      "timings": "Daylight visit recommended",
+      "entryFee": "Free",
+      "slug": "caves-of-phek",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/caves-of-phek.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shilloi Lake",
+          "city": "Phek",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "shilloi-lake",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/shilloi-lake.webp"
+          },
+          "image": "assets/images/states/nagaland/shilloi-lake.webp"
+        },
+        {
+          "name": "Pfütsero",
+          "city": "Phek",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "pfutsero",
+          "images": {
+            "main": "assets/images/states/nagaland/pfutsero.webp"
+          },
+          "state": "Nagaland",
+          "image": "assets/images/states/nagaland/pfutsero.webp"
+        }
+      ],
+      "id": "caves-of-phek",
+      "image": "assets/images/states/nagaland/caves-of-phek.webp",
+      "heroImage": "assets/images/states/nagaland/caves-of-phek.webp"
+    },
+    {
+      "place_id": "ngl-037",
+      "name": "Pfütsero",
+      "official_name": "Pfütsero",
+      "alternate_names": [
+        "Phusachodu",
+        "Pfutsero"
+      ],
+      "former_names": [],
+      "city": "Phek",
+      "district": "Phek",
+      "category": "nature",
+      "distance": "130 km from Kohima",
+      "rating": 4.5,
+      "latitude": 25.53,
+      "longitude": 94.37,
+      "description": "One of the coldest and highest inhabited places in Nagaland, Pfütsero is a scenic hill town that experiences rare snowfall during winter. Known as the 'Land of the Chakhesang', it offers stunning mountain views, terraced rice fields, and a deeply peaceful atmosphere.",
+      "history": "Pfütsero has been the cultural center of the Chakhesang Naga tribe for centuries. The town gained wider recognition for being one of the few places in Nagaland to experience snowfall, a rare phenomenon that attracts visitors from across the Northeast.",
+      "famousFor": "Snowfall in winter, coldest place in Nagaland, Chakhesang culture, mountain views.",
+      "bestTime": "November to February (for snowfall), Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pfutsero",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/pfutsero.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Caves of Phek",
+          "city": "Phek",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "caves-of-phek",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/caves-of-phek.webp"
+          },
+          "image": "assets/images/states/nagaland/caves-of-phek.webp"
+        }
+      ],
+      "id": "pfutsero",
+      "image": "assets/images/states/nagaland/pfutsero.webp",
+      "heroImage": "assets/images/states/nagaland/pfutsero.webp"
+    },
+    {
+      "place_id": "ngl-038",
+      "name": "Ungma Village",
+      "official_name": "Ungma Village",
+      "alternate_names": [
+        "Ungma"
+      ],
+      "former_names": [],
+      "city": "Mokokchung",
+      "district": "Mokokchung",
+      "category": "heritage",
+      "distance": "5 km from Mokokchung",
+      "rating": 4.5,
+      "latitude": 26.31,
+      "longitude": 94.54,
+      "description": "Believed to be the oldest and largest Ao Naga village, Ungma is a living heritage site that preserves ancient Ao traditions, morungs, and stone monuments. The village overlooks the Milak river and is the site of the annual Moatsu Festival celebrations.",
+      "history": "According to Ao Naga oral tradition, Ungma is one of the first villages established by the Ao people after their migration from Chungliyimti. The village played a central role in the early adoption of Christianity and modern education among the Ao Nagas.",
+      "famousFor": "Oldest Ao Naga village, Moatsu Festival, ancient morungs, Ao heritage.",
+      "bestTime": "May (Moatsu Festival), October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ungma-village",
+      "state": "Nagaland",
+      "images": {
+        "main": "assets/images/states/nagaland/ungma-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mokokchung Town",
+          "city": "Mokokchung",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "mokokchung-town",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/mokokchung-town.webp"
+          },
+          "image": "assets/images/states/nagaland/mokokchung-town.webp"
+        },
+        {
+          "name": "Chuchuyimlang Village",
+          "city": "Mokokchung",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "chuchuyimlang-village",
+          "state": "Nagaland",
+          "images": {
+            "main": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+          },
+          "image": "assets/images/states/nagaland/chuchuyimlang-village.webp"
+        }
+      ],
+      "id": "ungma-village",
+      "image": "assets/images/states/nagaland/ungma-village.webp",
+      "heroImage": "assets/images/states/nagaland/ungma-village.webp"
+    }
+  ]
+}

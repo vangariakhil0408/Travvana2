@@ -1,0 +1,59 @@
+{
+  "id": "tanda-falls",
+  "slug": "tanda-falls",
+  "name": "Tanda Falls",
+  "location": "Uttar Pradesh, India",
+  "district": "Mirzapur",
+  "stateId": "uttar-pradesh",
+  "category": "waterfalls",
+  "uiCategory": "waterfalls",
+  "overview": "A stunning 100-foot waterfall cascading down the rocky Vindhyan escarpment, surrounded by dense tropical forests. It is one of the most scenic natural attractions in eastern Uttar Pradesh.",
+  "description": "Part of the ancient Vindhyan landscape, the falls have been a sacred bathing site for local communities for centuries.",
+  "rating": "4.5",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "July to December (monsoon flow)",
+  "timings": "8:00 AM \u2013 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "waterfalls",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "chunar-fort"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Tanda-Falls.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Tanda-Falls.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Tanda-Falls.webp"
+  ]
+}

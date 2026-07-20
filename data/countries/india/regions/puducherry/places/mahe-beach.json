@@ -1,0 +1,18 @@
+{
+  "id": "mahe-beach",
+  "name": "Mahe Beach",
+  "city": "Mahe",
+  "state": "Puducherry",
+  "description": "Located in the Mahe district of Puducherry (geographically situated in Kerala), this pristine and relatively unknown beach offers stunning sunset views over the Arabian Sea.",
+  "history": "Mahe was a former French colony on the Malabar coast, maintaining its distinct French-Malayali cultural blend.",
+  "famousFor": "Arabian sea sunsets, palm-fringed coastline, fishing boats.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+  ],
+  "nearbyPlaces": []
+}

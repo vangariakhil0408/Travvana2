@@ -1,0 +1,936 @@
+{
+  "stateSlug": "bihar",
+  "name": "Bihar",
+  "capital": "Patna",
+  "tagline": "Blissful Bihar",
+  "heroImage": "assets/images/states/bihar/banner.webp",
+  "bestTime": "October to March",
+  "language": "Hindi, Maithili",
+  "places": [
+    {
+      "name": "Mahabodhi Temple",
+      "city": "Bodh Gaya",
+      "category": "heritage",
+      "distance": "17 km from Gaya Junction Railway Station",
+      "rating": 4.9,
+      "description": "The Mahabodhi Temple is a UNESCO World Heritage Site marking the location where Siddhartha Gautama attained enlightenment under the sacred Bodhi Tree in 531 BCE. The 55-meter tall temple is one of the earliest and most impressive brick temples in India.",
+      "history": "Emperor Ashoka built the first temple here in the 3rd century BCE. The current structure dates to the 5th–6th century Gupta period. The original Bodhi Tree was destroyed by Emperor Pushyamitra Sunga, but the current tree is said to be a direct descendant.",
+      "famousFor": "Bodhi Tree, UNESCO World Heritage Site, Buddhist pilgrimage, Meditation, Giant Buddha statue",
+      "bestTime": "October to March (November–December for Buddhist festivals)",
+      "timings": "5:00 AM – 9:00 PM (meditation hall open 24/7)",
+      "entryFee": "Free (Camera: ₹100, Video: ₹300)",
+      "slug": "mahabodhi-temple",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/popular/mahabodhi-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bodhi Tree",
+          "city": "Bodh Gaya",
+          "distance": "Within complex",
+          "slug": "bodhi-tree",
+          "image": "assets/images/states/bihar/mahabodhi-temple.webp"
+        },
+        {
+          "name": "Great Buddha Statue",
+          "city": "Bodh Gaya",
+          "distance": "2 km",
+          "slug": "great-buddha-statue",
+          "image": "assets/images/states/bihar/mahabodhi-temple.webp"
+        }
+      ],
+      "id": "mahabodhi-temple",
+      "image": "assets/images/popular/mahabodhi-temple.webp",
+      "heroImage": "assets/images/popular/mahabodhi-temple.webp"
+    },
+    {
+      "name": "Nalanda University Ruins",
+      "city": "Nalanda",
+      "category": "heritage",
+      "distance": "95 km from Patna",
+      "rating": 4.8,
+      "description": "The hauntingly beautiful ruins of the world's oldest residential university, where 10,000 students once studied — a UNESCO World Heritage masterpiece of ancient Indian scholarship.",
+      "history": "Founded in the 5th century AD during the Gupta dynasty. Flourished for 800 years as the world's premier seat of learning before being destroyed in 1193.",
+      "famousFor": "World's oldest university ruins, UNESCO World Heritage Site.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "nalanda-university-ruins",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/nalanda-university-ruins.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nalanda Archaeological Museum",
+          "city": "Nalanda",
+          "distance": "500 m",
+          "slug": "nalanda-museum",
+          "image": "assets/images/states/bihar/nalanda-university-ruins.webp"
+        },
+        {
+          "name": "Rajgir",
+          "city": "Rajgir",
+          "distance": "12 km",
+          "slug": "rajgir",
+          "image": "assets/images/states/bihar/rajgir.webp"
+        }
+      ],
+      "id": "nalanda-university-ruins",
+      "heroImage": "assets/images/states/bihar/nalanda-university-ruins.webp"
+    },
+    {
+      "name": "Rajgir",
+      "city": "Nalanda",
+      "category": "heritage",
+      "distance": "100 km from Patna",
+      "rating": 4.7,
+      "description": "An ancient capital encircled by five hills where Buddha spent years meditating, with hot springs, peace pagodas, and India's first aerial ropeway creating a spiritual landscape.",
+      "history": "First capital of Magadha Kingdom. Lord Buddha and Lord Mahavira both spent significant time here. The Cyclopean Wall is one of the oldest stone structures in India.",
+      "famousFor": "Vishwa Shanti Stupa, hot springs (Brahmakund), and aerial ropeway.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Ropeway: ₹75)",
+      "slug": "rajgir",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/rajgir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vishwa Shanti Stupa (Rajgir)",
+          "city": "Rajgir",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "vishwa-shanti-stupa-rajgir",
+          "images": {
+            "main": "assets/images/states/bihar/vishwa-shanti-stupa-rajgir.webp"
+          }
+        }
+      ],
+      "id": "rajgir",
+      "heroImage": "assets/images/states/bihar/rajgir.webp"
+    },
+    {
+      "name": "Vishwa Shanti Stupa (Rajgir)",
+      "city": "Rajgir",
+      "category": "temples",
+      "distance": "5 km from Rajgir center",
+      "rating": 4.7,
+      "description": "A gleaming white peace pagoda perched atop Ratnagiri Hill, accessible by India's oldest aerial ropeway, offering panoramic views of the ancient city and surrounding hills.",
+      "history": "Built by the Japanese Buddhist organization Nipponzan Myohoji in 1969 to promote world peace, with four golden Buddha statues facing the cardinal directions.",
+      "famousFor": "Peace pagoda, aerial ropeway ride, and hilltop panoramic views.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free (Ropeway: ₹75)",
+      "slug": "vishwa-shanti-stupa-rajgir",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/vishwa-shanti-stupa-rajgir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rajgir Town",
+          "city": "Rajgir",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "rajgir",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/rajgir.webp"
+          }
+        }
+      ],
+      "id": "vishwa-shanti-stupa-rajgir",
+      "heroImage": "assets/images/states/bihar/vishwa-shanti-stupa-rajgir.webp"
+    },
+    {
+      "name": "Vaishali",
+      "city": "Vaishali",
+      "category": "heritage",
+      "distance": "55 km from Patna",
+      "rating": 4.6,
+      "description": "The birthplace of democracy — where the world's first republic (Licchavi Republic) was established, and where Buddha preached his last sermon before attaining Mahaparinirvana.",
+      "history": "One of the world's first republics, dating to the 6th century BC. Emperor Ashoka erected a famous lion pillar here. Lord Mahavira was born in Vaishali.",
+      "famousFor": "Ashoka Pillar, world's first republic, and Relic Stupa.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "vaishali",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/vaishali.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vaishali",
+      "heroImage": "assets/images/states/bihar/vaishali.webp"
+    },
+    {
+      "name": "Pawapuri (Jal Mandir)",
+      "city": "Nalanda",
+      "category": "temples",
+      "distance": "83 km from Patna",
+      "rating": 4.7,
+      "description": "A breathtaking white marble Jain temple floating in the center of a lotus-filled lake — the holiest Jain pilgrimage site where Lord Mahavira attained Moksha.",
+      "history": "Lord Mahavira, the 24th Tirthankara of Jainism, attained Moksha (nirvana) at this site around 500 BC. The Jal Mandir was built on the spot of his cremation.",
+      "famousFor": "Jal Mandir (water temple) and Lord Mahavira's Moksha site.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "pawapuri",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/pawapuri.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pawapuri",
+      "heroImage": "assets/images/states/bihar/pawapuri.webp"
+    },
+    {
+      "name": "Golghar",
+      "city": "Patna",
+      "category": "heritage",
+      "distance": "In Patna city",
+      "rating": 4.5,
+      "description": "A massive beehive-shaped granary offering stunning 360-degree panoramic views of Patna and the Ganges from its summit, reached by a spiraling external staircase.",
+      "history": "Built in 1786 by Captain John Garstin under the orders of Governor-General Warren Hastings to avert future famines. Ironically, it was never filled to capacity.",
+      "famousFor": "Unique beehive architecture and panoramic city views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "golghar",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/golghar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bihar Museum",
+          "city": "Patna",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "bihar-museum",
+          "images": {
+            "main": "assets/images/states/bihar/bihar-museum.webp"
+          }
+        },
+        {
+          "name": "Mahavir Mandir",
+          "city": "Patna",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "mahavir-mandir",
+          "images": {
+            "main": "assets/images/states/bihar/mahavir-mandir.webp"
+          }
+        }
+      ],
+      "id": "golghar",
+      "heroImage": "assets/images/states/bihar/golghar.webp"
+    },
+    {
+      "name": "Tomb of Sher Shah Suri",
+      "city": "Sasaram",
+      "category": "heritage",
+      "distance": "150 km from Patna",
+      "rating": 4.7,
+      "description": "A magnificent sandstone mausoleum rising from the center of an artificial lake — an architectural marvel that rivals the Taj Mahal in grandeur and proportion.",
+      "history": "Built in 1545 for Emperor Sher Shah Suri, who founded the Sur Empire. The octagonal tomb stands 122 feet high and is considered a precursor to Mughal architecture.",
+      "famousFor": "Stunning Indo-Islamic architecture and lakeside setting.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹25",
+      "slug": "sher-shah-suri-tomb",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/sher-shah-suri-tomb.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sher-shah-suri-tomb",
+      "heroImage": "assets/images/states/bihar/sher-shah-suri-tomb.webp"
+    },
+    {
+      "name": "Rohtasgarh Fort",
+      "city": "Rohtas",
+      "category": "heritage",
+      "distance": "168 km from Patna",
+      "rating": 4.6,
+      "description": "One of India's oldest and most impregnable hill forts, sprawling across a 1,500-foot plateau with massive ramparts, ancient gates, and breathtaking views of the Son River valley.",
+      "history": "Dating to the 7th century, expanded by Sher Shah Suri in the 16th century. The fort spans 50 km in circumference with 83 gates and numerous temples.",
+      "famousFor": "Ancient hill fort, 83 gates, and panoramic Son River views.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹25",
+      "slug": "rohtasgarh-fort",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/rohtasgarh-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rohtasgarh-fort",
+      "heroImage": "assets/images/states/bihar/rohtasgarh-fort.webp"
+    },
+    {
+      "name": "Takht Sri Patna Sahib",
+      "city": "Patna",
+      "category": "temples",
+      "distance": "In Patna city",
+      "rating": 4.7,
+      "description": "One of the five holiest Sikh Takhts (thrones), this magnificent gurudwara marks the birthplace of the tenth Sikh Guru, Guru Gobind Singh.",
+      "history": "Built to commemorate the birthplace of Guru Gobind Singh in 1666. The gurudwara houses relics including weapons and a sacred cradle of the Guru.",
+      "famousFor": "Birthplace of Guru Gobind Singh and one of five Sikh Takhts.",
+      "bestTime": "October to March",
+      "timings": "4:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "patna-sahib",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/takht-sri-patna-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agam Kuan",
+          "city": "Patna",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "agam-kuan",
+          "images": {
+            "main": "assets/images/states/bihar/agam-kuan.webp"
+          }
+        }
+      ],
+      "id": "patna-sahib",
+      "heroImage": "assets/images/states/bihar/takht-sri-patna-sahib.webp"
+    },
+    {
+      "name": "Bihar Museum",
+      "city": "Patna",
+      "category": "heritage",
+      "distance": "In Patna city",
+      "rating": 4.6,
+      "description": "A world-class modern museum showcasing Bihar's 2,500-year-old civilizational heritage through stunning galleries featuring Mauryan sculptures, Buddhist relics, and Gandhara art.",
+      "history": "Inaugurated in 2015, it replaced the old Patna Museum and houses one of India's finest collections of antiquities including the famous Didarganj Yakshi sculpture.",
+      "famousFor": "Didarganj Yakshi statue, Mauryan artifacts, and modern architecture.",
+      "bestTime": "October to March",
+      "timings": "10:30 AM – 5:00 PM (Closed on Mondays)",
+      "entryFee": "₹50",
+      "slug": "bihar-museum",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/bihar-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Golghar",
+          "city": "Patna",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "golghar",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/golghar.webp"
+          }
+        },
+        {
+          "name": "Buddha Smriti Park",
+          "city": "Patna",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "buddha-smriti-park",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/buddha-smriti-park.webp"
+          }
+        },
+        {
+          "name": "Kumhrar (Pataliputra Ruins)",
+          "city": "Patna",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "kumhrar",
+          "images": {
+            "main": "assets/images/states/bihar/kumhrar.webp"
+          }
+        }
+      ],
+      "id": "bihar-museum",
+      "heroImage": "assets/images/states/bihar/bihar-museum.webp"
+    },
+    {
+      "name": "Mundeshwari Temple",
+      "city": "Kaimur",
+      "category": "temples",
+      "distance": "200 km from Patna",
+      "rating": 4.5,
+      "description": "Believed to be the oldest functional Hindu temple in India, this ancient octagonal stone shrine sits atop the Mundeshwari Hills with panoramic views.",
+      "history": "Archaeological evidence dates it to 108 AD, making it potentially the oldest continuously worshipped Hindu temple in the world. Dedicated to Shiva and Shakti.",
+      "famousFor": "Oldest functional Hindu temple in India (108 AD).",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "mundeshwari-temple",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/mundeshwari-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mundeshwari-temple",
+      "heroImage": "assets/images/states/bihar/mundeshwari-temple.webp"
+    },
+    {
+      "name": "Munger Fort",
+      "city": "Munger",
+      "category": "heritage",
+      "distance": "180 km from Patna",
+      "rating": 4.4,
+      "description": "A massive ancient fort on the banks of the Ganges, blending Hindu, Muslim, and British architectural elements across centuries of rule.",
+      "history": "Originally built in the Pala dynasty period, it was later used by Mir Kasim as his capital and then by the British East India Company.",
+      "famousFor": "Ancient fort, Bihar School of Yoga, and Ganges riverfront.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "munger-fort",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/munger-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "munger-fort",
+      "heroImage": "assets/images/states/bihar/munger-fort.webp"
+    },
+    {
+      "name": "Vikramshila University Ruins",
+      "city": "Bhagalpur",
+      "category": "heritage",
+      "distance": "40 km from Bhagalpur",
+      "rating": 4.5,
+      "description": "The excavated ruins of one of India's greatest ancient universities, rivaling Nalanda in prestige, perched on a hillock overlooking the Ganges.",
+      "history": "Founded by King Dharmapala of the Pala dynasty in the 8th century. It was one of the two most important centers of Buddhist learning along with Nalanda, destroyed in 1193.",
+      "famousFor": "Ancient Buddhist university ruins and Ganges views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "vikramshila-ruins",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/vikramshila-ruins.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vikramshila-ruins",
+      "heroImage": "assets/images/states/bihar/vikramshila-ruins.webp"
+    },
+    {
+      "name": "Kesaria Stupa",
+      "city": "East Champaran",
+      "category": "heritage",
+      "distance": "110 km from Patna",
+      "rating": 4.5,
+      "description": "The tallest and largest Buddhist stupa in India, rising 104 feet from the plains — a colossal earthen mound marking Buddha's last journey before attaining Mahaparinirvana.",
+      "history": "Originally built by Emperor Ashoka in the 3rd century BC and enlarged during the Gupta and Pala periods. It is among the tallest Buddhist stupas in the world.",
+      "famousFor": "Tallest Buddhist stupa in India (104 feet).",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "kesaria-stupa",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/kesaria-stupa.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kesaria-stupa",
+      "heroImage": "assets/images/states/bihar/kesaria-stupa.webp"
+    },
+    {
+      "name": "Barabar Caves",
+      "city": "Jehanabad",
+      "category": "heritage",
+      "distance": "35 km from Gaya",
+      "rating": 4.5,
+      "description": "The oldest surviving rock-cut caves in India, with mirror-polished interiors that still gleam after 2,300 years — an engineering marvel of the Mauryan Empire.",
+      "history": "Carved during the reign of Emperor Ashoka (3rd century BC) for the Ajivika sect. The caves inspired E M Forster's novel 'A Passage to India'.",
+      "famousFor": "Oldest rock-cut caves in India and Mauryan mirror-polished interiors.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹25",
+      "slug": "barabar-caves",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/barabar-caves.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "barabar-caves",
+      "heroImage": "assets/images/states/bihar/barabar-caves.webp"
+    },
+    {
+      "name": "Navlakha Palace",
+      "city": "Darbhanga",
+      "category": "heritage",
+      "distance": "280 km from Patna",
+      "rating": 4.4,
+      "description": "A grand palace complex built in European architectural style, once home to the Darbhanga Raj — one of the wealthiest zamindari estates in British India.",
+      "history": "Built by the Darbhanga Maharaja in the early 20th century, this palace complex reflects the opulence of the Mithila region's royal heritage.",
+      "famousFor": "European-style royal palace and Mithila heritage.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "navlakha-palace",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/navlakha-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "navlakha-palace",
+      "heroImage": "assets/images/states/bihar/navlakha-palace.webp"
+    },
+    {
+      "name": "Valmiki National Park",
+      "city": "West Champaran",
+      "category": "wildlife",
+      "distance": "300 km from Patna",
+      "rating": 4.5,
+      "description": "Bihar's only national park and tiger reserve, a dense sal forest bordering Nepal where tigers, elephants, and leopards roam in pristine Terai wilderness.",
+      "history": "Named after sage Valmiki who composed the Ramayana here. Declared a national park in 1990 and a tiger reserve in 1994.",
+      "famousFor": "Bihar's only tiger reserve, sal forests, and Nepal border.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹100",
+      "slug": "valmiki-national-park",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/valmiki-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "valmiki-national-park",
+      "heroImage": "assets/images/states/bihar/valmiki-national-park.webp"
+    },
+    {
+      "name": "Buddha Smriti Park",
+      "city": "Patna",
+      "category": "nature",
+      "distance": "In Patna city",
+      "rating": 4.4,
+      "description": "A beautifully landscaped urban park centered around a stunning Patliputra Karuna Stupa, with a meditation center, museum, and sacred Bodhi Tree sapling.",
+      "history": "Inaugurated by the Dalai Lama in 2010 on the 2,554th birth anniversary of Lord Buddha. Contains holy relics of Buddha.",
+      "famousFor": "Patliputra Karuna Stupa, meditation center, and Buddha relics.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 6:00 PM (Closed on Mondays)",
+      "entryFee": "₹30",
+      "slug": "buddha-smriti-park",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/buddha-smriti-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahavir Mandir",
+          "city": "Patna",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "mahavir-mandir",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/mahavir-mandir.webp"
+          }
+        },
+        {
+          "name": "Bihar Museum",
+          "city": "Patna",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "bihar-museum",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/bihar-museum.webp"
+          }
+        }
+      ],
+      "id": "buddha-smriti-park",
+      "heroImage": "assets/images/states/bihar/buddha-smriti-park.webp"
+    },
+    {
+      "name": "Mahavir Mandir",
+      "city": "Patna",
+      "category": "temples",
+      "distance": "In Patna city (near station)",
+      "rating": 4.6,
+      "description": "One of the holiest Hanuman temples in North India, bustling with devotees and known for its miraculous wish-fulfilling powers, located right next to Patna Junction.",
+      "history": "Established in 1730 by Swami Balanand, the temple was renovated and expanded in 1948. It is one of the richest temples in Bihar.",
+      "famousFor": "Sacred Hanuman temple, wish-fulfilling prayers, and charitable trust.",
+      "bestTime": "Year-round (Tuesdays and Saturdays special)",
+      "timings": "5:00 AM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "mahavir-mandir",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/mahavir-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Buddha Smriti Park",
+          "city": "Patna",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "buddha-smriti-park",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/buddha-smriti-park.webp"
+          }
+        },
+        {
+          "name": "Golghar",
+          "city": "Patna",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "golghar",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/golghar.webp"
+          }
+        }
+      ],
+      "id": "mahavir-mandir",
+      "heroImage": "assets/images/states/bihar/mahavir-mandir.webp"
+    },
+    {
+      "name": "Kumhrar (Pataliputra Ruins)",
+      "city": "Patna",
+      "category": "heritage",
+      "distance": "5 km from Patna Junction",
+      "rating": 4.5,
+      "description": "The excavated ruins of ancient Pataliputra — capital of the mighty Mauryan Empire — where the remains of an 80-pillared assembly hall reveal the grandeur of Ashoka's kingdom.",
+      "history": "Excavated in 1912-15, the site revealed the ancient capital of Chandragupta Maurya and Emperor Ashoka (4th-3rd century BC). The 80-pillar hall is believed to be the royal assembly.",
+      "famousFor": "Mauryan Empire capital ruins and 80-pillared hall.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "kumhrar",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/kumhrar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agam Kuan",
+          "city": "Patna",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "agam-kuan",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/agam-kuan.webp"
+          }
+        },
+        {
+          "name": "Bihar Museum",
+          "city": "Patna",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "bihar-museum",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/bihar-museum.webp"
+          }
+        }
+      ],
+      "id": "kumhrar",
+      "heroImage": "assets/images/states/bihar/kumhrar.webp"
+    },
+    {
+      "name": "Kakolat Waterfall",
+      "city": "Nawada",
+      "category": "waterfalls",
+      "distance": "33 km from Nawada",
+      "rating": 4.5,
+      "description": "Bihar's most stunning waterfall cascading 160 feet down a rocky cliff into a crystal-clear natural pool, surrounded by lush forested hills — a hidden gem of the state.",
+      "history": "According to local legend, a king cursed into a python regained his human form after bathing in this waterfall. It has been a popular pilgrimage and picnic spot for centuries.",
+      "famousFor": "160-feet cascade, natural swimming pool, and legendary serpent king tale.",
+      "bestTime": "July to October (peak flow), October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "kakolat-waterfall",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/kakolat-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kakolat-waterfall",
+      "heroImage": "assets/images/states/bihar/kakolat-waterfall.webp"
+    },
+    {
+      "name": "Kanwar Lake Bird Sanctuary",
+      "city": "Begusarai",
+      "category": "wildlife",
+      "distance": "20 km from Begusarai",
+      "rating": 4.4,
+      "description": "Asia's largest freshwater oxbow lake and a Ramsar wetland site, where thousands of migratory birds from Siberia and Central Asia create a spectacular winter spectacle.",
+      "history": "Designated a Ramsar Site of International Importance, Kanwar Lake (Kabartal) is a vital habitat for over 60 species of migratory birds and numerous resident species.",
+      "famousFor": "Asia's largest freshwater oxbow lake, Ramsar site, and migratory birds.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "kanwar-lake",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/kanwar-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kanwar-lake",
+      "heroImage": "assets/images/states/bihar/kanwar-lake.webp"
+    },
+    {
+      "name": "Mandar Hill",
+      "city": "Banka",
+      "category": "heritage",
+      "distance": "50 km from Bhagalpur",
+      "rating": 4.5,
+      "description": "A sacred granite hill steeped in mythology — believed to be the mountain used for the Samudra Manthan (churning of the cosmic ocean) described in Hindu scriptures.",
+      "history": "According to Hindu mythology, this hill was used as the churning rod during the Samudra Manthan. Sacred to both Hindus and Jains, with temples atop and at the base.",
+      "famousFor": "Samudra Manthan mythology, hilltop temples, and Papharni Kund.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mandar-hill",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/mandar-hill.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mandar-hill",
+      "heroImage": "assets/images/states/bihar/mandar-hill.webp"
+    },
+    {
+      "name": "Sonepur Mela",
+      "city": "Saran",
+      "category": "heritage",
+      "distance": "25 km from Patna",
+      "rating": 4.5,
+      "description": "Asia's largest cattle fair and one of the oldest in the world, held at the confluence of the Ganges and Gandak rivers — a vibrant spectacle of Bihar's rural heritage.",
+      "history": "Dating back to the Chandragupta Maurya era, when elephants and horses were traded. Held annually during Kartik Purnima (Nov-Dec) for over 2,000 years.",
+      "famousFor": "Largest cattle fair in Asia, elephant trading history, and Kartik Purnima.",
+      "bestTime": "November to December (during mela)",
+      "timings": "Open 24/7 (during fair season)",
+      "entryFee": "Free",
+      "slug": "sonepur-mela",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/sonepur-mela.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sonepur-mela",
+      "heroImage": "assets/images/states/bihar/sonepur-mela.webp"
+    },
+    {
+      "name": "Sultanganj",
+      "city": "Bhagalpur",
+      "category": "temples",
+      "distance": "30 km from Bhagalpur",
+      "rating": 4.5,
+      "description": "A sacred town on the Ganges where the remarkable Ajgaivinath Temple sits atop a massive granite rock island in the middle of the river, defying the mighty current.",
+      "history": "An ancient pilgrimage center, Sultanganj is the starting point for the famous Shravan Mela pilgrimage. The 1,500-year-old bronze Buddha found here is now in Birmingham Museum.",
+      "famousFor": "Ajgaivinath Temple on river rock, Shravan Mela pilgrimage start.",
+      "bestTime": "October to March (July-August for Shravan Mela)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sultanganj",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/sultanganj.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sultanganj",
+      "heroImage": "assets/images/states/bihar/sultanganj.webp"
+    },
+    {
+      "name": "Bhimbandh Wildlife Sanctuary",
+      "city": "Munger",
+      "category": "wildlife",
+      "distance": "20 km from Munger",
+      "rating": 4.4,
+      "description": "A rugged sanctuary in the Kharagpur Hills with dense sal forests, natural hot springs, and diverse wildlife including tigers, leopards, and sloth bears.",
+      "history": "Named after Bhima of the Mahabharata, who is said to have created a reservoir here. The hot springs are believed to have medicinal properties.",
+      "famousFor": "Natural hot springs, sal forests, and wildlife.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "bhimbandh",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/bhimbandh.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "bhimbandh",
+      "heroImage": "assets/images/states/bihar/bhimbandh.webp"
+    },
+    {
+      "name": "Madhubani",
+      "city": "Madhubani",
+      "category": "heritage",
+      "distance": "250 km from Patna",
+      "rating": 4.5,
+      "description": "The birthplace of the world-famous Mithila painting tradition, where every wall and courtyard comes alive with vibrant folk art depicting mythology, nature, and daily life.",
+      "history": "Mithila painting (Madhubani art) originated here over 2,500 years ago. According to legend, King Janaka commissioned paintings for his daughter Sita's wedding to Lord Rama.",
+      "famousFor": "Madhubani/Mithila paintings, folk art tradition, and Sita's birthplace region.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "madhubani",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/madhubani.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "madhubani",
+      "heroImage": "assets/images/states/bihar/madhubani.webp"
+    },
+    {
+      "name": "Sitamarhi (Janaki Sthan)",
+      "city": "Sitamarhi",
+      "category": "temples",
+      "distance": "280 km from Patna",
+      "rating": 4.4,
+      "description": "The sacred birthplace of Goddess Sita from the Ramayana, where the Janaki Sthan temple marks the exact spot where she emerged from the earth during King Janaka's plowing.",
+      "history": "According to the Ramayana, Sita was found in a furrow here by King Janaka while plowing a field. The town is named after Sita (Sita + Marhi = Sita's abode).",
+      "famousFor": "Birthplace of Goddess Sita and Vivah Panchami festival.",
+      "bestTime": "October to March (November-December for Vivah Panchami)",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "sitamarhi",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/sitamarhi.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sitamarhi",
+      "heroImage": "assets/images/states/bihar/sitamarhi.webp"
+    },
+    {
+      "name": "Agam Kuan",
+      "city": "Patna",
+      "category": "heritage",
+      "distance": "3 km from Patna Junction",
+      "rating": 4.3,
+      "description": "A mysterious bottomless well dating back to the Mauryan era, known as 'Ashoka's Hell' — where Emperor Ashoka is said to have built a torture chamber before his conversion to Buddhism.",
+      "history": "Dating to the 3rd century BC, this ancient well is believed to be the site of Emperor Ashoka's hell-chamber where he tortured prisoners before embracing Buddhism and non-violence.",
+      "famousFor": "Ashoka's Hell legend and Mauryan-era archaeological site.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "agam-kuan",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/agam-kuan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kumhrar (Pataliputra Ruins)",
+          "city": "Patna",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "kumhrar",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/kumhrar.webp"
+          }
+        },
+        {
+          "name": "Takht Sri Patna Sahib",
+          "city": "Patna",
+          "distance": "7 km away",
+          "category": "temples",
+          "slug": "patna-sahib",
+          "state": "Bihar",
+          "images": {
+            "main": "assets/images/states/bihar/takht-sri-patna-sahib.webp"
+          }
+        }
+      ],
+      "id": "agam-kuan",
+      "heroImage": "assets/images/states/bihar/agam-kuan.webp"
+    },
+    {
+      "name": "Vishnupad Temple",
+      "city": "Gaya",
+      "category": "temples",
+      "distance": "In Gaya city",
+      "rating": 4.6,
+      "description": "An ancient Hindu temple dedicated to Lord Vishnu, featuring a 40-centimeter-long footprint of the deity incised into a solid block of basalt.",
+      "history": "Built in 1787 by Queen Ahilyabai Holkar of Indore on the banks of the Falgu River. It is a major pilgrimage site for Hindus to perform the Pind Daan rituals for their ancestors.",
+      "famousFor": "Lord Vishnu's footprint, Pind Daan rituals, and Falgu River.",
+      "bestTime": "September to October (Pitrupaksha Mela), October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "vishnupad-temple",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/vishnupad-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "vishnupad-temple",
+      "heroImage": "assets/images/states/bihar/vishnupad-temple.webp"
+    },
+    {
+      "name": "Great Buddha Statue",
+      "city": "Bodh Gaya",
+      "category": "heritage",
+      "distance": "1 km from Mahabodhi Temple",
+      "rating": 4.7,
+      "description": "A magnificent 80-foot tall statue of Lord Buddha seated in meditation on a giant lotus, symbolizing inner peace and enlightenment.",
+      "history": "Consecrated in 1989 by the 14th Dalai Lama. The statue is made of red granite and sandstone blocks and took seven years to complete.",
+      "famousFor": "80-foot tall Buddha statue and peaceful surroundings.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 12:00 PM, 2:00 PM - 5:30 PM",
+      "entryFee": "Free",
+      "slug": "great-buddha-statue",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/great-buddha-statue.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "great-buddha-statue",
+      "heroImage": "assets/images/states/bihar/great-buddha-statue.webp"
+    },
+    {
+      "name": "Rajgir Nature Safari & Glass Bridge",
+      "city": "Rajgir",
+      "category": "nature",
+      "distance": "8 km from Rajgir center",
+      "rating": 4.6,
+      "description": "An exciting eco-tourism destination featuring India's second glass bridge, offering thrilling walks and stunning panoramic views of the dense forests and hills.",
+      "history": "Inaugurated recently by the Bihar government to boost eco-tourism. The nature safari complex also includes a zoo safari, zip-lining, and nature trails.",
+      "famousFor": "Glass Skywalk Bridge, Zoo Safari, and adventure activities.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed on Mondays)",
+      "entryFee": "₹50 (additional for Glass Bridge/Safari)",
+      "slug": "rajgir-nature-safari",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/rajgir-nature-safari.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rajgir-nature-safari",
+      "heroImage": "assets/images/states/bihar/rajgir-nature-safari.webp"
+    },
+    {
+      "name": "Maner Sharif",
+      "city": "Maner",
+      "category": "heritage",
+      "distance": "30 km from Patna",
+      "rating": 4.5,
+      "description": "A significant Sufi shrine and architectural marvel, housing the spectacular Chhoti Dargah, one of the finest examples of Mughal architecture in Eastern India.",
+      "history": "The site contains the tombs of Sufi saint Makhdum Yahya Maneri and his descendant Shah Daulat. Built in 1616, the mausoleum features exquisite stone carvings.",
+      "famousFor": "Chhoti Dargah, Sufi pilgrimage, and Mughal architecture.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "maner-sharif",
+      "state": "Bihar",
+      "images": {
+        "main": "assets/images/states/bihar/maner-sharif.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "maner-sharif",
+      "heroImage": "assets/images/states/bihar/maner-sharif.webp"
+    }
+  ]
+}

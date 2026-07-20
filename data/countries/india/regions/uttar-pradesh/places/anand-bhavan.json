@@ -1,0 +1,60 @@
+{
+  "id": "anand-bhavan",
+  "slug": "anand-bhavan",
+  "name": "Anand Bhavan",
+  "location": "Uttar Pradesh, India",
+  "district": "Prayagraj",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The ancestral home of the Nehru-Gandhi family, now a museum documenting India's freedom struggle. The elegant colonial mansion preserves the rooms and personal belongings of Jawaharlal Nehru and Motilal Nehru.",
+  "description": "Built by Motilal Nehru in the 1930s. Indira Gandhi was born here. It was donated to the nation in 1970 and converted into a museum.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "9:30 AM \u2013 5:00 PM (Closed Mondays)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "allahabad-triveni-sangam",
+    "khusro-bagh"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Anand-Bhavan.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Anand-Bhavan.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Anand-Bhavan.webp"
+  ]
+}

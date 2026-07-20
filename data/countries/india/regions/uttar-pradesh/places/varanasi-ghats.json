@@ -1,0 +1,74 @@
+{
+  "id": "varanasi-ghats",
+  "slug": "varanasi-ghats",
+  "name": "Varanasi Ghats",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/states/uttar-pradesh/Varnasi-Ghats.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Varnasi-Ghats.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Varnasi-Ghats.webp"
+  ],
+  "overview": "Experience the beauty of Varanasi Ghats, a top destination in Uttar Pradesh, India.",
+  "description": "The Varanasi Ghats are riverfront steps leading down the banks of the River Ganges. The ancient city features over 80 ghats, bustling with sacred rituals and vibrant ceremonies.",
+  "rating": "4.3",
+  "reviewCount": 32685,
+  "popularityScore": 88,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Lal Bahadur Shastri Airport",
+      "distance": "25 km"
+    },
+    "nearestRailway": {
+      "name": "Varanasi Junction",
+      "distance": "5 km"
+    },
+    "byRoad": "Rickshaws and autos available widely across Varanasi."
+  },
+  "tags": [
+    "spiritual",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4228
+    },
+    {
+      "views": 1290
+    }
+  ],
+  "nearbyPlaces": [
+    "kashi-vishwanath",
+    "sarnath",
+    "ramnagar-fort",
+    "tulsi-manas-temple",
+    "bharat-kala-bhavan",
+    "assi-ghat"
+  ]
+}

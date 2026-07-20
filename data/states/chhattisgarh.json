@@ -1,0 +1,5248 @@
+{
+  "stateSlug": "chhattisgarh",
+  "name": "Chhattisgarh",
+  "capital": "Raipur",
+  "tagline": "Full of Surprises",
+  "heroImage": "assets/images/states/chhattisgarh/banner.webp",
+  "bestTime": "October to March",
+  "language": "Hindi, Chhattisgarhi",
+  "places": [
+    {
+      "name": "Chitrakote Waterfall",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "38 km from Jagdalpur",
+      "rating": 4.7,
+      "description": "The widest waterfall in India cascades dramatically over a horseshoe-shaped cliff on the Indravati River, creating a thunderous roar and mist that paints the surrounding lush forests in ethereal hues during monsoon. Known as the Niagara of India, its powerful flow transforms the landscape into a mesmerizing spectacle of raw natural power.",
+      "history": "Formed by the Indravati River in the Bastar region, the waterfall has been a significant natural landmark in the tribal heartland of Chhattisgarh for centuries.",
+      "famousFor": "Being the broadest waterfall in India, often compared to Niagara Falls",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chitrakote-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        }
+      ],
+      "id": "chitrakote-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp"
+    },
+    {
+      "name": "Tirathgarh Falls",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "35 km from Jagdalpur",
+      "rating": 4.6,
+      "description": "Multi-tiered cascades tumble over sandstone cliffs in the dense forests of Kanger Valley, creating milky-white sheets of water that contrast beautifully with the emerald surroundings. The falls offer serene pools ideal for reflection amid the symphony of jungle sounds.",
+      "history": "Located within the ancient geological formations of Kanger Valley in Bastar district.",
+      "famousFor": "Its stepped, milky-white appearance and location inside Kanger Valley National Park",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "₹30",
+      "slug": "tirathgarh-falls",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bastar Palace",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "bastar-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bastar-palace.webp"
+          }
+        },
+        {
+          "name": "Narayanpal Temple",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "narayanpal-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/narayanpal-temple.webp"
+          }
+        },
+        {
+          "name": "Tamda Ghumar Waterfall",
+          "city": "Jagdalpur",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "tamda-ghumar-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tamra-ghoomar.webp"
+          }
+        },
+        {
+          "name": "Chitradhara Falls",
+          "city": "Jagdalpur",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "chitradhara-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp"
+          }
+        },
+        {
+          "name": "Mendri Ghumar Waterfall",
+          "slug": "mendri-ghumar-waterfall",
+          "id": "mendri-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "5 km away"
+        },
+        {
+          "name": "Dalpat Sagar Lake",
+          "slug": "dalpat-sagar-lake",
+          "id": "dalpat-sagar-lake",
+          "image": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp",
+          "bidirectional_verified": true,
+          "distance": "9 km away"
+        }
+      ],
+      "id": "tirathgarh-falls",
+      "heroImage": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+    },
+    {
+      "name": "Kanger Valley National Park",
+      "city": "Jagdalpur",
+      "category": "wildlife",
+      "distance": "27 km from Jagdalpur",
+      "rating": 4.5,
+      "description": "Dense tropical forests cloak limestone gorges and hidden caves in this biodiversity hotspot, where the Kanger River winds through verdant valleys teeming with wildlife and unique karst formations. The park pulses with the calls of hill mynas and the rustle of ancient canopies.",
+      "history": "Established in 1982, it protects the unique limestone cave systems and biodiversity of the Bastar region.",
+      "famousFor": "Limestone caves, dense forests, and rich biodiversity including the state bird Hill Myna",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "kanger-valley-national-park",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Michnar Hill",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "hills",
+          "slug": "michnar-hill",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/michael-hills.webp"
+          }
+        },
+        {
+          "name": "Chitrakote Waterfall",
+          "slug": "chitrakote-waterfall",
+          "id": "chitrakote-waterfall",
+          "image": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Anthropological Museum",
+          "slug": "anthropological-museum-jagdalpur",
+          "id": "anthropological-museum-jagdalpur",
+          "image": "assets/images/states/chhattisgarh/anthropological-museum.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        }
+      ],
+      "id": "kanger-valley-national-park",
+      "heroImage": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+    },
+    {
+      "name": "Kotumsar Caves",
+      "city": "Jagdalpur",
+      "category": "nature",
+      "distance": "40 km from Jagdalpur",
+      "rating": 4.4,
+      "description": "Subterranean limestone passages reveal intricate stalactites and stalagmites in pitch-black chambers, home to unique blind cave fauna. The cool, mysterious depths of these ancient formations evoke a sense of stepping into the earth's hidden underworld.",
+      "history": "Discovered in the mid-20th century within the Kanger Valley's karst landscape.",
+      "famousFor": "Longest natural limestone cave in India with unique cave ecosystem",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "kotumsar-caves",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        },
+        {
+          "name": "Michnar Hill",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "hills",
+          "slug": "michnar-hill",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/michael-hills.webp"
+          }
+        },
+        {
+          "name": "Chitrakote Waterfall",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "chitrakote-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp"
+          }
+        },
+        {
+          "name": "Anthropological Museum",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "anthropological-museum-jagdalpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/anthropological-museum.webp"
+          }
+        },
+        {
+          "name": "Bastar Palace",
+          "slug": "bastar-palace",
+          "id": "bastar-palace",
+          "image": "assets/images/states/chhattisgarh/bastar-palace.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Narayanpal Temple",
+          "slug": "narayanpal-temple",
+          "id": "narayanpal-temple",
+          "image": "assets/images/states/chhattisgarh/narayanpal-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Tamda Ghumar Waterfall",
+          "slug": "tamda-ghumar-waterfall",
+          "id": "tamda-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/tamra-ghoomar.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Mendri Ghumar Waterfall",
+          "slug": "mendri-ghumar-waterfall",
+          "id": "mendri-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away"
+        },
+        {
+          "name": "Chitradhara Falls",
+          "slug": "chitradhara-falls",
+          "id": "chitradhara-falls",
+          "image": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Dalpat Sagar Lake",
+          "slug": "dalpat-sagar-lake",
+          "id": "dalpat-sagar-lake",
+          "image": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp",
+          "bidirectional_verified": true,
+          "distance": "12 km away"
+        }
+      ],
+      "id": "kotumsar-caves",
+      "heroImage": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+    },
+    {
+      "name": "Kailash Caves",
+      "city": "Jagdalpur",
+      "category": "nature",
+      "distance": "40 km from Jagdalpur",
+      "rating": 4.5,
+      "description": "Stalactite and stalagmite formations resembling Shiva lingams create a sacred ambiance deep within the limestone hills of Kanger Valley. The echoing chambers and mineral sculptures offer an otherworldly exploration amid the surrounding tropical wilderness.",
+      "history": "Part of the ancient karst system in Bastar, explored in recent decades.",
+      "famousFor": "Stalactite formations resembling Lord Shiva's abode",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "kailash-caves",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        },
+        {
+          "name": "Michnar Hill",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "hills",
+          "slug": "michnar-hill",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/michael-hills.webp"
+          }
+        },
+        {
+          "name": "Chitrakote Waterfall",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "chitrakote-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp"
+          }
+        },
+        {
+          "name": "Anthropological Museum",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "anthropological-museum-jagdalpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/anthropological-museum.webp"
+          }
+        },
+        {
+          "name": "Bastar Palace",
+          "slug": "bastar-palace",
+          "id": "bastar-palace",
+          "image": "assets/images/states/chhattisgarh/bastar-palace.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Narayanpal Temple",
+          "slug": "narayanpal-temple",
+          "id": "narayanpal-temple",
+          "image": "assets/images/states/chhattisgarh/narayanpal-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Tamda Ghumar Waterfall",
+          "slug": "tamda-ghumar-waterfall",
+          "id": "tamda-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/tamra-ghoomar.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Mendri Ghumar Waterfall",
+          "slug": "mendri-ghumar-waterfall",
+          "id": "mendri-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away"
+        },
+        {
+          "name": "Chitradhara Falls",
+          "slug": "chitradhara-falls",
+          "id": "chitradhara-falls",
+          "image": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Dalpat Sagar Lake",
+          "slug": "dalpat-sagar-lake",
+          "id": "dalpat-sagar-lake",
+          "image": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp",
+          "bidirectional_verified": true,
+          "distance": "12 km away"
+        }
+      ],
+      "id": "kailash-caves",
+      "heroImage": "assets/images/states/chhattisgarh/kailash-caves.webp"
+    },
+    {
+      "name": "Danteshwari Temple",
+      "city": "Dantewada",
+      "category": "temples",
+      "distance": "80 km from Jagdalpur",
+      "rating": 4.8,
+      "description": "One of the 51 Shakti Peethas, this ancient temple dedicated to Goddess Danteshwari stands majestically where the Shankini and Dankini rivers meet, surrounded by Bastar's tribal landscapes. The vibrant energy of devotion fills the air amid ornate carvings and sacred rituals.",
+      "history": "Believed to be a Shakti Peetha where the tooth of Goddess Sati fell; revered for centuries in the region.",
+      "famousFor": "Being one of the 51 Shakti Peethas and major pilgrimage site in Bastar",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "danteshwari-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/danteshwari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dholkal Ganesha",
+          "city": "Dantewada",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "dholkal-ganesha",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dholkal-ganesha.webp"
+          }
+        },
+        {
+          "name": "Barsoor",
+          "city": "Dantewada",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "barsoor",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barsoor.webp"
+          }
+        },
+        {
+          "name": "Mama Bhanja Temple",
+          "city": "Dantewada",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "dantewada-barsoor-mama-bhanja-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mama-bhanja-mandir.webp"
+          }
+        }
+      ],
+      "id": "danteshwari-temple",
+      "heroImage": "assets/images/states/chhattisgarh/danteshwari-temple.webp"
+    },
+    {
+      "name": "Indravati National Park",
+      "city": "Bijapur",
+      "category": "wildlife",
+      "distance": "300 km from Raipur",
+      "rating": 4.5,
+      "description": "Chhattisgarh's only tiger reserve sprawls along the Indravati River with rich wildlife and scenic riverine forests.",
+      "history": "Declared a tiger reserve to protect the Indravati River ecosystem.",
+      "famousFor": "Tiger reserve and diverse wildlife",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "indravati-national-park",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/indravati-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "indravati-national-park",
+      "heroImage": "assets/images/states/chhattisgarh/indravati-national-park.webp"
+    },
+    {
+      "name": "Bhoramdeo Temple",
+      "city": "Kawardha",
+      "category": "temples",
+      "distance": "18 km from Kawardha",
+      "rating": 4.7,
+      "description": "Intricate erotic carvings and exquisite architecture adorn this 7th-11th century Shiva temple, often called the Khajuraho of Chhattisgarh, nestled in the scenic Maikal Hills. The temple's sandstone elegance glows at sunset against forested backdrops.",
+      "history": "Built between the 7th and 11th centuries during the rule of the local dynasties in Kabirdham district.",
+      "famousFor": "Erotic sculptures and architectural similarity to Khajuraho temples",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "bhoramdeo-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bhoramdeo-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kawardha Palace",
+          "city": "Kawardha",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "kawardha-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kawardha-palace.webp"
+          }
+        },
+        {
+          "name": "Rani Dahra Waterfall",
+          "city": "Kawardha",
+          "distance": "9 km away",
+          "category": "waterfalls",
+          "slug": "rani-dahra-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rani-dahra-waterfall.webp"
+          }
+        },
+        {
+          "name": "Madwa Mahal",
+          "city": "Kawardha",
+          "distance": "19 km away",
+          "category": "heritage",
+          "slug": "madwa-mahal",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madwa-mahal.webp"
+          }
+        }
+      ],
+      "id": "bhoramdeo-temple",
+      "heroImage": "assets/images/states/chhattisgarh/bhoramdeo-temple.webp"
+    },
+    {
+      "name": "Madwa Mahal",
+      "city": "Kawardha",
+      "category": "heritage",
+      "distance": "19 km from Kawardha",
+      "rating": 4.3,
+      "description": "A 14th-century wedding pavilion built with intricate carvings and decorative pillars near Bhoramdeo Temple, reflecting the architectural mastery of the region's medieval dynasties. The structure is adorned with sculptures of celestial dancers and divine figures.",
+      "history": "Built in the 14th century, believed to be a wedding mandap associated with the Bhoramdeo temple complex.",
+      "famousFor": "14th-century ornamental mandap with exquisite sculptural carvings",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "madwa-mahal",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/madwa-mahal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kawardha Palace",
+          "city": "Kawardha",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "kawardha-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kawardha-palace.webp"
+          }
+        },
+        {
+          "name": "Rani Dahra Waterfall",
+          "city": "Kawardha",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "rani-dahra-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rani-dahra-waterfall.webp"
+          }
+        },
+        {
+          "name": "Bhoramdeo Temple",
+          "city": "Kawardha",
+          "distance": "19 km away",
+          "category": "temples",
+          "slug": "bhoramdeo-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bhoramdeo-temple.webp"
+          }
+        }
+      ],
+      "id": "madwa-mahal",
+      "heroImage": "assets/images/states/chhattisgarh/madwa-mahal.webp"
+    },
+    {
+      "name": "Barnawapara Wildlife Sanctuary",
+      "city": "Mahasamund",
+      "category": "wildlife",
+      "distance": "85 km from Raipur",
+      "rating": 4.5,
+      "description": "Sal and teak forests shelter diverse wildlife including leopards, sloth bears, and numerous bird species across rolling terrain and streams. The sanctuary offers immersive jungle drives where the pulse of wild Chhattisgarh comes alive.",
+      "history": "Established in 1976 to protect the biodiversity of the Mahasamund region.",
+      "famousFor": "Rich wildlife including leopards, bears, and varied flora in sal forests",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "barnawapara-wildlife-sanctuary",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/barnawapara-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Surang Tila",
+          "city": "Mahasamund",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "surang-tila",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/surang-tila.webp"
+          }
+        },
+        {
+          "name": "Sirpur",
+          "city": "Mahasamund",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sirpur.webp"
+          }
+        },
+        {
+          "name": "Laxman Temple",
+          "city": "Mahasamund",
+          "distance": "17 km away",
+          "category": "temples",
+          "slug": "laxman-temple-sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/laxman-temple-sirpur.webp"
+          }
+        }
+      ],
+      "id": "barnawapara-wildlife-sanctuary",
+      "heroImage": "assets/images/states/chhattisgarh/barnawapara-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Sirpur",
+      "city": "Mahasamund",
+      "category": "heritage",
+      "distance": "78 km from Raipur",
+      "rating": 4.6,
+      "description": "Ancient Buddhist and Hindu ruins line the banks of the Mahanadi, featuring monasteries, stupas, and temples that whisper tales of a once-thriving center of learning visited by Chinese traveler Xuanzang. The site evokes a profound sense of historical depth.",
+      "history": "Flourished as a major Buddhist and Hindu center from the 5th-12th centuries; visited by Xuanzang.",
+      "famousFor": "Ancient archaeological ruins including Laxman Temple and Buddhist monasteries",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sirpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/sirpur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Surang Tila",
+          "city": "Mahasamund",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "surang-tila",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/surang-tila.webp"
+          }
+        },
+        {
+          "name": "Laxman Temple",
+          "city": "Mahasamund",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "laxman-temple-sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/laxman-temple-sirpur.webp"
+          }
+        },
+        {
+          "name": "Barnawapara Wildlife Sanctuary",
+          "city": "Mahasamund",
+          "distance": "16 km away",
+          "category": "wildlife",
+          "slug": "barnawapara-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barnawapara-wildlife-sanctuary.webp"
+          }
+        }
+      ],
+      "id": "sirpur",
+      "heroImage": "assets/images/states/chhattisgarh/sirpur.webp"
+    },
+    {
+      "name": "Rajim",
+      "city": "Raipur",
+      "category": "temples",
+      "distance": "45 km from Raipur",
+      "rating": 4.5,
+      "description": "At the sacred Triveni Sangam of three rivers, ancient temples dedicated to Lord Vishnu and others create a spiritual confluence where pilgrims gather amid flowing waters and historic architecture. The site radiates peaceful sanctity.",
+      "history": "Known as the Prayag of Chhattisgarh with temples dating back centuries.",
+      "famousFor": "Confluence of three rivers (Mahanadi, Pairi, Sondur) and ancient temples",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "rajim",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rajim.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Raipur",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "raipur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/raipur.webp"
+          }
+        },
+        {
+          "name": "Naya Raipur Central Park",
+          "city": "Raipur",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "naya-raipur-central-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+          }
+        },
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        },
+        {
+          "name": "Budhapara Lake",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "budhapara-lake",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+          }
+        },
+        {
+          "name": "Nandanvan Jungle Safari",
+          "slug": "nandanvan-jungle-safari",
+          "id": "nandanvan-jungle-safari",
+          "image": "assets/images/states/chhattisgarh/nandan-van-safari.webp",
+          "bidirectional_verified": true,
+          "distance": "9 km away"
+        },
+        {
+          "name": "Rajiv Lochan Temple",
+          "slug": "rajiv-lochan-temple-rajim",
+          "id": "rajiv-lochan-temple-rajim",
+          "image": "assets/images/states/chhattisgarh/rajim-lochan.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        }
+      ],
+      "id": "rajim",
+      "heroImage": "assets/images/states/chhattisgarh/rajim.webp"
+    },
+    {
+      "name": "Gangrel Dam",
+      "city": "Dhamtari",
+      "category": "nature",
+      "distance": "80 km from Raipur",
+      "rating": 4.4,
+      "description": "Also known as Ravishankar Sagar, the expansive reservoir reflects surrounding hills and offers scenic vistas with boating opportunities. The dam's vast waters provide a tranquil escape with lush green shores.",
+      "history": "Constructed on the Mahanadi River in the late 1970s.",
+      "famousFor": "Large reservoir and scenic beauty in Dhamtari district",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gangrel-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bilai Mata Temple",
+          "city": "Dhamtari",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "bilai-mata-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp"
+          }
+        },
+        {
+          "name": "Dhamtari",
+          "city": "Dhamtari",
+          "distance": "11 km away",
+          "category": "cities",
+          "slug": "dhamtari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+          }
+        },
+        {
+          "name": "Rudri Barrage",
+          "city": "Dhamtari",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "rudri-barrage",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+          }
+        },
+        {
+          "name": "Sihava Hills",
+          "city": "Dhamtari",
+          "distance": "16 km away",
+          "category": "hills",
+          "slug": "sihava-hills",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+          }
+        }
+      ],
+      "id": "gangrel-dam",
+      "heroImage": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+    },
+    {
+      "name": "Mainpat",
+      "city": "Ambikapur",
+      "category": "hills",
+      "distance": "50 km from Ambikapur",
+      "rating": 4.6,
+      "description": "Rolling plateaus, deep valleys, and cascading waterfalls define this 'Shimla of Chhattisgarh,' where misty mornings and tribal villages create a highland charm untouched by mass tourism. Verdant meadows stretch under vast skies.",
+      "history": "Tribal highland region in Surguja district known for its scenic beauty.",
+      "famousFor": "Hill station with plateaus, waterfalls, and tribal culture",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mainpat",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/mainpat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhakpo Shedupling Monastery",
+          "city": "Ambikapur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "dhakpo-shedupling-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhakpo-shedling-monastery.webp"
+          }
+        },
+        {
+          "name": "Jaljali (Trembling Land)",
+          "city": "Ambikapur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "jaljali-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/jaljali.webp"
+          }
+        },
+        {
+          "name": "Ulta Pani (Reverse Water Flow)",
+          "city": "Ambikapur",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "ulta-pani-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ulta-pani.webp"
+          }
+        }
+      ],
+      "id": "mainpat",
+      "heroImage": "assets/images/states/chhattisgarh/mainpat.webp"
+    },
+    {
+      "name": "Achanakmar Wildlife Sanctuary",
+      "city": "Bilaspur",
+      "category": "wildlife",
+      "distance": "60 km from Bilaspur",
+      "rating": 4.5,
+      "description": "Part of the Achanakmar-Amarkantak Biosphere Reserve, this sanctuary features tropical deciduous forests rich in tigers, leopards, and diverse flora. Jungle trails reveal the untamed essence of central India's wilderness.",
+      "history": "Established as a tiger reserve within the biosphere reserve.",
+      "famousFor": "Tiger reserve with rich biodiversity in tropical forests",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "achanackmar-wildlife-sanctuary",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        },
+        {
+          "name": "Kanan Pendari Zoo",
+          "city": "Bilaspur",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "kanan-pendari-zoo",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp"
+          }
+        },
+        {
+          "name": "Mahamaya Temple",
+          "city": "Bilaspur",
+          "distance": "11 km away",
+          "category": "temples",
+          "slug": "mahamaya-temple-ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+          }
+        }
+      ],
+      "id": "achanackmar-wildlife-sanctuary",
+      "heroImage": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Madku Dweep",
+      "city": "Bilaspur",
+      "category": "nature",
+      "distance": "30 km from Bilaspur",
+      "rating": 4.3,
+      "description": "A frog-shaped island in the Shivnath River offers pristine natural beauty with serene waters and surrounding greenery. The isolated islet provides a peaceful retreat for nature lovers and picnickers.",
+      "history": "Natural island formation in the Shivnath River.",
+      "famousFor": "Picturesque island in the Shivnath River",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "madku-dweep",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/madku-dweep.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahamaya Temple",
+          "city": "Bilaspur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "mahamaya-temple-ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+          }
+        },
+        {
+          "name": "Malhar",
+          "city": "Bilaspur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "malhar",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/malhar.webp"
+          }
+        },
+        {
+          "name": "Kutaghat Dam",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kutaghat-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kutaghat.webp"
+          }
+        },
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        }
+      ],
+      "id": "madku-dweep",
+      "heroImage": "assets/images/states/chhattisgarh/madku-dweep.webp"
+    },
+    {
+      "name": "Bambleshwari Temple",
+      "city": "Dongargarh",
+      "category": "temples",
+      "distance": "100 km from Raipur",
+      "rating": 4.6,
+      "description": "Perched atop a hill, this revered temple dedicated to Goddess Bambleshwari offers panoramic views and draws devotees for its spiritual aura. The climb rewards with sacred tranquility and sweeping vistas.",
+      "history": "Ancient hilltop temple in Rajnandgaon district.",
+      "famousFor": "Hilltop Shakti temple with panoramic views",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "bambleshwari-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bambleshwari-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "bambleshwari-temple",
+      "heroImage": "assets/images/states/chhattisgarh/bambleshwari-temple.webp"
+    },
+    {
+      "name": "Ghatarani Waterfalls",
+      "city": "Raipur",
+      "category": "waterfalls",
+      "distance": "45 km from Raipur",
+      "rating": 4.4,
+      "description": "Plunging into a natural pool amid thick vegetation, this waterfall serves as a popular picnic spot where crystal waters refresh visitors surrounded by forest serenity.",
+      "history": "Natural waterfall in the Raipur region.",
+      "famousFor": "Popular picnic spot with natural pool",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ghatarani-waterfalls",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Purkhauti Muktangan",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "purkhauti-muktangan",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp"
+          }
+        },
+        {
+          "name": "Raipur",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "cities",
+          "slug": "raipur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/raipur.webp"
+          }
+        },
+        {
+          "name": "Naya Raipur Central Park",
+          "city": "Raipur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "naya-raipur-central-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+          }
+        },
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "11 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        }
+      ],
+      "id": "ghatarani-waterfalls",
+      "heroImage": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp"
+    },
+    {
+      "name": "Bastar Palace",
+      "city": "Jagdalpur",
+      "category": "heritage",
+      "distance": "0 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "The historic residence of the Bastar royal family stands as a symbol of the region's tribal and royal heritage, showcasing architectural elements from the Bastar kingdom era.",
+      "history": "Former palace of the rulers of Bastar kingdom.",
+      "famousFor": "Royal heritage of Bastar region",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bastar-palace",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bastar-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "bastar-palace",
+      "heroImage": "assets/images/states/chhattisgarh/bastar-palace.webp"
+    },
+    {
+      "name": "Purkhauti Muktangan",
+      "city": "Raipur",
+      "category": "heritage",
+      "distance": "15 km from Raipur",
+      "rating": 4.2,
+      "description": "This open-air museum showcases Chhattisgarh's tribal art, architecture, and cultural heritage through life-size exhibits and traditional displays in a landscaped setting.",
+      "history": "Developed by the Chhattisgarh Tourism Board to preserve folk culture.",
+      "famousFor": "Open-air museum of tribal culture and heritage",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "purkhauti-muktangan",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Doodhadhari Monastery",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "doodhadhari-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp"
+          }
+        },
+        {
+          "name": "Ghatarani Waterfalls",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "ghatarani-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp"
+          }
+        },
+        {
+          "name": "Raipur",
+          "city": "Raipur",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "raipur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/raipur.webp"
+          }
+        },
+        {
+          "name": "Naya Raipur Central Park",
+          "city": "Raipur",
+          "distance": "11 km away",
+          "category": "nature",
+          "slug": "naya-raipur-central-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+          }
+        }
+      ],
+      "id": "purkhauti-muktangan",
+      "heroImage": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp"
+    },
+    {
+      "name": "Nandanvan Jungle Safari",
+      "city": "Raipur",
+      "category": "wildlife",
+      "distance": "20 km from Raipur",
+      "rating": 4.3,
+      "description": "A drive-through safari park allowing visitors to observe animals in a simulated natural habitat, offering family-friendly wildlife encounters near the capital.",
+      "history": "Modern safari facility in Naya Raipur.",
+      "famousFor": "Jungle safari experience near Raipur",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "nandanvan-jungle-safari",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/nandan-van-safari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        },
+        {
+          "name": "Budhapara Lake",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "budhapara-lake",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+          }
+        },
+        {
+          "name": "Rajiv Lochan Temple",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "rajiv-lochan-temple-rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim-lochan.webp"
+          }
+        },
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        }
+      ],
+      "id": "nandanvan-jungle-safari",
+      "heroImage": "assets/images/states/chhattisgarh/nandan-van-safari.webp"
+    },
+    {
+      "name": "Champaran",
+      "city": "Raipur",
+      "category": "temples",
+      "distance": "50 km from Raipur",
+      "rating": 4.4,
+      "description": "Associated with the Rajiv Lochan Temple, this sacred site holds religious significance with ancient temple structures and peaceful environs.",
+      "history": "Ancient religious site linked to Rajiv Lochan Temple.",
+      "famousFor": "Religious and cultural significance",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "champaran",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/champaran.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Raipur",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "raipur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/raipur.webp"
+          }
+        },
+        {
+          "name": "Naya Raipur Central Park",
+          "city": "Raipur",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "naya-raipur-central-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+          }
+        },
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        },
+        {
+          "name": "Budhapara Lake",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "budhapara-lake",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+          }
+        }
+      ],
+      "id": "champaran",
+      "heroImage": "assets/images/states/chhattisgarh/champaran.webp"
+    },
+    {
+      "name": "Ratanpur",
+      "city": "Bilaspur",
+      "category": "heritage",
+      "distance": "25 km from Bilaspur",
+      "rating": 4.3,
+      "description": "Historic town featuring ancient temples and archaeological remains, reflecting the rich past of the region.",
+      "history": "Ancient town with significant historical monuments.",
+      "famousFor": "Ancient temples and historical sites",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ratanpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        },
+        {
+          "name": "Achanakmar Wildlife Sanctuary",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "achanackmar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+          }
+        },
+        {
+          "name": "Kanan Pendari Zoo",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "kanan-pendari-zoo",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp"
+          }
+        },
+        {
+          "name": "Mahamaya Temple",
+          "city": "Bilaspur",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "mahamaya-temple-ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+          }
+        },
+        {
+          "name": "Madku Dweep",
+          "slug": "madku-dweep",
+          "id": "madku-dweep",
+          "image": "assets/images/states/chhattisgarh/madku-dweep.webp",
+          "bidirectional_verified": true,
+          "distance": "16 km away"
+        },
+        {
+          "name": "Malhar",
+          "slug": "malhar",
+          "id": "malhar",
+          "image": "assets/images/states/chhattisgarh/malhar.webp",
+          "bidirectional_verified": true,
+          "distance": "13 km away"
+        },
+        {
+          "name": "Kutaghat Dam",
+          "slug": "kutaghat-dam",
+          "id": "kutaghat-dam",
+          "image": "assets/images/states/chhattisgarh/kutaghat.webp",
+          "bidirectional_verified": true,
+          "distance": "14 km away"
+        }
+      ],
+      "id": "ratanpur",
+      "heroImage": "assets/images/states/chhattisgarh/ratanpur.webp"
+    },
+    {
+      "name": "Malhar",
+      "city": "Bilaspur",
+      "category": "heritage",
+      "distance": "30 km from Bilaspur",
+      "rating": 4.4,
+      "description": "Archaeological site with outstanding ancient sculptures and ruins listed as nationally important monuments.",
+      "history": "Historic town visited by Chinese traveler Xuanzang.",
+      "famousFor": "Ancient sculptures and archaeological importance",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "malhar",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/malhar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kutaghat Dam",
+          "city": "Bilaspur",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "kutaghat-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kutaghat.webp"
+          }
+        },
+        {
+          "name": "Madku Dweep",
+          "city": "Bilaspur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "madku-dweep",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madku-dweep.webp"
+          }
+        },
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "13 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "13 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        }
+      ],
+      "id": "malhar",
+      "heroImage": "assets/images/states/chhattisgarh/malhar.webp"
+    },
+    {
+      "name": "Tala",
+      "city": "Bilaspur",
+      "category": "heritage",
+      "distance": "40 km from Bilaspur",
+      "rating": 4.2,
+      "description": "Known for the Deorani-Jethani temples, this site features unique twin temple architecture from ancient times.",
+      "history": "Site of ancient Deorani-Jethani temples.",
+      "famousFor": "Deorani-Jethani twin temples",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tala",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/tala.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Achanakmar Wildlife Sanctuary",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "achanackmar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+          }
+        },
+        {
+          "name": "Kanan Pendari Zoo",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "kanan-pendari-zoo",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp"
+          }
+        },
+        {
+          "name": "Mahamaya Temple",
+          "city": "Bilaspur",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "mahamaya-temple-ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+          }
+        },
+        {
+          "name": "Malhar",
+          "slug": "malhar",
+          "id": "malhar",
+          "image": "assets/images/states/chhattisgarh/malhar.webp",
+          "bidirectional_verified": true,
+          "distance": "13 km away"
+        },
+        {
+          "name": "Kutaghat Dam",
+          "slug": "kutaghat-dam",
+          "id": "kutaghat-dam",
+          "image": "assets/images/states/chhattisgarh/kutaghat.webp",
+          "bidirectional_verified": true,
+          "distance": "14 km away"
+        }
+      ],
+      "id": "tala",
+      "heroImage": "assets/images/states/chhattisgarh/tala.webp"
+    },
+    {
+      "name": "Dongargarh",
+      "city": "Rajnandgaon",
+      "category": "cities",
+      "distance": "100 km from Raipur",
+      "rating": 4.3,
+      "description": "Pilgrimage town famous for its hilltop temple and as a spiritual center in the region.",
+      "history": "Home to the ancient Bambleshwari Temple.",
+      "famousFor": "Bambleshwari Temple pilgrimage site",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dongargarh",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dongargarh.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Patal Bhairavi Temple",
+          "city": "Rajnandgaon",
+          "distance": "16 km away",
+          "category": "temples",
+          "slug": "patal-bhairavi-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/pataal-bhairavi-temple.webp"
+          }
+        }
+      ],
+      "id": "dongargarh",
+      "heroImage": "assets/images/states/chhattisgarh/dongargarh.webp"
+    },
+    {
+      "name": "Chirmiri",
+      "city": "Koriya",
+      "category": "hills",
+      "distance": "200 km from Raipur",
+      "rating": 4.4,
+      "description": "Picturesque hill station with lush greenery, mountains, and rivers, offering a cool climate and coal mining heritage views.",
+      "history": "Known as the 'Heaven of Chhattisgarh' in Koriya district.",
+      "famousFor": "Scenic hill station and natural beauty",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chirmiri",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amrit Dhara Waterfall",
+          "city": "Koriya",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "amrit-dhara-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Rajmergarh Hilltop",
+          "city": "Koriya",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "rajmergarh-hilltop",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+          }
+        },
+        {
+          "name": "Guru Ghasidas National Park",
+          "city": "Koriya",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "guru-ghasidas-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+          }
+        },
+        {
+          "name": "Gaurghat Waterfall",
+          "city": "Koriya",
+          "distance": "13 km away",
+          "category": "waterfalls",
+          "slug": "gaurghat-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+          }
+        },
+        {
+          "name": "Karki Waterfall",
+          "slug": "karki-waterfall",
+          "id": "karki-waterfall",
+          "image": "assets/images/states/chhattisgarh/karki-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "15 km away"
+        }
+      ],
+      "id": "chirmiri",
+      "heroImage": "assets/images/states/chhattisgarh/chirmiri.webp"
+    },
+    {
+      "name": "Guru Ghasidas National Park",
+      "city": "Koriya",
+      "category": "wildlife",
+      "distance": "250 km from Raipur",
+      "rating": 4.4,
+      "description": "Vast protected area spanning over 1400 sq km with unique flora and fauna in the northern part of the state.",
+      "history": "Large national park in Koriya district.",
+      "famousFor": "Extensive protected forest area",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "guru-ghasidas-national-park",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amrit Dhara Waterfall",
+          "city": "Koriya",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "amrit-dhara-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Rajmergarh Hilltop",
+          "city": "Koriya",
+          "distance": "4 km away",
+          "category": "hills",
+          "slug": "rajmergarh-hilltop",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+          }
+        },
+        {
+          "name": "Chirmiri",
+          "city": "Koriya",
+          "distance": "11 km away",
+          "category": "hills",
+          "slug": "chirmiri",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+          }
+        },
+        {
+          "name": "Gaurghat Waterfall",
+          "city": "Koriya",
+          "distance": "11 km away",
+          "category": "waterfalls",
+          "slug": "gaurghat-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+          }
+        },
+        {
+          "name": "Karki Waterfall",
+          "slug": "karki-waterfall",
+          "id": "karki-waterfall",
+          "image": "assets/images/states/chhattisgarh/karki-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "13 km away"
+        }
+      ],
+      "id": "guru-ghasidas-national-park",
+      "heroImage": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+    },
+    {
+      "name": "Sihava Hills",
+      "city": "Dhamtari",
+      "category": "hills",
+      "distance": "90 km from Raipur",
+      "rating": 4.2,
+      "description": "Scenic hills offering natural beauty and views in the Dhamtari region, popular for short treks and nature exploration.",
+      "history": "Part of the natural landscape in Dhamtari district.",
+      "famousFor": "Natural hill scenery",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sihava-hills",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bilai Mata Temple",
+          "city": "Dhamtari",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "bilai-mata-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp"
+          }
+        },
+        {
+          "name": "Dhamtari",
+          "city": "Dhamtari",
+          "distance": "9 km away",
+          "category": "cities",
+          "slug": "dhamtari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+          }
+        },
+        {
+          "name": "Rudri Barrage",
+          "city": "Dhamtari",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "rudri-barrage",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+          }
+        },
+        {
+          "name": "Gangrel Dam",
+          "city": "Dhamtari",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "gangrel-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+          }
+        },
+        {
+          "name": "Sondhur Dam",
+          "slug": "sondhur-dam",
+          "id": "sondhur-dam",
+          "image": "assets/images/states/chhattisgarh/sondhur-dam.webp",
+          "bidirectional_verified": true,
+          "distance": "17 km away"
+        }
+      ],
+      "id": "sihava-hills",
+      "heroImage": "assets/images/states/chhattisgarh/shivam-hills.webp"
+    },
+    {
+      "name": "Bilai Mata Temple",
+      "city": "Dhamtari",
+      "category": "temples",
+      "distance": "85 km from Raipur",
+      "rating": 4.3,
+      "description": "Ancient temple dedicated to the goddess, nestled in the Dhamtari area with spiritual significance.",
+      "history": "Historic temple in Dhamtari region.",
+      "famousFor": "Local pilgrimage site",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "bilai-mata-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sihava Hills",
+          "city": "Dhamtari",
+          "distance": "3 km away",
+          "category": "hills",
+          "slug": "sihava-hills",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+          }
+        },
+        {
+          "name": "Gangrel Dam",
+          "city": "Dhamtari",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "gangrel-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+          }
+        },
+        {
+          "name": "Sondhur Dam",
+          "city": "Dhamtari",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "sondhur-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sondhur-dam.webp"
+          }
+        },
+        {
+          "name": "Dhamtari",
+          "city": "Dhamtari",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "dhamtari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+          }
+        }
+      ],
+      "id": "bilai-mata-temple",
+      "heroImage": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp"
+    },
+    {
+      "name": "Charre Marre Waterfalls",
+      "city": "Kanker",
+      "category": "waterfalls",
+      "distance": "140 km from Raipur",
+      "rating": 4.4,
+      "description": "Refreshing 16-meter high cascade formed by the Jogidhara River in pristine surroundings, ideal for nature lovers seeking offbeat spots.",
+      "history": "Natural waterfall in Kanker district.",
+      "famousFor": "Offbeat waterfall with clear waters",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "charre-marre-waterfalls",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/charre-marre-waterfalls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Malajkudum Waterfall",
+          "city": "Kanker",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "malajkudum-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/malajkudum-waterfall.webp"
+          }
+        },
+        {
+          "name": "Kanker Palace",
+          "city": "Kanker",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "kanker-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanker-palace.webp"
+          }
+        },
+        {
+          "name": "Gadiya Mountain",
+          "city": "Kanker",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "gadiya-mountain",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gadiya-mountain.webp"
+          }
+        }
+      ],
+      "id": "charre-marre-waterfalls",
+      "heroImage": "assets/images/states/chhattisgarh/charre-marre-waterfalls.webp"
+    },
+    {
+      "name": "Kanker Palace",
+      "city": "Kanker",
+      "category": "heritage",
+      "distance": "140 km from Raipur",
+      "rating": 4.2,
+      "description": "Colonial-era palace blending British and local architecture, once home to the royal family of Kanker.",
+      "history": "Royal palace of the Kanker princely state.",
+      "famousFor": "Heritage palace architecture",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kanker-palace",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kanker-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Malajkudum Waterfall",
+          "city": "Kanker",
+          "distance": "6 km away",
+          "category": "waterfalls",
+          "slug": "malajkudum-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/malajkudum-waterfall.webp"
+          }
+        },
+        {
+          "name": "Charre Marre Waterfalls",
+          "city": "Kanker",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "charre-marre-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/charre-marre-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Gadiya Mountain",
+          "city": "Kanker",
+          "distance": "19 km away",
+          "category": "nature",
+          "slug": "gadiya-mountain",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gadiya-mountain.webp"
+          }
+        }
+      ],
+      "id": "kanker-palace",
+      "heroImage": "assets/images/states/chhattisgarh/kanker-palace.webp"
+    },
+    {
+      "name": "Narayanpal Temple",
+      "city": "Jagdalpur",
+      "category": "temples",
+      "distance": "25 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "Ancient temple with cultural and historical value in the Bastar region, reflecting local architectural traditions.",
+      "history": "Historic temple in Bastar district.",
+      "famousFor": "Cultural and spiritual significance in Bastar",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "narayanpal-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/narayanpal-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "6 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "narayanpal-temple",
+      "heroImage": "assets/images/states/chhattisgarh/narayanpal-temple.webp"
+    },
+    {
+      "name": "Tamda Ghumar Waterfall",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "35 km from Jagdalpur",
+      "rating": 4.5,
+      "description": "Scenic waterfall near Chitrakote, adding to the cascade attractions of the Bastar region.",
+      "history": "Natural feature in Bastar district.",
+      "famousFor": "Picturesque waterfall in Bastar",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tamda-ghumar-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/tamra-ghoomar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "tamda-ghumar-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/tamra-ghoomar.webp"
+    },
+    {
+      "name": "Mendri Ghumar Waterfall",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "35 km from Jagdalpur",
+      "rating": 4.4,
+      "description": "Another beautiful cascade in the vicinity of Chitrakote, enhancing the waterfall circuit of Bastar.",
+      "history": "Part of Bastar's natural waterfall attractions.",
+      "famousFor": "Scenic waterfall near major attractions",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mendri-ghumar-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "mendri-ghumar-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp"
+    },
+    {
+      "name": "Dhamtari",
+      "city": "Dhamtari",
+      "category": "cities",
+      "distance": "80 km from Raipur",
+      "rating": 4.2,
+      "description": "Town known for its historical Chalukya connections, temples, and dams, serving as a gateway to natural attractions.",
+      "history": "Historic town linked to 14th century Chalukya empire.",
+      "famousFor": "Temples and Gangrel Dam",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dhamtari",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rudri Barrage",
+          "city": "Dhamtari",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "rudri-barrage",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+          }
+        },
+        {
+          "name": "Sihava Hills",
+          "city": "Dhamtari",
+          "distance": "9 km away",
+          "category": "hills",
+          "slug": "sihava-hills",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+          }
+        },
+        {
+          "name": "Gangrel Dam",
+          "city": "Dhamtari",
+          "distance": "11 km away",
+          "category": "nature",
+          "slug": "gangrel-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+          }
+        },
+        {
+          "name": "Sondhur Dam",
+          "city": "Dhamtari",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "sondhur-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sondhur-dam.webp"
+          }
+        },
+        {
+          "name": "Bilai Mata Temple",
+          "slug": "bilai-mata-temple",
+          "id": "bilai-mata-temple",
+          "image": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp",
+          "bidirectional_verified": true,
+          "distance": "15 km away"
+        }
+      ],
+      "id": "dhamtari",
+      "heroImage": "assets/images/states/chhattisgarh/dhamtari.webp"
+    },
+    {
+      "name": "Bhilai",
+      "city": "Durg",
+      "category": "cities",
+      "distance": "25 km from Raipur",
+      "rating": 4.1,
+      "description": "Planned industrial city famous for its steel plant and cultural fusion, with nearby dams and temples.",
+      "history": "Developed around the Bhilai Steel Plant.",
+      "famousFor": "Major steel city with planned urban layout",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bhilai",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bhilai.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhamdha Fort",
+          "city": "Durg",
+          "distance": "17 km away",
+          "category": "heritage",
+          "slug": "dhamdha-fort",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamdha-fort.webp"
+          }
+        }
+      ],
+      "id": "bhilai",
+      "heroImage": "assets/images/states/chhattisgarh/bhilai.webp"
+    },
+    {
+      "name": "Raipur",
+      "city": "Raipur",
+      "category": "cities",
+      "distance": "0 km from Raipur",
+      "rating": 4.2,
+      "description": "The vibrant capital city of Chhattisgarh blends modern development with cultural attractions, museums, and parks.",
+      "history": "Capital of the state since its formation.",
+      "famousFor": "State capital with urban attractions and museums",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "raipur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/raipur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        },
+        {
+          "name": "Champaran",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "champaran",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/champaran.webp"
+          }
+        },
+        {
+          "name": "Doodhadhari Monastery",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "doodhadhari-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp"
+          }
+        },
+        {
+          "name": "Ghatarani Waterfalls",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "ghatarani-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp"
+          }
+        },
+        {
+          "name": "Purkhauti Muktangan",
+          "slug": "purkhauti-muktangan",
+          "id": "purkhauti-muktangan",
+          "image": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp",
+          "bidirectional_verified": true,
+          "distance": "10 km away"
+        }
+      ],
+      "id": "raipur",
+      "heroImage": "assets/images/states/chhattisgarh/raipur.webp"
+    },
+    {
+      "name": "Raigarh",
+      "city": "Raigarh",
+      "category": "cities",
+      "distance": "250 km from Raipur",
+      "rating": 4.1,
+      "description": "Industrial and cultural hub in eastern Chhattisgarh with local attractions and proximity to natural sites.",
+      "history": "Significant town in the coal and industrial belt.",
+      "famousFor": "Regional center in eastern Chhattisgarh",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "raigarh",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/raigarh.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "raigarh",
+      "heroImage": "assets/images/states/chhattisgarh/raigarh.webp"
+    },
+    {
+      "name": "Korba",
+      "city": "Korba",
+      "category": "cities",
+      "distance": "200 km from Raipur",
+      "rating": 4,
+      "description": "Power hub of Chhattisgarh known for its industrial landscape and nearby natural attractions like waterfalls.",
+      "history": "Major industrial and power generation center.",
+      "famousFor": "Industrial city with power plants",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "korba",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/korba.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Satrenga",
+          "city": "Korba",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "satrenga",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/satrenga.webp"
+          }
+        },
+        {
+          "name": "Bango Dam (Hasdeo Bango)",
+          "city": "Korba",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "bango-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bango-dam.webp"
+          }
+        },
+        {
+          "name": "Chaiturgarh Fort",
+          "city": "Korba",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "chaiturgarh-fort",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+          }
+        },
+        {
+          "name": "Kendai Waterfall",
+          "city": "Korba",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "kendai-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+          }
+        }
+      ],
+      "id": "korba",
+      "heroImage": "assets/images/states/chhattisgarh/korba.webp"
+    },
+    {
+      "name": "Katghora",
+      "city": "Korba",
+      "category": "nature",
+      "distance": "210 km from Raipur",
+      "rating": 4.2,
+      "description": "Area known for local natural spots and as a base for exploring Korba district's attractions.",
+      "history": "Town in the Korba region.",
+      "famousFor": "Local gateway to nature spots",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "katghora",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/katghora.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Satrenga",
+          "city": "Korba",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "satrenga",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/satrenga.webp"
+          }
+        },
+        {
+          "name": "Bango Dam (Hasdeo Bango)",
+          "city": "Korba",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "bango-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bango-dam.webp"
+          }
+        },
+        {
+          "name": "Chaiturgarh Fort",
+          "city": "Korba",
+          "distance": "11 km away",
+          "category": "heritage",
+          "slug": "chaiturgarh-fort",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+          }
+        },
+        {
+          "name": "Kendai Waterfall",
+          "city": "Korba",
+          "distance": "14 km away",
+          "category": "waterfalls",
+          "slug": "kendai-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+          }
+        }
+      ],
+      "id": "katghora",
+      "heroImage": "assets/images/states/chhattisgarh/katghora.webp"
+    },
+    {
+      "name": "Barsoor",
+      "city": "Dantewada",
+      "category": "heritage",
+      "distance": "70 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "Ancient site with temples including Mama-Bhanja Temple, reflecting the rich heritage of the Bastar region.",
+      "history": "Historic temple town in Dantewada district.",
+      "famousFor": "Ancient temples like Mama-Bhanja Temple",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "barsoor",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/barsoor.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dholkal Ganesha",
+          "city": "Dantewada",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "dholkal-ganesha",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dholkal-ganesha.webp"
+          }
+        },
+        {
+          "name": "Mama Bhanja Temple",
+          "city": "Dantewada",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "dantewada-barsoor-mama-bhanja-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mama-bhanja-mandir.webp"
+          }
+        },
+        {
+          "name": "Danteshwari Temple",
+          "city": "Dantewada",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "danteshwari-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/danteshwari-temple.webp"
+          }
+        }
+      ],
+      "id": "barsoor",
+      "heroImage": "assets/images/states/chhattisgarh/barsoor.webp"
+    },
+    {
+      "name": "Jashpur",
+      "city": "Jashpur",
+      "category": "hills",
+      "distance": "300 km from Raipur",
+      "rating": 4.3,
+      "description": "District known for its hill stations, waterfalls, and dense forests in the northern part of the state.",
+      "history": "Tribal and forested region with natural attractions.",
+      "famousFor": "Hill stations and waterfalls",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jashpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/jashpur.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "jashpur",
+      "heroImage": "assets/images/states/chhattisgarh/jashpur.webp"
+    },
+    {
+      "name": "Dholkal Ganesha",
+      "city": "Dantewada",
+      "category": "temples",
+      "distance": "15 km from Dantewada",
+      "rating": 4.7,
+      "description": "A thousand-year-old idol of Lord Ganesha perched dramatically on a cliff at 3,000 feet in the Bailadila hills, accessible only via a thrilling 3–4 km trek through dense forest. The summit rewards with panoramic views and an aura of ancient spiritual mystery.",
+      "history": "Believed to be over 1,000 years old, carved and placed on the hilltop by an unknown ancient civilization in the Dantewada region.",
+      "famousFor": "Ancient hilltop Ganesha idol accessible only by trekking",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dholkal-ganesha",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dholkal-ganesha.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Barsoor",
+          "city": "Dantewada",
+          "distance": "9 km away",
+          "category": "heritage",
+          "slug": "barsoor",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barsoor.webp"
+          }
+        },
+        {
+          "name": "Mama Bhanja Temple",
+          "city": "Dantewada",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "dantewada-barsoor-mama-bhanja-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mama-bhanja-mandir.webp"
+          }
+        },
+        {
+          "name": "Danteshwari Temple",
+          "city": "Dantewada",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "danteshwari-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/danteshwari-temple.webp"
+          }
+        }
+      ],
+      "id": "dholkal-ganesha",
+      "heroImage": "assets/images/states/chhattisgarh/dholkal-ganesha.webp"
+    },
+    {
+      "name": "Keshkal Valley",
+      "city": "Kondagaon",
+      "category": "nature",
+      "distance": "80 km from Jagdalpur",
+      "rating": 4.6,
+      "description": "A breathtaking forested valley gateway to Bastar famous for its 12 dramatic hairpin bends winding through lush green hills. Tribal haats, bamboo artisans, and bell metal craftsmen line the route, creating a living corridor of culture and nature.",
+      "history": "Traditional route into Bastar, rich in Gond tribal culture and forest heritage.",
+      "famousFor": "12 hairpin bends with panoramic views and tribal craft markets",
+      "bestTime": "July to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "keshkal-valley",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/keshkal-ghat.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "keshkal-valley",
+      "heroImage": "assets/images/states/chhattisgarh/keshkal-ghat.webp"
+    },
+    {
+      "name": "Udanti Sitanadi Tiger Reserve",
+      "city": "Gariyaband",
+      "category": "wildlife",
+      "distance": "85 km from Raipur",
+      "rating": 4.5,
+      "description": "Spanning over 1,84,800 hectares across three districts, this tiger reserve shelters the rare wild buffalo (state animal), tigers, leopards, and a stunning diversity of birds and flora within dense sal and teak forests meeting the Eastern Ghats.",
+      "history": "Notified as a tiger reserve in 2009 under Project Tiger, combining the older Udanti and Sitanadi wildlife sanctuaries established in 1974.",
+      "famousFor": "Habitat of the rare pure-breed Indian wild buffalo and tiger reserve",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "udanti-sitanadi-tiger-reserve",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/udanti-sitanadi-tiger-reserve.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "udanti-sitanadi-tiger-reserve",
+      "heroImage": "assets/images/states/chhattisgarh/udanti-sitanadi-tiger-reserve.webp"
+    },
+    {
+      "name": "Jatmai Temple",
+      "city": "Gariyaband",
+      "category": "temples",
+      "distance": "85 km from Raipur",
+      "rating": 4.5,
+      "description": "A stunning granite-carved temple dedicated to Mata Jatmai nestled among scenic hills, accompanied by a beautiful seasonal waterfall that gushes vigorously after monsoon rains. The site blends divinity and natural beauty seamlessly.",
+      "history": "Ancient temple in the Gariyaband district revered by tribal and local communities for centuries.",
+      "famousFor": "Granite temple architecture with adjacent seasonal waterfall",
+      "bestTime": "July to October",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "jatmai-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/jatmai-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "jatmai-temple",
+      "heroImage": "assets/images/states/chhattisgarh/jatmai-temple.webp"
+    },
+    {
+      "name": "Handawada Waterfall",
+      "city": "Narayanpur",
+      "category": "waterfalls",
+      "distance": "60 km from Narayanpur",
+      "rating": 4.7,
+      "description": "A hidden marvel considered by many to surpass even Chitrakote in raw power and untouched beauty. Reachable only via a 3 km forest trek along the riverbank crossing natural canals, its wide powerful cascade tumbles into pristine pools amid the unbroken wilderness of Narayanpur.",
+      "history": "A little-known natural waterfall deep in the forests of Narayanpur district, largely undiscovered by mainstream tourism.",
+      "famousFor": "Widest offbeat waterfall in Chhattisgarh, trek-access only",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "handawada-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/handawada-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "handawada-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/handawada-waterfall.webp"
+    },
+    {
+      "name": "Rani Dahra Waterfall",
+      "city": "Kawardha",
+      "category": "waterfalls",
+      "distance": "25 km from Kawardha",
+      "rating": 4.5,
+      "description": "A stepwise cascade hidden in the forests of the Maikal Hills near Kawardha, this pristine waterfall captivates with its tiered descent and serene natural surroundings, making it an ideal family picnic and nature photography destination.",
+      "history": "Natural waterfall in the Kabirdham district forests near the Maikal range.",
+      "famousFor": "Stepwise tiered waterfall in Maikal Hills",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rani-dahra-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rani-dahra-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhoramdeo Temple",
+          "city": "Kawardha",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "bhoramdeo-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bhoramdeo-temple.webp"
+          }
+        },
+        {
+          "name": "Madwa Mahal",
+          "city": "Kawardha",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "madwa-mahal",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madwa-mahal.webp"
+          }
+        },
+        {
+          "name": "Kawardha Palace",
+          "city": "Kawardha",
+          "distance": "19 km away",
+          "category": "heritage",
+          "slug": "kawardha-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kawardha-palace.webp"
+          }
+        }
+      ],
+      "id": "rani-dahra-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/rani-dahra-waterfall.webp"
+    },
+    {
+      "name": "Kawardha Palace",
+      "city": "Kawardha",
+      "category": "heritage",
+      "distance": "118 km from Raipur",
+      "rating": 4.4,
+      "description": "An elegant royal palace built in Italian style by the local rulers of Kawardha, set amidst manicured gardens and the Maikal Hills. The palace blends colonial grandeur with local craftsmanship and now operates as a heritage hotel.",
+      "history": "Built by the royal family of Kawardha in the early 20th century as their official residence.",
+      "famousFor": "Italian-style heritage palace now serving as a boutique royal hotel",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "kawardha-palace",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kawardha-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhoramdeo Temple",
+          "city": "Kawardha",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "bhoramdeo-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bhoramdeo-temple.webp"
+          }
+        },
+        {
+          "name": "Madwa Mahal",
+          "city": "Kawardha",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "madwa-mahal",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madwa-mahal.webp"
+          }
+        },
+        {
+          "name": "Rani Dahra Waterfall",
+          "city": "Kawardha",
+          "distance": "19 km away",
+          "category": "waterfalls",
+          "slug": "rani-dahra-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rani-dahra-waterfall.webp"
+          }
+        }
+      ],
+      "id": "kawardha-palace",
+      "heroImage": "assets/images/states/chhattisgarh/kawardha-palace.webp"
+    },
+    {
+      "name": "Dhakpo Shedupling Monastery",
+      "city": "Ambikapur",
+      "category": "heritage",
+      "distance": "50 km from Ambikapur",
+      "rating": 4.5,
+      "description": "A Tibetan Buddhist monastery in Mainpat established by Tibetan refugees, this peaceful sanctuary of prayer flags, spinning wheels, and chanting monks creates a slice of the Himalayas in central India's highlands.",
+      "history": "Founded by Tibetan refugees who settled in Mainpat after 1959 following their displacement from Tibet.",
+      "famousFor": "Tibetan Buddhist monastery with authentic Himalayan spiritual culture",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "dhakpo-shedupling-monastery",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dhakpo-shedling-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mainpat",
+          "city": "Ambikapur",
+          "distance": "3 km away",
+          "category": "hills",
+          "slug": "mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mainpat.webp"
+          }
+        },
+        {
+          "name": "Ulta Pani (Reverse Water Flow)",
+          "city": "Ambikapur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "ulta-pani-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ulta-pani.webp"
+          }
+        },
+        {
+          "name": "Jaljali (Trembling Land)",
+          "city": "Ambikapur",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "jaljali-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/jaljali.webp"
+          }
+        }
+      ],
+      "id": "dhakpo-shedupling-monastery",
+      "heroImage": "assets/images/states/chhattisgarh/dhakpo-shedling-monastery.webp"
+    },
+    {
+      "name": "Ulta Pani (Reverse Water Flow)",
+      "city": "Ambikapur",
+      "category": "nature",
+      "distance": "55 km from Ambikapur",
+      "rating": 4.4,
+      "description": "A fascinating optical illusion at Mainpat where water appears to flow uphill against gravity, baffling visitors and scientists alike. The enigmatic natural phenomenon sits within the rolling green meadows and cool highland air of the Surguja plateau.",
+      "history": "A naturally occurring gravity-defying phenomenon in the Mainpat highland region.",
+      "famousFor": "Mysterious apparent reverse water flow gravity point",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ulta-pani-mainpat",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/ulta-pani.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhakpo Shedupling Monastery",
+          "city": "Ambikapur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "dhakpo-shedupling-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhakpo-shedling-monastery.webp"
+          }
+        },
+        {
+          "name": "Jaljali (Trembling Land)",
+          "city": "Ambikapur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "jaljali-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/jaljali.webp"
+          }
+        },
+        {
+          "name": "Mainpat",
+          "city": "Ambikapur",
+          "distance": "16 km away",
+          "category": "hills",
+          "slug": "mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mainpat.webp"
+          }
+        }
+      ],
+      "id": "ulta-pani-mainpat",
+      "heroImage": "assets/images/states/chhattisgarh/ulta-pani.webp"
+    },
+    {
+      "name": "Jaljali (Trembling Land)",
+      "city": "Ambikapur",
+      "category": "nature",
+      "distance": "52 km from Ambikapur",
+      "rating": 4.3,
+      "description": "A mysterious patch of land at Mainpat that trembles and shakes when you jump on it, owing to a spongy peat layer beneath. The strange phenomenon amid the highland meadows creates an unforgettable and eerie experience unlike anywhere else.",
+      "history": "A unique geological feature of the Mainpat plateau caused by a peat-like subsurface layer.",
+      "famousFor": "Ground that trembles underfoot, a unique geological curiosity",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jaljali-mainpat",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/jaljali.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mainpat",
+          "city": "Ambikapur",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mainpat.webp"
+          }
+        },
+        {
+          "name": "Ulta Pani (Reverse Water Flow)",
+          "city": "Ambikapur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "ulta-pani-mainpat",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ulta-pani.webp"
+          }
+        },
+        {
+          "name": "Dhakpo Shedupling Monastery",
+          "city": "Ambikapur",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "dhakpo-shedupling-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhakpo-shedling-monastery.webp"
+          }
+        }
+      ],
+      "id": "jaljali-mainpat",
+      "heroImage": "assets/images/states/chhattisgarh/jaljali.webp"
+    },
+    {
+      "name": "Gadiya Mountain",
+      "city": "Kanker",
+      "category": "nature",
+      "distance": "140 km from Raipur",
+      "rating": 4.4,
+      "description": "The highest natural fort in Kanker district rises dramatically above the surrounding forests, featuring a perennial tank and panoramic vistas over lush green hills. Nearby balancing rocks and tribal shrines add to its mystique.",
+      "history": "Natural mountain formation historically used as a natural fortification in the Kanker region.",
+      "famousFor": "Natural fort mountain with perennial water tank and balancing rocks",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gadiya-mountain",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/gadiya-mountain.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Malajkudum Waterfall",
+          "city": "Kanker",
+          "distance": "16 km away",
+          "category": "waterfalls",
+          "slug": "malajkudum-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/malajkudum-waterfall.webp"
+          }
+        },
+        {
+          "name": "Charre Marre Waterfalls",
+          "city": "Kanker",
+          "distance": "18 km away",
+          "category": "waterfalls",
+          "slug": "charre-marre-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/charre-marre-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Kanker Palace",
+          "city": "Kanker",
+          "distance": "19 km away",
+          "category": "heritage",
+          "slug": "kanker-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanker-palace.webp"
+          }
+        }
+      ],
+      "id": "gadiya-mountain",
+      "heroImage": "assets/images/states/chhattisgarh/gadiya-mountain.webp"
+    },
+    {
+      "name": "Chaiturgarh Fort",
+      "city": "Korba",
+      "category": "heritage",
+      "distance": "80 km from Bilaspur",
+      "rating": 4.5,
+      "description": "Perched between breathtaking mountains and cloaked in lush greenery, this ancient hill fort offers sweeping views, medieval ruins, and a sense of lost grandeur. The approach through dense forests makes for an exhilarating climb loved by history and nature enthusiasts alike.",
+      "history": "A medieval fort of significant historical importance in the Korba district, once a stronghold of regional rulers.",
+      "famousFor": "Ancient hill fort with panoramic views and adventurous trekking approach",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chaiturgarh-fort",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kendai Waterfall",
+          "city": "Korba",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "kendai-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+          }
+        },
+        {
+          "name": "Pali Shiva Temple",
+          "city": "Korba",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "pali-shiva-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+          }
+        },
+        {
+          "name": "Katghora",
+          "city": "Korba",
+          "distance": "11 km away",
+          "category": "nature",
+          "slug": "katghora",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/katghora.webp"
+          }
+        },
+        {
+          "name": "Korba",
+          "city": "Korba",
+          "distance": "12 km away",
+          "category": "cities",
+          "slug": "korba",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/korba.webp"
+          }
+        }
+      ],
+      "id": "chaiturgarh-fort",
+      "heroImage": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+    },
+    {
+      "name": "Satrenga",
+      "city": "Korba",
+      "category": "nature",
+      "distance": "30 km from Korba",
+      "rating": 4.3,
+      "description": "A picturesque scenic destination in Korba district with a tranquil dam, lush landscapes, and peaceful picnic spots overlooking shimmering waters. The serene setting makes it a popular weekend retreat for families and nature lovers.",
+      "history": "Natural scenic area developed around the Satrenga dam in Korba district.",
+      "famousFor": "Scenic dam reservoir and picnic destination in Korba",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "satrenga",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/satrenga.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pali Shiva Temple",
+          "city": "Korba",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "pali-shiva-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+          }
+        },
+        {
+          "name": "Katghora",
+          "city": "Korba",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "katghora",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/katghora.webp"
+          }
+        },
+        {
+          "name": "Korba",
+          "city": "Korba",
+          "distance": "6 km away",
+          "category": "cities",
+          "slug": "korba",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/korba.webp"
+          }
+        },
+        {
+          "name": "Bango Dam (Hasdeo Bango)",
+          "city": "Korba",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "bango-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bango-dam.webp"
+          }
+        }
+      ],
+      "id": "satrenga",
+      "heroImage": "assets/images/states/chhattisgarh/satrenga.webp"
+    },
+    {
+      "name": "Rajmergarh Hilltop",
+      "city": "Koriya",
+      "category": "hills",
+      "distance": "12 km from Amarkantak border",
+      "rating": 4.4,
+      "description": "The highest mountain peak in Chhattisgarh offers unparalleled sweeping views of lush landscapes and river valleys below. Located near the sacred town of Amarkantak, it is a premier spot for camping, picnicking, and sunrise watching.",
+      "history": "A geographical landmark and the highest point of Chhattisgarh within the northern hilly terrain.",
+      "famousFor": "Highest peak of Chhattisgarh with panoramic views",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rajmergarh-hilltop",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Guru Ghasidas National Park",
+          "city": "Koriya",
+          "distance": "4 km away",
+          "category": "wildlife",
+          "slug": "guru-ghasidas-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+          }
+        },
+        {
+          "name": "Chirmiri",
+          "city": "Koriya",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "chirmiri",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+          }
+        },
+        {
+          "name": "Gaurghat Waterfall",
+          "city": "Koriya",
+          "distance": "6 km away",
+          "category": "waterfalls",
+          "slug": "gaurghat-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+          }
+        },
+        {
+          "name": "Karki Waterfall",
+          "city": "Koriya",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "karki-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/karki-waterfall.webp"
+          }
+        }
+      ],
+      "id": "rajmergarh-hilltop",
+      "heroImage": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+    },
+    {
+      "name": "Sikaser Dam",
+      "city": "Gariyaband",
+      "category": "nature",
+      "distance": "135 km from Raipur",
+      "rating": 4.2,
+      "description": "A scenic reservoir nestled amid rolling forests 50 km from Gariyaband headquarters, offering tranquil boating, photography, and picnic opportunities against the backdrop of the surrounding hills and dense jungle.",
+      "history": "Irrigation dam in Gariyaband district providing water resources to the region.",
+      "famousFor": "Scenic forest-surrounded dam reservoir ideal for picnics",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sikaser-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/sikaser-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sikaser-dam",
+      "heroImage": "assets/images/states/chhattisgarh/sikaser-dam.webp"
+    },
+    {
+      "name": "Kendai Waterfall",
+      "city": "Korba",
+      "category": "waterfalls",
+      "distance": "85 km from Bilaspur",
+      "rating": 4.4,
+      "description": "Cascading through the lush forests of Korba district, Kendai Waterfall offers a refreshing natural spectacle with its clear waters tumbling over rocky ledges into cool pools, making it a sought-after picnic and trekking destination.",
+      "history": "Natural waterfall in the Korba district forest area.",
+      "famousFor": "Scenic forest waterfall and popular picnic spot",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kendai-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chaiturgarh Fort",
+          "city": "Korba",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "chaiturgarh-fort",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+          }
+        },
+        {
+          "name": "Pali Shiva Temple",
+          "city": "Korba",
+          "distance": "13 km away",
+          "category": "temples",
+          "slug": "pali-shiva-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+          }
+        },
+        {
+          "name": "Katghora",
+          "city": "Korba",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "katghora",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/katghora.webp"
+          }
+        },
+        {
+          "name": "Korba",
+          "city": "Korba",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "korba",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/korba.webp"
+          }
+        }
+      ],
+      "id": "kendai-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+    },
+    {
+      "name": "Shivarinarayana Temple",
+      "city": "Janjgir-Champa",
+      "category": "temples",
+      "distance": "60 km from Bilaspur",
+      "rating": 4.5,
+      "description": "An ancient Vishnu temple standing at the confluence of the Mahanadi, Jonk, and Sheonath rivers, exuding deep spiritual significance and architectural beauty. Known as the Prayagraj of Chhattisgarh, it draws pilgrims from across the region.",
+      "history": "Ancient temple complex in Janjgir-Champa dating back centuries, important pilgrimage site of the Shaiva and Vaishnav traditions.",
+      "famousFor": "Riverside temple at a sacred river confluence",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "siyanarayan-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/shivrinarayan-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "siyanarayan-temple",
+      "heroImage": "assets/images/states/chhattisgarh/shivrinarayan-temple.webp"
+    },
+    {
+      "name": "Chandrahasini Devi Temple",
+      "city": "Janjgir-Champa",
+      "category": "temples",
+      "distance": "120 km from Raipur",
+      "rating": 4.5,
+      "description": "Perched above the Mahanadi River at Chandrapur, this revered shakti temple dedicated to Goddess Chandrahasini glows golden at dusk over the flowing river. It is one of the most important pilgrimages in Chhattisgarh, bustling with devotion year-round.",
+      "history": "Ancient temple at Chandrapur in Janjgir-Champa district venerated for centuries as a Shakti shrine.",
+      "famousFor": "Riverside Shakti temple with vibrant festivals and devotional atmosphere",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "chandrahasini-devi-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/chandrahasini-devi-mandir.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "chandrahasini-devi-temple",
+      "heroImage": "assets/images/states/chhattisgarh/chandrahasini-devi-mandir.webp"
+    },
+    {
+      "name": "Mahamaya Temple",
+      "city": "Bilaspur",
+      "category": "temples",
+      "distance": "25 km from Bilaspur",
+      "rating": 4.6,
+      "description": "One of the most significant Shakti temples in Chhattisgarh, this ancient shrine dedicated to Goddess Mahamaya at Ratanpur draws lakhs of devotees especially during Navratri. The temple is set within the historic town that was once the capital of the Kalchuri dynasty.",
+      "history": "Ratanpur served as the capital of the Kalchuri dynasty; the Mahamaya Temple is believed to be over 1,000 years old.",
+      "famousFor": "One of the most revered Shakti temples in Chhattisgarh",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "mahamaya-temple-ratanpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Madku Dweep",
+          "city": "Bilaspur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "madku-dweep",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madku-dweep.webp"
+          }
+        },
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        },
+        {
+          "name": "Achanakmar Wildlife Sanctuary",
+          "city": "Bilaspur",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "achanackmar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+          }
+        },
+        {
+          "name": "Kanan Pendari Zoo",
+          "slug": "kanan-pendari-zoo",
+          "id": "kanan-pendari-zoo",
+          "image": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp",
+          "bidirectional_verified": true,
+          "distance": "11 km away"
+        }
+      ],
+      "id": "mahamaya-temple-ratanpur",
+      "heroImage": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+    },
+    {
+      "name": "Giraudhpuri",
+      "city": "Baloda Bazar",
+      "category": "heritage",
+      "distance": "90 km from Raipur",
+      "rating": 4.3,
+      "description": "The birthplace of Guru Ghasidas, founder of the Satnami movement, this sacred site draws thousands of followers of the Satnam Panth faith. A grand stambh (pillar) and ashram complex stand as symbols of equality, non-violence, and spiritual awakening.",
+      "history": "Birthplace of Guru Ghasidas (1756–1850), spiritual reformer who founded the Satnami movement championing the rights of lower castes.",
+      "famousFor": "Birthplace of Guru Ghasidas and pilgrimage site for Satnami community",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "giraudhpuri",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/giraudhpuri.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "giraudhpuri",
+      "heroImage": "assets/images/states/chhattisgarh/giraudhpuri.webp"
+    },
+    {
+      "name": "Pali Shiva Temple",
+      "city": "Korba",
+      "category": "temples",
+      "distance": "90 km from Bilaspur",
+      "rating": 4.3,
+      "description": "An ancient Shiva temple in Pali village featuring exquisite stone carvings and sculptures from the Kalchuri era. Set amidst peaceful surroundings, it represents the rich temple-building tradition of early medieval Chhattisgarh.",
+      "history": "Built during the Kalchuri period, one of the notable temple sites in the Korba-Bilaspur belt.",
+      "famousFor": "Ancient Kalchuri-era Shiva temple with intricate carvings",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "pali-shiva-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Satrenga",
+          "city": "Korba",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "satrenga",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/satrenga.webp"
+          }
+        },
+        {
+          "name": "Bango Dam (Hasdeo Bango)",
+          "city": "Korba",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "bango-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bango-dam.webp"
+          }
+        },
+        {
+          "name": "Chaiturgarh Fort",
+          "city": "Korba",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "chaiturgarh-fort",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chaiturgarh-fort.webp"
+          }
+        },
+        {
+          "name": "Kendai Waterfall",
+          "city": "Korba",
+          "distance": "13 km away",
+          "category": "waterfalls",
+          "slug": "kendai-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kendai-waterfall.webp"
+          }
+        }
+      ],
+      "id": "pali-shiva-temple",
+      "heroImage": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+    },
+    {
+      "name": "Kharod Lakshmaneswar Temple",
+      "city": "Janjgir-Champa",
+      "category": "temples",
+      "distance": "80 km from Bilaspur",
+      "rating": 4.3,
+      "description": "A remarkable ancient Shiva temple in Kharod featuring 108 smaller Shivalingas surrounding the main shrine, considered a miniature Kashi by devotees. The intricate sandstone carvings and riverside setting make it an architectural and spiritual gem.",
+      "history": "Ancient temple believed to date to the Kalchuri period, locally regarded as a sacred equivalent of Varanasi.",
+      "famousFor": "108 surrounding Shivalingas and architectural significance",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kharod-lakshmaneswar-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kharod-lakshmaneswar-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kharod-lakshmaneswar-temple",
+      "heroImage": "assets/images/states/chhattisgarh/kharod-lakshmaneswar-temple.webp"
+    },
+    {
+      "name": "Bango Dam (Hasdeo Bango)",
+      "city": "Korba",
+      "category": "nature",
+      "distance": "40 km from Korba",
+      "rating": 4.3,
+      "description": "One of the largest dams in Chhattisgarh on the Hasdeo River, the vast reservoir mirrors the surrounding forested hills and offers boat rides, golden sunsets, and a tranquil lakeside experience away from urban bustle.",
+      "history": "Constructed on the Hasdeo River for irrigation and power generation in Korba district.",
+      "famousFor": "Largest dam in Korba district with scenic reservoir and boating",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bango-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bango-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pali Shiva Temple",
+          "city": "Korba",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "pali-shiva-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/pali-shiva-temple.webp"
+          }
+        },
+        {
+          "name": "Katghora",
+          "city": "Korba",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "katghora",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/katghora.webp"
+          }
+        },
+        {
+          "name": "Korba",
+          "city": "Korba",
+          "distance": "6 km away",
+          "category": "cities",
+          "slug": "korba",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/korba.webp"
+          }
+        },
+        {
+          "name": "Satrenga",
+          "city": "Korba",
+          "distance": "9 km away",
+          "category": "nature",
+          "slug": "satrenga",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/satrenga.webp"
+          }
+        }
+      ],
+      "id": "bango-dam",
+      "heroImage": "assets/images/states/chhattisgarh/bango-dam.webp"
+    },
+    {
+      "name": "Tandula Dam",
+      "city": "Balod",
+      "category": "nature",
+      "distance": "60 km from Raipur",
+      "rating": 4.2,
+      "description": "A scenic reservoir on the Tandula River surrounded by lush greenery and hills, popular for boating, picnicking, and bird watching. The serene lake offers a refreshing day-trip destination close to Raipur.",
+      "history": "One of the older dams in the region, constructed for irrigation purposes in Balod district.",
+      "famousFor": "Scenic lake and popular picnic destination near Raipur",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tandula-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/tandula-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tandula-dam",
+      "heroImage": "assets/images/states/chhattisgarh/tandula-dam.webp"
+    },
+    {
+      "name": "Laxman Temple",
+      "city": "Mahasamund",
+      "category": "temples",
+      "distance": "78 km from Raipur",
+      "rating": 4.6,
+      "description": "A magnificent 7th-century Gupta-era brick temple considered one of the finest examples of early brick architecture in India. Intricate floral and sculptural carvings adorn the exterior while the well-preserved structure evokes the glory of ancient Sirpur.",
+      "history": "Built by Queen Vasata in memory of her husband King Harsha Gupta in the 7th century CE at Sirpur.",
+      "famousFor": "Finest surviving example of early brick temple architecture in India",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "laxman-temple-sirpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/laxman-temple-sirpur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Surang Tila",
+          "city": "Mahasamund",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "surang-tila",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/surang-tila.webp"
+          }
+        },
+        {
+          "name": "Sirpur",
+          "city": "Mahasamund",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sirpur.webp"
+          }
+        },
+        {
+          "name": "Barnawapara Wildlife Sanctuary",
+          "city": "Mahasamund",
+          "distance": "17 km away",
+          "category": "wildlife",
+          "slug": "barnawapara-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barnawapara-wildlife-sanctuary.webp"
+          }
+        }
+      ],
+      "id": "laxman-temple-sirpur",
+      "heroImage": "assets/images/states/chhattisgarh/laxman-temple-sirpur.webp"
+    },
+    {
+      "name": "Surang Tila",
+      "city": "Mahasamund",
+      "category": "heritage",
+      "distance": "79 km from Raipur",
+      "rating": 4.4,
+      "description": "A towering Shiva temple complex from the 8th century at Sirpur, featuring a unique tunnel passage beneath the main sanctum that gives it its evocative name 'Surang Tila' (tunnel mound). A remarkable archaeological discovery of recent decades.",
+      "history": "8th-century Shiva temple at Sirpur rediscovered through excavations, featuring a rare underground passage.",
+      "famousFor": "Ancient temple with unique underground tunnel and archaeological significance",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "surang-tila",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/surang-tila.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sirpur",
+          "city": "Mahasamund",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sirpur.webp"
+          }
+        },
+        {
+          "name": "Laxman Temple",
+          "city": "Mahasamund",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "laxman-temple-sirpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/laxman-temple-sirpur.webp"
+          }
+        },
+        {
+          "name": "Barnawapara Wildlife Sanctuary",
+          "city": "Mahasamund",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "barnawapara-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barnawapara-wildlife-sanctuary.webp"
+          }
+        }
+      ],
+      "id": "surang-tila",
+      "heroImage": "assets/images/states/chhattisgarh/surang-tila.webp"
+    },
+    {
+      "name": "Michnar Hill",
+      "city": "Jagdalpur",
+      "category": "hills",
+      "distance": "37 km from Jagdalpur",
+      "rating": 4.5,
+      "description": "One of Bastar's most captivating and lesser-known treasures, Michnar Hill offers two distinct routes — a trekking trail through thick forests and a gentler upper path — both rewarding visitors with stunning hilltop vistas over the lush Bastar landscape.",
+      "history": "Natural hill formation in the Bastar district, long part of the tribal landscape.",
+      "famousFor": "Trekking and panoramic hilltop views in Bastar",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "michnar-hill",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/michael-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        }
+      ],
+      "id": "michnar-hill",
+      "heroImage": "assets/images/states/chhattisgarh/michael-hills.webp"
+    },
+    {
+      "name": "Chitradhara Falls",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "20 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "A charming waterfall flowing through rocky terrain near Jagdalpur, offering a scenic natural pool and a peaceful setting for picnics amid the Bastar forest. Its accessibility makes it a favorite for local families and weekend visitors.",
+      "history": "Natural waterfall in the Bastar region near Jagdalpur.",
+      "famousFor": "Accessible scenic waterfall near Jagdalpur",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chitradhara-falls",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "chitradhara-falls",
+      "heroImage": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp"
+    },
+    {
+      "name": "Dalpat Sagar Lake",
+      "city": "Jagdalpur",
+      "category": "nature",
+      "distance": "0 km from Jagdalpur",
+      "rating": 4.2,
+      "description": "The largest artificial lake in Bastar, sprawling at the heart of Jagdalpur city, offers boating, evening promenades, and scenic sunsets. The lake is surrounded by gardens and is a beloved green lung and recreation space for city residents.",
+      "history": "Constructed by the rulers of Bastar kingdom, named after King Dalpat Dev.",
+      "famousFor": "Largest lake in Bastar, boating and evening recreation",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dalpat-sagar-lake",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirathgarh Falls",
+          "city": "Jagdalpur",
+          "distance": "9 km away",
+          "category": "waterfalls",
+          "slug": "tirathgarh-falls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tirathgarh-falls.webp"
+          }
+        },
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        }
+      ],
+      "id": "dalpat-sagar-lake",
+      "heroImage": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp"
+    },
+    {
+      "name": "Anthropological Museum",
+      "city": "Jagdalpur",
+      "category": "heritage",
+      "distance": "0 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "A fascinating museum preserving and showcasing the rich tribal culture, artifacts, jewelry, agricultural tools, and traditional artworks of the Bastar region's indigenous communities including Gond, Maria, Muria, and Halba tribes.",
+      "history": "Established to document and preserve the unique tribal heritage of the Bastar region.",
+      "famousFor": "Comprehensive collection of Bastar tribal culture and artifacts",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "anthropological-museum-jagdalpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/anthropological-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kotumsar Caves",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "kotumsar-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kotumsar-cave.webp"
+          }
+        },
+        {
+          "name": "Kailash Caves",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "kailash-caves",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kailash-caves.webp"
+          }
+        },
+        {
+          "name": "Lankapalli Waterfall",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "lankapalli-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "7 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        }
+      ],
+      "id": "anthropological-museum-jagdalpur",
+      "heroImage": "assets/images/states/chhattisgarh/anthropological-museum.webp"
+    },
+    {
+      "name": "Mahant Ghasidas Memorial Museum",
+      "city": "Raipur",
+      "category": "heritage",
+      "distance": "2 km from Raipur centre",
+      "rating": 4.3,
+      "description": "Chhattisgarh's oldest and most important museum housing an exceptional collection of tribal artifacts, prehistoric tools, copper-plate inscriptions, stone sculptures, and folk artworks spanning thousands of years of the state's cultural history.",
+      "history": "One of the oldest museums in central India, established during the British era and named after Mahant Ghasidas.",
+      "famousFor": "Oldest museum in Chhattisgarh with extensive tribal and archaeological collection",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "mahant-ghasidas-museum",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Budhapara Lake",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "budhapara-lake",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+          }
+        },
+        {
+          "name": "Rajiv Lochan Temple",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "rajiv-lochan-temple-rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim-lochan.webp"
+          }
+        },
+        {
+          "name": "Nandanvan Jungle Safari",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "nandanvan-jungle-safari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/nandan-van-safari.webp"
+          }
+        },
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        },
+        {
+          "name": "Ghatarani Waterfalls",
+          "slug": "ghatarani-waterfalls",
+          "id": "ghatarani-waterfalls",
+          "image": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "11 km away"
+        },
+        {
+          "name": "Champaran",
+          "slug": "champaran",
+          "id": "champaran",
+          "image": "assets/images/states/chhattisgarh/champaran.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Doodhadhari Monastery",
+          "slug": "doodhadhari-monastery",
+          "id": "doodhadhari-monastery",
+          "image": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp",
+          "bidirectional_verified": true,
+          "distance": "9 km away"
+        }
+      ],
+      "id": "mahant-ghasidas-museum",
+      "heroImage": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+    },
+    {
+      "name": "Doodhadhari Monastery",
+      "city": "Raipur",
+      "category": "heritage",
+      "distance": "3 km from Raipur centre",
+      "rating": 4.2,
+      "description": "An 18th-century religious complex comprising an ancient monastery and temple adorned with intricate murals, sculptures, and frescoes depicting scenes from Hindu epics. The serene complex stands as a remarkable example of Chhattisgarhi religious art.",
+      "history": "Built in the 18th century by saint Doodhadhari Swami, an important religious institution in Raipur.",
+      "famousFor": "Ancient monastery with beautiful murals and Hindu epic frescoes",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "doodhadhari-monastery",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Purkhauti Muktangan",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "purkhauti-muktangan",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp"
+          }
+        },
+        {
+          "name": "Raipur",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "raipur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/raipur.webp"
+          }
+        },
+        {
+          "name": "Naya Raipur Central Park",
+          "city": "Raipur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "naya-raipur-central-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+          }
+        },
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "9 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        }
+      ],
+      "id": "doodhadhari-monastery",
+      "heroImage": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp"
+    },
+    {
+      "name": "Budhapara Lake",
+      "city": "Raipur",
+      "category": "nature",
+      "distance": "4 km from Raipur centre",
+      "rating": 4.1,
+      "description": "A serene urban lake in the heart of Raipur that transforms into a birding paradise during winter as migratory birds flock to its banks. The surrounding park offers peaceful walks and evening leisure for city dwellers.",
+      "history": "Historic lake in the old city of Raipur, a landmark for locals.",
+      "famousFor": "Urban bird-watching lake and evening recreational park",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "budhapara-lake",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        },
+        {
+          "name": "Rajiv Lochan Temple",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "rajiv-lochan-temple-rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim-lochan.webp"
+          }
+        },
+        {
+          "name": "Nandanvan Jungle Safari",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "nandanvan-jungle-safari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/nandan-van-safari.webp"
+          }
+        },
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        },
+        {
+          "name": "Champaran",
+          "slug": "champaran",
+          "id": "champaran",
+          "image": "assets/images/states/chhattisgarh/champaran.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        }
+      ],
+      "id": "budhapara-lake",
+      "heroImage": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+    },
+    {
+      "name": "Rani Jharna",
+      "city": "Surguja",
+      "category": "waterfalls",
+      "distance": "70 km from Ambikapur",
+      "rating": 4.6,
+      "description": "A breathtaking lesser-known waterfall tucked away in the forests of Surguja, where crystal waters cascade dramatically into a natural pool ringed by lush greenery. Its remoteness and pristine beauty make it a prized discovery for offbeat travellers.",
+      "history": "Natural waterfall in the Surguja district forests.",
+      "famousFor": "Hidden pristine waterfall in Surguja's forests",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rani-jharna",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rani-jharna.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rani-jharna",
+      "heroImage": "assets/images/states/chhattisgarh/rani-jharna.webp"
+    },
+    {
+      "name": "Rajiv Lochan Temple",
+      "city": "Raipur",
+      "category": "temples",
+      "distance": "45 km from Raipur",
+      "rating": 4.6,
+      "description": "A magnificent 7th-century Vishnu temple at the sacred Triveni Sangam of Rajim, featuring an ornate facade with delicate carvings, divine sculptures, and a mandap entrance adorned with snake goddess motifs and chaitya arch designs.",
+      "history": "Built in the 7th century during the Nalwa dynasty, one of Chhattisgarh's most revered Vishnu temples.",
+      "famousFor": "7th-century Vishnu temple at the Prayag of Chhattisgarh",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "rajiv-lochan-temple-rajim",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rajim-lochan.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "mahant-ghasidas-museum",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahant-ghasidas-museum.webp"
+          }
+        },
+        {
+          "name": "Budhapara Lake",
+          "city": "Raipur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "budhapara-lake",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/budhapara-lake.webp"
+          }
+        },
+        {
+          "name": "Nandanvan Jungle Safari",
+          "city": "Raipur",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "nandanvan-jungle-safari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/nandan-van-safari.webp"
+          }
+        },
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "7 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        }
+      ],
+      "id": "rajiv-lochan-temple-rajim",
+      "heroImage": "assets/images/states/chhattisgarh/rajim-lochan.webp"
+    },
+    {
+      "name": "Badalkhol Wildlife Sanctuary",
+      "city": "Jashpur",
+      "category": "wildlife",
+      "distance": "290 km from Raipur",
+      "rating": 4.2,
+      "description": "A compact yet biodiverse sanctuary in the Jashpur district sheltering leopards, deer, wild boar, and an abundance of bird species within tropical dry deciduous forests. The relatively undiscovered sanctuary offers genuine wilderness encounters.",
+      "history": "Established as a wildlife sanctuary in the Jashpur district to protect biodiversity.",
+      "famousFor": "Undiscovered wildlife sanctuary with leopards and rich birdlife",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "badalkhol-wildlife-sanctuary",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/badalkhol-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "badalkhol-wildlife-sanctuary",
+      "heroImage": "assets/images/states/chhattisgarh/badalkhol-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Rajpuri Waterfall",
+      "city": "Jashpur",
+      "category": "waterfalls",
+      "distance": "280 km from Raipur",
+      "rating": 4.3,
+      "description": "A delightful cascade hidden in the forested hills of Jashpur district, this offbeat waterfall flows through layered rocky terrain and forested valleys, offering trekkers and nature lovers an unspoiled highland retreat.",
+      "history": "Natural waterfall in the forested terrain of Jashpur district.",
+      "famousFor": "Offbeat waterfall in the forested highlands of Jashpur",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sambalpur-road-waterfalls-jashpur",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rajpuri-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sambalpur-road-waterfalls-jashpur",
+      "heroImage": "assets/images/states/chhattisgarh/rajpuri-waterfall.webp"
+    },
+    {
+      "name": "Patal Bhairavi Temple",
+      "city": "Rajnandgaon",
+      "category": "temples",
+      "distance": "95 km from Raipur",
+      "rating": 4.3,
+      "description": "A mysterious subterranean Shakti temple dedicated to Goddess Bhairavi, reached by descending underground steps into a cave-like sanctum. The atmospheric underground temple creates a unique and powerful spiritual experience unlike conventional shrines.",
+      "history": "Ancient subterranean temple on the outskirts of Rajnandgaon, revered for its unique below-ground sanctum.",
+      "famousFor": "Rare underground Shakti temple with powerful spiritual atmosphere",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "patal-bhairavi-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/pataal-bhairavi-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dongargarh",
+          "city": "Rajnandgaon",
+          "distance": "16 km away",
+          "category": "cities",
+          "slug": "dongargarh",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dongargarh.webp"
+          }
+        }
+      ],
+      "id": "patal-bhairavi-temple",
+      "heroImage": "assets/images/states/chhattisgarh/pataal-bhairavi-temple.webp"
+    },
+    {
+      "name": "Rudri Barrage",
+      "city": "Dhamtari",
+      "category": "nature",
+      "distance": "75 km from Raipur",
+      "rating": 4.2,
+      "description": "Chhattisgarh's first and oldest dam, built between 1912 and 1915 on the Mahanadi River, now a scenic viewpoint where the river spreads wide and tranquil. The historic structure and panoramic water views make it an evocative heritage and nature site.",
+      "history": "Built during 1912–1915 as the first dam and first electrical project of Chhattisgarh during the British era.",
+      "famousFor": "Oldest dam in Chhattisgarh with scenic river views",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rudri-barrage",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhamtari",
+          "city": "Dhamtari",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "dhamtari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+          }
+        },
+        {
+          "name": "Sihava Hills",
+          "city": "Dhamtari",
+          "distance": "10 km away",
+          "category": "hills",
+          "slug": "sihava-hills",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+          }
+        },
+        {
+          "name": "Gangrel Dam",
+          "city": "Dhamtari",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "gangrel-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gangrel-dam.webp"
+          }
+        },
+        {
+          "name": "Sondhur Dam",
+          "city": "Dhamtari",
+          "distance": "13 km away",
+          "category": "nature",
+          "slug": "sondhur-dam",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/sondhur-dam.webp"
+          }
+        }
+      ],
+      "id": "rudri-barrage",
+      "heroImage": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+    },
+    {
+      "name": "Kutaghat Dam",
+      "city": "Bilaspur",
+      "category": "nature",
+      "distance": "45 km from Bilaspur",
+      "rating": 4.2,
+      "description": "A scenic dam set amid forested hills offering boating, picnics, and serene sunsets over the reservoir. The surrounding forest attracts a variety of birds, making it a pleasant day-trip destination from Bilaspur.",
+      "history": "Dam on the Arpa River in Bilaspur district.",
+      "famousFor": "Scenic reservoir and picnic spot near Bilaspur",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kutaghat-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kutaghat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Malhar",
+          "city": "Bilaspur",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "malhar",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/malhar.webp"
+          }
+        },
+        {
+          "name": "Madku Dweep",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "madku-dweep",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/madku-dweep.webp"
+          }
+        },
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "14 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "14 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        }
+      ],
+      "id": "kutaghat-dam",
+      "heroImage": "assets/images/states/chhattisgarh/kutaghat.webp"
+    },
+    {
+      "name": "Kanan Pendari Zoo",
+      "city": "Bilaspur",
+      "category": "wildlife",
+      "distance": "5 km from Bilaspur",
+      "rating": 4.1,
+      "description": "One of the popular zoological parks in Chhattisgarh, spread across forested land on the outskirts of Bilaspur, housing tigers, leopards, deer, crocodiles, and various bird species in naturalistic enclosures amid shady woodland.",
+      "history": "Established zoo on the outskirts of Bilaspur city.",
+      "famousFor": "Well-maintained zoo with tigers, leopards, and diverse wildlife",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "kanan-pendari-zoo",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ratanpur",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ratanpur.webp"
+          }
+        },
+        {
+          "name": "Tala",
+          "city": "Bilaspur",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "tala",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/tala.webp"
+          }
+        },
+        {
+          "name": "Achanakmar Wildlife Sanctuary",
+          "city": "Bilaspur",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "achanackmar-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/achanakmar-wildlife-sanctuary.webp"
+          }
+        },
+        {
+          "name": "Mahamaya Temple",
+          "city": "Bilaspur",
+          "distance": "11 km away",
+          "category": "temples",
+          "slug": "mahamaya-temple-ratanpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/mahamaya-temple.webp"
+          }
+        }
+      ],
+      "id": "kanan-pendari-zoo",
+      "heroImage": "assets/images/states/chhattisgarh/kanan-pendari-zoo.webp"
+    },
+    {
+      "name": "Turturiya",
+      "city": "Baloda Bazar",
+      "category": "heritage",
+      "distance": "84 km from Raipur",
+      "rating": 4.3,
+      "description": "An ancient Buddhist and Shaiva pilgrimage site on the Balmer River believed to be the birthplace of Luv, son of Rama. The complex features ancient sculptures, a sacred waterfall, and a 5th-century Valmiki ashram amidst forested tranquility.",
+      "history": "Believed to be the Valmiki Ashram from the Ramayana period where Luv and Kush were born; important archaeological site.",
+      "famousFor": "Ancient Valmiki Ashram site with sacred waterfall and sculpture",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "turturiya",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/turturiya.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "turturiya",
+      "heroImage": "assets/images/states/chhattisgarh/turturiya.webp"
+    },
+    {
+      "name": "Mama Bhanja Temple",
+      "city": "Dantewada",
+      "category": "temples",
+      "distance": "70 km from Jagdalpur",
+      "rating": 4.2,
+      "description": "An ancient temple at Barsoor featuring unique twin-spire architecture representing the uncle–nephew relationship enshrined in legend. The site also contains twin Ganesha temples and remnants of over 147 ancient temples from the Naga dynasty.",
+      "history": "Built by the Naga dynasty, Barsoor was once a prosperous capital city with over 147 temples, now partially excavated.",
+      "famousFor": "Unique twin-spire temple and one of Bastar's richest archaeological sites",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dantewada-barsoor-mama-bhanja-temple",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/mama-bhanja-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dholkal Ganesha",
+          "city": "Dantewada",
+          "distance": "9 km away",
+          "category": "temples",
+          "slug": "dholkal-ganesha",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dholkal-ganesha.webp"
+          }
+        },
+        {
+          "name": "Barsoor",
+          "city": "Dantewada",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "barsoor",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/barsoor.webp"
+          }
+        },
+        {
+          "name": "Danteshwari Temple",
+          "city": "Dantewada",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "danteshwari-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/danteshwari-temple.webp"
+          }
+        }
+      ],
+      "id": "dantewada-barsoor-mama-bhanja-temple",
+      "heroImage": "assets/images/states/chhattisgarh/mama-bhanja-mandir.webp"
+    },
+    {
+      "name": "Shishupal Mountain",
+      "city": "Surguja",
+      "category": "hills",
+      "distance": "60 km from Ambikapur",
+      "rating": 4.3,
+      "description": "A hidden gem for trekking and camping in the Surguja highlands, offering exceptional views over forested valleys and the surrounding plateau. The serene summit away from crowds rewards adventurers with a genuine off-the-beaten-path experience.",
+      "history": "Natural mountain formation in the Surguja district forests.",
+      "famousFor": "Offbeat trekking and camping destination in Surguja",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "shishupal-mountain",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/shishupal-mountain.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "shishupal-mountain",
+      "heroImage": "assets/images/states/chhattisgarh/shishupal-mountain.webp"
+    },
+    {
+      "name": "Pendra Road",
+      "city": "Gaurela-Pendra-Marwahi",
+      "category": "hills",
+      "distance": "160 km from Raipur",
+      "rating": 4.2,
+      "description": "A scenic highland town in the Satpura-Maikal range where misty hilltops, dense forests, and cool temperatures provide a refreshing retreat. The surrounding forests are rich in medicinal plants and tribal culture.",
+      "history": "Hill station town in the newly formed Gaurela-Pendra-Marwahi district of northern Chhattisgarh.",
+      "famousFor": "Cool hill station amid Maikal range forests",
+      "bestTime": "July to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pendra-road",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/pendra-road.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pendra-road",
+      "heroImage": "assets/images/states/chhattisgarh/pendra-road.webp"
+    },
+    {
+      "name": "Naya Raipur Central Park",
+      "city": "Raipur",
+      "category": "nature",
+      "distance": "15 km from Raipur",
+      "rating": 4.1,
+      "description": "One of India's largest urban parks sprawling across the planned city of Naya Raipur, featuring landscaped gardens, cycling tracks, children's zones, and open air amphitheatres. A green oasis in the heart of Chhattisgarh's modern capital.",
+      "history": "Developed as part of the Naya Raipur greenfield capital city project.",
+      "famousFor": "One of India's largest urban parks in a planned smart city",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "naya-raipur-central-park",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rajim",
+          "city": "Raipur",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "rajim",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajim.webp"
+          }
+        },
+        {
+          "name": "Champaran",
+          "city": "Raipur",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "champaran",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/champaran.webp"
+          }
+        },
+        {
+          "name": "Doodhadhari Monastery",
+          "city": "Raipur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "doodhadhari-monastery",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/doodhadhari-monastery.webp"
+          }
+        },
+        {
+          "name": "Ghatarani Waterfalls",
+          "city": "Raipur",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "ghatarani-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/ghatarani-waterfall.webp"
+          }
+        },
+        {
+          "name": "Purkhauti Muktangan",
+          "slug": "purkhauti-muktangan",
+          "id": "purkhauti-muktangan",
+          "image": "assets/images/states/chhattisgarh/purkhauti-muktangan.webp",
+          "bidirectional_verified": true,
+          "distance": "11 km away"
+        }
+      ],
+      "id": "naya-raipur-central-park",
+      "heroImage": "assets/images/states/chhattisgarh/naya-raipur-central-park.webp"
+    },
+    {
+      "name": "Gullu Waterfall",
+      "city": "Jashpur",
+      "category": "waterfalls",
+      "distance": "285 km from Raipur",
+      "rating": 4.3,
+      "description": "A pristine cascade in the highlands of Jashpur district, surrounded by dense green forests and rocky terrain. The waterfall is a favourite for adventurous travellers seeking untouched natural beauty in the state's northern reaches.",
+      "history": "Natural waterfall in the Jashpur district highland forests.",
+      "famousFor": "Pristine highland waterfall in northern Chhattisgarh",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gullu-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/gullu-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gullu-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/gullu-waterfall.webp"
+    },
+    {
+      "name": "Gaurghat Waterfall",
+      "city": "Koriya",
+      "category": "waterfalls",
+      "distance": "245 km from Raipur",
+      "rating": 4.3,
+      "description": "A scenic waterfall tucked in the forests of Koriya district, cascading over stepped rocks into clear pools below. Its remote location in the northern forests of Chhattisgarh ensures a peaceful and uncrowded natural experience.",
+      "history": "Natural waterfall in the Koriya district forests.",
+      "famousFor": "Scenic stepped waterfall in Koriya forests",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gaurghat-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amrit Dhara Waterfall",
+          "city": "Koriya",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "amrit-dhara-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Rajmergarh Hilltop",
+          "city": "Koriya",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "rajmergarh-hilltop",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+          }
+        },
+        {
+          "name": "Guru Ghasidas National Park",
+          "city": "Koriya",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "guru-ghasidas-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+          }
+        },
+        {
+          "name": "Chirmiri",
+          "city": "Koriya",
+          "distance": "13 km away",
+          "category": "hills",
+          "slug": "chirmiri",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+          }
+        }
+      ],
+      "id": "gaurghat-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+    },
+    {
+      "name": "Lankapalli Waterfall",
+      "city": "Jagdalpur",
+      "category": "waterfalls",
+      "distance": "40 km from Jagdalpur",
+      "rating": 4.3,
+      "description": "A serene waterfall in the Bastar forests tumbling through wooded terrain, offering a peaceful escape for nature lovers and trekkers exploring the cascade circuit around Jagdalpur.",
+      "history": "Natural waterfall in Bastar district forests.",
+      "famousFor": "Peaceful forest waterfall in Bastar's cascade circuit",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "lankapalli-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanger Valley National Park",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "kanger-valley-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanger-valley-national-park.webp"
+          }
+        },
+        {
+          "name": "Michnar Hill",
+          "city": "Jagdalpur",
+          "distance": "3 km away",
+          "category": "hills",
+          "slug": "michnar-hill",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/michael-hills.webp"
+          }
+        },
+        {
+          "name": "Chitrakote Waterfall",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "chitrakote-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chitrakote-waterfall.webp"
+          }
+        },
+        {
+          "name": "Anthropological Museum",
+          "city": "Jagdalpur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "anthropological-museum-jagdalpur",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/anthropological-museum.webp"
+          }
+        },
+        {
+          "name": "Bastar Palace",
+          "slug": "bastar-palace",
+          "id": "bastar-palace",
+          "image": "assets/images/states/chhattisgarh/bastar-palace.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Narayanpal Temple",
+          "slug": "narayanpal-temple",
+          "id": "narayanpal-temple",
+          "image": "assets/images/states/chhattisgarh/narayanpal-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away"
+        },
+        {
+          "name": "Tamda Ghumar Waterfall",
+          "slug": "tamda-ghumar-waterfall",
+          "id": "tamda-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/tamra-ghoomar.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Mendri Ghumar Waterfall",
+          "slug": "mendri-ghumar-waterfall",
+          "id": "mendri-ghumar-waterfall",
+          "image": "assets/images/states/chhattisgarh/mendri-ghumar-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away"
+        },
+        {
+          "name": "Chitradhara Falls",
+          "slug": "chitradhara-falls",
+          "id": "chitradhara-falls",
+          "image": "assets/images/states/chhattisgarh/chitradhara-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "7 km away"
+        },
+        {
+          "name": "Dalpat Sagar Lake",
+          "slug": "dalpat-sagar-lake",
+          "id": "dalpat-sagar-lake",
+          "image": "assets/images/states/chhattisgarh/dalpat-sagar-lake.webp",
+          "bidirectional_verified": true,
+          "distance": "12 km away"
+        }
+      ],
+      "id": "lankapalli-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/lankapalli-waterfalls.webp"
+    },
+    {
+      "name": "Devdhara Waterfall",
+      "city": "Gariyaband",
+      "category": "waterfalls",
+      "distance": "95 km from Raipur",
+      "rating": 4.2,
+      "description": "A hidden waterfall in the Gariyaband district forests, gushing over ancient rock formations and surrounded by thick vegetation. Its spiritual name and remote setting make it a meditative destination for those seeking solitude in nature.",
+      "history": "Natural waterfall in the Gariyaband district.",
+      "famousFor": "Peaceful hidden waterfall in Gariyaband forests",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "devdhara-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/devdhara-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "devdhara-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/devdhara-waterfall.webp"
+    },
+    {
+      "name": "Malajkudum Waterfall",
+      "city": "Kanker",
+      "category": "waterfalls",
+      "distance": "145 km from Raipur",
+      "rating": 4.3,
+      "description": "A stunning waterfall near Kanker city tumbling from a significant height through rocky jungle terrain. Surrounded by forest cover and accessible via a scenic drive, it is a refreshing monsoon and post-monsoon destination.",
+      "history": "Natural waterfall in Kanker district near the city.",
+      "famousFor": "Accessible scenic waterfall near Kanker",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "malajkudum-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/malajkudum-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Charre Marre Waterfalls",
+          "city": "Kanker",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "charre-marre-waterfalls",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/charre-marre-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Kanker Palace",
+          "city": "Kanker",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "kanker-palace",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/kanker-palace.webp"
+          }
+        },
+        {
+          "name": "Gadiya Mountain",
+          "city": "Kanker",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "gadiya-mountain",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gadiya-mountain.webp"
+          }
+        }
+      ],
+      "id": "malajkudum-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/malajkudum-waterfall.webp"
+    },
+    {
+      "name": "Amrit Dhara Waterfall",
+      "city": "Koriya",
+      "category": "waterfalls",
+      "distance": "220 km from Raipur",
+      "rating": 4.4,
+      "description": "A striking waterfall on the Hasdeo River where waters cascade over a layered rocky escarpment in the Koriya forests, creating a fine mist and a roaring soundscape. Sacred significance and scenic drama make it a compelling destination.",
+      "history": "Natural waterfall on the Hasdeo River in Koriya district, revered locally.",
+      "famousFor": "Dramatic cascade on the Hasdeo River in Koriya",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "amrit-dhara-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Guru Ghasidas National Park",
+          "city": "Koriya",
+          "distance": "3 km away",
+          "category": "wildlife",
+          "slug": "guru-ghasidas-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+          }
+        },
+        {
+          "name": "Chirmiri",
+          "city": "Koriya",
+          "distance": "5 km away",
+          "category": "hills",
+          "slug": "chirmiri",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+          }
+        },
+        {
+          "name": "Gaurghat Waterfall",
+          "city": "Koriya",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "gaurghat-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/gaurghat-waterfall.webp"
+          }
+        },
+        {
+          "name": "Karki Waterfall",
+          "city": "Koriya",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "karki-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/karki-waterfall.webp"
+          }
+        }
+      ],
+      "id": "amrit-dhara-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+    },
+    {
+      "name": "IST Meridian & Tropic of Cancer Confluence",
+      "city": "Surajpur",
+      "category": "nature",
+      "distance": "200 km from Raipur",
+      "rating": 4.1,
+      "description": "The only location in India where the Indian Standard Time Meridian (82.5°E) and the Tropic of Cancer intersect, making Surajpur a unique geographical landmark. A monument marks this rare convergence of two significant imaginary lines on the globe.",
+      "history": "A unique geographical coincidence in Surajpur district recognized in recent years.",
+      "famousFor": "Only place in India where IST Meridian meets Tropic of Cancer",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ist-meridian-tropic-cancer",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/ist-meridian-tropic-of-cancer.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "ist-meridian-tropic-cancer",
+      "heroImage": "assets/images/states/chhattisgarh/ist-meridian-tropic-of-cancer.webp"
+    },
+    {
+      "name": "Bhuteshwarnath (Maroda) Shivalinga",
+      "city": "Gariyaband",
+      "category": "temples",
+      "distance": "90 km from Raipur",
+      "rating": 4.2,
+      "description": "The world's largest natural Shivalinga, located in Maroda village. It is famous for increasing in height every year.",
+      "history": "Ancient Shaiva temple in Gariyaband district.",
+      "famousFor": "Ancient Shiva temple with forest surroundings",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "bhuteshwarnath-temple-gariyaband",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/bhuteshwarnath.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "bhuteshwarnath-temple-gariyaband",
+      "heroImage": "assets/images/states/chhattisgarh/bhuteshwarnath.webp"
+    },
+    {
+      "name": "Sondhur Dam",
+      "city": "Dhamtari",
+      "category": "nature",
+      "distance": "95 km from Raipur",
+      "rating": 4.2,
+      "description": "A scenic reservoir on the Sondhur River adjacent to the Sitanadi Wildlife Sanctuary, surrounded by dense sal forests. The reservoir and its forest edges offer excellent birdwatching and peaceful boat rides amid pristine natural surroundings.",
+      "history": "Irrigation reservoir in Dhamtari district adjacent to the Sitanadi Wildlife Sanctuary.",
+      "famousFor": "Scenic dam reservoir beside Sitanadi Wildlife Sanctuary",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sondhur-dam",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/sondhur-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bilai Mata Temple",
+          "city": "Dhamtari",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "bilai-mata-temple",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bilai-mata-mandir.webp"
+          }
+        },
+        {
+          "name": "Dhamtari",
+          "city": "Dhamtari",
+          "distance": "12 km away",
+          "category": "cities",
+          "slug": "dhamtari",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/dhamtari.webp"
+          }
+        },
+        {
+          "name": "Rudri Barrage",
+          "city": "Dhamtari",
+          "distance": "13 km away",
+          "category": "nature",
+          "slug": "rudri-barrage",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rudri-barrage.webp"
+          }
+        },
+        {
+          "name": "Sihava Hills",
+          "city": "Dhamtari",
+          "distance": "17 km away",
+          "category": "hills",
+          "slug": "sihava-hills",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/shivam-hills.webp"
+          }
+        }
+      ],
+      "id": "sondhur-dam",
+      "heroImage": "assets/images/states/chhattisgarh/sondhur-dam.webp"
+    },
+    {
+      "name": "Dhamdha Fort",
+      "city": "Durg",
+      "category": "heritage",
+      "distance": "35 km from Durg",
+      "rating": 4.3,
+      "description": "An ancient 14th-century fort featuring a mix of Hindu and Islamic architectural styles. It is famous for its massive gateway and the 'Budha Talab' pond system that once protected the fortress.",
+      "history": "Built during the reign of the local Gond kings and later expanded by the Marathas.",
+      "famousFor": "14th-century fortification and ancient pond system",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "dhamdha-fort",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/dhamdha-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhilai",
+          "city": "Durg",
+          "distance": "17 km away",
+          "category": "cities",
+          "slug": "bhilai",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/bhilai.webp"
+          }
+        }
+      ],
+      "id": "dhamdha-fort",
+      "heroImage": "assets/images/states/chhattisgarh/dhamdha-fort.webp"
+    },
+    {
+      "name": "Karki Waterfall",
+      "city": "Koriya",
+      "category": "waterfalls",
+      "distance": "220 km from Raipur",
+      "rating": 4.5,
+      "description": "A multi-tiered hidden waterfall tucked deep within the Koriya forests. Its pristine white cascades and lack of crowds make it a perfect spot for those seeking raw, untouched nature.",
+      "history": "A natural waterfall on a tributary of the Hasdeo River.",
+      "famousFor": "Multi-tiered cascades and offbeat forest setting",
+      "bestTime": "July to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "karki-waterfall",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/karki-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amrit Dhara Waterfall",
+          "city": "Koriya",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "amrit-dhara-waterfall",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/amriti-dhara-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Rajmergarh Hilltop",
+          "city": "Koriya",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "rajmergarh-hilltop",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/rajmergarh-hill-top.webp"
+          }
+        },
+        {
+          "name": "Guru Ghasidas National Park",
+          "city": "Koriya",
+          "distance": "13 km away",
+          "category": "wildlife",
+          "slug": "guru-ghasidas-national-park",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/guru-ghasidas-national-park.webp"
+          }
+        },
+        {
+          "name": "Chirmiri",
+          "city": "Koriya",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "chirmiri",
+          "images": {
+            "main": "assets/images/states/chhattisgarh/chirmiri.webp"
+          }
+        }
+      ],
+      "id": "karki-waterfall",
+      "heroImage": "assets/images/states/chhattisgarh/karki-waterfall.webp"
+    },
+    {
+      "name": "Semarsot Wildlife Sanctuary",
+      "city": "Balrampur",
+      "category": "wildlife",
+      "distance": "320 km from Raipur",
+      "rating": 4.4,
+      "description": "Located in the northern tip of Chhattisgarh, this sanctuary is a crucial corridor for wildlife. It is home to leopards, sloth bears, and several rare species of birds and plants in its dry deciduous forests.",
+      "history": "Established in 1978 to preserve the biodiversity of the Ambikapur-Balrampur region.",
+      "famousFor": "Leopard sightings and diverse avian population in the northern forests",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "semarsot-wildlife-sanctuary",
+      "state": "Chhattisgarh",
+      "images": {
+        "main": "assets/images/states/chhattisgarh/semarsot-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "semarsot-wildlife-sanctuary",
+      "heroImage": "assets/images/states/chhattisgarh/semarsot-wildlife-sanctuary.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rajasthan", "name": "Rajasthan", "slug": "rajasthan", "type": "state", "capital": "Jaipur", "region": "west",
+  "language": ["Hindi", "Rajasthani"], "bestTimeToVisit": "October to March", "climate": "Semi-arid",
+  "description": "Rajasthan, the Land of Kings, is India's most iconic state for heritage tourism. From magnificent forts and ornate palaces to golden sand dunes and vibrant festivals, Rajasthan offers a royal experience like no other. The state is home to some of India's most impressive architectural marvels and has a rich tradition of art, music, and cuisine.",
+  "heroImage": "", "gallery": [],
+  "stats": { "totalDistricts": 33, "totalPlaces": 60, "avgRating": 4.5, "totalReviews": 120000 },
+  "categories": ["heritage", "nature", "adventure", "food"],
+  "quickFacts": [
+    { "icon": "🏰", "label": "Forts", "value": "30+" },
+    { "icon": "🏛️", "label": "UNESCO Sites", "value": "3" },
+    { "icon": "🐪", "label": "Desert", "value": "Thar Desert" },
+    { "icon": "🎨", "label": "Art Forms", "value": "Block Print, Blue Pottery" }
+  ],
+  "coordinates": { "lat": 27.0238, "lng": 74.2179 },
+  "nearbyStates": ["gujarat", "madhya-pradesh", "uttar-pradesh", "haryana", "punjab"]
+}

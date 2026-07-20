@@ -1,0 +1,20 @@
+{
+  "id": "maheshwar-fort",
+  "name": "Maheshwar Fort",
+  "city": "Maheshwar",
+  "state": "Madhya Pradesh",
+  "description": "An elegant riverfront fort town on the Narmada, Maheshwar is famous for its serene ghats, royal palace, and the exquisite Maheshwari silk handloom industry.",
+  "history": "Was the capital of Queen Ahilyabai Holkar in the 18th century. She was a visionary ruler who built numerous temples and promoted the local weaving tradition.",
+  "famousFor": "Maheshwari Sarees, Ahilyabai Fort, and Narmada Ghats.",
+  "bestTime": "October to March",
+  "timings": "7:00 AM \u2013 7:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Maheshwar-Fort.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Maheshwar-Fort.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Maheshwar-Fort.webp"
+  ],
+  "nearbyPlaces": [
+    "mandu"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "meenakshi-temple",
+  "name": "Meenakshi Temple",
+  "slug": "meenakshi-temple",
+  "stateId": "tamil-nadu",
+  "districtId": "madurai",
+  "category": "temples",
+  "subcategories": [],
+  "description": "One of India most stunning Dravidian temples with 14 gopurams",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.9,
+  "reviewCount": 20000,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to February",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "ooty-botanical",
+    "dhanushkodi"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to Meenakshi Temple"
+  },
+  "tags": [
+    "temples"
+  ],
+  "lastUpdated": "2026-03-15"
+}

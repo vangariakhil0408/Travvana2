@@ -1,0 +1,78 @@
+/* ============================================
+   TRAVVANA — Modern CSS Reset
+   ============================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.6;
+  text-rendering: optimizeSpeed;
+}
+
+ul, ol { list-style: none; }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+input, button, textarea, select {
+  font: inherit;
+  color: inherit;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+button { cursor: pointer; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+  line-height: 1.2;
+}
+
+p { overflow-wrap: break-word; }
+
+:focus-visible {
+  outline: 2px solid var(--clr-accent);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--clr-accent);
+  color: var(--clr-bg-primary);
+}
+
+/* Remove default scrollbar on mobile */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--clr-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--clr-text-muted); }

@@ -1,0 +1,39 @@
+{
+  "id": "barren-island",
+  "name": "Barren Island",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "India's only active volcano rising dramatically from the ocean, an uninhabited island offering a rare geological spectacle visible from boat excursions.",
+  "history": "First recorded eruption in 1787. The volcano has erupted multiple times, most recently in 2017, and remains under seismic monitoring.",
+  "famousFor": "India's only active volcano and deep-sea diving",
+  "bestTime": "January to March",
+  "timings": "Unknown",
+  "entryFee": "Unknown",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/barren-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/barren-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/barren-island.webp"
+  ],
+  "nearbyPlaces": [
+    "north-bay-island",
+    "mundapahad",
+    "mahatma-gandhi-marine-national-park",
+    "saddle-peak",
+    "cellular-jail",
+    "mount-harriet-national-park",
+    "long-island",
+    "samudrika-naval-marine-museum",
+    "aberdeen-bazaar",
+    "chatham-saw-mill",
+    "marina-park",
+    "viper-island",
+    "jolly-buoy-island",
+    "ross-island",
+    "kalipur-beach",
+    "wandoor-beach",
+    "corbyns-cove-beach",
+    "diglipur-town",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

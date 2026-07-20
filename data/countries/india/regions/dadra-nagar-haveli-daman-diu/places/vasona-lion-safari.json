@@ -1,0 +1,23 @@
+{
+  "id": "vasona-lion-safari",
+  "name": "Vasona Lion Safari",
+  "city": "Silvassa",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A dedicated conservation park spreading over 20 hectares where visitors can take a caged van ride to spot majestic Asiatic lions in a natural forest environment.",
+  "history": "Established to conserve the Asiatic lion and serve as a breeding center. The lions here were originally brought from the Gir Forest in Gujarat.",
+  "famousFor": "Asiatic lion sightings and guided van safari.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM (Closed on Mondays)",
+  "entryFee": "\u20b925",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+  ],
+  "nearbyPlaces": [
+    "vanganga-lake-garden",
+    "dudhni-lake",
+    "hirwa-van-garden",
+    "tribal-cultural-museum"
+  ]
+}

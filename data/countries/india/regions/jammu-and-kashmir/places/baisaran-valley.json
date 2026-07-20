@@ -1,0 +1,24 @@
+{
+  "id": "baisaran-valley",
+  "name": "Baisaran Valley (Mini Switzerland)",
+  "city": "Pahalgam",
+  "state": "Jammu and Kashmir",
+  "description": "Widely known as the 'Mini Switzerland of India', this picturesque meadow is surrounded by thick pine forests and stunning snow-clad peaks. It is accessed via a thrilling pony ride.",
+  "history": "A pristine, undeveloped meadow heavily favored by tourists for its striking resemblance to Swiss landscapes.",
+  "famousFor": "Pony rides, zip-lining, panoramic valley views.",
+  "bestTime": "April to June, September to November",
+  "timings": "Open 24/7 (Daylight hours recommended)",
+  "entryFee": "\u20b920 (Pony rides \u20b91000 - \u20b92000)",
+  "image": "./assets/images/states/jammu-and-kashmir/baisaran-valley.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/baisaran-valley.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/baisaran-valley.webp"
+  ],
+  "nearbyPlaces": [
+    "aru-valley",
+    "amarnath-cave",
+    "tulian-lake",
+    "betaab-valley",
+    "chandanwari"
+  ]
+}

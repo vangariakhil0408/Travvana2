@@ -1,0 +1,39 @@
+{
+  "id": "samudrika-naval-marine-museum",
+  "name": "Samudrika Naval Marine Museum",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A comprehensive showcase of the Andaman archipelago's marine biodiversity, tribal heritage, and geological history, maintained by the Indian Navy.",
+  "history": "Established by the Indian Navy to educate visitors about the islands' unique marine ecosystem, tribal cultures, and natural history.",
+  "famousFor": "Marine life exhibits, coral displays, and tribal artifacts",
+  "bestTime": "October to May",
+  "timings": "9:00 AM \u2013 1:00 PM, 2:00 PM \u2013 5:00 PM (Closed on Mondays)",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+  ],
+  "nearbyPlaces": [
+    "saddle-peak",
+    "mundapahad",
+    "north-bay-island",
+    "mount-harriet-national-park",
+    "barren-island",
+    "long-island",
+    "mahatma-gandhi-marine-national-park",
+    "cellular-jail",
+    "viper-island",
+    "aberdeen-bazaar",
+    "marina-park",
+    "jolly-buoy-island",
+    "chatham-saw-mill",
+    "kalipur-beach",
+    "ross-island",
+    "wandoor-beach",
+    "corbyns-cove-beach",
+    "diglipur-town",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

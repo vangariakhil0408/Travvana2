@@ -1,0 +1,23 @@
+{
+  "id": "dudhni-lake",
+  "name": "Dudhni Lake",
+  "city": "Silvassa",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "Known as the 'Kashmir of the West', this massive reservoir of the Madhuban Dam is surrounded by hillocks and offers shikara rides, kayaking, and jet skiing.",
+  "history": "Formed by the backwaters of the Madhuban Dam built across the Daman Ganga River, it has been developed into a premier water sports hub by the tourism department.",
+  "famousFor": "Water sports, shikara rides, and scenic sunset views.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 6:00 PM",
+  "entryFee": "Free (Boating extra)",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+  ],
+  "nearbyPlaces": [
+    "vasona-lion-safari",
+    "tribal-cultural-museum",
+    "vanganga-lake-garden",
+    "hirwa-van-garden"
+  ]
+}

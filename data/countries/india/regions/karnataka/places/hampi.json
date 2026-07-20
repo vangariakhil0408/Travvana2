@@ -1,0 +1,71 @@
+{
+  "id": "hampi",
+  "slug": "hampi",
+  "name": "Hampi",
+  "location": "Karnataka, India",
+  "district": "Vijayanagara",
+  "stateId": "karnataka",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/hampi.webp",
+  "heroImage": "./assets/images/popular/hampi.webp",
+  "gallery": [
+    "./assets/images/popular/hampi.webp"
+  ],
+  "overview": "Experience the beauty of Hampi, a top destination in Karnataka, India.",
+  "description": "Hampi is a UNESCO World Heritage Site situated within the incredible, scattered ruins of the Vijayanagara Empire, showcasing a massive complex of ancient temples and boulders.",
+  "rating": "4.8",
+  "reviewCount": 10408,
+  "popularityScore": 83,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to February",
+  "timings": "6:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jindal Vijaynagar Airport",
+      "distance": "35 km"
+    },
+    "nearestRailway": {
+      "name": "Hospet Junction",
+      "distance": "13 km"
+    },
+    "byRoad": "Frequent direct bus and taxi access from Hospet."
+  },
+  "tags": [
+    "heritage",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3779
+    },
+    {
+      "views": 4822
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "jog-falls",
+    "belur-halebidu-temples"
+  ]
+}

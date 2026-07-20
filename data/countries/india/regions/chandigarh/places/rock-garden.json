@@ -1,0 +1,29 @@
+{
+  "id": "rock-garden",
+  "name": "Rock Garden (Nek Chand's Rock Garden)",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A surreal fantasy world built entirely from urban and industrial waste \u2014 thousands of sculptures made from broken bangles, tiles, and discarded items spread across 40 acres of winding pathways and waterfalls.",
+  "history": "Secretly created by road inspector Nek Chand starting in 1957 using recycled waste. Discovered in 1975 and turned into a public attraction. Now has over 5,000 sculptures.",
+  "famousFor": "World-famous recycled art sculpture garden.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 6:00 PM",
+  "entryFee": "\u20b930",
+  "image": "./assets/images/states/chandigarh/rock-garden.webp",
+  "heroImage": "./assets/images/states/chandigarh/rock-garden.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/rock-garden.webp"
+  ],
+  "nearbyPlaces": [
+    "le-corbusier-centre",
+    "japanese-garden",
+    "govt-museum-art-gallery",
+    "capitol-complex",
+    "terraced-garden",
+    "sukhna-lake",
+    "international-dolls-museum",
+    "garden-of-silence",
+    "rose-garden",
+    "leisure-valley"
+  ]
+}

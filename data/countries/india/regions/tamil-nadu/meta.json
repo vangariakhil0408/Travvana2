@@ -1,0 +1,54 @@
+{
+  "id": "tamil-nadu",
+  "name": "Tamil Nadu",
+  "slug": "tamil-nadu",
+  "type": "state",
+  "capital": "Chennai",
+  "region": "south",
+  "language": [
+    "Tamil"
+  ],
+  "bestTimeToVisit": "November to February",
+  "climate": "Tropical",
+  "description": "Tamil Nadu is a land of magnificent temples, pristine beaches, hill stations, and rich classical culture. From the ancient Dravidian architecture of Madurai to the beaches of Mahabalipuram, it offers a deep cultural immersion.",
+  "heroImage": "",
+  "gallery": [],
+  "stats": {
+    "totalDistricts": 38,
+    "totalPlaces": 55,
+    "avgRating": 4.5,
+    "totalReviews": 90000
+  },
+  "categories": [
+    "temples",
+    "heritage",
+    "beaches",
+    "food"
+  ],
+  "quickFacts": [
+    {
+      "icon": "🛕",
+      "label": "Temples",
+      "value": "33,000+"
+    },
+    {
+      "icon": "🏖️",
+      "label": "Coastline",
+      "value": "1076 km"
+    },
+    {
+      "icon": "🎭",
+      "label": "Art Form",
+      "value": "Bharatanatyam"
+    }
+  ],
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "nearbyStates": [
+    "kerala",
+    "karnataka",
+    "andhra-pradesh"
+  ]
+}

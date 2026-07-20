@@ -1,0 +1,71 @@
+{
+  "id": "statue-of-unity",
+  "slug": "statue-of-unity",
+  "name": "Statue of Unity",
+  "location": "Gujarat, India",
+  "district": "Narmada",
+  "stateId": "gujarat",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/statue-of-unity.webp",
+  "heroImage": "./assets/images/popular/statue-of-unity.webp",
+  "gallery": [
+    "./assets/images/popular/statue-of-unity.webp"
+  ],
+  "overview": "Experience the beauty of Statue of Unity, a top destination in Gujarat, India.",
+  "description": "The Statue of Unity is a colossal 182-metre statue dedicated to Indian statesman Vallabhbhai Patel. It holds the record as the absolute tallest statue in the entire world.",
+  "rating": "4.3",
+  "reviewCount": 22638,
+  "popularityScore": 81,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM (Closed Mondays)",
+  "entryFee": {
+    "indian": "₹150",
+    "foreigner": "₹150"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Vadodara Airport",
+      "distance": "90 km"
+    },
+    "nearestRailway": {
+      "name": "Kevadiya Railway Station",
+      "distance": "5 km"
+    },
+    "byRoad": "Private taxis available commonly from Vadodara."
+  },
+  "tags": [
+    "heritage",
+    "gujarat",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1589
+    },
+    {
+      "views": 4844
+    }
+  ],
+  "nearbyPlaces": [
+    "somnath-temple",
+    "rani-ki-vav",
+    "sun-temple-modhera"
+  ]
+}

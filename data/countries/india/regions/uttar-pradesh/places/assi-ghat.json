@@ -1,0 +1,64 @@
+{
+  "id": "assi-ghat",
+  "slug": "assi-ghat",
+  "name": "Assi Ghat",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The southernmost and culturally richest ghat in Varanasi, where the Assi River meets the Ganges. It is the gathering spot for artists, writers, and musicians \u2014 the living cultural soul of Banaras.",
+  "description": "One of the five ghats in the sacred Panchganga Tirtha. Tulsidas is believed to have lived here. It gained global fame through the writings of Mark Twain.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "kashi-vishwanath",
+    "sarnath",
+    "ramnagar-fort",
+    "tulsi-manas-temple",
+    "bharat-kala-bhavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Assi-ghat.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Assi-ghat.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Assi-ghat.webp"
+  ]
+}

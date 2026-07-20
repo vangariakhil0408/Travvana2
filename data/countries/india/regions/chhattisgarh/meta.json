@@ -1,0 +1,27 @@
+{
+  "id": "chhattisgarh",
+  "name": "Chhattisgarh",
+  "slug": "chhattisgarh",
+  "type": "state",
+  "capital": "Raipur",
+  "region": "central",
+  "language": [],
+  "bestTimeToVisit": "October to March",
+  "climate": "Varies",
+  "description": "Explore the wonders of Chhattisgarh. More destinations coming soon.",
+  "heroImage": "",
+  "gallery": [],
+  "stats": {
+    "totalDistricts": 0,
+    "totalPlaces": 0,
+    "avgRating": 0,
+    "totalReviews": 0
+  },
+  "categories": [],
+  "quickFacts": [],
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "nearbyStates": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kerala",
+  "name": "Kerala",
+  "slug": "kerala",
+  "type": "state",
+  "countryId": "india",
+  "capital": "Thiruvananthapuram",
+  "tagline": "God's Own Country",
+  "description": "A tropical paradise known for its backwaters, beaches, and spice plantations.",
+  "images": {
+    "cover": "./assets/images/states/kerala/cover.webp",
+    "thumbnail": "./assets/images/states/kerala/thumbnail.webp"
+  },
+  "stats": {
+    "totalPlaces": 50,
+    "districtsCount": 14,
+    "topCategories": [
+      "nature",
+      "heritage",
+      "beaches",
+      "wildlife"
+    ]
+  }
+}

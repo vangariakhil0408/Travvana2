@@ -1,0 +1,71 @@
+{
+  "id": "ooty",
+  "slug": "ooty",
+  "name": "Ooty Hill Station",
+  "location": "Tamil Nadu, India",
+  "district": "Nilgiris",
+  "stateId": "tamil-nadu",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/ooty.webp",
+  "heroImage": "./assets/images/popular/ooty.webp",
+  "gallery": [
+    "./assets/images/popular/ooty.webp"
+  ],
+  "overview": "Experience the beauty of Ooty Hill Station, a top destination in Tamil Nadu, India.",
+  "description": "Ooty, the Queen of Hill Stations, features sprawling tea gardens, spectacular waterfalls, and colonial architecture embedded within the Nilgiri Mountains.",
+  "rating": "4.7",
+  "reviewCount": 26560,
+  "popularityScore": 75,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to June",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Coimbatore International Airport",
+      "distance": "88 km"
+    },
+    "nearestRailway": {
+      "name": "Udhagamandalam Railway Station",
+      "distance": "1 km"
+    },
+    "byRoad": "Accessible via scenic winding mountain roads."
+  },
+  "tags": [
+    "nature",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5136
+    },
+    {
+      "views": 4252
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "kanyakumari-sunset",
+    "ramanathaswamy-temple"
+  ]
+}

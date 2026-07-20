@@ -1,0 +1,27 @@
+{
+  "id": "radhanagar-beach",
+  "name": "Radhanagar Beach",
+  "city": "Swaraj Dweep",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A vast stretch of powdery white sand merging into turquoise waters, often ranked among Asia's most beautiful beaches.",
+  "history": "Gained international fame after being ranked among the best beaches by Time magazine.",
+  "famousFor": "Pristine white sand and sunsets",
+  "bestTime": "November to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "vijaynagar-beach",
+    "elephant-beach",
+    "havelock-island-diving",
+    "kalapathar-beach",
+    "natural-bridge",
+    "sitapur-beach",
+    "bharatpur-beach",
+    "laxmanpur-beach"
+  ]
+}

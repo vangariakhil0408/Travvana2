@@ -1,0 +1,71 @@
+{
+  "id": "mehrangarh-fort",
+  "slug": "mehrangarh-fort",
+  "name": "Mehrangarh Fort",
+  "location": "Rajasthan, India",
+  "district": "Jodhpur",
+  "stateId": "rajasthan",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/mehrangarh-fort.webp",
+  "heroImage": "./assets/images/popular/mehrangarh-fort.webp",
+  "gallery": [
+    "./assets/images/popular/mehrangarh-fort.webp"
+  ],
+  "overview": "Experience the beauty of Mehrangarh Fort, a top destination in Rajasthan, India.",
+  "description": "Founded in 1459 by Rao Jodha, Mehrangarh Fort stands atop a rocky hill and is one of the most formidable forts in India.",
+  "rating": "4.6",
+  "reviewCount": 42983,
+  "popularityScore": 32,
+  "priceLevel": 3,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "₹200",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jodhpur / Jaisalmer / Jaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Jodhpur Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "5 km from Jodhpur city center"
+  },
+  "tags": [
+    "heritage",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4490
+    },
+    {
+      "views": 4803
+    }
+  ],
+  "nearbyPlaces": [
+    "amber-fort",
+    "hawa-mahal",
+    "ranthambore-national-park"
+  ]
+}

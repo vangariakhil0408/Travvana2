@@ -1,0 +1,257 @@
+/* ============================================
+   TRAVVANA — Place Detail Redesign Styles
+   Handles responsiveness for the premium detail view
+   ============================================ */
+
+.detail-back-btn-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 20px 16px 20px;
+}
+
+.detail-card {
+  max-width: 1200px;
+  margin: 0 auto 60px auto;
+  background: var(--clr-bg-card);
+  border-radius: 24px;
+  padding: 40px;
+  box-shadow: var(--shadow-xl);
+}
+
+.detail-title {
+  color: var(--clr-text-primary);
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 24px;
+  line-height: 1.2;
+}
+
+.detail-hero-wrap {
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.detail-hero-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  max-height: 650px;
+  object-fit: cover;
+  object-position: center 20%; /* Shift slightly up to prioritize monument peaks */
+  display: block;
+}
+
+.detail-pills {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.detail-pill {
+  background: rgba(255, 123, 0, 0.1);
+  border: 1px solid rgba(255, 123, 0, 0.3);
+  color: #FFB366;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.detail-section-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.detail-section-indicator {
+  width: 4px;
+  height: 18px;
+  background: #FF7B00;
+  border-radius: 4px;
+}
+
+.detail-section-title {
+  color: var(--clr-text-primary);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.detail-text {
+  color: var(--clr-text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  margin-bottom: 32px;
+  max-width: 900px;
+}
+
+.detail-about-card {
+  background: var(--clr-bg-elevated);
+  border: 1px solid var(--clr-border);
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 32px;
+  box-shadow: var(--shadow-sm);
+}
+
+.detail-info-grid {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 48px;
+  flex-wrap: wrap;
+}
+
+.detail-info-card {
+  background: var(--clr-bg-elevated);
+  border: 1px solid var(--clr-border);
+  border-radius: 16px;
+  padding: 20px 24px;
+  min-width: 200px;
+  flex: 1;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.detail-info-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--clr-border-active);
+}
+
+.detail-info-label {
+  color: var(--clr-text-muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.detail-info-value {
+  color: var(--clr-text-primary);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* ── Nearby Places ── */
+.nearby-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+/* ── Media Queries for Mobile ── */
+@media (max-width: 767px) {
+  .detail-back-btn-wrap {
+    padding: var(--sp-4) var(--sp-4) var(--sp-2) var(--sp-4);
+  }
+
+  .detail-card {
+    padding: 24px 20px;
+    border-radius: 0; /* Full width edge-to-edge on mobile feels more premium */
+    margin-bottom: 0;
+  }
+
+  .detail-title {
+    font-size: 1.75rem;
+  }
+
+  .detail-hero-img {
+    max-height: 300px;
+  }
+
+  .detail-pills {
+    gap: 8px;
+    margin-bottom: 32px;
+  }
+
+  .detail-info-card {
+    min-width: 140px;
+    padding: 16px;
+  }
+
+  .nearby-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 cards per row on mobile */
+    gap: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .detail-info-card {
+    flex: 1 1 100%; /* Stack info cards on very small screens */
+  }
+  
+  .nearby-grid {
+    grid-template-columns: repeat(2, 1fr); 
+  }
+}
+
+/* --- Nearby Card Premium Styles & Hover --- */
+.nearby-card-premium {
+  text-decoration: none;
+  display: block;
+  background: var(--clr-bg-card);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  border: 1px solid var(--clr-bg-surface);
+}
+
+.nearby-card-img-wrap {
+  width: 100%;
+  height: 140px;
+  background: var(--clr-bg-tertiary);
+  position: relative;
+  overflow: hidden;
+}
+
+.nearby-card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.6s ease;
+}
+
+.nearby-card-content {
+  padding: 16px;
+}
+
+.nearby-card-title {
+  color: var(--clr-text-primary);
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.3s ease;
+}
+
+.nearby-card-subtitle {
+  color: #FFB366;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* --- Hover Effects --- */
+.nearby-card-premium:hover {
+  transform: translateY(-8px);
+  background: var(--clr-bg-card-hover);
+  border-color: var(--clr-border-active);
+  box-shadow: var(--shadow-xl);
+}
+
+.nearby-card-premium:hover .nearby-card-img-wrap img {
+  transform: scale(1.15);
+}
+
+.nearby-card-premium:hover .nearby-card-title {
+  color: #FF8C00;
+}

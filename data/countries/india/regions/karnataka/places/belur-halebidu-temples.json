@@ -1,0 +1,71 @@
+{
+  "id": "belur-halebidu-temples",
+  "slug": "belur-halebidu-temples",
+  "name": "Belur Halebidu Temples",
+  "location": "Karnataka, India",
+  "district": "Hassan",
+  "stateId": "karnataka",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/belur-halebidu-temples.webp",
+  "heroImage": "./assets/images/popular/belur-halebidu-temples.webp",
+  "gallery": [
+    "./assets/images/popular/belur-halebidu-temples.webp"
+  ],
+  "overview": "Experience the beauty of Belur Halebidu Temples, a top destination in Karnataka, India.",
+  "description": "Built during the 12th century by the Hoysala dynasty, these temples are renowned for their detailed soapstone carvings.",
+  "rating": "4.8",
+  "reviewCount": 48609,
+  "popularityScore": 6,
+  "priceLevel": 3,
+  "bestTimeToVisit": "October to March",
+  "timings": "7:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Hubli / Belgaum Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Hassan Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "40 km from Hassan"
+  },
+  "tags": [
+    "heritage",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2340
+    },
+    {
+      "views": 3309
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "hampi",
+    "jog-falls"
+  ]
+}

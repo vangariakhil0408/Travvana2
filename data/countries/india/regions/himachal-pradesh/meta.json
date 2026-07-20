@@ -1,0 +1,53 @@
+{
+  "id": "himachal-pradesh",
+  "name": "Himachal Pradesh",
+  "slug": "himachal-pradesh",
+  "type": "state",
+  "capital": "Shimla",
+  "region": "north",
+  "language": [
+    "Hindi"
+  ],
+  "bestTimeToVisit": "March to June, September to November",
+  "climate": "Alpine",
+  "description": "Himachal Pradesh, the Land of Gods, is a breathtaking state in the western Himalayas. From snow-capped peaks and lush valleys to ancient temples and adventure sports, it offers an unparalleled mountain experience.",
+  "heroImage": "",
+  "gallery": [],
+  "stats": {
+    "totalDistricts": 12,
+    "totalPlaces": 45,
+    "avgRating": 4.6,
+    "totalReviews": 75000
+  },
+  "categories": [
+    "nature",
+    "adventure",
+    "temples"
+  ],
+  "quickFacts": [
+    {
+      "icon": "🏔️",
+      "label": "Highest Peak",
+      "value": "Reo Purgyil (6,816m)"
+    },
+    {
+      "icon": "🛕",
+      "label": "Temples",
+      "value": "2000+"
+    },
+    {
+      "icon": "🎿",
+      "label": "Ski Resorts",
+      "value": "Solang, Kufri"
+    }
+  ],
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "nearbyStates": [
+    "punjab",
+    "uttarakhand",
+    "jammu-and-kashmir"
+  ]
+}

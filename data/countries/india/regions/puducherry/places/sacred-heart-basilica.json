@@ -1,0 +1,36 @@
+{
+  "id": "sacred-heart-basilica",
+  "name": "Basilica of the Sacred Heart of Jesus",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "A magnificent Gothic architecture church, striking with its bold red and white facade and stunning, incredibly rare stained glass panels depicting the life of Christ.",
+  "history": "Consecrated in 1907. It is the only basilica in Puducherry and a deeply significant pilgrimage center.",
+  "famousFor": "Gothic architecture, stained glass, and peaceful ambiance.",
+  "bestTime": "Year-round",
+  "timings": "6:00 AM \u2013 6:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+  ],
+  "nearbyPlaces": [
+    "immaculate-conception",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "arikamedu",
+    "thirunallar-temple",
+    "notre-dame-des-anges",
+    "puducherry-museum",
+    "promenade-beach",
+    "french-war-memorial",
+    "bharathi-park",
+    "sri-karneshwar-nataraja",
+    "serenity-beach",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "auroville",
+    "ousteri-lake"
+  ]
+}

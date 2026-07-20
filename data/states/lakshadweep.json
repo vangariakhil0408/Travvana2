@@ -1,0 +1,1284 @@
+{
+  "state": "Lakshadweep",
+  "slug": "lakshadweep",
+  "capital": "Kavaratti",
+  "bestTime": "October to May",
+  "language": "Malayalam, Mahl (Minicoy), English",
+  "places": [
+    {
+      "name": "Kavaratti Island",
+      "city": "Kavaratti",
+      "category": "islands",
+      "distance": "Capital island of Lakshadweep",
+      "rating": 4.7,
+      "description": "The administrative capital of Lakshadweep, Kavaratti Island is renowned for its stunning turquoise lagoon, pristine white sand beaches, and vibrant coral reefs. It is the most developed island for tourism with water sports facilities and marine attractions.",
+      "history": "Kavaratti has been the administrative headquarters of the Lakshadweep Union Territory since 1964. The island has a rich Islamic cultural heritage with 52 mosques, the most notable being the Ujra Mosque with its ornate ceiling carved from driftwood.",
+      "famousFor": "Turquoise lagoon, coral reefs, water sports, Ujra Mosque, Marine Aquarium, administrative capital.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "kavaratti-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kavaratti-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kavaratti Lagoon",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "lagoons",
+          "slug": "kavaratti-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Marine Aquarium Kavaratti",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "museums",
+          "slug": "marine-aquarium-kavaratti",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Ujra Mosque",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "ujra-mosque",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Beach",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "kavaratti-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kavaratti-island",
+      "heroImage": "assets/images/states/lakshadweep/kavaratti-island.webp"
+    },
+    {
+      "name": "Kavaratti Lagoon",
+      "city": "Kavaratti",
+      "category": "lagoons",
+      "distance": "On Kavaratti Island",
+      "rating": 4.8,
+      "description": "One of the most beautiful lagoons in Lakshadweep, the Kavaratti Lagoon is a shallow, crystal-clear expanse of turquoise water perfect for swimming, kayaking, and glass-bottom boat rides over coral gardens.",
+      "history": "The lagoon has been integral to island life for centuries, providing a sheltered area for fishing boats. It is now the centrepiece of Kavaratti's tourism infrastructure.",
+      "famousFor": "Crystal-clear turquoise water, glass-bottom boat rides, kayaking, snorkeling, coral viewing.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM (water sports)",
+      "entryFee": "Free (water sport charges apply)",
+      "slug": "kavaratti-lagoon",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kavaratti-lagoon.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kavaratti Island",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "islands",
+          "slug": "kavaratti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Marine Aquarium Kavaratti",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "museums",
+          "slug": "marine-aquarium-kavaratti",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Beach",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "kavaratti-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Water Sports Centre",
+          "slug": "kavaratti-water-sports-centre",
+          "id": "kavaratti-water-sports-centre",
+          "image": "assets/images/states/lakshadweep/kavaratti-water-sports-centre.webp",
+          "bidirectional_verified": true,
+          "distance": "0.2 km away"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kavaratti-lagoon",
+      "heroImage": "assets/images/states/lakshadweep/kavaratti-lagoon.webp"
+    },
+    {
+      "name": "Marine Aquarium Kavaratti",
+      "city": "Kavaratti",
+      "category": "museums",
+      "distance": "On Kavaratti Island",
+      "rating": 4.4,
+      "description": "A well-maintained marine aquarium showcasing the rich marine biodiversity of Lakshadweep waters. It houses live coral species, tropical fish, sea turtles, sharks, and other marine life found in the surrounding reefs.",
+      "history": "Established by the Lakshadweep Department of Science and Technology, the aquarium serves as both a tourist attraction and a marine education centre.",
+      "famousFor": "Live coral displays, tropical fish species, marine education, sea turtle exhibits.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 12:30 PM, 2:00 PM – 4:30 PM (Closed Friday)",
+      "entryFee": "₹10",
+      "slug": "marine-aquarium-kavaratti",
+      "images": {
+        "main": "assets/images/states/lakshadweep/marine-aquarium-kavaratti.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kavaratti Island",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "islands",
+          "slug": "kavaratti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Lagoon",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "lagoons",
+          "slug": "kavaratti-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Ujra Mosque",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "ujra-mosque",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Water Sports Centre",
+          "slug": "kavaratti-water-sports-centre",
+          "id": "kavaratti-water-sports-centre",
+          "image": "assets/images/states/lakshadweep/kavaratti-water-sports-centre.webp",
+          "bidirectional_verified": true,
+          "distance": "1 km away"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "marine-aquarium-kavaratti",
+      "heroImage": "assets/images/states/lakshadweep/marine-aquarium-kavaratti.webp"
+    },
+    {
+      "name": "Ujra Mosque",
+      "city": "Kavaratti",
+      "category": "heritage",
+      "distance": "On Kavaratti Island",
+      "rating": 4.3,
+      "description": "The most architecturally significant mosque in Lakshadweep, Ujra Mosque features an intricately carved driftwood ceiling that is considered a masterpiece of island craftsmanship. It is one of 52 mosques on Kavaratti Island.",
+      "history": "Built centuries ago, the mosque's ceiling was carved by master craftsmen from driftwood collected from the sea. It reflects the deep Islamic heritage of Lakshadweep's predominantly Muslim population.",
+      "famousFor": "Driftwood ceiling craftsmanship, Islamic heritage, island architecture.",
+      "bestTime": "October to May",
+      "timings": "Open during non-prayer hours",
+      "entryFee": "Free",
+      "slug": "ujra-mosque",
+      "images": {
+        "main": "assets/images/states/lakshadweep/ujra-mosque.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kavaratti Island",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "islands",
+          "slug": "kavaratti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Marine Aquarium Kavaratti",
+          "city": "Kavaratti",
+          "distance": "0.5 km away",
+          "category": "museums",
+          "slug": "marine-aquarium-kavaratti",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "ujra-mosque",
+      "heroImage": "assets/images/states/lakshadweep/ujra-mosque.webp"
+    },
+    {
+      "name": "Agatti Island",
+      "city": "Agatti",
+      "category": "islands",
+      "distance": "459 km from Kochi (by air)",
+      "rating": 4.8,
+      "description": "Agatti is the gateway to Lakshadweep, home to the only airport in the archipelago. The island is surrounded by a spectacular coral reef lagoon and is known for its stunning beaches, diving spots, and laid-back charm.",
+      "history": "Agatti has served as the aerial gateway to Lakshadweep since the construction of its airport. The island's coral reef is one of the most pristine in the Indian Ocean.",
+      "famousFor": "Lakshadweep airport, coral reef lagoon, scuba diving, snorkeling, beach tourism.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "agatti-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/agatti-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agatti Beach",
+          "city": "Agatti",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "agatti-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Lagoon",
+          "city": "Agatti",
+          "distance": "0.5 km away",
+          "category": "lagoons",
+          "slug": "agatti-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Bangaram Island",
+          "city": "Bangaram",
+          "distance": "8 km away (by boat)",
+          "category": "islands",
+          "slug": "bangaram-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Thinnakara Island",
+          "city": "Agatti",
+          "distance": "10 km away (by boat)",
+          "category": "islands",
+          "slug": "thinnakara-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Scuba Diving Zone",
+          "slug": "agatti-scuba-diving-zone",
+          "id": "agatti-scuba-diving-zone",
+          "image": "assets/images/states/lakshadweep/agatti-scuba-diving-zone.webp",
+          "bidirectional_verified": true,
+          "distance": "0.5 km away"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "agatti-island",
+      "heroImage": "assets/images/states/lakshadweep/agatti-island.webp"
+    },
+    {
+      "name": "Bangaram Island",
+      "city": "Bangaram",
+      "category": "islands",
+      "distance": "8 km from Agatti (by boat)",
+      "rating": 4.9,
+      "description": "An uninhabited teardrop-shaped coral island, Bangaram is often called the jewel of Lakshadweep. Surrounded by a vast turquoise lagoon and pristine coral reefs, it offers an exclusive, Robinson Crusoe-style beach experience with a premium resort.",
+      "history": "Bangaram was the first island in Lakshadweep opened to foreign tourists. The island resort was developed by the CGH Earth group and has become one of India's most exclusive beach destinations.",
+      "famousFor": "Exclusive island resort, pristine lagoon, scuba diving, game fishing, uninhabited island experience.",
+      "bestTime": "October to May",
+      "timings": "Open all day (resort guests only)",
+      "entryFee": "Resort booking required",
+      "slug": "bangaram-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/bangaram-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bangaram Lagoon",
+          "city": "Bangaram",
+          "distance": "0.2 km away",
+          "category": "lagoons",
+          "slug": "bangaram-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Thinnakara Island",
+          "city": "Agatti",
+          "distance": "2 km away (by boat)",
+          "category": "islands",
+          "slug": "thinnakara-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Island",
+          "city": "Agatti",
+          "distance": "8 km away (by boat)",
+          "category": "islands",
+          "slug": "agatti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Parali Island",
+          "city": "Bangaram",
+          "distance": "1 km away (by boat)",
+          "category": "islands",
+          "slug": "parali-island",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "bangaram-island",
+      "heroImage": "assets/images/states/lakshadweep/bangaram-island.webp"
+    },
+    {
+      "name": "Bangaram Lagoon",
+      "city": "Bangaram",
+      "category": "lagoons",
+      "distance": "On Bangaram Island",
+      "rating": 4.9,
+      "description": "The lagoon surrounding Bangaram Island is arguably the most beautiful in Lakshadweep — a vast expanse of impossibly clear turquoise water with visibility exceeding 30 metres, teeming with coral formations and marine life.",
+      "history": "The Bangaram atoll lagoon encompasses Bangaram, Thinnakara, Parali, and Tinnakara islands. It has been a protected marine zone and is considered one of the finest lagoons in the Indian Ocean.",
+      "famousFor": "Crystal-clear water, world-class diving, coral reef ecosystem, manta rays, sea turtles.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "bangaram-lagoon",
+      "images": {
+        "main": "assets/images/states/lakshadweep/bangaram-lagoon.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bangaram Island",
+          "city": "Bangaram",
+          "distance": "0.2 km away",
+          "category": "islands",
+          "slug": "bangaram-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Thinnakara Island",
+          "city": "Agatti",
+          "distance": "2 km away (by boat)",
+          "category": "islands",
+          "slug": "thinnakara-island",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "bangaram-lagoon",
+      "heroImage": "assets/images/states/lakshadweep/bangaram-lagoon.webp"
+    },
+    {
+      "name": "Thinnakara Island",
+      "city": "Agatti",
+      "category": "islands",
+      "distance": "2 km from Bangaram (by boat)",
+      "rating": 4.8,
+      "description": "A tiny uninhabited island in the Bangaram atoll offering an ultra-exclusive beach camping experience. With its sandbar, turquoise waters, and utter solitude, it is considered one of the most pristine islands in India.",
+      "history": "Part of the Bangaram atoll group, Thinnakara has been developed for eco-tourism with basic tent accommodations, offering a back-to-nature island experience.",
+      "famousFor": "Island camping, sandbar, pristine beaches, solitude, snorkeling, stargazing.",
+      "bestTime": "October to May",
+      "timings": "Open all day (camp booking required)",
+      "entryFee": "Camp booking required",
+      "slug": "thinnakara-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/thinnakara-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bangaram Island",
+          "city": "Bangaram",
+          "distance": "2 km away (by boat)",
+          "category": "islands",
+          "slug": "bangaram-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Bangaram Lagoon",
+          "city": "Bangaram",
+          "distance": "2 km away (by boat)",
+          "category": "lagoons",
+          "slug": "bangaram-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Island",
+          "city": "Agatti",
+          "distance": "10 km away (by boat)",
+          "category": "islands",
+          "slug": "agatti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Parali Island",
+          "city": "Bangaram",
+          "distance": "1.5 km away (by boat)",
+          "category": "islands",
+          "slug": "parali-island",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "thinnakara-island",
+      "heroImage": "assets/images/states/lakshadweep/thinnakara-island.webp"
+    },
+    {
+      "name": "Parali Island",
+      "city": "Bangaram",
+      "category": "islands",
+      "distance": "1 km from Bangaram (by boat)",
+      "rating": 4.5,
+      "description": "A tiny uninhabited islet in the Bangaram atoll, Parali is a sandbank island that appears and disappears with the tides. It offers a surreal, ethereal beach experience for visitors from Bangaram.",
+      "history": "Parali has been part of the Bangaram atoll ecosystem and is visited by tourists from Bangaram and Thinnakara for its unique tidal sandbank phenomenon.",
+      "famousFor": "Tidal sandbank, uninhabited islet, unique geology, snorkeling, photography.",
+      "bestTime": "October to May",
+      "timings": "Open all day (accessible by boat from Bangaram)",
+      "entryFee": "Free",
+      "slug": "parali-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/parali-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bangaram Island",
+          "city": "Bangaram",
+          "distance": "1 km away (by boat)",
+          "category": "islands",
+          "slug": "bangaram-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Thinnakara Island",
+          "city": "Agatti",
+          "distance": "1.5 km away (by boat)",
+          "category": "islands",
+          "slug": "thinnakara-island",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "parali-island",
+      "heroImage": "assets/images/states/lakshadweep/parali-island.webp"
+    },
+    {
+      "name": "Minicoy Island",
+      "city": "Minicoy",
+      "category": "islands",
+      "distance": "398 km from Kochi (by ship)",
+      "rating": 4.8,
+      "description": "The southernmost and second-largest island of Lakshadweep, Minicoy is culturally distinct with its Maldivian (Mahl) heritage. The island features a towering lighthouse, stunning lagoon, and vibrant tuna fishing culture.",
+      "history": "Minicoy (locally Maliku) has deep cultural connections to the Maldives. The 1885 British-built lighthouse is one of the oldest in Lakshadweep. The island is famous for its traditional boat-building and tuna processing industries.",
+      "famousFor": "Minicoy Lighthouse, Mahl culture, tuna fishing, vast lagoon, traditional boat-building, Lava dance.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "minicoy-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/minicoy-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Minicoy Lighthouse",
+          "city": "Minicoy",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "minicoy-lighthouse",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Lagoon",
+          "city": "Minicoy",
+          "distance": "0.5 km away",
+          "category": "lagoons",
+          "slug": "minicoy-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Beach",
+          "city": "Minicoy",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "minicoy-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "minicoy-island",
+      "heroImage": "assets/images/states/lakshadweep/minicoy-island.webp"
+    },
+    {
+      "name": "Minicoy Lighthouse",
+      "city": "Minicoy",
+      "category": "heritage",
+      "distance": "On Minicoy Island",
+      "rating": 4.6,
+      "description": "A 300-foot tall lighthouse built in 1885, one of the tallest and oldest lighthouses in Lakshadweep. Visitors can climb to the top for breathtaking panoramic views of the island, lagoon, and the vast Indian Ocean.",
+      "history": "Built by the British in 1885 to guide ships navigating the Nine Degree Channel between Minicoy and the Maldives. The lighthouse remains operational and is maintained by the Directorate of Lighthouses and Lightships.",
+      "famousFor": "Panoramic ocean views, colonial-era lighthouse, photography, island landmark.",
+      "bestTime": "October to May",
+      "timings": "10:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "minicoy-lighthouse",
+      "images": {
+        "main": "assets/images/states/lakshadweep/minicoy-lighthouse.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Minicoy Island",
+          "city": "Minicoy",
+          "distance": "1 km away",
+          "category": "islands",
+          "slug": "minicoy-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Lagoon",
+          "city": "Minicoy",
+          "distance": "1.5 km away",
+          "category": "lagoons",
+          "slug": "minicoy-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Beach",
+          "city": "Minicoy",
+          "distance": "1 km away",
+          "category": "beaches",
+          "slug": "minicoy-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "minicoy-lighthouse",
+      "heroImage": "assets/images/states/lakshadweep/minicoy-lighthouse.webp"
+    },
+    {
+      "name": "Minicoy Lagoon",
+      "city": "Minicoy",
+      "category": "lagoons",
+      "distance": "On Minicoy Island",
+      "rating": 4.8,
+      "description": "The largest lagoon in Lakshadweep, stretching along the western coast of Minicoy Island. Its vast shallow turquoise waters and rich coral reef make it one of the finest lagoons in the Indian Ocean.",
+      "history": "The lagoon has sustained Minicoy's fishing community for centuries and is the primary area for the island's famous tuna fishing industry.",
+      "famousFor": "Largest lagoon in Lakshadweep, tuna fishing, kayaking, snorkeling, turquoise waters.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "minicoy-lagoon",
+      "images": {
+        "main": "assets/images/states/lakshadweep/minicoy-lagoon.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Minicoy Island",
+          "city": "Minicoy",
+          "distance": "0.5 km away",
+          "category": "islands",
+          "slug": "minicoy-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Lighthouse",
+          "city": "Minicoy",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "minicoy-lighthouse",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Minicoy Beach",
+          "city": "Minicoy",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "minicoy-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "minicoy-lagoon",
+      "heroImage": "assets/images/states/lakshadweep/minicoy-lagoon.webp"
+    },
+    {
+      "name": "Kadmat Island",
+      "city": "Kadmat",
+      "category": "islands",
+      "distance": "407 km from Kochi (by ship)",
+      "rating": 4.7,
+      "description": "A long, narrow coral island famous for its vast lagoon, white sand beaches on both sides, and excellent diving opportunities. Kadmat is one of the most popular tourist islands in Lakshadweep with a SCUBA diving centre.",
+      "history": "Kadmat has been developed as a major water sports destination by the Lakshadweep administration. The island's dual lagoons on east and west make it geographically unique.",
+      "famousFor": "Dual lagoons, scuba diving centre, white sand beaches, water sports, kayaking.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "kadmat-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kadmat-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kadmat Lagoon",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "lagoons",
+          "slug": "kadmat-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Beach",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "beaches",
+          "slug": "kadmat-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Water Sports Centre",
+          "slug": "kadmat-water-sports-centre",
+          "id": "kadmat-water-sports-centre",
+          "image": "assets/images/states/lakshadweep/kadmat-water-sports-centre.webp",
+          "bidirectional_verified": true,
+          "distance": "0.3 km away"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kadmat-island",
+      "heroImage": "assets/images/states/lakshadweep/kadmat-island.webp"
+    },
+    {
+      "name": "Kadmat Lagoon",
+      "city": "Kadmat",
+      "category": "lagoons",
+      "distance": "On Kadmat Island",
+      "rating": 4.7,
+      "description": "A stunning twin-lagoon system flanking both sides of Kadmat Island. The western lagoon is vast and shallow, perfect for swimming and kayaking, while the eastern side offers deeper waters for diving.",
+      "history": "The dual-lagoon structure of Kadmat is geologically unique among Lakshadweep islands and has been a focal point for marine tourism development.",
+      "famousFor": "Dual-sided lagoon, kayaking, swimming, coral reef viewing, exceptional clarity.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kadmat-lagoon",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kadmat-lagoon.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kadmat Island",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "islands",
+          "slug": "kadmat-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Beach",
+          "city": "Kadmat",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "kadmat-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Water Sports Centre",
+          "slug": "kadmat-water-sports-centre",
+          "id": "kadmat-water-sports-centre",
+          "image": "assets/images/states/lakshadweep/kadmat-water-sports-centre.webp",
+          "bidirectional_verified": true,
+          "distance": "0.3 km away"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kadmat-lagoon",
+      "heroImage": "assets/images/states/lakshadweep/kadmat-lagoon.webp"
+    },
+    {
+      "name": "Kalpeni Island",
+      "city": "Kalpeni",
+      "category": "islands",
+      "distance": "287 km from Kochi (by ship)",
+      "rating": 4.6,
+      "description": "A group of three islets (Kalpeni, Tilakkam, and Pitti), Kalpeni is famous for the enormous storm-deposited coral debris on its southeastern shore and its sheltered lagoon popular for water sports.",
+      "history": "Kalpeni was severely affected by a storm in 1847 that threw up massive coral boulders on the shore, creating a unique geological landscape. The island is one of the most populated in Lakshadweep.",
+      "famousFor": "Coral debris landscape, sheltered lagoon, water sports, Tilakkam sandbank, island hopping.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "kalpeni-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kalpeni-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalpeni Lagoon",
+          "city": "Kalpeni",
+          "distance": "0.5 km away",
+          "category": "lagoons",
+          "slug": "kalpeni-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kalpeni Beach",
+          "city": "Kalpeni",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "kalpeni-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Tilakkam Sandbank",
+          "city": "Kalpeni",
+          "distance": "1 km away (by boat)",
+          "category": "beaches",
+          "slug": "tilakkam-sandbank",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Cheriyam Island",
+          "slug": "cheriyam-island",
+          "id": "cheriyam-island",
+          "image": "assets/images/states/lakshadweep/cheriyam-island.webp",
+          "bidirectional_verified": true,
+          "distance": "1 km away (by boat)"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kalpeni-island",
+      "heroImage": "assets/images/states/lakshadweep/kalpeni-island.webp"
+    },
+    {
+      "name": "Kalpeni Lagoon",
+      "city": "Kalpeni",
+      "category": "lagoons",
+      "distance": "On Kalpeni Island",
+      "rating": 4.6,
+      "description": "A wide, sheltered lagoon on the western side of Kalpeni Island, offering calm waters ideal for kayaking, sailing, and swimming. The lagoon connects to the Tilakkam sandbank.",
+      "history": "The lagoon has been the traditional fishing ground for Kalpeni islanders and is now developed for tourist water sports activities.",
+      "famousFor": "Kayaking, sailing, swimming, calm sheltered waters, connection to Tilakkam.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kalpeni-lagoon",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kalpeni-lagoon.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalpeni Island",
+          "city": "Kalpeni",
+          "distance": "0.5 km away",
+          "category": "islands",
+          "slug": "kalpeni-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Tilakkam Sandbank",
+          "city": "Kalpeni",
+          "distance": "1 km away (by boat)",
+          "category": "beaches",
+          "slug": "tilakkam-sandbank",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kalpeni Beach",
+          "city": "Kalpeni",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "kalpeni-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Cheriyam Island",
+          "slug": "cheriyam-island",
+          "id": "cheriyam-island",
+          "image": "assets/images/states/lakshadweep/cheriyam-island.webp",
+          "bidirectional_verified": true,
+          "distance": "1.5 km away (by boat)"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kalpeni-lagoon",
+      "heroImage": "assets/images/states/lakshadweep/kalpeni-lagoon.webp"
+    },
+    {
+      "name": "Tilakkam Sandbank",
+      "city": "Kalpeni",
+      "category": "beaches",
+      "distance": "1 km from Kalpeni (by boat)",
+      "rating": 4.6,
+      "description": "A stunning sand islet adjacent to Kalpeni Island, accessible by wading or a short boat ride. Tilakkam offers a secluded, uninhabited beach experience surrounded by the vast Kalpeni lagoon.",
+      "history": "Part of the Kalpeni atoll group, Tilakkam has been a picnic destination for islanders and is now included in the Kalpeni tourism circuit.",
+      "famousFor": "Secluded sandbank, uninhabited islet, lagoon views, snorkeling, picnic spot.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "tilakkam-sandbank",
+      "images": {
+        "main": "assets/images/states/lakshadweep/tilakkam-sandbank.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalpeni Island",
+          "city": "Kalpeni",
+          "distance": "1 km away (by boat)",
+          "category": "islands",
+          "slug": "kalpeni-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kalpeni Lagoon",
+          "city": "Kalpeni",
+          "distance": "1 km away (by boat)",
+          "category": "lagoons",
+          "slug": "kalpeni-lagoon",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "tilakkam-sandbank",
+      "heroImage": "assets/images/states/lakshadweep/tilakkam-sandbank.webp"
+    },
+    {
+      "name": "Andrott Island",
+      "city": "Andrott",
+      "category": "islands",
+      "distance": "293 km from Kochi (by ship)",
+      "rating": 4.4,
+      "description": "The largest island in Lakshadweep by area, Andrott has no lagoon but features a rich cultural heritage with some of the oldest mosques in the archipelago and a strong tradition of boat-building.",
+      "history": "Andrott is believed to be one of the earliest inhabited islands in Lakshadweep. It houses the Jumma Masjid, believed to be the first mosque built in the Indian subcontinent by Malik Ibn Dinar's followers.",
+      "famousFor": "Largest island, ancient Jumma Masjid, cultural heritage, boat-building tradition, Islamic history.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "andrott-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/andrott-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Andrott Beach",
+          "city": "Andrott",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "andrott-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "andrott-island",
+      "heroImage": "assets/images/states/lakshadweep/andrott-island.webp"
+    },
+    {
+      "name": "Amini Island",
+      "city": "Amini",
+      "category": "islands",
+      "distance": "414 km from Kochi (by ship)",
+      "rating": 4.3,
+      "description": "Known as the island of master craft-workers, Amini is famous for its traditional coir industry and coconut handicrafts. The island has a small lagoon and a peaceful, less-touristed atmosphere.",
+      "history": "Amini has been renowned for its skilled craftsmen who produce some of the finest coir products in India. The island maintains a strong tradition of traditional crafts.",
+      "famousFor": "Coir craftsmanship, coconut products, traditional handicrafts, peaceful island life.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "amini-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/amini-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "amini-island",
+      "heroImage": "assets/images/states/lakshadweep/amini-island.webp"
+    },
+    {
+      "name": "Chetlat Island",
+      "city": "Chetlat",
+      "category": "islands",
+      "distance": "424 km from Kochi (by ship)",
+      "rating": 4.3,
+      "description": "The northernmost inhabited island in Lakshadweep, Chetlat is a small, pristine island known for its turtle nesting beaches and a large lagoon rich in coral formations.",
+      "history": "Chetlat is home to one of the smallest populations in Lakshadweep and is known for its sea turtle conservation efforts and undisturbed marine ecosystem.",
+      "famousFor": "Sea turtle nesting, coral lagoon, northernmost island, pristine beaches, turtle conservation.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "chetlat-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/chetlat-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "chetlat-island",
+      "heroImage": "assets/images/states/lakshadweep/chetlat-island.webp"
+    },
+    {
+      "name": "Kiltan Island",
+      "city": "Kiltan",
+      "category": "islands",
+      "distance": "432 km from Kochi (by ship)",
+      "rating": 4.2,
+      "description": "A small, densely populated island known for being the first smoke-free and litter-free island in India. Kiltan has a reputation for cleanliness and community-driven environmental management.",
+      "history": "Kiltan achieved national recognition as India's first smoke-free island. The island community has been proactive in environmental conservation and waste management.",
+      "famousFor": "India's first smoke-free island, community cleanliness, traditional island life, eco-consciousness.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Entry permit required",
+      "slug": "kiltan-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kiltan-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "kiltan-island",
+      "heroImage": "assets/images/states/lakshadweep/kiltan-island.webp"
+    },
+    {
+      "name": "Bitra Island",
+      "city": "Bitra",
+      "category": "islands",
+      "distance": "483 km from Kochi (by ship)",
+      "rating": 4.2,
+      "description": "The smallest inhabited island in Lakshadweep with a population of under 300 people. Bitra is surrounded by a massive lagoon — one of the largest in the archipelago — rich in coral and marine life.",
+      "history": "Bitra is the least populated island in Lakshadweep and is known for its traditional tuna pole-and-line fishing industry. Its enormous lagoon supports rich biodiversity.",
+      "famousFor": "Smallest inhabited island, massive lagoon, tuna fishing, extreme remoteness, marine biodiversity.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Special permit required",
+      "slug": "bitra-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/bitra-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "bitra-island",
+      "heroImage": "assets/images/states/lakshadweep/bitra-island.webp"
+    },
+    {
+      "name": "Pitti Bird Sanctuary",
+      "city": "Pitti",
+      "category": "wildlife",
+      "distance": "310 km from Kochi",
+      "rating": 4.5,
+      "description": "An uninhabited islet designated as a bird sanctuary, Pitti is a vital nesting ground for thousands of tern species including the sooty tern, brown noddy, and greater crested tern. It is one of India's most important seabird habitats.",
+      "history": "Designated as an Important Bird Area (IBA) by BirdLife International, Pitti has been a protected bird sanctuary since 1995. Access is restricted to researchers and wildlife officials.",
+      "famousFor": "Seabird nesting colony, tern species, IBA designation, marine bird conservation.",
+      "bestTime": "December to May (nesting season)",
+      "timings": "Restricted access (research permits only)",
+      "entryFee": "Research permit required",
+      "slug": "pitti-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/lakshadweep/pitti-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "pitti-bird-sanctuary",
+      "heroImage": "assets/images/states/lakshadweep/pitti-bird-sanctuary.webp"
+    },
+    {
+      "name": "Suheli Par",
+      "city": "Suheli",
+      "category": "islands",
+      "distance": "350 km from Kochi",
+      "rating": 4.5,
+      "description": "An uninhabited atoll with one of the most pristine coral reef ecosystems in Lakshadweep. Suheli Par consists of small islets and a vast lagoon teeming with marine life, offering exceptional diving opportunities.",
+      "history": "Suheli Par has been identified as a critical marine biodiversity zone. The atoll's isolation has preserved its reef system in near-pristine condition.",
+      "famousFor": "Pristine coral reef, uninhabited atoll, world-class diving, marine biodiversity, crystal-clear lagoon.",
+      "bestTime": "October to May",
+      "timings": "Open all day (special permission required)",
+      "entryFee": "Special permit required",
+      "slug": "suheli-par",
+      "images": {
+        "main": "assets/images/states/lakshadweep/suheli-par.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Lakshadweep",
+      "id": "suheli-par",
+      "heroImage": "assets/images/states/lakshadweep/suheli-par.webp"
+    },
+    {
+      "name": "Cheriyam Island",
+      "city": "Cheriyam",
+      "category": "islands",
+      "distance": "1 km from Kalpeni",
+      "rating": 4.2,
+      "description": "A tiny uninhabited islet in the Kalpeni atoll group. Cheriyam is covered in dense vegetation and is accessible by a short boat ride from Kalpeni, offering a secluded island excursion.",
+      "history": "Part of the Kalpeni atoll administrative unit, Cheriyam has been used as a coconut plantation island and is now part of the local tourism circuit.",
+      "famousFor": "Uninhabited islet, secluded escape, coconut groves, short boat trip from Kalpeni.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "cheriyam-island",
+      "images": {
+        "main": "assets/images/states/lakshadweep/cheriyam-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalpeni Island",
+          "city": "Kalpeni",
+          "distance": "1 km away (by boat)",
+          "category": "islands",
+          "slug": "kalpeni-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kalpeni Lagoon",
+          "city": "Kalpeni",
+          "distance": "1.5 km away (by boat)",
+          "category": "lagoons",
+          "slug": "kalpeni-lagoon",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "cheriyam-island",
+      "heroImage": "assets/images/states/lakshadweep/cheriyam-island.webp"
+    },
+    {
+      "name": "Kavaratti Water Sports Centre",
+      "city": "Kavaratti",
+      "category": "water-sports",
+      "distance": "On Kavaratti Island",
+      "rating": 4.5,
+      "description": "The official government water sports centre on Kavaratti Island offering scuba diving, snorkeling, kayaking, glass-bottom boat rides, sailing, windsurfing, and para-sailing in the island's lagoon.",
+      "history": "Established by the Lakshadweep Administration's Sports and Youth Affairs Department to promote marine tourism on the capital island.",
+      "famousFor": "Scuba diving, snorkeling, kayaking, glass-bottom boats, windsurfing, para-sailing.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Activity-based charges",
+      "slug": "kavaratti-water-sports-centre",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kavaratti-water-sports-centre.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kavaratti Lagoon",
+          "city": "Kavaratti",
+          "distance": "0.2 km away",
+          "category": "lagoons",
+          "slug": "kavaratti-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kavaratti Beach",
+          "city": "Kavaratti",
+          "distance": "0.3 km away",
+          "category": "beaches",
+          "slug": "kavaratti-beach",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Marine Aquarium Kavaratti",
+          "city": "Kavaratti",
+          "distance": "1 km away",
+          "category": "museums",
+          "slug": "marine-aquarium-kavaratti",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kavaratti-water-sports-centre",
+      "heroImage": "assets/images/states/lakshadweep/kavaratti-water-sports-centre.webp"
+    },
+    {
+      "name": "Kadmat Water Sports Centre",
+      "city": "Kadmat",
+      "category": "water-sports",
+      "distance": "On Kadmat Island",
+      "rating": 4.6,
+      "description": "A government-approved PADI-certified scuba diving centre on Kadmat Island, offering diving courses, fun dives, snorkeling trips, and other water sports in one of Lakshadweep's best reef systems.",
+      "history": "Developed as a certified diving centre to promote Kadmat as a premier scuba diving destination in India, attracting both beginners and experienced divers.",
+      "famousFor": "PADI-certified diving, reef diving, snorkeling, beginner dive courses, coral reef exploration.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Activity-based charges",
+      "slug": "kadmat-water-sports-centre",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kadmat-water-sports-centre.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kadmat Island",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "islands",
+          "slug": "kadmat-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Lagoon",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "lagoons",
+          "slug": "kadmat-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Kadmat Beach",
+          "city": "Kadmat",
+          "distance": "0.3 km away",
+          "category": "beaches",
+          "slug": "kadmat-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "kadmat-water-sports-centre",
+      "heroImage": "assets/images/states/lakshadweep/kadmat-water-sports-centre.webp"
+    },
+    {
+      "name": "Agatti Scuba Diving Zone",
+      "city": "Agatti",
+      "category": "water-sports",
+      "distance": "On Agatti Island",
+      "rating": 4.7,
+      "description": "The coral reef surrounding Agatti Island offers some of the best scuba diving in India. The designated diving zones feature wall dives, coral gardens, and encounters with sharks, rays, and sea turtles.",
+      "history": "Agatti's reef has been recognized as one of the healthiest in the Indian Ocean. The diving zone was officially designated by the Lakshadweep Administration for regulated diving tourism.",
+      "famousFor": "Wall dives, coral gardens, shark sightings, manta rays, sea turtles, crystal visibility.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "Dive charges apply",
+      "slug": "agatti-scuba-diving-zone",
+      "images": {
+        "main": "assets/images/states/lakshadweep/agatti-scuba-diving-zone.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Agatti Island",
+          "city": "Agatti",
+          "distance": "0.5 km away",
+          "category": "islands",
+          "slug": "agatti-island",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Lagoon",
+          "city": "Agatti",
+          "distance": "0.5 km away",
+          "category": "lagoons",
+          "slug": "agatti-lagoon",
+          "state": "Lakshadweep"
+        },
+        {
+          "name": "Agatti Beach",
+          "city": "Agatti",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "agatti-beach",
+          "state": "Lakshadweep"
+        }
+      ],
+      "state": "Lakshadweep",
+      "id": "agatti-scuba-diving-zone",
+      "heroImage": "assets/images/states/lakshadweep/agatti-scuba-diving-zone.webp"
+    },
+    {
+      "id": "kavaratti-beach",
+      "name": "Kavaratti Beach",
+      "city": "Kavaratti",
+      "image": "assets/images/states/lakshadweep/kavaratti-beach.webp",
+      "rating": 4.6,
+      "category": "beaches",
+      "description": "Kavaratti Beach is a pristine stretch of white coral sand fringed by crystal-clear turquoise lagoon waters on the capital island of Lakshadweep. The calm, shallow lagoon is ideal for swimming, kayaking, and glass-bottom boat rides that reveal a spectacular underwater world of vibrant corals and tropical fish.",
+      "history": "Kavaratti has served as the administrative capital of Lakshadweep since 1964. The island has been inhabited for centuries, with strong Arab trade connections evident in its 52 mosques, including the ornately carved Ujra Mosque.",
+      "famousFor": "Turquoise lagoon, glass-bottom boat rides, coral reefs, and the Ujra Mosque with driftwood carvings.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "kavaratti-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kavaratti-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/kavaratti-beach.webp"
+    },
+    {
+      "id": "agatti-beach",
+      "name": "Agatti Beach",
+      "city": "Agatti",
+      "image": "assets/images/states/lakshadweep/agatti-beach.webp",
+      "rating": 4.7,
+      "category": "beaches",
+      "description": "Agatti Beach is a breathtaking ribbon of white sand on Agatti Island — the aerial gateway to Lakshadweep. Surrounded by one of the most stunning coral reef lagoons in India, the beach offers crystal-clear waters perfect for snorkelling, scuba diving, and simply soaking in the unspoiled tropical paradise.",
+      "history": "Agatti Island has been a vital link to the Lakshadweep archipelago since the construction of its airstrip, the only airport in the island chain. The island has a rich fishing heritage and traditional coconut cultivation culture.",
+      "famousFor": "Coral reef snorkelling, crystal-clear lagoon, scuba diving, and the only airport in Lakshadweep.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "agatti-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/agatti-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/agatti-beach.webp"
+    },
+    {
+      "id": "minicoy-beach",
+      "name": "Minicoy Beach",
+      "city": "Minicoy",
+      "image": "assets/images/states/lakshadweep/minicoy-beach.webp",
+      "rating": 4.5,
+      "category": "beaches",
+      "description": "Minicoy Beach is an untouched tropical paradise on the southernmost island of Lakshadweep, famous for its vast crescent-shaped lagoon with shades of emerald and sapphire. The island has a distinct Maldivian cultural influence, traditional boat-building yards, and one of the oldest lighthouses in the archipelago.",
+      "history": "Culturally distinct from other Lakshadweep islands, Minicoy (Maliku) has deep historical ties to the Maldives and was an important stopover on ancient maritime trade routes. The iconic lighthouse was built by the British in 1885.",
+      "famousFor": "Crescent lagoon, traditional Lava dance, 1885 lighthouse, tuna fishing, and Maldivian cultural heritage.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "minicoy-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/minicoy-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/minicoy-beach.webp"
+    },
+    {
+      "id": "kadmat-beach",
+      "name": "Kadmat Beach",
+      "city": "Kadmat",
+      "image": "assets/images/states/lakshadweep/kadmat-beach.webp",
+      "rating": 4.5,
+      "category": "beaches",
+      "description": "Kadmat Beach stretches along a narrow island surrounded by a vast lagoon on one side and the open ocean on the other. Known as the water sports capital of Lakshadweep, the island offers world-class scuba diving, snorkelling, kayaking, and wind-surfing amidst pristine coral reefs and abundant marine life.",
+      "history": "Kadmat Island has traditionally been a coconut-growing and fishing community. It was developed as a key tourist destination in Lakshadweep due to its exceptionally long and calm lagoon, ideal for water sports.",
+      "famousFor": "Scuba diving, pristine coral reefs, water sports, and a lagoon stretching the entire length of the island.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "kadmat-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kadmat-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/kadmat-beach.webp"
+    },
+    {
+      "id": "kalpeni-beach",
+      "name": "Kalpeni Beach",
+      "city": "Kalpeni",
+      "image": "assets/images/states/lakshadweep/kalpeni-beach.webp",
+      "rating": 4.4,
+      "category": "beaches",
+      "description": "Kalpeni Beach is a stunning atoll-like island in Lakshadweep, surrounded by three uninhabited satellite islets — Tilakkam, Pitti, and Cheriyam. The massive shallow lagoon, studded with enormous storm-tossed coral boulders, creates a surreal landscape unlike any other beach in India.",
+      "history": "Kalpeni suffered a devastating cyclone in 1847 that deposited enormous coral boulders across the island, creating the unique landscape visible today. The island has a rich matrilineal society and vibrant cultural traditions.",
+      "famousFor": "Giant coral boulder landscape, shallow lagoon, uninhabited satellite islets, and traditional Kolkali dance.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "kalpeni-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/kalpeni-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/kalpeni-beach.webp"
+    },
+    {
+      "id": "andrott-beach",
+      "name": "Andrott Beach",
+      "city": "Andrott",
+      "image": "assets/images/states/lakshadweep/andrott-beach.webp",
+      "rating": 4.3,
+      "category": "beaches",
+      "description": "Andrott Beach lies on the largest and most densely populated island in Lakshadweep. Unlike other islands, Andrott has no lagoon, with the open sea directly meeting the shore, creating dramatic wave action. The island is home to an ancient Buddhist monastery site and one of the oldest mosques in India.",
+      "history": "Andrott holds significant archaeological importance — ruins of a Buddhist monastery suggest it was a Buddhist settlement before Islam arrived in the 7th century CE. The Jumma Masjid on the island is believed to be one of the first mosques built in India.",
+      "famousFor": "Ancient Buddhist ruins, one of India's oldest mosques, no-lagoon coastline, and cultural heritage.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Entry permit required from Lakshadweep Administration",
+      "slug": "andrott-beach",
+      "images": {
+        "main": "assets/images/states/lakshadweep/andrott-beach.webp"
+      },
+      "state": "Lakshadweep",
+      "heroImage": "assets/images/states/lakshadweep/andrott-beach.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/lakshadweep/banner.webp"
+}

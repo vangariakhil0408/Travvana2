@@ -1,0 +1,76 @@
+{
+  "id": "varkala-cliff-beach",
+  "name": "Varkala Cliff Beach",
+  "slug": "varkala-cliff-beach",
+  "stateId": "kerala",
+  "districtId": "thiruvananthapuram",
+  "category": "beaches",
+  "subcategories": [
+    "cliff-beach",
+    "surfing",
+    "yoga"
+  ],
+  "description": "Varkala is a unique beach destination where dramatic red laterite cliffs rise above the Arabian Sea, creating one of the most photogenic coastlines in India. The cliff-top promenade is lined with cafes, yoga centers, and Ayurvedic spas. The Papanasam Beach below the cliffs is believed to have holy waters with the power to wash away sins. Varkala is also home to the 2,000-year-old Janardhana Swami Temple.",
+  "heroImage": "./assets/images/states/kerala/Varkala Cliff.png",
+  "gallery": [
+    "./assets/images/states/kerala/Varkala Cliff.png"
+  ],
+  "rating": 4.6,
+  "reviewCount": 6200,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open 24 hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreign": "Free"
+  },
+  "coordinates": {
+    "lat": 8.7379,
+    "lng": 76.7163
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Trivandrum International Airport",
+      "distance": "42 km"
+    },
+    "nearestRailway": {
+      "name": "Varkala Sivagiri Station",
+      "distance": "3 km"
+    },
+    "byRoad": "On NH-66, well connected from Trivandrum"
+  },
+  "nearbyPlaces": [
+    "alleppey-backwaters",
+    "munnar-tea-gardens"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": [
+      {
+        "name": "Booking.com",
+        "type": "hotel",
+        "deepLink": ""
+      }
+    ]
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a yoga & beach retreat in Varkala"
+  },
+  "tags": [
+    "beach",
+    "cliff",
+    "yoga",
+    "ayurveda",
+    "sunset",
+    "surfing"
+  ],
+  "lastUpdated": "2026-03-15",
+  "image": "./assets/images/states/kerala/Varkala Cliff.png"
+}

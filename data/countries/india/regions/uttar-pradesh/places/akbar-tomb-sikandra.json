@@ -1,0 +1,63 @@
+{
+  "id": "akbar-tomb-sikandra",
+  "slug": "akbar-tomb-sikandra",
+  "name": "Akbar's Tomb, Sikandra",
+  "location": "Uttar Pradesh, India",
+  "district": "Agra",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "The magnificent mausoleum of the greatest Mughal Emperor, Akbar. Uniquely designed as a five-story pyramidal structure blending Hindu, Christian, Islamic, and Buddhist motifs \u2014 reflecting Akbar's philosophy of 'Din-i-Ilahi'.",
+  "description": "Akbar began its construction himself, but it was completed by his son Jahangir in 1613. The tomb features remarkably intricate inlay and calligraphy.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "agra-fort",
+    "fatehpur-sikri",
+    "itimad-ud-daulah",
+    "bateshwar-temples"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Akbar-Tomb.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Akbar-Tomb.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Akbar-Tomb.webp"
+  ]
+}

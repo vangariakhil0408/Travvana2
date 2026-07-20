@@ -1,0 +1,63 @@
+{
+  "id": "govardhan-hill",
+  "slug": "govardhan-hill",
+  "name": "Govardhan Hill",
+  "location": "Uttar Pradesh, India",
+  "district": "Mathura",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "The sacred hill that Lord Krishna is believed to have lifted on his little finger for seven days to protect the villagers from Indra's wrath. Devotees perform the 21 km Govardhan Parikrama barefoot.",
+  "description": "One of the most sacred sites in Vaishnavism. The hill is worshipped as a living form of Lord Krishna himself.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "mathura-krishna-janmabhoomi",
+    "vrindavan",
+    "barsana",
+    "banke-bihari-temple",
+    "prem-mandir-vrindavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Govardhan-Hill.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Govardhan-Hill.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Govardhan-Hill.webp"
+  ]
+}

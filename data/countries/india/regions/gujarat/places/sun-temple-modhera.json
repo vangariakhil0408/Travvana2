@@ -1,0 +1,69 @@
+{
+  "id": "sun-temple-modhera",
+  "slug": "sun-temple-modhera",
+  "name": "Sun Temple Modhera",
+  "location": "Gujarat, India",
+  "district": "Modhera",
+  "stateId": "gujarat",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/sun-temple-modhera.webp",
+  "heroImage": "./assets/images/popular/sun-temple-modhera.webp",
+  "gallery": [
+    "./assets/images/popular/sun-temple-modhera.webp"
+  ],
+  "overview": "Experience the beauty of Sun Temple Modhera, a top destination in Gujarat, India.",
+  "description": "Built in the 11th century by King Bhimdev I of the Solanki dynasty, the temple is dedicated to the Sun God, Surya.",
+  "rating": "4.9",
+  "reviewCount": 21255,
+  "popularityScore": 36,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹25",
+    "foreigner": "₹300"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Ahmedabad / Rajkot / Vadodara Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Modhera Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "100 km from Ahmedabad"
+  },
+  "tags": [
+    "heritage",
+    "gujarat",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2319
+    },
+    {
+      "views": 1796
+    }
+  ],
+  "nearbyPlaces": [
+    "rani-ki-vav"
+  ]
+}

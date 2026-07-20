@@ -1,0 +1,1296 @@
+{
+  "state": "Ladakh",
+  "slug": "ladakh",
+  "capital": "Leh",
+  "bestTime": "May to September",
+  "language": "Ladakhi, Balti, Purgi, Hindi, English",
+  "places": [
+    {
+      "name": "Leh Palace",
+      "city": "Leh",
+      "category": "heritage",
+      "distance": "Central Leh",
+      "rating": 4.6,
+      "description": "A nine-storey medieval royal palace overlooking Leh town, built in the 17th century by King Sengge Namgyal. Often compared to the Potala Palace of Lhasa, it offers commanding views of the Stok range and the Indus Valley.",
+      "history": "Built in the 17th century as the royal residence of the Namgyal dynasty, the palace was abandoned when Dogra forces took control of Ladakh in the 19th century. The Archaeological Survey of India is now restoring the structure.",
+      "famousFor": "Panoramic views of Leh, Tibetan-style architecture, royal heritage, sunset viewpoint.",
+      "bestTime": "May to September",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹30 (Indians), ₹200 (Foreigners)",
+      "slug": "leh-palace",
+      "images": {
+        "main": "assets/images/states/ladakh/leh-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shanti Stupa",
+          "city": "Leh",
+          "distance": "3 km away",
+          "category": "monasteries",
+          "slug": "shanti-stupa",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/shanti-stupa.webp"
+          }
+        },
+        {
+          "name": "Hall of Fame",
+          "city": "Leh",
+          "distance": "4 km away",
+          "category": "museums",
+          "slug": "hall-of-fame",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hall-of-fame.webp"
+          }
+        },
+        {
+          "name": "Leh Main Bazaar",
+          "city": "Leh",
+          "distance": "0.5 km away",
+          "category": "cultural",
+          "slug": "leh-main-bazaar",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/leh-main-bazaar.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "leh-palace",
+      "heroImage": "assets/images/states/ladakh/leh-palace.webp"
+    },
+    {
+      "name": "Shanti Stupa",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "3 km from Leh center",
+      "rating": 4.7,
+      "description": "A striking white-domed Buddhist stupa perched atop Changspa hill, Shanti Stupa was built by Japanese Buddhist monks to promote world peace. It offers the best panoramic views of Leh town and the surrounding Himalayan ranges.",
+      "history": "Built in 1991 by Japanese monk Gyomyo Nakamura under the auspices of the Japanese Buddhist organization. The stupa was inaugurated by the Dalai Lama and contains relics of the Buddha at its base.",
+      "famousFor": "Panoramic Leh views, peace memorial, sunset viewpoint, Buddhist relics, Japanese architecture.",
+      "bestTime": "May to September",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "shanti-stupa",
+      "images": {
+        "main": "assets/images/states/ladakh/shanti-stupa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Leh Palace",
+          "city": "Leh",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "leh-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/leh-palace.webp"
+          }
+        },
+        {
+          "name": "Hall of Fame",
+          "city": "Leh",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "hall-of-fame",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hall-of-fame.webp"
+          }
+        },
+        {
+          "name": "Leh Main Bazaar",
+          "city": "Leh",
+          "distance": "3 km away",
+          "category": "cultural",
+          "slug": "leh-main-bazaar",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/leh-main-bazaar.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "shanti-stupa",
+      "heroImage": "assets/images/states/ladakh/shanti-stupa.webp"
+    },
+    {
+      "name": "Hall of Fame",
+      "city": "Leh",
+      "category": "museums",
+      "distance": "4 km from Leh center",
+      "rating": 4.6,
+      "description": "A museum built and maintained by the Indian Army, the Hall of Fame commemorates the bravery and sacrifices of Indian soldiers in the Ladakh region. It houses war artifacts, weapons, photographs, and information about the Siachen Glacier.",
+      "history": "Built by the Indian Army to honour soldiers who laid down their lives defending Ladakh, including during the 1947, 1962, 1971 wars and the 1999 Kargil conflict.",
+      "famousFor": "Indian Army tribute, war artifacts, Siachen exhibit, weapons gallery, inspiring memorial.",
+      "bestTime": "May to September",
+      "timings": "9:00 AM – 1:00 PM, 2:00 PM – 7:00 PM",
+      "entryFee": "₹50",
+      "slug": "hall-of-fame",
+      "images": {
+        "main": "assets/images/states/ladakh/hall-of-fame.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shanti Stupa",
+          "city": "Leh",
+          "distance": "2 km away",
+          "category": "monasteries",
+          "slug": "shanti-stupa",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/shanti-stupa.webp"
+          }
+        },
+        {
+          "name": "Leh Palace",
+          "city": "Leh",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "leh-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/leh-palace.webp"
+          }
+        },
+        {
+          "name": "Magnetic Hill",
+          "city": "Leh",
+          "distance": "30 km away",
+          "category": "nature",
+          "slug": "magnetic-hill",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/magnetic-hill.webp"
+          }
+        },
+        {
+          "name": "Spituk Monastery",
+          "slug": "spituk-monastery",
+          "id": "spituk-monastery",
+          "image": "assets/images/states/ladakh/likir-monastery.webp",
+          "bidirectional_verified": true,
+          "distance": "5 km away"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "hall-of-fame",
+      "heroImage": "assets/images/states/ladakh/hall-of-fame.webp"
+    },
+    {
+      "name": "Leh Main Bazaar",
+      "city": "Leh",
+      "category": "cultural",
+      "distance": "Central Leh",
+      "rating": 4.3,
+      "description": "The vibrant heart of Leh town, the Main Bazaar is a bustling market street lined with shops selling Tibetan handicrafts, pashmina shawls, turquoise jewelry, prayer wheels, thangka paintings, and local delicacies.",
+      "history": "The bazaar has been the commercial hub of Leh for centuries, historically part of the ancient Silk Route trade network connecting Central Asia to the Indian subcontinent.",
+      "famousFor": "Tibetan handicrafts, pashmina shawls, local cuisine, Silk Route heritage, cultural shopping.",
+      "bestTime": "May to September",
+      "timings": "9:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "leh-main-bazaar",
+      "images": {
+        "main": "assets/images/states/ladakh/leh-main-bazaar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Leh Palace",
+          "city": "Leh",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "leh-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/leh-palace.webp"
+          }
+        },
+        {
+          "name": "Shanti Stupa",
+          "city": "Leh",
+          "distance": "3 km away",
+          "category": "monasteries",
+          "slug": "shanti-stupa",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/shanti-stupa.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "leh-main-bazaar",
+      "heroImage": "assets/images/states/ladakh/leh-main-bazaar.webp"
+    },
+    {
+      "name": "Pangong Tso",
+      "city": "Leh",
+      "category": "lakes",
+      "distance": "160 km from Leh",
+      "rating": 4.9,
+      "description": "One of the most iconic lakes in the world, Pangong Tso is a 134 km long endorheic lake that stretches from India to China, situated at 4,350 metres. Its mesmerizing ever-changing shades of blue make it a bucket-list destination.",
+      "history": "Pangong Tso gained global fame after featuring in the Bollywood film '3 Idiots'. The lake lies on the India-China border, with about one-third on the Indian side. It is a vital habitat for migratory birds including the bar-headed goose.",
+      "famousFor": "Changing blue hues, highest saltwater lake, 3 Idiots filming location, camping, stargazing.",
+      "bestTime": "May to September",
+      "timings": "Open all day (Inner Line Permit required)",
+      "entryFee": "₹400 (Environmental fee) + ILP charges",
+      "slug": "pangong-tso",
+      "images": {
+        "main": "assets/images/states/ladakh/pangong-tso.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chang La",
+          "city": "Leh",
+          "distance": "50 km away (en route)",
+          "category": "passes",
+          "slug": "chang-la",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/chang-la.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "pangong-tso",
+      "image": "assets/images/states/ladakh/pangong-tso.webp",
+      "heroImage": "assets/images/states/ladakh/pangong-tso.webp"
+    },
+    {
+      "name": "Tso Moriri",
+      "city": "Leh",
+      "category": "lakes",
+      "distance": "240 km from Leh",
+      "rating": 4.8,
+      "description": "A pristine high-altitude lake at 4,522 metres in the Changthang plateau, Tso Moriri is less visited than Pangong but equally stunning. The lake is surrounded by snow-capped peaks and is a Ramsar Wetland of International Importance.",
+      "history": "Tso Moriri has been designated a Ramsar site since 2002 for its ecological importance. The area is home to the Changpa nomadic tribes and their pashmina goat herds.",
+      "famousFor": "Pristine high-altitude lake, Ramsar wetland, Changpa nomads, wildlife, solitude, camping.",
+      "bestTime": "June to September",
+      "timings": "Open all day (Inner Line Permit required)",
+      "entryFee": "ILP charges",
+      "slug": "tso-moriri",
+      "images": {
+        "main": "assets/images/states/ladakh/tso-moriri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Changthang Wildlife Sanctuary",
+          "slug": "changthang-wildlife-sanctuary",
+          "id": "changthang-wildlife-sanctuary",
+          "image": "assets/images/states/ladakh/changthang-wildlife-sanctuary.webp",
+          "bidirectional_verified": true,
+          "distance": "Within sanctuary"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "tso-moriri",
+      "heroImage": "assets/images/states/ladakh/tso-moriri.webp"
+    },
+    {
+      "name": "Nubra Valley",
+      "city": "Leh",
+      "category": "valleys",
+      "distance": "150 km from Leh via Khardung La",
+      "rating": 4.8,
+      "description": "A stunningly beautiful high-altitude desert valley north of Leh, accessed via the legendary Khardung La pass. Nubra Valley features sand dunes, Bactrian camels, monasteries, and lush green villages along the Shyok and Nubra rivers.",
+      "history": "Nubra Valley was historically part of the ancient Silk Route and served as a trade corridor between Ladakh and Central Asia. The valley's Bactrian camels are descendants of those used on the Silk Route.",
+      "famousFor": "Hunder sand dunes, double-humped Bactrian camels, Diskit Monastery, Silk Route heritage, camping.",
+      "bestTime": "June to September",
+      "timings": "Open all day (Inner Line Permit required)",
+      "entryFee": "ILP charges",
+      "slug": "nubra-valley",
+      "images": {
+        "main": "assets/images/popular/nubra-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diskit Monastery",
+          "city": "Nubra",
+          "distance": "10 km away",
+          "category": "monasteries",
+          "slug": "diskit-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/diskit-monastery.webp"
+          }
+        },
+        {
+          "name": "Hunder Sand Dunes",
+          "city": "Nubra",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "hunder-sand-dunes",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hunder-sand-dunes.webp"
+          }
+        },
+        {
+          "name": "Panamik Hot Springs",
+          "city": "Nubra",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "panamik-hot-springs",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        },
+        {
+          "name": "Turtuk Village",
+          "city": "Nubra",
+          "distance": "80 km away",
+          "category": "cultural",
+          "slug": "turtuk-village",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/turtuk-village.webp"
+          }
+        },
+        {
+          "name": "Khardung La",
+          "slug": "khardung-la",
+          "id": "khardung-la",
+          "image": "assets/images/states/ladakh/khardung-la.webp",
+          "bidirectional_verified": true,
+          "distance": "80 km away (via pass)"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "nubra-valley",
+      "image": "assets/images/popular/nubra-valley.webp",
+      "heroImage": "assets/images/popular/nubra-valley.webp"
+    },
+    {
+      "name": "Zanskar Valley",
+      "city": "Kargil",
+      "category": "valleys",
+      "distance": "250 km from Leh",
+      "rating": 4.7,
+      "description": "One of the most remote and dramatically beautiful valleys in India, Zanskar is surrounded by the Great Himalayan Range and the Zanskar Range. In winter, the frozen Zanskar River becomes the famous Chadar Trek route.",
+      "history": "Zanskar was an independent Buddhist kingdom until it was absorbed into Ladakh. The valley is home to ancient monasteries and the Chadar Trek — a winter trek on the frozen Zanskar River.",
+      "famousFor": "Chadar Trek, frozen river, ancient monasteries, extreme remoteness, adventure tourism.",
+      "bestTime": "June to September (road), January to February (Chadar Trek)",
+      "timings": "Open all day",
+      "entryFee": "Free (trek permits required for Chadar)",
+      "slug": "zanskar-valley",
+      "images": {
+        "main": "assets/images/states/ladakh/zanskar-valley.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Ladakh",
+      "id": "zanskar-valley",
+      "heroImage": "assets/images/states/ladakh/zanskar-valley.webp"
+    },
+    {
+      "name": "Khardung La",
+      "city": "Leh",
+      "category": "passes",
+      "distance": "39 km from Leh",
+      "rating": 4.7,
+      "description": "One of the highest motorable passes in the world at 5,359 metres, Khardung La is the gateway to Nubra Valley. The pass offers breathtaking views of the Karakoram Range and is a bucket-list destination for bikers and adventurers.",
+      "history": "Khardung La was built by the Border Roads Organisation and serves as the critical access route to the Siachen Glacier base. It is the highest point on the Leh-Nubra road.",
+      "famousFor": "One of the highest motorable passes, biking destination, Karakoram views, gateway to Nubra.",
+      "bestTime": "June to September",
+      "timings": "Open all day (weather permitting)",
+      "entryFee": "Free",
+      "slug": "khardung-la",
+      "images": {
+        "main": "assets/images/states/ladakh/khardung-la.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nubra Valley",
+          "city": "Leh",
+          "distance": "80 km away (via pass)",
+          "category": "valleys",
+          "slug": "nubra-valley",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "khardung-la",
+      "heroImage": "assets/images/states/ladakh/khardung-la.webp"
+    },
+    {
+      "name": "Chang La",
+      "city": "Leh",
+      "category": "passes",
+      "distance": "77 km from Leh",
+      "rating": 4.5,
+      "description": "The third-highest motorable pass in the world at 5,360 metres, Chang La is the gateway to Pangong Tso. The pass features a Changla Baba shrine and an Indian Army café for travelers.",
+      "history": "Chang La serves as the critical access route between Leh and Pangong Tso. The Changla Baba temple at the pass is dedicated to a holy man and is maintained by the Indian Army.",
+      "famousFor": "Gateway to Pangong Tso, high-altitude pass, Changla Baba temple, Army café.",
+      "bestTime": "May to September",
+      "timings": "Open all day (weather permitting)",
+      "entryFee": "Free",
+      "slug": "chang-la",
+      "images": {
+        "main": "assets/images/states/ladakh/chang-la.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pangong Tso",
+          "city": "Leh",
+          "distance": "80 km away (via pass)",
+          "category": "lakes",
+          "slug": "pangong-tso",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/pangong-tso.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "chang-la",
+      "heroImage": "assets/images/states/ladakh/chang-la.webp"
+    },
+    {
+      "name": "Hemis Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "45 km from Leh",
+      "rating": 4.7,
+      "description": "The largest and wealthiest monastery in Ladakh, Hemis Gompa belongs to the Drukpa order of Buddhism. It is famous for the annual Hemis Festival featuring masked cham dances and is adjacent to Hemis National Park.",
+      "history": "Founded in 1672 by Stagsang Raspa Nawang Gyatso under the patronage of King Sengge Namgyal. The monastery houses a priceless collection of gold statues, thangkas, and sacred texts.",
+      "famousFor": "Hemis Festival, masked dances, largest monastery, ancient thangkas, Hemis National Park.",
+      "bestTime": "June to September (Festival in June/July)",
+      "timings": "8:00 AM – 1:00 PM, 2:00 PM – 6:00 PM",
+      "entryFee": "₹50",
+      "slug": "hemis-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/hemis-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hemis National Park",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "hemis-national-park",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hemis-national-park.webp"
+          }
+        },
+        {
+          "name": "Thiksey Monastery",
+          "city": "Leh",
+          "distance": "20 km away",
+          "category": "monasteries",
+          "slug": "thiksey-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/thiksey-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "hemis-monastery",
+      "heroImage": "assets/images/states/ladakh/hemis-monastery.webp"
+    },
+    {
+      "name": "Thiksey Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "19 km from Leh",
+      "rating": 4.8,
+      "description": "A stunning 12-storey hilltop monastery resembling the Potala Palace of Lhasa, Thiksey Gompa is one of the most photographed monasteries in Ladakh. It houses a magnificent 15-metre high Maitreya Buddha statue.",
+      "history": "Founded in 1433 by Paldan Sherab, Thiksey belongs to the Gelugpa order and is one of the largest monasteries in Ladakh. The monastery is home to about 120 monks.",
+      "famousFor": "Potala-like architecture, 15m Maitreya Buddha, morning prayers, Indus Valley views.",
+      "bestTime": "May to September",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹50",
+      "slug": "thiksey-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/thiksey-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shey Palace",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "shey-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/shey-palace.webp"
+          }
+        },
+        {
+          "name": "Hemis Monastery",
+          "city": "Leh",
+          "distance": "20 km away",
+          "category": "monasteries",
+          "slug": "hemis-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hemis-monastery.webp"
+          }
+        },
+        {
+          "name": "Stok Palace",
+          "city": "Leh",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "stok-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/stok-palace.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "thiksey-monastery",
+      "heroImage": "assets/images/states/ladakh/thiksey-monastery.webp"
+    },
+    {
+      "name": "Diskit Monastery",
+      "city": "Nubra",
+      "category": "monasteries",
+      "distance": "115 km from Leh",
+      "rating": 4.7,
+      "description": "The oldest and largest monastery in Nubra Valley, Diskit Gompa features a giant 32-metre tall Maitreya Buddha statue overlooking the Shyok River and the Hunder sand dunes. The views from here are spectacular.",
+      "history": "Founded in the 14th century by Changzem Tserab Zangpo, a disciple of Tsong Khapa. The 32-metre Maitreya Buddha was consecrated by the Dalai Lama in 2010.",
+      "famousFor": "32m Maitreya Buddha, Nubra Valley views, ancient gompa, Shyok River views.",
+      "bestTime": "June to September",
+      "timings": "7:00 AM – 1:00 PM, 2:00 PM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "diskit-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/diskit-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hunder Sand Dunes",
+          "city": "Nubra",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "hunder-sand-dunes",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hunder-sand-dunes.webp"
+          }
+        },
+        {
+          "name": "Nubra Valley",
+          "city": "Leh",
+          "distance": "10 km away",
+          "category": "valleys",
+          "slug": "nubra-valley",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        },
+        {
+          "name": "Panamik Hot Springs",
+          "city": "Nubra",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "panamik-hot-springs",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        },
+        {
+          "name": "Yarab Tso",
+          "slug": "yarab-tso",
+          "id": "yarab-tso",
+          "image": "assets/images/states/ladakh/pangong-tso.webp",
+          "bidirectional_verified": true,
+          "distance": "18 km away"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "diskit-monastery",
+      "heroImage": "assets/images/states/ladakh/diskit-monastery.webp"
+    },
+    {
+      "name": "Hunder Sand Dunes",
+      "city": "Nubra",
+      "category": "nature",
+      "distance": "120 km from Leh",
+      "rating": 4.6,
+      "description": "Surreal white sand dunes in the cold desert of Nubra Valley, where visitors can ride double-humped Bactrian camels — descendants of Silk Route caravan animals. The contrast of sand dunes with snow-capped mountains is breathtaking.",
+      "history": "The sand dunes are remnants of the ancient lake bed that once filled the Nubra Valley. The Bactrian camels were originally brought here by traders on the Silk Route.",
+      "famousFor": "Bactrian camel rides, cold desert sand dunes, Silk Route camels, dramatic landscapes, camping.",
+      "bestTime": "June to September",
+      "timings": "Open all day (camel rides 10 AM – 5 PM)",
+      "entryFee": "Free (camel ride charges apply)",
+      "slug": "hunder-sand-dunes",
+      "images": {
+        "main": "assets/images/states/ladakh/hunder-sand-dunes.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diskit Monastery",
+          "city": "Nubra",
+          "distance": "7 km away",
+          "category": "monasteries",
+          "slug": "diskit-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/diskit-monastery.webp"
+          }
+        },
+        {
+          "name": "Nubra Valley",
+          "city": "Leh",
+          "distance": "7 km away",
+          "category": "valleys",
+          "slug": "nubra-valley",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        },
+        {
+          "name": "Panamik Hot Springs",
+          "city": "Nubra",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "panamik-hot-springs",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "hunder-sand-dunes",
+      "heroImage": "assets/images/states/ladakh/hunder-sand-dunes.webp"
+    },
+    {
+      "name": "Magnetic Hill",
+      "city": "Leh",
+      "category": "nature",
+      "distance": "30 km from Leh",
+      "rating": 4.3,
+      "description": "A gravity-defying phenomenon on the Leh-Kargil highway where vehicles appear to roll uphill on their own. While the effect is an optical illusion created by the surrounding terrain, it remains a popular tourist stop.",
+      "history": "The hill has been a tourist attraction for decades, with signboards marking the spot where you can park your vehicle in neutral and watch it apparently defy gravity.",
+      "famousFor": "Gravity hill optical illusion, Leh-Kargil highway stop, unique natural phenomenon.",
+      "bestTime": "May to September",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "magnetic-hill",
+      "images": {
+        "main": "assets/images/states/ladakh/magnetic-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sangam",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "sangam",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/suru-valley.webp"
+          }
+        },
+        {
+          "name": "Gurudwara Pathar Sahib",
+          "city": "Leh",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "gurudwara-pathar-sahib",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/gurudwara-pathar-sahib.webp"
+          }
+        },
+        {
+          "name": "Hall of Fame",
+          "slug": "hall-of-fame",
+          "id": "hall-of-fame",
+          "image": "assets/images/states/ladakh/hall-of-fame.webp",
+          "bidirectional_verified": true,
+          "distance": "30 km away"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "magnetic-hill",
+      "image": "assets/images/states/ladakh/magnetic-hill.webp",
+      "heroImage": "assets/images/states/ladakh/magnetic-hill.webp"
+    },
+    {
+      "name": "Sangam",
+      "city": "Leh",
+      "category": "nature",
+      "distance": "35 km from Leh",
+      "rating": 4.6,
+      "description": "The dramatic confluence of the Indus and Zanskar rivers, where the distinct colours of the two rivers meet — the turquoise Zanskar merging with the muddy Indus. The site is also a popular starting point for river rafting.",
+      "history": "The confluence has been a geographically and culturally significant landmark, marking the meeting of Ladakh's two most important river systems.",
+      "famousFor": "Two-colour river confluence, river rafting, dramatic landscape, Indus-Zanskar meeting point.",
+      "bestTime": "June to September",
+      "timings": "Open all day",
+      "entryFee": "Free (rafting charges separate)",
+      "slug": "sangam",
+      "images": {
+        "main": "assets/images/states/ladakh/suru-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Magnetic Hill",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "magnetic-hill",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/magnetic-hill.webp"
+          }
+        },
+        {
+          "name": "Gurudwara Pathar Sahib",
+          "city": "Leh",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "gurudwara-pathar-sahib",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/gurudwara-pathar-sahib.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "sangam",
+      "heroImage": "assets/images/states/ladakh/suru-valley.webp"
+    },
+    {
+      "name": "Gurudwara Pathar Sahib",
+      "city": "Leh",
+      "category": "heritage",
+      "distance": "25 km from Leh",
+      "rating": 4.5,
+      "description": "A sacred Sikh shrine on the Leh-Kargil highway, Gurudwara Pathar Sahib commemorates the visit of Guru Nanak to Ladakh. The rock bearing the impression of Guru Nanak's body is preserved inside.",
+      "history": "Built in 1517 to mark the visit of Guru Nanak Dev Ji to Ladakh. According to legend, Guru Nanak stopped a boulder thrown by a demon with his bare hand, leaving an imprint on the rock.",
+      "famousFor": "Guru Nanak heritage, sacred rock imprint, langar (community kitchen), Leh-Kargil highway.",
+      "bestTime": "May to September",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "gurudwara-pathar-sahib",
+      "images": {
+        "main": "assets/images/states/ladakh/gurudwara-pathar-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Magnetic Hill",
+          "city": "Leh",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "magnetic-hill",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/magnetic-hill.webp"
+          }
+        },
+        {
+          "name": "Sangam",
+          "city": "Leh",
+          "distance": "7 km away",
+          "category": "nature",
+          "slug": "sangam",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/suru-valley.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "gurudwara-pathar-sahib",
+      "heroImage": "assets/images/states/ladakh/gurudwara-pathar-sahib.webp"
+    },
+    {
+      "name": "Alchi Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "67 km from Leh",
+      "rating": 4.6,
+      "description": "A rare 11th-century Buddhist temple complex renowned for its extraordinarily well-preserved Kashmiri-style wall paintings and carved woodwork. Unlike most Ladakhi monasteries, Alchi is built on flat ground.",
+      "history": "Founded by Rinchen Zangpo in the 11th century, Alchi is a UNESCO-recognized heritage site. Its murals represent some of the finest surviving examples of early Buddhist art in the Himalayan region.",
+      "famousFor": "11th-century murals, Kashmiri Buddhist art, wooden carvings, UNESCO-recognized heritage.",
+      "bestTime": "May to September",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "alchi-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/alchi-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Basgo Monastery",
+          "city": "Leh",
+          "distance": "15 km away",
+          "category": "monasteries",
+          "slug": "basgo-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/basgo-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "alchi-monastery",
+      "heroImage": "assets/images/states/ladakh/alchi-monastery.webp"
+    },
+    {
+      "name": "Lamayuru Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "127 km from Leh",
+      "rating": 4.6,
+      "description": "One of the oldest monasteries in Ladakh, Lamayuru sits dramatically on a cliff above a surreal lunar-like landscape called Moonland. The monastery belongs to the Drikung Kagyu order and hosts the famous Yuru Kabgyat festival. The area around the monastery is known as Moonland — a surreal landscape of eroded clay formations that resembles the lunar surface.",
+      "history": "Dating back to the 10th century, Lamayuru is believed to be the oldest monastery in Ladakh. Legend says the site was once a lake that was dried by the sage Naropa through prayer.",
+      "famousFor": "Moonland landscape, oldest monastery, Yuru Kabgyat festival, cliffside location, dramatic views., Moonland landscape, lunar terrain",
+      "bestTime": "May to September",
+      "timings": "7:00 AM – 1:00 PM, 2:00 PM – 6:00 PM",
+      "entryFee": "₹50",
+      "slug": "lamayuru-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/lamayuru-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Ladakh",
+      "id": "lamayuru-monastery",
+      "heroImage": "assets/images/states/ladakh/lamayuru-monastery.webp"
+    },
+    {
+      "name": "Shey Palace",
+      "city": "Leh",
+      "category": "heritage",
+      "distance": "15 km from Leh",
+      "rating": 4.4,
+      "description": "The former summer palace of the Ladakhi kings, Shey Palace sits atop a hillock and houses a giant copper-gilt statue of Shakyamuni Buddha — the largest metal Buddha in Ladakh.",
+      "history": "Built in the 17th century by King Deldan Namgyal, Shey served as the summer capital of Ladakh before Leh Palace was constructed.",
+      "famousFor": "Largest metal Buddha in Ladakh, summer palace, hilltop views, royal heritage.",
+      "bestTime": "May to September",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "shey-palace",
+      "images": {
+        "main": "assets/images/states/ladakh/shey-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thiksey Monastery",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "monasteries",
+          "slug": "thiksey-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/thiksey-monastery.webp"
+          }
+        },
+        {
+          "name": "Stok Palace",
+          "city": "Leh",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "stok-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/stok-palace.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "shey-palace",
+      "heroImage": "assets/images/states/ladakh/shey-palace.webp"
+    },
+    {
+      "name": "Stok Palace",
+      "city": "Leh",
+      "category": "heritage",
+      "distance": "17 km from Leh",
+      "rating": 4.4,
+      "description": "The current residence of the Ladakhi royal family, Stok Palace houses a museum with a rich collection of royal crowns, thangkas, ceremonial dresses, coins, and weapons of the Namgyal dynasty.",
+      "history": "Built in 1825 by King Tsespal Tondup Namgyal when the royal family was displaced from Leh Palace by Dogra forces. The current Queen still resides here.",
+      "famousFor": "Royal museum, crown jewels, thangka collection, living royal palace, Stok Kangri views.",
+      "bestTime": "May to September",
+      "timings": "8:00 AM – 7:00 PM",
+      "entryFee": "₹50",
+      "slug": "stok-palace",
+      "images": {
+        "main": "assets/images/states/ladakh/stok-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shey Palace",
+          "city": "Leh",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "shey-palace",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/shey-palace.webp"
+          }
+        },
+        {
+          "name": "Thiksey Monastery",
+          "city": "Leh",
+          "distance": "8 km away",
+          "category": "monasteries",
+          "slug": "thiksey-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/thiksey-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "stok-palace",
+      "heroImage": "assets/images/states/ladakh/stok-palace.webp"
+    },
+    {
+      "name": "Drass War Memorial",
+      "city": "Kargil",
+      "category": "heritage",
+      "distance": "60 km from Kargil",
+      "rating": 4.7,
+      "description": "A solemn war memorial at the second coldest inhabited place on Earth, Drass War Memorial honours the soldiers who sacrificed their lives during the 1999 Kargil War. The memorial stands at the foot of the Tololing Hill.",
+      "history": "Built to commemorate Operation Vijay — the 1999 Kargil War — the memorial features the names of 527 soldiers who gave their lives to recapture strategic peaks from Pakistani infiltrators.",
+      "famousFor": "Kargil War tribute, Tololing Hill, soldier biographies, second coldest inhabited place.",
+      "bestTime": "May to September",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "drass-war-memorial",
+      "images": {
+        "main": "assets/images/states/ladakh/drass-war-memorial.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Ladakh",
+      "id": "drass-war-memorial",
+      "heroImage": "assets/images/states/ladakh/drass-war-memorial.webp"
+    },
+    {
+      "name": "Mulbekh Monastery",
+      "city": "Kargil",
+      "category": "monasteries",
+      "distance": "45 km from Kargil",
+      "rating": 4.4,
+      "description": "A monastery perched dramatically on a rocky cliff alongside the Leh-Srinagar highway. The nearby 9-metre tall Maitreya Buddha rock carving dating to the 7th century is one of the most significant Buddhist relics on the highway.",
+      "history": "The monastery belongs to the Drikung Kagyu order. The Maitreya rock carving near the monastery is believed to date from the Kushan period (1st century CE) and is a protected monument.",
+      "famousFor": "7th-century rock carving, cliffside monastery, Maitreya Buddha, Leh-Srinagar highway landmark.",
+      "bestTime": "May to September",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "mulbekh-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/mulbekh-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Ladakh",
+      "id": "mulbekh-monastery",
+      "heroImage": "assets/images/states/ladakh/mulbekh-monastery.webp"
+    },
+    {
+      "name": "Hanle & Observatory",
+      "city": "Leh",
+      "category": "nature",
+      "distance": "260 km from Leh",
+      "rating": 4.6,
+      "description": "A remote village at 4,500 metres on the Changthang plateau, Hanle is home to one of the world's highest astronomical observatories. The area offers some of the clearest skies in Asia for stargazing and is a rising dark-sky tourism destination. The Indian Astronomical Observatory here operates one of the world's highest optical telescopes at 4,500m, making it a prime spot for stargazing.",
+      "history": "The Indian Astronomical Observatory at Hanle was established in 2001 by the Indian Institute of Astrophysics. The 17th-century Hanle Monastery adds historical significance.",
+      "famousFor": "Astronomical observatory, dark-sky tourism, stargazing, 17th-century monastery, black-necked cranes., Indian Astronomical Observatory, world's highest telescope, astrophotography",
+      "bestTime": "June to September",
+      "timings": "Open all day (Inner Line Permit required)",
+      "entryFee": "ILP charges",
+      "slug": "hanle",
+      "images": {
+        "main": "assets/images/states/ladakh/hanle.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Ladakh",
+      "id": "hanle",
+      "heroImage": "assets/images/states/ladakh/hanle.webp"
+    },
+    {
+      "name": "Panamik Hot Springs",
+      "city": "Nubra",
+      "category": "nature",
+      "distance": "150 km from Leh",
+      "rating": 4.3,
+      "description": "Natural sulphur hot springs in the northernmost village of the Nubra Valley accessible to tourists. The hot springs are believed to have medicinal properties and offer a warm soak amidst the cold Ladakhi landscape.",
+      "history": "Panamik has been a traditional stopping point for travellers and traders on the ancient route to Central Asia. The hot springs have been used for their therapeutic value for centuries.",
+      "famousFor": "Natural hot springs, sulphur baths, northernmost accessible village, therapeutic waters.",
+      "bestTime": "June to September",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "panamik-hot-springs",
+      "images": {
+        "main": "assets/images/states/ladakh/nubra-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diskit Monastery",
+          "city": "Nubra",
+          "distance": "15 km away",
+          "category": "monasteries",
+          "slug": "diskit-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/diskit-monastery.webp"
+          }
+        },
+        {
+          "name": "Hunder Sand Dunes",
+          "city": "Nubra",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "hunder-sand-dunes",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hunder-sand-dunes.webp"
+          }
+        },
+        {
+          "name": "Nubra Valley",
+          "slug": "nubra-valley",
+          "id": "nubra-valley",
+          "image": "assets/images/states/ladakh/nubra-valley.webp",
+          "bidirectional_verified": true,
+          "distance": "20 km away"
+        },
+        {
+          "name": "Yarab Tso",
+          "slug": "yarab-tso",
+          "id": "yarab-tso",
+          "image": "assets/images/states/ladakh/pangong-tso.webp",
+          "bidirectional_verified": true,
+          "distance": "2 km away"
+        }
+      ],
+      "state": "Ladakh",
+      "id": "panamik-hot-springs",
+      "heroImage": "assets/images/states/ladakh/nubra-valley.webp"
+    },
+    {
+      "name": "Turtuk Village",
+      "city": "Nubra",
+      "category": "cultural",
+      "distance": "205 km from Leh",
+      "rating": 4.7,
+      "description": "The last village in India before the Line of Control with Pakistan, Turtuk is a Balti village famous for its apricot orchards, ancient heritage, and warm hospitality. It was under Pakistani control until 1971.",
+      "history": "Turtuk was part of Baltistan under Pakistan until the Indian Army captured it in 1971. It was opened to tourists only in 2010. The village preserves its unique Balti culture, language, and Nurbakhshi Muslim traditions.",
+      "famousFor": "Last Indian village, Balti culture, apricot orchards, 1971 war history, Turtuk Museum.",
+      "bestTime": "June to September",
+      "timings": "Open all day (Inner Line Permit required)",
+      "entryFee": "Free",
+      "slug": "turtuk-village",
+      "images": {
+        "main": "assets/images/states/ladakh/turtuk-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nubra Valley",
+          "city": "Leh",
+          "distance": "80 km away",
+          "category": "valleys",
+          "slug": "nubra-valley",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "turtuk-village",
+      "heroImage": "assets/images/states/ladakh/turtuk-village.webp"
+    },
+    {
+      "name": "Basgo Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "42 km from Leh",
+      "rating": 4.3,
+      "description": "Ruins of an ancient fortress and monastery perched on a dramatic cliff, Basgo was once a political and cultural centre of Ladakh. The site features well-preserved Buddhist murals and a large Maitreya Buddha statue.",
+      "history": "Basgo served as a royal residence and political centre during the 15th and 16th centuries. The monastery withstood a three-year siege by Tibetan and Mongol armies in the 17th century.",
+      "famousFor": "Fortress ruins, ancient murals, Maitreya Buddha, cliffside setting, Ladakhi history.",
+      "bestTime": "May to September",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹30",
+      "slug": "basgo-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/basgo-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Alchi Monastery",
+          "city": "Leh",
+          "distance": "15 km away",
+          "category": "monasteries",
+          "slug": "alchi-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/alchi-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "basgo-monastery",
+      "heroImage": "assets/images/states/ladakh/basgo-monastery.webp"
+    },
+    {
+      "name": "Phyang Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "16 km from Leh",
+      "rating": 4.3,
+      "description": "A 16th-century monastery of the Drikung Kagyu order, Phyang features a museum of ancient weapons, thangkas, and ceremonial items. It hosts the Phyang Tsedup festival with masked cham dances.",
+      "history": "Founded in the 16th century by Chosje Danma Kunga, Phyang belongs to the red-hat Drikung Kagyu sect and is the seat of the Skyabje Toldan Rinpoche.",
+      "famousFor": "Phyang festival, museum of antiques, masked dances, red-hat Buddhist tradition.",
+      "bestTime": "May to September (festival July/August)",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "phyang-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/stakna-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Spituk Monastery",
+          "city": "Leh",
+          "distance": "8 km away",
+          "category": "monasteries",
+          "slug": "spituk-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/likir-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "phyang-monastery",
+      "heroImage": "assets/images/states/ladakh/stakna-monastery.webp"
+    },
+    {
+      "name": "Spituk Monastery",
+      "city": "Leh",
+      "category": "monasteries",
+      "distance": "8 km from Leh",
+      "rating": 4.3,
+      "description": "A hilltop Gelugpa monastery overlooking the Indus River and Leh airport runway. Spituk features a dark chamber housing the fearsome Mahakala deity, unveiled only during the annual Gustor festival.",
+      "history": "Founded in the 11th century by Od-de, the elder brother of Rinchen Zangpo. The monastery was later converted to the Gelugpa order and now houses about 100 monks.",
+      "famousFor": "Mahakala shrine, Gustor festival, hilltop views, airport runway views, ancient gompa.",
+      "bestTime": "May to September (Gustor festival January)",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "spituk-monastery",
+      "images": {
+        "main": "assets/images/states/ladakh/likir-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Phyang Monastery",
+          "city": "Leh",
+          "distance": "8 km away",
+          "category": "monasteries",
+          "slug": "phyang-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/stakna-monastery.webp"
+          }
+        },
+        {
+          "name": "Hall of Fame",
+          "city": "Leh",
+          "distance": "5 km away",
+          "category": "museums",
+          "slug": "hall-of-fame",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/hall-of-fame.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "spituk-monastery",
+      "heroImage": "assets/images/states/ladakh/likir-monastery.webp"
+    },
+    {
+      "name": "Changthang Wildlife Sanctuary",
+      "city": "Leh",
+      "category": "wildlife",
+      "distance": "170 km from Leh",
+      "rating": 4.5,
+      "description": "A vast high-altitude wildlife sanctuary on the Changthang plateau, home to the Tibetan wild ass (kiang), black-necked cranes, Tibetan gazelle, and marmots. The sanctuary encompasses Tso Moriri and Tso Kar lakes.",
+      "history": "Established in 1987 to protect the unique high-altitude wildlife of the Changthang plateau. The area is also home to the Changpa nomadic pastoralists and their pashmina goats.",
+      "famousFor": "Kiang, black-necked cranes, Changpa nomads, high-altitude wildlife, pashmina goats.",
+      "bestTime": "June to September",
+      "timings": "Open all day (permit required)",
+      "entryFee": "Permit charges apply",
+      "slug": "changthang-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/ladakh/changthang-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tso Moriri",
+          "city": "Leh",
+          "distance": "Within sanctuary",
+          "category": "lakes",
+          "slug": "tso-moriri",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/tso-moriri.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "changthang-wildlife-sanctuary",
+      "heroImage": "assets/images/states/ladakh/changthang-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Yarab Tso",
+      "city": "Nubra",
+      "category": "lakes",
+      "distance": "155 km from Leh",
+      "rating": 4.3,
+      "description": "A hidden sacred lake near Panamik in Nubra Valley, Yarab Tso is accessed through a short forest trek. The small turquoise lake is surrounded by trees and is considered holy by local Buddhists.",
+      "history": "Local legend holds that the lake is protected by a water spirit and is visited by pilgrims for its spiritual significance.",
+      "famousFor": "Hidden sacred lake, short forest trek, turquoise waters, spiritual significance, secluded beauty.",
+      "bestTime": "June to September",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "yarab-tso",
+      "images": {
+        "main": "assets/images/states/ladakh/pangong-tso.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Panamik Hot Springs",
+          "city": "Nubra",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "panamik-hot-springs",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/nubra-valley.webp"
+          }
+        },
+        {
+          "name": "Diskit Monastery",
+          "city": "Nubra",
+          "distance": "18 km away",
+          "category": "monasteries",
+          "slug": "diskit-monastery",
+          "state": "Ladakh",
+          "images": {
+            "main": "assets/images/states/ladakh/diskit-monastery.webp"
+          }
+        }
+      ],
+      "state": "Ladakh",
+      "id": "yarab-tso",
+      "heroImage": "assets/images/states/ladakh/pangong-tso.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/ladakh/banner.webp"
+}

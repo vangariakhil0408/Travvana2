@@ -1,0 +1,36 @@
+{
+  "id": "ousteri-lake",
+  "name": "Ousteri Lake (Osudu Lake)",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "The largest freshwater lake in Puducherry, recognized as an IUCN designated wetland. It is a critical sanctuary for numerous migratory bird species.",
+  "history": "Man-made lake constructed a century ago. It acts as the primary freshwater source and an ecological lifeline for the region.",
+  "famousFor": "Bird watching, boating, and scenic sunsets.",
+  "bestTime": "November to February",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "Free (Boating extra)",
+  "image": "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp",
+  "heroImage": "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+  ],
+  "nearbyPlaces": [
+    "serenity-beach",
+    "french-war-memorial",
+    "bharathi-park",
+    "promenade-beach",
+    "thirunallar-temple",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "notre-dame-des-anges",
+    "arikamedu",
+    "puducherry-museum",
+    "sri-karneshwar-nataraja",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "auroville"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ranakpur-jain-temple",
+  "slug": "ranakpur-jain-temple",
+  "name": "Ranakpur Jain Temple",
+  "location": "Rajasthan, India",
+  "district": "Ranakpur",
+  "stateId": "rajasthan",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/ranakpur-jain-temple.webp",
+  "heroImage": "./assets/images/popular/ranakpur-jain-temple.webp",
+  "gallery": [
+    "./assets/images/popular/ranakpur-jain-temple.webp"
+  ],
+  "overview": "Experience the beauty of Ranakpur Jain Temple, a top destination in Rajasthan, India.",
+  "description": "Built in the 15th century, this Jain temple is dedicated to Tirthankara Adinatha and is renowned for its 1,444 intricately carved marble pillars.",
+  "rating": "4.3",
+  "reviewCount": 37972,
+  "popularityScore": 30,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "12:00 PM - 5:00 PM",
+  "entryFee": {
+    "indian": "₹50",
+    "foreigner": "₹200"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jodhpur / Jaisalmer / Jaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Ranakpur Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "90 km from Udaipur"
+  },
+  "tags": [
+    "spiritual",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3902
+    },
+    {
+      "views": 3207
+    }
+  ],
+  "nearbyPlaces": [
+    "kumbhalgarh-fort"
+  ]
+}

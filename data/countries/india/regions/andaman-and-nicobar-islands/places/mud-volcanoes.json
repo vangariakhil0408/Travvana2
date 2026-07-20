@@ -1,0 +1,20 @@
+{
+  "id": "mud-volcanoes",
+  "name": "Mud Volcanoes",
+  "city": "Baratang",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A fascinating and rare geological phenomenon where natural gases emitting from decaying organic matter underground force mud upwards, creating small, active bubbling craters.",
+  "history": "One of the few places in India where mud volcanoes can be witnessed, offering a stark geological contrast to the surrounding dense forests.",
+  "famousFor": "Active bubbling mud craters, rare geological site.",
+  "bestTime": "October to March",
+  "timings": "9:00 AM \u2013 5:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/mud-volcanoes.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/mud-volcanoes.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/mud-volcanoes.webp"
+  ],
+  "nearbyPlaces": [
+    "baratang-limestone-caves"
+  ]
+}

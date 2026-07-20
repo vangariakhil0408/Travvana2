@@ -1,0 +1,39 @@
+{
+  "id": "viper-island",
+  "name": "Viper Island",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A deeply historic and serene island that was used by the British to exile convicts before the Cellular Jail was built. The haunting ruins of the gallows still remain on a hillock.",
+  "history": "Named after the vessel 'Viper' in which Lt. Archibald Blair arrived here in 1789.",
+  "famousFor": "Historic gallows ruins, peaceful environment, harbor cruises.",
+  "bestTime": "October to May",
+  "timings": "9:00 AM \u2013 4:00 PM",
+  "entryFee": "Free (Boat cruise fee extra)",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/viper-island.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/viper-island.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+  ],
+  "nearbyPlaces": [
+    "long-island",
+    "mount-harriet-national-park",
+    "chatham-saw-mill",
+    "north-bay-island",
+    "cellular-jail",
+    "barren-island",
+    "saddle-peak",
+    "mahatma-gandhi-marine-national-park",
+    "mundapahad",
+    "samudrika-naval-marine-museum",
+    "wandoor-beach",
+    "ross-island",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "diglipur-town",
+    "aberdeen-bazaar",
+    "marina-park",
+    "corbyns-cove-beach",
+    "kalipur-beach",
+    "jolly-buoy-island"
+  ]
+}

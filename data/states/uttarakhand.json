@@ -1,0 +1,3676 @@
+{
+  "state": "Uttarakhand",
+  "capital": "Dehradun",
+  "description": "The 'Dev Bhoomi' (Land of Gods) — a breathtaking Himalayan state home to sacred Char Dham pilgrimages, pristine hill stations, mighty rivers, and some of India's finest national parks.",
+  "image": "assets/images/states/uttarakhand/uk-banner.webp",
+  "places": [
+    {
+      "name": "Badrinath",
+      "city": "Badrinath",
+      "category": "temples",
+      "distance": "301 km from Rishikesh",
+      "rating": 5,
+      "description": "One of the four sacred Char Dham temples, dedicated to Lord Vishnu. Set at 10,279 feet between the Nar and Narayana mountain ranges, the temple's hot springs (Tapt Kund) flow year-round despite sub-zero temperatures.",
+      "history": "Established by Adi Shankaracharya in the 8th century. The temple is mentioned in the Vedas and Puranas as Lord Vishnu's meditation abode.",
+      "famousFor": "Char Dham, Tapt Kund hot springs, Neelkanth peak views",
+      "bestTime": "May to November",
+      "timings": "4:30 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "badrinath",
+      "images": {
+        "main": "assets/images/popular/badrinath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mana Village",
+          "city": "Mana",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "mana-village",
+          "images": {
+            "main": "assets/images/states/uttarakhand/mana-village.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/mana-village.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "badrinath",
+      "district": "Chamoli",
+      "image": "assets/images/popular/badrinath-temple.webp",
+      "heroImage": "assets/images/popular/badrinath-temple.webp"
+    },
+    {
+      "name": "Kedarnath",
+      "city": "Kedarnath",
+      "category": "temples",
+      "distance": "223 km from Rishikesh",
+      "rating": 5,
+      "description": "One of the twelve Jyotirlingas and the highest of the Char Dham temples at 11,755 feet. Built from massive grey stone slabs, it miraculously survived the devastating 2013 Kedarnath floods while everything around it was destroyed.",
+      "history": "Built by the Pandavas and restored by Adi Shankaracharya in the 8th century. A massive boulder diverted the 2013 flood waters around the temple.",
+      "famousFor": "Jyotirlinga, 14 km trek, 2013 flood miracle",
+      "bestTime": "May to October",
+      "timings": "4:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "kedarnath",
+      "images": {
+        "main": "assets/images/popular/kedarnath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kedarnath Wildlife Sanctuary",
+          "city": "Rudraprayag",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "kedarnath-wildlife",
+          "images": {
+            "main": "assets/images/states/uttarakhand/kedarnath-wildlife-sanctuary.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/kedarnath-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "kedarnath",
+      "district": "Rudraprayag",
+      "image": "assets/images/popular/kedarnath-temple.webp",
+      "heroImage": "assets/images/popular/kedarnath-temple.webp"
+    },
+    {
+      "name": "Har Ki Pauri",
+      "city": "Haridwar",
+      "category": "heritage",
+      "distance": "Center of Haridwar",
+      "rating": 4.9,
+      "description": "The most sacred ghat in Haridwar where the Ganges leaves the mountains and enters the plains. The mesmerizing evening Ganga Aarti with thousands of floating diyas is one of the most powerful spiritual experiences in India.",
+      "history": "The footprint of Lord Vishnu is believed to be imprinted on a stone here. King Vikramaditya built the ghat in memory of his brother Bhartrihari.",
+      "famousFor": "Ganga Aarti, sacred Ganges dip, Kumbh Mela site",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7 (Aarti at 6-7 PM)",
+      "entryFee": "Free",
+      "slug": "haridwar-har-ki-pauri",
+      "images": {
+        "main": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mansa Devi Temple",
+          "city": "Haridwar",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "mansa-devi-haridwar",
+          "images": {
+            "main": "assets/images/states/uttarakhand/mansa-devi.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/mansa-devi.webp"
+        },
+        {
+          "name": "Rajaji National Park",
+          "city": "Haridwar",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "rajaji-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "haridwar-har-ki-pauri",
+      "district": "Haridwar",
+      "image": "assets/images/states/uttarakhand/har-ki-pauri.webp",
+      "heroImage": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+    },
+    {
+      "name": "Rishikesh",
+      "city": "Rishikesh",
+      "category": "heritage",
+      "distance": "24 km from Haridwar",
+      "rating": 4.9,
+      "description": "The 'Yoga Capital of the World' and 'Gateway to the Garhwal Himalayas'. Set along the emerald-green Ganges, it offers a unique blend of ancient ashrams, adrenaline-pumping adventure sports, and Beatles history.",
+      "history": "Where the Beatles stayed at Maharishi Mahesh Yogi's ashram in 1968, sparking a global yoga revolution. Ancient sages have meditated here for millennia.",
+      "famousFor": "Yoga capital, Laxman Jhula, white-water rafting",
+      "bestTime": "September to November, February to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rishikesh",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rishikesh.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Beatles Ashram",
+          "city": "Rishikesh",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "beatles-ashram",
+          "images": {
+            "main": "assets/images/states/uttarakhand/beatles-ashram.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/beatles-ashram.webp"
+        },
+        {
+          "name": "Tera Manzil Temple",
+          "city": "Rishikesh",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "tera-manzil-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tera-manzil.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tera-manzil.webp"
+        },
+        {
+          "name": "Rishikesh River Rafting",
+          "city": "Rishikesh",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "rishikesh-rafting",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "rishikesh",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/rishikesh.webp",
+      "heroImage": "assets/images/states/uttarakhand/rishikesh.webp"
+    },
+    {
+      "name": "Nainital",
+      "city": "Nainital",
+      "category": "hills",
+      "distance": "285 km from Delhi",
+      "rating": 4.8,
+      "description": "A stunning hill station built around the emerald-green, pear-shaped Naini Lake, surrounded by seven majestic hills. The charming Mall Road, vibrant boat rides, and cable car to Snow View Point make it irresistible.",
+      "history": "Named after the Goddess Naina Devi temple on the lake's northern shore. The British developed it as a hill station in 1841.",
+      "famousFor": "Naini Lake, Snow View cable car, Mall Road",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating ₹210)",
+      "slug": "nainital",
+      "images": {
+        "main": "assets/images/states/uttarakhand/nainital.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pangot",
+          "city": "Pangot",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "pangot",
+          "images": {
+            "main": "assets/images/states/uttarakhand/pangot.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/pangot.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "nainital",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/nainital.webp",
+      "heroImage": "assets/images/states/uttarakhand/nainital.webp"
+    },
+    {
+      "name": "Jim Corbett National Park",
+      "city": "Ramnagar",
+      "category": "wildlife",
+      "distance": "250 km from Delhi",
+      "rating": 4.9,
+      "description": "India's oldest and most prestigious national park, established in 1936. Spread across 520 sq km of dense sal forests, riverine belts, and grasslands, it is India's premier destination for spotting the Royal Bengal Tiger.",
+      "history": "Established in 1936 as Hailey National Park, it was the launching ground for Project Tiger in 1973. Named after legendary hunter-conservationist Jim Corbett.",
+      "famousFor": "Bengal Tigers, Project Tiger birthplace, Dhikala zone",
+      "bestTime": "November to June",
+      "timings": "6:00 AM – 6:00 PM (zone dependent)",
+      "entryFee": "₹250 + Safari charges",
+      "slug": "jim-corbett-national-park",
+      "images": {
+        "main": "assets/images/states/uttarakhand/jim-corbett-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jim Corbett Museum",
+          "city": "Kaladhungi",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "corbett-museum",
+          "images": {
+            "main": "assets/images/states/uttarakhand/jim-corbett-museum.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/jim-corbett-museum.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "jim-corbett-national-park",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/jim-corbett-national-park.webp",
+      "heroImage": "assets/images/states/uttarakhand/jim-corbett-national-park.webp"
+    },
+    {
+      "name": "Valley of Flowers National Park",
+      "city": "Govindghat",
+      "category": "nature",
+      "distance": "17 km trek from Govindghat",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage site — a breathtaking high-altitude Himalayan valley carpeted with over 600 species of wildflowers. The valley explodes in a riot of color during the monsoon blooming season.",
+      "history": "Discovered by British mountaineers Frank Smythe, Eric Shipton, and R.L. Holdsworth in 1931 during their return from an expedition to Mount Kamet.",
+      "famousFor": "UNESCO Heritage, 600+ wildflower species, monsoon blooms",
+      "bestTime": "July to September (peak bloom)",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹150 (Indians), ₹600 (Foreigners)",
+      "slug": "valley-of-flowers-national-park",
+      "images": {
+        "main": "assets/images/popular/valley-of-flowers.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hemkund Sahib",
+          "city": "Govindghat",
+          "distance": "6 km away",
+          "category": "temples",
+          "slug": "hemkund-sahib",
+          "images": {
+            "main": "assets/images/states/uttarakhand/hemkund-sahib.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/hemkund-sahib.webp"
+        },
+        {
+          "name": "Joshimath",
+          "city": "Joshimath",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "joshimath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/joshimath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/joshimath.webp"
+        },
+        {
+          "name": "Nanda Devi National Park",
+          "city": "Joshimath",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "nanda-devi-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/nanda-devi.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/nanda-devi.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "valley-of-flowers-national-park",
+      "district": "Chamoli",
+      "image": "assets/images/popular/valley-of-flowers.webp",
+      "heroImage": "assets/images/popular/valley-of-flowers.webp"
+    },
+    {
+      "name": "Auli",
+      "city": "Joshimath",
+      "category": "hills",
+      "distance": "16 km from Joshimath",
+      "rating": 4.8,
+      "description": "India's premier ski destination, set at 9,000-10,000 feet with spectacular panoramic views of Nanda Devi (India's 2nd highest peak), Kamet, and other Himalayan giants. Asia's longest cable car connects it to Joshimath.",
+      "history": "Used as a training ground by the Indian Army for high-altitude warfare. Developed for skiing by the government in the 1990s.",
+      "famousFor": "Skiing, Asia's longest gondola, Nanda Devi views",
+      "bestTime": "January to March (skiing), May to November (views)",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Skiing/Gondola extra)",
+      "slug": "auli",
+      "images": {
+        "main": "assets/images/states/uttarakhand/auli.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Joshimath",
+          "city": "Joshimath",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "joshimath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/joshimath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/joshimath.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "auli",
+      "district": "Chamoli",
+      "image": "assets/images/states/uttarakhand/auli.webp",
+      "heroImage": "assets/images/states/uttarakhand/auli.webp"
+    },
+    {
+      "name": "Gangotri",
+      "city": "Gangotri",
+      "category": "temples",
+      "distance": "100 km from Uttarkashi",
+      "rating": 4.8,
+      "description": "One of the four Char Dham temples, situated at 10,200 feet at the origin point of the sacred Ganges River (Bhagirathi). The white granite temple stands majestically against a backdrop of towering Himalayan peaks.",
+      "history": "Built by Gorkha General Amar Singh Thapa in the 18th century. According to legend, King Bhagirath meditated here to bring the Ganges to Earth.",
+      "famousFor": "Char Dham, origin of Ganges, Submerged Shivlinga",
+      "bestTime": "May to October",
+      "timings": "6:00 AM – 2:00 PM, 3:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "gangotri",
+      "images": {
+        "main": "assets/images/states/uttarakhand/gangotri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tapovan",
+          "city": "Uttarkashi",
+          "distance": "14 km trek",
+          "category": "nature",
+          "slug": "tapovan",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tapovan-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tapovan-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "gangotri",
+      "district": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/gangotri.webp",
+      "heroImage": "assets/images/states/uttarakhand/gangotri.webp"
+    },
+    {
+      "name": "Yamunotri",
+      "city": "Yamunotri",
+      "category": "temples",
+      "distance": "200 km from Uttarkashi",
+      "rating": 4.7,
+      "description": "The westernmost of the Char Dham temples, dedicated to Goddess Yamuna at 10,500 feet. Pilgrims cook rice and potatoes in the boiling Surya Kund hot spring and offer them as prasad.",
+      "history": "The current temple was built by Maharani Guleria of Jaipur in the 19th century. The original was destroyed by an earthquake.",
+      "famousFor": "Char Dham, Surya Kund hot spring, Divya Shila",
+      "bestTime": "May to October",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "yamunotri",
+      "images": {
+        "main": "assets/images/states/uttarakhand/yamunotri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Uttarkashi Vishwanath Temple",
+          "city": "Uttarkashi",
+          "distance": "Tourism circuit",
+          "category": "temples",
+          "slug": "uttarkashi-vishwanath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/uttarkashi-vishwanath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/uttarkashi-vishwanath.webp"
+        },
+        {
+          "name": "Harsil",
+          "city": "Harsil",
+          "distance": "Tourism circuit",
+          "category": "nature",
+          "slug": "harsil",
+          "images": {
+            "main": "assets/images/states/uttarakhand/harsil.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/harsil.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "yamunotri",
+      "district": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/yamunotri.webp",
+      "heroImage": "assets/images/states/uttarakhand/yamunotri.webp"
+    },
+    {
+      "name": "Robber's Cave",
+      "city": "Dehradun",
+      "category": "nature",
+      "distance": "8 km from Dehradun",
+      "rating": 4.5,
+      "description": "A stunning natural cave formation where a river stream mysteriously disappears underground and reappears 50 meters later. Visitors wade through ankle-deep water inside the narrow, towering rock corridor.",
+      "history": "Legend says it was used as a hideout by robbers during the British era, hence the name. The geological formation is a result of erosion through limestone.",
+      "famousFor": "Disappearing river, cave wading, natural rock corridor.",
+      "bestTime": "March to October",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "₹35",
+      "slug": "robbers-cave",
+      "images": {
+        "main": "assets/images/states/uttarakhand/robbers-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Forest Research Institute",
+          "city": "Dehradun",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "fri-dehradun",
+          "images": {
+            "main": "assets/images/states/uttarakhand/forest-research-institute.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/forest-research-institute.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "robbers-cave",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/robbers-cave.webp",
+      "heroImage": "assets/images/states/uttarakhand/robbers-cave.webp"
+    },
+    {
+      "name": "Ranikhet",
+      "city": "Ranikhet",
+      "category": "hills",
+      "distance": "60 km from Nainital",
+      "rating": 4.6,
+      "description": "A serene cantonment hill station offering uninterrupted 180-degree views of the snow-capped Himalayan range including Nanda Devi, Trishul, and Nanda Ghunti peaks. It is the headquarters of the Kumaon Regiment.",
+      "history": "The name means 'Queen's Meadow'. Legend says Queen Padmini of the Katyuri dynasty was so enchanted by the beauty that she chose to live here.",
+      "famousFor": "Himalayan panorama, Kumaon Regiment museum, Chaubatia orchards",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ranikhet",
+      "images": {
+        "main": "assets/images/states/uttarakhand/ranikhet.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "ranikhet",
+      "district": "Almora",
+      "image": "assets/images/states/uttarakhand/ranikhet.webp",
+      "heroImage": "assets/images/states/uttarakhand/ranikhet.webp"
+    },
+    {
+      "name": "Almora",
+      "city": "Almora",
+      "category": "hills",
+      "distance": "355 km from Delhi",
+      "rating": 4.6,
+      "description": "An ancient Kumaoni hill town shaped like a horse saddle, set on a ridge at 5,400 feet. It is the cultural heart of Kumaon, famous for its unique handicrafts, Bal Mithai sweets, and spectacular sunrise views.",
+      "history": "Founded by King Kalyan Chand of the Chand dynasty in 1568. Swami Vivekananda meditated here and called it one of the most inspiring places in India.",
+      "famousFor": "Sunrise from Bright End Corner, Bal Mithai, Kasar Devi temple",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "almora",
+      "images": {
+        "main": "assets/images/states/uttarakhand/almora.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "almora",
+      "district": "Almora",
+      "image": "assets/images/states/uttarakhand/almora.webp",
+      "heroImage": "assets/images/states/uttarakhand/almora.webp"
+    },
+    {
+      "name": "Rajaji National Park",
+      "city": "Haridwar",
+      "category": "wildlife",
+      "distance": "10 km from Haridwar",
+      "rating": 4.7,
+      "description": "A massive 820 sq km national park at the foothills of the Shivaliks, famous for its large elephant herds. It is one of the best parks in India for spotting wild elephants in their natural habitat.",
+      "history": "Named after C. Rajagopalachari, the last Governor-General of India. Formed in 1983 by merging three sanctuaries.",
+      "famousFor": "Asian elephants, tigers, jeep safaris",
+      "bestTime": "November to June",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹150 + Safari",
+      "slug": "rajaji-national-park",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Har Ki Pauri",
+          "city": "Haridwar",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "haridwar-har-ki-pauri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+        },
+        {
+          "name": "Mansa Devi Temple",
+          "city": "Haridwar",
+          "distance": "12 km away",
+          "category": "temples",
+          "slug": "mansa-devi-haridwar",
+          "images": {
+            "main": "assets/images/states/uttarakhand/mansa-devi.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/mansa-devi.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "rajaji-national-park",
+      "district": "Haridwar",
+      "image": "assets/images/states/uttarakhand/rajaji-national-park.webp",
+      "heroImage": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+    },
+    {
+      "name": "Lansdowne",
+      "city": "Lansdowne",
+      "category": "hills",
+      "distance": "250 km from Delhi",
+      "rating": 4.6,
+      "description": "One of the quietest and least commercialized hill stations in India, still maintained by the Indian Army (Garhwal Rifles). Dense oak and blue pine forests surround this peaceful cantonment town.",
+      "history": "Established by Lord Lansdowne in 1887 as a recruitment center for the Garhwal Rifles regiment.",
+      "famousFor": "Garhwal Rifles War Memorial, Bhulla Lake, Tip N Top viewpoint",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "lansdowne",
+      "images": {
+        "main": "assets/images/states/uttarakhand/lansdowne.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "lansdowne",
+      "district": "Pauri Garhwal",
+      "image": "assets/images/states/uttarakhand/lansdowne.webp",
+      "heroImage": "assets/images/states/uttarakhand/lansdowne.webp"
+    },
+    {
+      "name": "Mukteshwar",
+      "city": "Mukteshwar",
+      "category": "hills",
+      "distance": "50 km from Nainital",
+      "rating": 4.7,
+      "description": "A tranquil village at 7,500 feet famous for its 350-year-old Shiva temple perched on a cliff edge, offering jaw-dropping views of the entire Kumaon Himalayan range from Nanda Devi to Panchachuli.",
+      "history": "Named after the ancient Mukteshwar Dham temple. The IVRI (Indian Veterinary Research Institute) was established here by the British in 1893.",
+      "famousFor": "Mukteshwar Temple cliff, Chauli Ki Jali, 360-degree Himalayan views.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mukteshwar",
+      "images": {
+        "main": "assets/images/states/uttarakhand/mukteshwar.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "mukteshwar",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/mukteshwar.webp",
+      "heroImage": "assets/images/states/uttarakhand/mukteshwar.webp"
+    },
+    {
+      "name": "Binsar Wildlife Sanctuary",
+      "city": "Almora",
+      "category": "wildlife",
+      "distance": "30 km from Almora",
+      "rating": 4.7,
+      "description": "A pristine 45 sq km sanctuary set at 7,500 feet, offering one of the most spectacular 300 km panoramic views of the Himalayan range — from Kedarnath to Api in Nepal — from the Zero Point viewpoint.",
+      "history": "The former summer capital of the Chand dynasty kings of Kumaon. The ancient Bineshwar Mahadev temple still stands here.",
+      "famousFor": "300 km Himalayan panorama from Zero Point, oak-rhododendron forests.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹150",
+      "slug": "binsar-wildlife",
+      "images": {
+        "main": "assets/images/states/uttarakhand/binsar-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jageshwar Temples",
+          "city": "Jageshwar",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "jageshwar-temples",
+          "images": {
+            "main": "assets/images/states/uttarakhand/jageshwar-temples.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/jageshwar-temples.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "binsar-wildlife",
+      "district": "Almora",
+      "image": "assets/images/states/uttarakhand/binsar-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/uttarakhand/binsar-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Devprayag",
+      "city": "Devprayag",
+      "category": "heritage",
+      "distance": "70 km from Rishikesh",
+      "rating": 4.8,
+      "description": "The sacred confluence where the Alaknanda and Bhagirathi rivers merge to form the holy Ganges. The dramatically different colors of the two rivers create a stunning visual spectacle as they merge.",
+      "history": "One of the Panch Prayag (five sacred confluences) of the Garhwal Himalayas. The ancient Raghunath Temple here is one of the 108 Divya Desams.",
+      "famousFor": "Birth of the Ganges, two-colored river confluence, Raghunath Temple.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "devprayag",
+      "images": {
+        "main": "assets/images/states/uttarakhand/devprayag.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "devprayag",
+      "district": "Tehri Garhwal",
+      "image": "assets/images/states/uttarakhand/devprayag.webp",
+      "heroImage": "assets/images/states/uttarakhand/devprayag.webp"
+    },
+    {
+      "name": "Tera Manzil Temple",
+      "city": "Rishikesh",
+      "category": "temples",
+      "distance": "In Rishikesh",
+      "rating": 4.6,
+      "description": "A striking 13-story temple complex rising dramatically on the banks of the Ganges in Rishikesh. Each floor is dedicated to a different Hindu deity, making it one of the tallest temple structures in the region.",
+      "history": "Built in the 20th century, it has become one of the most iconic and photographed landmarks along the Rishikesh Ganges.",
+      "famousFor": "13-story structure, Ganges views from each level, multiple deity shrines.",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "tera-manzil-temple",
+      "images": {
+        "main": "assets/images/states/uttarakhand/tera-manzil.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rishikesh",
+          "city": "Rishikesh",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "rishikesh",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rishikesh.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rishikesh.webp"
+        },
+        {
+          "name": "Beatles Ashram",
+          "city": "Rishikesh",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "beatles-ashram",
+          "images": {
+            "main": "assets/images/states/uttarakhand/beatles-ashram.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/beatles-ashram.webp"
+        },
+        {
+          "name": "Rishikesh River Rafting",
+          "city": "Rishikesh",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "rishikesh-rafting",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "tera-manzil-temple",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/tera-manzil.webp",
+      "heroImage": "assets/images/states/uttarakhand/tera-manzil.webp"
+    },
+    {
+      "name": "Bhimtal",
+      "city": "Bhimtal",
+      "category": "nature",
+      "distance": "22 km from Nainital",
+      "rating": 4.6,
+      "description": "A stunning lake larger than Nainital's Naini Lake, featuring a unique island with an aquarium in its center. Much quieter and more peaceful than crowded Nainital, offering serene boating and lakeside walks.",
+      "history": "Named after Bhima of the Mahabharata, who is said to have created this lake. The island aquarium was added in recent decades.",
+      "famousFor": "Island aquarium, larger than Naini Lake, peaceful boating",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7 (Boating 7 AM - 6 PM)",
+      "entryFee": "Free (Boating ₹200)",
+      "slug": "bhimtal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/bhimtal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sattal",
+          "city": "Sattal",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "sattal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/sattal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/sattal.webp"
+        },
+        {
+          "name": "Naukuchiatal",
+          "city": "Naukuchiatal",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "naukuchiatal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/naukuchiatal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/naukuchiatal.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "bhimtal",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/bhimtal.webp",
+      "heroImage": "assets/images/states/uttarakhand/bhimtal.webp"
+    },
+    {
+      "name": "Kausani",
+      "city": "Kausani",
+      "category": "hills",
+      "distance": "51 km from Almora",
+      "rating": 4.8,
+      "description": "A tiny hamlet offering arguably the best panoramic views of the Himalayan range in all of India — a 350 km sweep from Trishul to Nanda Devi to Panchachuli. Mahatma Gandhi called it the 'Switzerland of India'.",
+      "history": "Gandhi spent 14 days here in 1929 at the Anasakti Ashram and was so moved by its beauty that he wrote his commentary on the Bhagavad Gita here.",
+      "famousFor": "350 km Himalayan panorama, Gandhi's 'Switzerland of India', Anasakti Ashram",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kausani",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kausani.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baijnath Temple",
+          "city": "Baijnath",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "baijnath-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/baijnath-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/baijnath-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "kausani",
+      "district": "Bageshwar",
+      "image": "assets/images/states/uttarakhand/kausani.webp",
+      "heroImage": "assets/images/states/uttarakhand/kausani.webp"
+    },
+    {
+      "name": "Roopkund",
+      "city": "Lohajung",
+      "category": "nature",
+      "distance": "Trek from Lohajung",
+      "rating": 4.8,
+      "description": "A mysterious glacial lake at 16,500 feet famous for containing hundreds of ancient human skeletons visible at its bottom when the ice melts. It is one of the most fascinating and eerie trekking destinations in the Himalayas.",
+      "history": "The skeletons date to around 850 CE. DNA analysis reveals they were likely pilgrims killed by a sudden, violent hailstorm.",
+      "famousFor": "Ancient human skeletons, high-altitude trek, Himalayan meadows",
+      "bestTime": "May to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "roopkund",
+      "images": {
+        "main": "assets/images/states/uttarakhand/roopkund.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "roopkund",
+      "district": "Chamoli",
+      "image": "assets/images/states/uttarakhand/roopkund.webp",
+      "heroImage": "assets/images/states/uttarakhand/roopkund.webp"
+    },
+    {
+      "name": "Jageshwar Temples",
+      "city": "Jageshwar",
+      "category": "temples",
+      "distance": "35 km from Almora",
+      "rating": 4.8,
+      "description": "A magnificent cluster of 124 ancient stone temples nestled in a dense deodar forest valley. The temples span from the 7th to 14th century and are considered one of the twelve Jyotirlinga sites by some traditions.",
+      "history": "The oldest temples date to the Katyuri dynasty (7th-9th century). The complex represents one of the finest examples of Nagara-style temple architecture in North India.",
+      "famousFor": "124 stone temples, ancient deodar forest, Nagara architecture",
+      "bestTime": "March to June, September to November",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "jageshwar-temples",
+      "images": {
+        "main": "assets/images/states/uttarakhand/jageshwar-temples.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Binsar Wildlife Sanctuary",
+          "city": "Almora",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "binsar-wildlife",
+          "images": {
+            "main": "assets/images/states/uttarakhand/binsar-wildlife-sanctuary.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/binsar-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "jageshwar-temples",
+      "district": "Almora",
+      "image": "assets/images/states/uttarakhand/jageshwar-temples.webp",
+      "heroImage": "assets/images/states/uttarakhand/jageshwar-temples.webp"
+    },
+    {
+      "name": "George Everest House",
+      "city": "Mussoorie",
+      "category": "heritage",
+      "distance": "6 km from Mussoorie",
+      "rating": 4.6,
+      "description": "The ruins of the hilltop laboratory and house of Sir George Everest — the Surveyor General of India after whom Mount Everest was named. It offers stunning 360-degree views of the Doon Valley and the snow-capped peaks.",
+      "history": "Sir George Everest used this as his geodetic laboratory for the Great Trigonometrical Survey of India (1830-1843), which accurately measured the world's tallest peak.",
+      "famousFor": "360-degree views, Mount Everest history, sunset point",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "george-everest-house",
+      "images": {
+        "main": "assets/images/states/uttarakhand/george-everest-house.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "george-everest-house",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/george-everest-house.webp",
+      "heroImage": "assets/images/states/uttarakhand/george-everest-house.webp"
+    },
+    {
+      "name": "Patal Bhuvaneshwar",
+      "city": "Gangolihat",
+      "category": "heritage",
+      "distance": "90 km from Pithoragarh",
+      "rating": 4.7,
+      "description": "An awe-inspiring underground limestone cave temple descending 90 feet below the earth's surface. Inside, natural stalactite and stalagmite formations eerily resemble Hindu deities, animals, and mythological scenes.",
+      "history": "According to the Skanda Purana, the cave was discovered by King Rituparna of the Surya Dynasty. Adi Shankaracharya is believed to have visited and prayed here.",
+      "famousFor": "Underground cave temple, natural stalactite deities, 90-foot descent.",
+      "bestTime": "March to June, September to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "patal-bhuvaneshwar",
+      "images": {
+        "main": "assets/images/states/uttarakhand/patal-bhuvaneshwar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chaukori",
+          "city": "Chaukori",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "chaukori",
+          "images": {
+            "main": "assets/images/states/uttarakhand/chaukori.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/chaukori.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "patal-bhuvaneshwar",
+      "district": "Pithoragarh",
+      "image": "assets/images/states/uttarakhand/patal-bhuvaneshwar.webp",
+      "heroImage": "assets/images/states/uttarakhand/patal-bhuvaneshwar.webp"
+    },
+    {
+      "name": "Rishikesh River Rafting",
+      "city": "Rishikesh",
+      "category": "nature",
+      "distance": "In Rishikesh",
+      "rating": 4.8,
+      "description": "World-class Grade III and IV white-water rafting on the crystal-clear Ganges through deep gorges flanked by forested mountains. Routes range from 9 km (beginner) to 36 km (extreme) with rapids like 'The Wall', 'Golf Course', and 'Roller Coaster'.",
+      "history": "Introduced commercially in the 1990s, Rishikesh has grown into India's undisputed adventure sports capital.",
+      "famousFor": "Grade III-IV rapids, 9-36 km routes, cliff jumping",
+      "bestTime": "September to November, March to May",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹1000-2500 (depending on route)",
+      "slug": "rishikesh-rafting",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rishikesh",
+          "city": "Rishikesh",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "rishikesh",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rishikesh.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rishikesh.webp"
+        },
+        {
+          "name": "Tera Manzil Temple",
+          "city": "Rishikesh",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "tera-manzil-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tera-manzil.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tera-manzil.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "rishikesh-rafting",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp",
+      "heroImage": "assets/images/states/uttarakhand/rishikesh-river-rafting.webp"
+    },
+    {
+      "name": "Munsiyari",
+      "city": "Munsiyari",
+      "category": "hills",
+      "distance": "128 km from Pithoragarh",
+      "rating": 4.7,
+      "description": "A remote, stunningly beautiful hill station at 7,200 feet offering front-row views of the massive Panchachuli peaks (five peaks resembling five cooking hearths of the Pandavas). It is the gateway to the Milam Glacier trek.",
+      "history": "Historically a major trade route between India and Tibet. The Johar Valley traders (Bhotiya people) used this as their base for cross-border commerce.",
+      "famousFor": "Panchachuli peak views, Milam Glacier trek, Khaliya Top",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "munsiyari",
+      "images": {
+        "main": "assets/images/states/uttarakhand/munsiyari.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "munsiyari",
+      "district": "Pithoragarh",
+      "image": "assets/images/states/uttarakhand/munsiyari.webp",
+      "heroImage": "assets/images/states/uttarakhand/munsiyari.webp"
+    },
+    {
+      "name": "Har Ki Dun",
+      "city": "Sankri",
+      "category": "nature",
+      "distance": "Trek from Sankri",
+      "rating": 4.8,
+      "description": "A cradle-shaped hanging valley at 11,675 feet surrounded by ancient moraines and snow-capped peaks. It is one of the few places in India where you can see the rare Brahma Kamal flower blooming in the wild.",
+      "history": "According to the Mahabharata, this is the valley through which the Pandavas ascended to heaven (Swargarohini peak). Local Osla village still follows ancient customs.",
+      "famousFor": "Pandava legend, Swargarohini views, Brahma Kamal",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Forest permit ₹150",
+      "slug": "har-ki-dun",
+      "images": {
+        "main": "assets/images/states/uttarakhand/har-ki-dun.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Govind Wildlife Sanctuary",
+          "city": "Sankri",
+          "distance": "Inside sanctuary",
+          "category": "wildlife",
+          "slug": "govind-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/uttarakhand/govind-wildlife-sanctuary.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/govind-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "har-ki-dun",
+      "district": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/har-ki-dun.webp",
+      "heroImage": "assets/images/states/uttarakhand/har-ki-dun.webp"
+    },
+    {
+      "name": "Nanda Devi National Park",
+      "city": "Joshimath",
+      "category": "wildlife",
+      "distance": "280 km from Rishikesh",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage site centered around the Nanda Devi peak (7,816m), India's second highest mountain. This 630 sq km biosphere is one of the most spectacular wilderness areas in the Himalayas, home to snow leopards, Himalayan musk deer, and bharal.",
+      "history": "Declared a UNESCO Heritage site in 1988. The entire basin was closed to mountaineering and trekking from 1983 to 2003 to protect its fragile ecosystem.",
+      "famousFor": "UNESCO Heritage, snow leopards, Nanda Devi peak",
+      "bestTime": "May to October",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "₹600 (Indians)",
+      "slug": "nanda-devi-national-park",
+      "images": {
+        "main": "assets/images/states/uttarakhand/nanda-devi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Valley of Flowers National Park",
+          "city": "Govindghat",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "valley-of-flowers-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "nanda-devi-national-park",
+      "district": "Chamoli",
+      "image": "assets/images/states/uttarakhand/nanda-devi.webp",
+      "heroImage": "assets/images/states/uttarakhand/nanda-devi.webp"
+    },
+    {
+      "name": "Tehri Dam",
+      "city": "New Tehri",
+      "category": "nature",
+      "distance": "85 km from Rishikesh",
+      "rating": 4.6,
+      "description": "One of the tallest dams in the world at 260 meters, built across the Bhagirathi River. The massive turquoise reservoir lake offers thrilling water sports including jet skiing, speed boating, and kayaking amidst the Himalayan foothills.",
+      "history": "Completed in 2006 after decades of construction. The old Tehri town was submerged and a new town built on higher ground.",
+      "famousFor": "Tallest dam in India, water sports, turquoise reservoir",
+      "bestTime": "March to June, September to November",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Water sports extra)",
+      "slug": "tehri-dam",
+      "images": {
+        "main": "assets/images/states/uttarakhand/tehri-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "tehri-dam",
+      "district": "Tehri Garhwal",
+      "image": "assets/images/states/uttarakhand/tehri-dam.webp",
+      "heroImage": "assets/images/states/uttarakhand/tehri-dam.webp"
+    },
+    {
+      "name": "Beatles Ashram",
+      "city": "Rishikesh",
+      "category": "heritage",
+      "distance": "In Rishikesh",
+      "rating": 4.7,
+      "description": "The legendary abandoned ashram of Maharishi Mahesh Yogi where the Beatles stayed in 1968 to learn Transcendental Meditation. The crumbling meditation domes are now covered in stunning graffiti art and surrounded by reclaimed jungle.",
+      "history": "The Beatles (John, Paul, George, Ringo) spent several weeks here, composing most of the White Album. The ashram was abandoned in the 1990s and reopened as a heritage site in 2015.",
+      "famousFor": "Beatles history, meditation domes, graffiti art",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹150 (Indians), ₹600 (Foreigners)",
+      "slug": "beatles-ashram",
+      "images": {
+        "main": "assets/images/states/uttarakhand/beatles-ashram.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rishikesh",
+          "city": "Rishikesh",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "rishikesh",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rishikesh.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rishikesh.webp"
+        },
+        {
+          "name": "Tera Manzil Temple",
+          "city": "Rishikesh",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "tera-manzil-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tera-manzil.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tera-manzil.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "beatles-ashram",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/beatles-ashram.webp",
+      "heroImage": "assets/images/states/uttarakhand/beatles-ashram.webp"
+    },
+    {
+      "name": "Neelkanth Mahadev Temple",
+      "city": "Rishikesh",
+      "category": "temples",
+      "distance": "30 km from Rishikesh",
+      "rating": 4.8,
+      "description": "A highly revered Shiva temple set deep in the Garhwal forests at 4,500 feet. According to legend, this is the exact spot where Lord Shiva consumed the deadly poison (Halahala) during the Samudra Manthan, turning his throat blue (Neelkanth).",
+      "history": "Ancient temple rebuilt multiple times. The current colorful structure features elaborate carvings depicting the Samudra Manthan on its facade.",
+      "famousFor": "Halahala legend, forest setting, Samudra Manthan carvings",
+      "bestTime": "Year-round (except monsoon)",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "neelkanth-mahadev",
+      "images": {
+        "main": "assets/images/states/uttarakhand/neelkanth-mahadev-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "neelkanth-mahadev",
+      "district": "Pauri Garhwal",
+      "image": "assets/images/states/uttarakhand/neelkanth-mahadev-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/neelkanth-mahadev-temple.webp"
+    },
+    {
+      "name": "Dhanaulti",
+      "city": "Dhanaulti",
+      "category": "hills",
+      "distance": "24 km from Mussoorie",
+      "rating": 4.6,
+      "description": "A pristine, uncrowded hill station at 7,500 feet surrounded by dense deodar and oak forests. Its Eco Park features two stunning parks — Amber and Dhara — with crystal-clear Himalayan views including Bandarpunch peak.",
+      "history": "Developed as an eco-tourism alternative to overcrowded Mussoorie. The Surkanda Devi Temple nearby dates back centuries.",
+      "famousFor": "Eco Parks, Surkanda Devi Temple, snow-covered peaks",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "₹20 (Eco Park)",
+      "slug": "dhanaulti",
+      "images": {
+        "main": "assets/images/states/uttarakhand/dhanaulti.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanatal",
+          "city": "Kanatal",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "kanatal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/kanatal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/kanatal.webp"
+        },
+        {
+          "name": "Surkanda Devi Temple",
+          "city": "Dhanaulti",
+          "distance": "8 km away",
+          "category": "temples",
+          "slug": "surkanda-devi-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "dhanaulti",
+      "district": "Tehri Garhwal",
+      "image": "assets/images/states/uttarakhand/dhanaulti.webp",
+      "heroImage": "assets/images/states/uttarakhand/dhanaulti.webp"
+    },
+    {
+      "name": "Mansa Devi Temple",
+      "city": "Haridwar",
+      "category": "temples",
+      "distance": "3 km from Haridwar center",
+      "rating": 4.7,
+      "description": "A powerful Shakti Peetha temple perched on the Bilwa Parvat hilltop, reached by an exciting cable car ride. Devotees tie sacred threads (mannat) to the temple tree believing their wishes will be granted.",
+      "history": "One of the Siddh Peethas where wishes are believed to come true. The temple has been a major pilgrimage destination for centuries.",
+      "famousFor": "Wish-granting temple, cable car ride, panoramic Haridwar views",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 7:00 PM",
+      "entryFee": "Free (Cable car ₹132)",
+      "slug": "mansa-devi-haridwar",
+      "images": {
+        "main": "assets/images/states/uttarakhand/mansa-devi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Har Ki Pauri",
+          "city": "Haridwar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "haridwar-har-ki-pauri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/har-ki-pauri.webp"
+        },
+        {
+          "name": "Rajaji National Park",
+          "city": "Haridwar",
+          "distance": "12 km away",
+          "category": "wildlife",
+          "slug": "rajaji-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/rajaji-national-park.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "mansa-devi-haridwar",
+      "district": "Haridwar",
+      "image": "assets/images/states/uttarakhand/mansa-devi.webp",
+      "heroImage": "assets/images/states/uttarakhand/mansa-devi.webp"
+    },
+    {
+      "name": "Dayara Bugyal",
+      "city": "Uttarkashi",
+      "category": "nature",
+      "distance": "30 km from Uttarkashi",
+      "rating": 4.8,
+      "description": "One of the highest and most beautiful alpine meadows in India, spread across a vast green carpet at 10,000-12,000 feet. In winter, it transforms into a stunning snow-covered landscape perfect for skiing.",
+      "history": "Traditionally used by the Gujjar and Bakerwal pastoral communities for summer grazing. Recently opened for winter skiing by the tourism department.",
+      "famousFor": "Vast alpine meadows, winter skiing, Himalayan panoramas",
+      "bestTime": "May to June (meadows), December to February (snow/skiing)",
+      "timings": "Open 24/7",
+      "entryFee": "Forest permit ₹150",
+      "slug": "dayara-bugyal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/dayara-bugyal.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "dayara-bugyal",
+      "district": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/dayara-bugyal.webp",
+      "heroImage": "assets/images/states/uttarakhand/dayara-bugyal.webp"
+    },
+    {
+      "name": "Baijnath Temple",
+      "city": "Baijnath",
+      "category": "temples",
+      "distance": "20 km from Kausani",
+      "rating": 4.7,
+      "description": "A beautifully preserved 12th-century Shiva temple featuring exquisite Nagara-style architecture and intricate stone carvings. Set on the banks of the Gomti River with the Himalayan range as its backdrop.",
+      "history": "Built in 1204 AD by two local merchants, Ahuka and Manyuka, during the Katyuri dynasty era. The temple has been in continuous worship for over 800 years.",
+      "famousFor": "12th-century Nagara architecture, intricate carvings, Gomti River setting.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "baijnath-temple",
+      "images": {
+        "main": "assets/images/states/uttarakhand/baijnath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kausani",
+          "city": "Kausani",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "kausani",
+          "images": {
+            "main": "assets/images/states/uttarakhand/kausani.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/kausani.webp"
+        },
+        {
+          "name": "Bagnath Temple",
+          "city": "Bageshwar",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "bagnath-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/bagnath-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/bagnath-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "baijnath-temple",
+      "district": "Bageshwar",
+      "image": "assets/images/states/uttarakhand/baijnath-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/baijnath-temple.webp"
+    },
+    {
+      "name": "Chakrata",
+      "city": "Chakrata",
+      "category": "hills",
+      "distance": "90 km from Dehradun",
+      "rating": 4.6,
+      "description": "A quiet, off-beat cantonment hill station at 7,000 feet maintained by the Indian Army. It features the spectacular Tiger Falls — the highest direct waterfall in Uttarakhand at 312 feet — and pristine Deoban forests.",
+      "history": "Established by the British as a cantonment town in 1869. The nearby Lakhamandal has ancient Shiva temples believed to be the site of the Mahabharata's Lakshagriha.",
+      "famousFor": "Tiger Falls (312 ft), Deoban forests, Chilmiri Neck viewpoint",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chakrata",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chakrata.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "chakrata",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/chakrata.webp",
+      "heroImage": "assets/images/states/uttarakhand/chakrata.webp"
+    },
+    {
+      "name": "Chaukori",
+      "city": "Chaukori",
+      "category": "hills",
+      "distance": "180 km from Nainital",
+      "rating": 4.7,
+      "description": "A tiny, incredibly serene hamlet at 6,500 feet surrounded by manicured tea gardens offering 360-degree views of the Himalayan giants — Nanda Devi, Nanda Kot, Panchachuli, and Chaukhamba — from sunrise to sunset.",
+      "history": "Developed as a tea estate during the British colonial era. It remains one of the most untouched viewpoints in the Kumaon Himalayas.",
+      "famousFor": "360-degree Himalayan views, tea gardens, sunrise-sunset spectacle.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chaukori",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chaukori.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Patal Bhuvaneshwar",
+          "city": "Gangolihat",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "patal-bhuvaneshwar",
+          "images": {
+            "main": "assets/images/states/uttarakhand/patal-bhuvaneshwar.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/patal-bhuvaneshwar.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "chaukori",
+      "district": "Pithoragarh",
+      "image": "assets/images/states/uttarakhand/chaukori.webp",
+      "heroImage": "assets/images/states/uttarakhand/chaukori.webp"
+    },
+    {
+      "name": "Forest Research Institute",
+      "city": "Dehradun",
+      "category": "heritage",
+      "distance": "Center of Dehradun",
+      "rating": 4.7,
+      "description": "A jaw-droppingly grand colonial-era building spread over 450 hectares, housing Asia's largest forestry research institute. Its Greco-Roman architecture with towering colonnades, arched corridors, and manicured gardens rivals any European palace.",
+      "history": "Built between 1924 and 1929 during the British Raj. The building is over 450 meters long and its central tower rises to 95 feet. It was established as the Imperial Forest Research Institute in 1906.",
+      "famousFor": "Stunning colonial architecture, 6 museums, botanical garden",
+      "bestTime": "Year-round",
+      "timings": "9:30 AM – 5:00 PM (Closed Sundays)",
+      "entryFee": "₹40",
+      "slug": "fri-dehradun",
+      "images": {
+        "main": "assets/images/states/uttarakhand/forest-research-institute.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Robber's Cave",
+          "city": "Dehradun",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "robbers-cave",
+          "images": {
+            "main": "assets/images/states/uttarakhand/robbers-cave.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/robbers-cave.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "fri-dehradun",
+      "district": "Dehradun",
+      "image": "assets/images/states/uttarakhand/forest-research-institute.webp",
+      "heroImage": "assets/images/states/uttarakhand/forest-research-institute.webp"
+    },
+    {
+      "name": "Rudraprayag",
+      "city": "Rudraprayag",
+      "category": "heritage",
+      "distance": "140 km from Rishikesh",
+      "rating": 4.7,
+      "description": "One of the five sacred Panch Prayag confluences where the Alaknanda and Mandakini rivers merge dramatically. The ancient Rudranath Temple on the riverbank marks the spot where Lord Shiva appeared as Rudra.",
+      "history": "Part of the sacred Panch Prayag circuit. It was also made famous by Jim Corbett's account of the man-eating Leopard of Rudraprayag.",
+      "famousFor": "Panch Prayag confluence, Rudranath Temple, Koteshwar Mahadev",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rudraprayag",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rudraprayag.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "rudraprayag",
+      "district": "Rudraprayag",
+      "image": "assets/images/states/uttarakhand/rudraprayag.webp",
+      "heroImage": "assets/images/states/uttarakhand/rudraprayag.webp"
+    },
+    {
+      "name": "Champawat",
+      "city": "Champawat",
+      "category": "heritage",
+      "distance": "75 km from Pithoragarh",
+      "rating": 4.6,
+      "description": "The ancient capital of the mighty Chand dynasty, featuring the stunning Baleshwar Temple complex — a masterpiece of Kumaoni stone architecture with incredibly intricate carvings that rival Khajuraho.",
+      "history": "Capital of the Chand kings from the 10th to 16th century before they shifted to Almora. The Baleshwar Temple was built by Raja Balo Kalyan Chand.",
+      "famousFor": "Baleshwar Temple carvings, Chand dynasty capital, Ek Hathiya Ka Naula.",
+      "bestTime": "March to June, September to November",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "champawat",
+      "images": {
+        "main": "assets/images/states/uttarakhand/champawat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lohaghat",
+          "city": "Lohaghat",
+          "distance": "14 km away",
+          "category": "heritage",
+          "slug": "lohaghat",
+          "images": {
+            "main": "assets/images/states/uttarakhand/lohaghat.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/lohaghat.webp"
+        },
+        {
+          "name": "Abbott Mount",
+          "city": "Abbott Mount",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "abbott-mount",
+          "images": {
+            "main": "assets/images/states/uttarakhand/abbott-mount.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/abbott-mount.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "champawat",
+      "district": "Champawat",
+      "image": "assets/images/states/uttarakhand/champawat.webp",
+      "heroImage": "assets/images/states/uttarakhand/champawat.webp"
+    },
+    {
+      "name": "Naukuchiatal",
+      "city": "Naukuchiatal",
+      "category": "nature",
+      "distance": "26 km from Nainital",
+      "rating": 4.6,
+      "description": "A deeply serene nine-cornered lake surrounded by dense oak forests — the deepest lake in the Kumaon region at 40 meters. It is far less crowded than Nainital and famous for paragliding and kayaking.",
+      "history": "The name means 'lake of nine corners'. Local legend says that anyone who sees all nine corners simultaneously will attain moksha (liberation).",
+      "famousFor": "Deepest Kumaon lake, nine corners, paragliding",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Activities extra)",
+      "slug": "naukuchiatal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/naukuchiatal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhimtal",
+          "city": "Bhimtal",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "bhimtal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/bhimtal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/bhimtal.webp"
+        },
+        {
+          "name": "Sattal",
+          "city": "Sattal",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "sattal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/sattal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/sattal.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "naukuchiatal",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/naukuchiatal.webp",
+      "heroImage": "assets/images/states/uttarakhand/naukuchiatal.webp"
+    },
+    {
+      "name": "Uttarkashi Vishwanath Temple",
+      "city": "Uttarkashi",
+      "category": "temples",
+      "distance": "155 km from Rishikesh",
+      "rating": 4.7,
+      "description": "An ancient and highly revered Shiva temple that mirrors the Kashi Vishwanath Temple of Varanasi. A massive iron trident (Shakti Trident) stands outside, believed to have been planted by Goddess Durga after slaying demons.",
+      "history": "Built over 1,000 years ago, Uttarkashi (literally 'Kashi of the North') is the northern equivalent of Varanasi as a center of Hindu learning and pilgrimage.",
+      "famousFor": "Kashi of the North, massive Shakti Trident, Char Dham stopover.",
+      "bestTime": "May to October",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "uttarkashi-vishwanath",
+      "images": {
+        "main": "assets/images/states/uttarakhand/uttarkashi-vishwanath.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Yamunotri",
+          "city": "Yamunotri",
+          "distance": "Tourism circuit",
+          "category": "temples",
+          "slug": "yamunotri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/yamunotri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/yamunotri.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "uttarkashi-vishwanath",
+      "district": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/uttarkashi-vishwanath.webp",
+      "heroImage": "assets/images/states/uttarakhand/uttarkashi-vishwanath.webp"
+    },
+    {
+      "name": "Bagnath Temple",
+      "city": "Bageshwar",
+      "category": "temples",
+      "distance": "90 km from Almora",
+      "rating": 4.6,
+      "description": "An ancient Shiva temple set at the sacred confluence of the Saryu and Gomti rivers. The town serves as the gateway to the famous Pindari, Kafni, and Sunderdhunga glacier treks.",
+      "history": "Built during the 7th century Katyuri dynasty. The annual Uttarayani Mela held here is one of the largest and oldest fairs in Kumaon.",
+      "famousFor": "Saryu-Gomti confluence, gateway to glacier treks, Uttarayani Mela.",
+      "bestTime": "January (Mela) or March to June",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "bagnath-temple",
+      "images": {
+        "main": "assets/images/states/uttarakhand/bagnath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baijnath Temple",
+          "city": "Baijnath",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "baijnath-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/baijnath-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/baijnath-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "bagnath-temple",
+      "district": "Bageshwar",
+      "image": "assets/images/states/uttarakhand/bagnath-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/bagnath-temple.webp"
+    },
+    {
+      "name": "Pangot",
+      "city": "Pangot",
+      "category": "nature",
+      "distance": "15 km from Nainital",
+      "rating": 4.6,
+      "description": "A paradise for birdwatchers, this tiny hamlet is home to over 580 species of birds including the elusive Himalayan rubythroat, koklass pheasant, and lammergeier. Dense oak and rhododendron forests add to its pristine charm.",
+      "history": "Identified by ornithologists as one of the richest bird habitats in the Western Himalayas due to its altitude range spanning multiple ecological zones.",
+      "famousFor": "580+ bird species, birdwatching, untouched forests",
+      "bestTime": "October to March (migratory birds)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pangot",
+      "images": {
+        "main": "assets/images/states/uttarakhand/pangot.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nainital",
+          "city": "Nainital",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "nainital",
+          "images": {
+            "main": "assets/images/states/uttarakhand/nainital.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/nainital.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "pangot",
+      "district": "Nainital",
+      "image": "assets/images/states/uttarakhand/pangot.webp",
+      "heroImage": "assets/images/states/uttarakhand/pangot.webp"
+    },
+    {
+      "name": "Kanatal",
+      "city": "Kanatal",
+      "category": "hills",
+      "distance": "38 km from Mussoorie",
+      "rating": 4.5,
+      "description": "A tiny, offbeat hamlet at 8,500 feet offering a peaceful escape from crowded hill stations. It is famous for apple orchards, adventure camping, and the nearby Kodia Jungle trek through dense forests.",
+      "history": "Named after a lake ('Kanatal') that once existed here but has since dried up. The village has recently emerged as a premium camping and glamping destination.",
+      "famousFor": "Adventure camping, apple orchards, Kodia Jungle trek",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kanatal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kanatal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhanaulti",
+          "city": "Dhanaulti",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "dhanaulti",
+          "images": {
+            "main": "assets/images/states/uttarakhand/dhanaulti.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/dhanaulti.webp"
+        },
+        {
+          "name": "Surkanda Devi Temple",
+          "city": "Dhanaulti",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "surkanda-devi-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "kanatal",
+      "district": "Tehri Garhwal",
+      "image": "assets/images/states/uttarakhand/kanatal.webp",
+      "heroImage": "assets/images/states/uttarakhand/kanatal.webp"
+    },
+    {
+      "name": "Chopta",
+      "city": "Chopta",
+      "district": "Rudraprayag",
+      "category": "nature",
+      "distance": "200 km from Rishikesh",
+      "rating": 4.8,
+      "description": "Known as the 'Mini Switzerland of India', Chopta is a pristine alpine meadow at 8,790 feet offering mesmerizing views of the Himalayan peaks including Trishul, Nanda Devi, and Chaukhamba. It serves as the base camp for the iconic Tungnath-Chandrashila trek.",
+      "history": "Chopta has been a seasonal grazing ground for centuries. It gained tourism fame as a trekking base and is now one of the most popular weekend destinations in Garhwal.",
+      "famousFor": "Mini Switzerland, Tungnath trek base, alpine meadows, Himalayan panorama",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "chopta",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chopta.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tungnath",
+          "city": "Chopta",
+          "distance": "3.5 km trek",
+          "category": "temples",
+          "slug": "tungnath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tungnath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tungnath.webp"
+        },
+        {
+          "name": "Kartik Swami Temple",
+          "city": "Kanakchauri",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "kartik-swami-temple",
+          "images": {
+            "main": "assets/images/states/uttarakhand/kartik-swami-temple.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/kartik-swami-temple.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "chopta",
+      "image": "assets/images/states/uttarakhand/chopta.webp",
+      "heroImage": "assets/images/states/uttarakhand/chopta.webp"
+    },
+    {
+      "name": "Tungnath",
+      "city": "Chopta",
+      "district": "Rudraprayag",
+      "category": "temples",
+      "distance": "3.5 km trek from Chopta",
+      "rating": 4.9,
+      "description": "The highest Shiva temple in the world at 12,073 feet and one of the five sacred Panch Kedar temples. The ancient stone temple is perched on a windswept ridge with staggering views of the greater Himalayan range stretching to infinity.",
+      "history": "Believed to have been built by the Pandavas over 1,000 years ago to atone for killing their kinsmen in the Mahabharata war. It is the third of the Panch Kedar temples.",
+      "famousFor": "Highest Shiva temple in the world, Panch Kedar, 360-degree Himalayan views",
+      "bestTime": "April to November (closed in winter due to snow)",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "tungnath",
+      "images": {
+        "main": "assets/images/states/uttarakhand/tungnath.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chopta",
+          "city": "Chopta",
+          "distance": "3.5 km trek",
+          "category": "nature",
+          "slug": "chopta",
+          "images": {
+            "main": "assets/images/states/uttarakhand/chopta.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/chopta.webp"
+        },
+        {
+          "name": "Chandrashila",
+          "city": "Chopta",
+          "distance": "1.5 km trek",
+          "category": "nature",
+          "slug": "chandrashila",
+          "images": {
+            "main": "assets/images/states/uttarakhand/chandrashila.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/chandrashila.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "tungnath",
+      "image": "assets/images/states/uttarakhand/tungnath.webp",
+      "heroImage": "assets/images/states/uttarakhand/tungnath.webp"
+    },
+    {
+      "name": "Chandrashila",
+      "city": "Chopta",
+      "district": "Rudraprayag",
+      "category": "nature",
+      "distance": "5 km trek from Chopta (1.5 km beyond Tungnath)",
+      "rating": 4.9,
+      "description": "A stunning summit peak at 13,000 feet offering one of the most breathtaking 360-degree panoramic views in the Himalayas. On a clear day, you can see Nanda Devi, Trishul, Kedar Peak, Chaukhamba, and even distant peaks in Nepal and Tibet.",
+      "history": "According to legend, Lord Rama meditated here after defeating Ravana in the epic Ramayana. The name means 'Moon Rock' in Sanskrit.",
+      "famousFor": "360-degree Himalayan sunrise, legendary meditation site, summit trek",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7 (daylight trek recommended)",
+      "entryFee": "Free",
+      "slug": "chandrashila",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chandrashila.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tungnath",
+          "city": "Chopta",
+          "distance": "1.5 km trek",
+          "category": "temples",
+          "slug": "tungnath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/tungnath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/tungnath.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "chandrashila",
+      "image": "assets/images/states/uttarakhand/chandrashila.webp",
+      "heroImage": "assets/images/states/uttarakhand/chandrashila.webp"
+    },
+    {
+      "name": "Hemkund Sahib",
+      "city": "Govindghat",
+      "district": "Chamoli",
+      "category": "temples",
+      "distance": "19 km trek from Govindghat",
+      "rating": 4.9,
+      "description": "One of the holiest Sikh shrines in the world, a stunning gurudwara set beside a glacial lake at 15,200 feet surrounded by seven snow-capped peaks. Guru Gobind Singh is believed to have meditated here in a previous life.",
+      "history": "Mentioned in the Dasam Granth by Guru Gobind Singh as the place where he meditated and merged with God. Rediscovered in 1930 by Havildar Sohan Singh.",
+      "famousFor": "Highest gurudwara in the world, glacial lake, spiritual significance",
+      "bestTime": "June to October (closed rest of year due to snow)",
+      "timings": "4:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "hemkund-sahib",
+      "images": {
+        "main": "assets/images/states/uttarakhand/hemkund-sahib.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Valley of Flowers National Park",
+          "city": "Govindghat",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "valley-of-flowers-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "hemkund-sahib",
+      "image": "assets/images/states/uttarakhand/hemkund-sahib.webp",
+      "heroImage": "assets/images/states/uttarakhand/hemkund-sahib.webp"
+    },
+    {
+      "name": "Joshimath",
+      "city": "Joshimath",
+      "district": "Chamoli",
+      "category": "heritage",
+      "distance": "250 km from Rishikesh",
+      "rating": 4.7,
+      "description": "A sacred town at 6,150 feet serving as the winter seat of Lord Badri and the gateway to Badrinath, Auli, and the Valley of Flowers. It is one of the four cardinal 'maths' established by Adi Shankaracharya.",
+      "history": "Established by Adi Shankaracharya in the 8th century as Jyotirmath, one of the four monastic institutions of Hinduism. Home to the famed Kalpavriksha (wish-fulfilling tree).",
+      "famousFor": "Gateway to Badrinath and Auli, Shankaracharya Math, Narsingh Temple",
+      "bestTime": "May to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "joshimath",
+      "images": {
+        "main": "assets/images/states/uttarakhand/joshimath.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Auli",
+          "city": "Joshimath",
+          "distance": "16 km away",
+          "category": "hills",
+          "slug": "auli",
+          "images": {
+            "main": "assets/images/states/uttarakhand/auli.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/auli.webp"
+        },
+        {
+          "name": "Valley of Flowers National Park",
+          "city": "Govindghat",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "valley-of-flowers-national-park",
+          "images": {
+            "main": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/valley-of-flowers.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "joshimath",
+      "image": "assets/images/states/uttarakhand/joshimath.webp",
+      "heroImage": "assets/images/states/uttarakhand/joshimath.webp"
+    },
+    {
+      "name": "Sattal",
+      "city": "Sattal",
+      "district": "Nainital",
+      "category": "nature",
+      "distance": "23 km from Nainital",
+      "rating": 4.7,
+      "description": "A hidden cluster of seven interconnected freshwater lakes surrounded by dense oak and pine forests. A paradise for birdwatchers with over 500 species recorded, far more peaceful and pristine than crowded Nainital.",
+      "history": "The seven lakes — Panna, Nal Damyanti, Sita, Ram, Laxman, Purna, and Sookha — derive their names from Indian mythology. The area was a favored retreat of the Methodist Church.",
+      "famousFor": "Seven interconnected lakes, 500+ bird species, kayaking, forest trails",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sattal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/sattal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhimtal",
+          "city": "Bhimtal",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "bhimtal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/bhimtal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/bhimtal.webp"
+        },
+        {
+          "name": "Naukuchiatal",
+          "city": "Naukuchiatal",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "naukuchiatal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/naukuchiatal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/naukuchiatal.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "sattal",
+      "image": "assets/images/states/uttarakhand/sattal.webp",
+      "heroImage": "assets/images/states/uttarakhand/sattal.webp"
+    },
+    {
+      "name": "Rudranath",
+      "city": "Gopeshwar",
+      "district": "Chamoli",
+      "category": "temples",
+      "distance": "24 km trek from Sagar village",
+      "rating": 4.8,
+      "description": "One of the sacred Panch Kedar temples at 7,451 feet, dedicated to Lord Shiva's face (Neelkanth form). The remote trek through alpine meadows, rhododendron forests, and past the stunning Panar Bugyal makes it one of the most rewarding pilgrimages in the Himalayas.",
+      "history": "According to legend, the Pandavas found Shiva's face here while searching for him through the Himalayas. It is the fourth of the Panch Kedar temples.",
+      "famousFor": "Panch Kedar, remote Himalayan trek, Panar Bugyal meadows",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rudranath",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rudranath.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "rudranath",
+      "image": "assets/images/states/uttarakhand/rudranath.webp",
+      "heroImage": "assets/images/states/uttarakhand/rudranath.webp"
+    },
+    {
+      "name": "Kalpeshwar",
+      "city": "Urgam",
+      "district": "Chamoli",
+      "category": "temples",
+      "distance": "12 km from Helang (near Joshimath)",
+      "rating": 4.6,
+      "description": "The only Panch Kedar temple accessible year-round, set in a small limestone cave reached through a beautiful narrow valley. Lord Shiva's matted locks (jata) are worshipped here in a rock formation inside the cave.",
+      "history": "The fifth and final Panch Kedar temple, where the Pandavas worshipped Shiva's hair. The Urgam Valley surrounding it is known for its medicinal herbs and ancient traditions.",
+      "famousFor": "Year-round Panch Kedar access, cave temple, Urgam Valley",
+      "bestTime": "Year-round (best March to November)",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "kalpeshwar",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kalpeshwar.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "kalpeshwar",
+      "image": "assets/images/states/uttarakhand/kalpeshwar.webp",
+      "heroImage": "assets/images/states/uttarakhand/kalpeshwar.webp"
+    },
+    {
+      "name": "Khirsu",
+      "city": "Khirsu",
+      "district": "Pauri Garhwal",
+      "category": "hills",
+      "distance": "19 km from Pauri",
+      "rating": 4.5,
+      "description": "An untouched, serene hill station at 5,500 feet offering spectacular unobstructed views of the snow-capped Himalayan range including Bandarpunch, Kedarnath, and Chaukhamba peaks. Dense forests of oak, deodar, and pine surround this peaceful haven.",
+      "history": "Historically a quiet village in the Pauri Garhwal hills. The Uttarakhand Tourism Department developed it as an eco-tourism destination as an alternative to crowded hill stations.",
+      "famousFor": "Panoramic Himalayan views, virgin forests, complete solitude, Ghandiyal Devta Temple",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "khirsu",
+      "images": {
+        "main": "assets/images/states/uttarakhand/khirsu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pauri",
+          "city": "Pauri",
+          "distance": "19 km away",
+          "category": "heritage",
+          "slug": "pauri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/pauri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/pauri.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "khirsu",
+      "image": "assets/images/states/uttarakhand/khirsu.webp",
+      "heroImage": "assets/images/states/uttarakhand/khirsu.webp"
+    },
+    {
+      "name": "Abbott Mount",
+      "city": "Abbott Mount",
+      "district": "Champawat",
+      "category": "hills",
+      "distance": "8 km from Lohaghat",
+      "rating": 4.5,
+      "description": "A tiny, mysterious colonial hill station at 6,400 feet consisting of only 12 original bungalows built by British missionaries in 1903. It offers stunning views of the Panchachuli peaks and harbors legends of haunted houses and a peculiar church.",
+      "history": "Founded by John Harold Abbott, an English businessman, in 1903. The Abbott Church and original bungalows still stand, giving it a uniquely preserved colonial atmosphere.",
+      "famousFor": "Colonial heritage, 12 original bungalows, Panchachuli views, Abbott Church",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "abbott-mount",
+      "images": {
+        "main": "assets/images/states/uttarakhand/abbott-mount.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lohaghat",
+          "city": "Lohaghat",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "lohaghat",
+          "images": {
+            "main": "assets/images/states/uttarakhand/lohaghat.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/lohaghat.webp"
+        },
+        {
+          "name": "Champawat",
+          "city": "Champawat",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "champawat",
+          "images": {
+            "main": "assets/images/states/uttarakhand/champawat.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/champawat.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "abbott-mount",
+      "image": "assets/images/states/uttarakhand/abbott-mount.webp",
+      "heroImage": "assets/images/states/uttarakhand/abbott-mount.webp"
+    },
+    {
+      "name": "Harsil",
+      "city": "Harsil",
+      "district": "Uttarkashi",
+      "category": "nature",
+      "distance": "73 km from Uttarkashi",
+      "rating": 4.8,
+      "description": "A breathtakingly beautiful village on the banks of the Bhagirathi River at 7,860 feet, surrounded by towering Himalayan cedars and apple orchards. Bollywood's famous 'Ram Teri Ganga Maili' was filmed in this paradise-like setting.",
+      "history": "Originally a British retreat. Frederick 'Pahari' Wilson, a legendary British settler, established apple orchards and timber trade here in the 19th century.",
+      "famousFor": "Bhagirathi River, apple orchards, Bollywood filming location, pristine beauty",
+      "bestTime": "May to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "harsil",
+      "images": {
+        "main": "assets/images/states/uttarakhand/harsil.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Yamunotri",
+          "city": "Yamunotri",
+          "distance": "Tourism circuit",
+          "category": "temples",
+          "slug": "yamunotri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/yamunotri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/yamunotri.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "harsil",
+      "image": "assets/images/states/uttarakhand/harsil.webp",
+      "heroImage": "assets/images/states/uttarakhand/harsil.webp"
+    },
+    {
+      "name": "Mana Village",
+      "city": "Mana",
+      "district": "Chamoli",
+      "category": "heritage",
+      "distance": "3 km from Badrinath",
+      "rating": 4.7,
+      "description": "The last Indian village before the Tibetan border, perched at 11,200 feet. This fascinating Indo-Tibetan village features the mythical Bhim Pul (a massive rock bridge said to have been placed by Bhima), the Saraswati River's last visible point, and Vyasa's Cave where the Mahabharata was written.",
+      "history": "According to legend, the sage Vyasa dictated the Mahabharata to Lord Ganesha in a cave here. The village's Indo-Tibetan Bhotiya people have lived here for centuries, trading across the border.",
+      "famousFor": "Last Indian village, Bhim Pul, Vyasa Cave, Saraswati River origin",
+      "bestTime": "May to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mana-village",
+      "images": {
+        "main": "assets/images/states/uttarakhand/mana-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Badrinath",
+          "city": "Badrinath",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "badrinath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/badrinath.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/badrinath.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "mana-village",
+      "image": "assets/images/states/uttarakhand/mana-village.webp",
+      "heroImage": "assets/images/states/uttarakhand/mana-village.webp"
+    },
+    {
+      "name": "Lohaghat",
+      "city": "Lohaghat",
+      "district": "Champawat",
+      "category": "heritage",
+      "distance": "14 km from Champawat",
+      "rating": 4.4,
+      "description": "A peaceful town on the banks of the Lohawati River, serving as a gateway to Abbott Mount and the Mayawati Ashram (Advaita Ashrama). The surrounding dense forests of oak and rhododendron make it a perfect retreat from the noise of popular hill stations.",
+      "history": "Historically significant in the Kumaon Kingdom. The Advaita Ashrama at nearby Mayawati was founded by Swami Vivekananda in 1899 for spiritual practice and publishing.",
+      "famousFor": "Gateway to Abbott Mount, Mayawati Ashram, Lohawati River, peaceful forests",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "lohaghat",
+      "images": {
+        "main": "assets/images/states/uttarakhand/lohaghat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Abbott Mount",
+          "city": "Abbott Mount",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "abbott-mount",
+          "images": {
+            "main": "assets/images/states/uttarakhand/abbott-mount.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/abbott-mount.webp"
+        },
+        {
+          "name": "Champawat",
+          "city": "Champawat",
+          "distance": "14 km away",
+          "category": "heritage",
+          "slug": "champawat",
+          "images": {
+            "main": "assets/images/states/uttarakhand/champawat.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/champawat.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "lohaghat",
+      "image": "assets/images/states/uttarakhand/lohaghat.webp",
+      "heroImage": "assets/images/states/uttarakhand/lohaghat.webp"
+    },
+    {
+      "name": "Birthi Falls",
+      "city": "Munsiyari",
+      "district": "Pithoragarh",
+      "category": "nature",
+      "distance": "35 km from Munsiyari",
+      "rating": 4.5,
+      "description": "A spectacular 126-meter waterfall cascading down a sheer cliff face into a rocky gorge on the route to Munsiyari. The falls are most impressive during monsoon when they transform into a thundering white curtain of water.",
+      "history": "Named after the nearby Birthi village. The waterfall has been a natural landmark on the ancient trade route to Munsiyari and the Milam Valley for centuries.",
+      "famousFor": "126m cascade, scenic mountain drive, monsoon spectacle",
+      "bestTime": "July to October (monsoon peak), March to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "birthi-falls",
+      "images": {
+        "main": "assets/images/states/uttarakhand/birthi-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "birthi-falls",
+      "image": "assets/images/states/uttarakhand/birthi-falls.webp",
+      "heroImage": "assets/images/states/uttarakhand/birthi-falls.webp"
+    },
+    {
+      "name": "Govind Wildlife Sanctuary",
+      "city": "Sankri",
+      "district": "Uttarkashi",
+      "category": "wildlife",
+      "distance": "210 km from Dehradun",
+      "rating": 4.7,
+      "description": "A 953 sq km alpine sanctuary in the upper Tons Valley, protecting snow leopards, musk deer, and blue sheep (bharal) in a landscape ranging from dense forests to high-altitude glaciers. It encompasses the Har Ki Dun and Ruinsara trekking trails.",
+      "history": "Established in 1955 to protect the Himalayan wildlife of the upper Tons basin. Named after Govind Ballabh Pant, the first Chief Minister of Uttar Pradesh.",
+      "famousFor": "Snow leopards, alpine treks, Har Ki Dun base, Tons River source",
+      "bestTime": "April to June, September to November",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹150 + trek permit",
+      "slug": "govind-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/uttarakhand/govind-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Har Ki Dun",
+          "city": "Sankri",
+          "distance": "Inside sanctuary",
+          "category": "nature",
+          "slug": "har-ki-dun",
+          "images": {
+            "main": "assets/images/states/uttarakhand/har-ki-dun.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/har-ki-dun.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "govind-wildlife-sanctuary",
+      "image": "assets/images/states/uttarakhand/govind-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/uttarakhand/govind-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Askot Wildlife Sanctuary",
+      "city": "Askot",
+      "district": "Pithoragarh",
+      "category": "wildlife",
+      "distance": "54 km from Pithoragarh",
+      "rating": 4.4,
+      "description": "A 600 sq km sanctuary established primarily for the conservation of the endangered Himalayan musk deer. Set in the remote Kumaon Himalayas, it offers stunning views of the Panchachuli peaks and shelters snow leopards, bharal, and Himalayan black bears.",
+      "history": "Established in 1986 to protect the rapidly declining population of Himalayan musk deer. The sanctuary spans altitudes from 600m to 5,000m across diverse ecological zones.",
+      "famousFor": "Musk deer conservation, Panchachuli views, remote wilderness",
+      "bestTime": "March to June, September to November",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹150",
+      "slug": "askot-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/uttarakhand/askot-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "askot-wildlife-sanctuary",
+      "image": "assets/images/states/uttarakhand/askot-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/uttarakhand/askot-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Adi Kailash",
+      "city": "Gunji",
+      "district": "Pithoragarh",
+      "category": "nature",
+      "distance": "230 km from Pithoragarh",
+      "rating": 4.9,
+      "description": "A sacred mountain at 6,191 meters that strikingly resembles Mount Kailash in Tibet, revered as an equally holy abode of Lord Shiva. The trek to its base camp through remote Indo-Tibetan border villages is one of the most adventurous and spiritually significant journeys in India.",
+      "history": "Also known as Chota Kailash (Little Kailash), it has been a sacred pilgrimage for centuries. For devotees unable to reach the actual Mount Kailash in Tibet, Adi Kailash offers an equally powerful darshan.",
+      "famousFor": "Sacred Shiva mountain, Mount Kailash replica, Indo-Tibet border trek",
+      "bestTime": "June to October",
+      "timings": "Open 24/7",
+      "entryFee": "Inner Line Permit required",
+      "slug": "adi-kailash",
+      "images": {
+        "main": "assets/images/states/uttarakhand/adi-kailash.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Om Parvat",
+          "city": "Gunji",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "om-parvat",
+          "images": {
+            "main": "assets/images/states/uttarakhand/om-parvat.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/om-parvat.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "adi-kailash",
+      "image": "assets/images/states/uttarakhand/adi-kailash.webp",
+      "heroImage": "assets/images/states/uttarakhand/adi-kailash.webp"
+    },
+    {
+      "name": "Om Parvat",
+      "city": "Gunji",
+      "district": "Pithoragarh",
+      "category": "nature",
+      "distance": "Viewable from Jyolingkong (near Adi Kailash)",
+      "rating": 4.8,
+      "description": "A mysterious peak where the snow naturally forms the sacred 'OM' symbol (ॐ) on its face, visible from multiple viewpoints. This natural geological phenomenon is considered a divine miracle and attracts pilgrims and trekkers alike.",
+      "history": "The natural Om formation has been revered for centuries. The peak lies on the India-Nepal border and is part of the Adi Kailash pilgrimage circuit. The formation persists across seasons, reforming each year.",
+      "famousFor": "Natural Om snow formation, sacred viewpoint, Adi Kailash circuit",
+      "bestTime": "June to October",
+      "timings": "Open 24/7",
+      "entryFee": "Inner Line Permit required",
+      "slug": "om-parvat",
+      "images": {
+        "main": "assets/images/states/uttarakhand/om-parvat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Adi Kailash",
+          "city": "Gunji",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "adi-kailash",
+          "images": {
+            "main": "assets/images/states/uttarakhand/adi-kailash.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/adi-kailash.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "om-parvat",
+      "image": "assets/images/states/uttarakhand/om-parvat.webp",
+      "heroImage": "assets/images/states/uttarakhand/om-parvat.webp"
+    },
+    {
+      "name": "Surkanda Devi Temple",
+      "city": "Dhanaulti",
+      "district": "Tehri Garhwal",
+      "category": "temples",
+      "distance": "8 km from Dhanaulti",
+      "rating": 4.6,
+      "description": "A powerful Shakti Peetha temple perched at 10,000 feet on a hilltop offering sweeping 360-degree views of the snow-capped Himalayan range. A short 2 km trek through dense deodar forest leads to this ancient temple where Goddess Sati's head is believed to have fallen.",
+      "history": "One of the 51 Shakti Peethas, where body parts of Goddess Sati fell during Lord Shiva's Tandava. The 'head' (sir) fell here, giving it the name Surkanda (from 'sir-khanda').",
+      "famousFor": "Shakti Peetha, 360-degree Himalayan views, Ganga Dussehra festival",
+      "bestTime": "March to June, September to November",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "surkanda-devi-temple",
+      "images": {
+        "main": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhanaulti",
+          "city": "Dhanaulti",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "dhanaulti",
+          "images": {
+            "main": "assets/images/states/uttarakhand/dhanaulti.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/dhanaulti.webp"
+        },
+        {
+          "name": "Kanatal",
+          "city": "Kanatal",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "kanatal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/kanatal.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/kanatal.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "surkanda-devi-temple",
+      "image": "assets/images/states/uttarakhand/surkanda-devi-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/surkanda-devi-temple.webp"
+    },
+    {
+      "name": "Kartik Swami Temple",
+      "city": "Kanakchauri",
+      "district": "Rudraprayag",
+      "category": "temples",
+      "distance": "40 km from Rudraprayag",
+      "rating": 4.7,
+      "description": "A spectacular hilltop temple dedicated to Lord Kartikeya (Shiva's son) at 10,000 feet, reached by a scenic 3 km trek. The summit offers jaw-dropping close-up views of the Himalayan giants — Kedarnath, Chaukhamba, Bandarpunch, and Kedar Dome.",
+      "history": "According to legend, Lord Kartikeya meditated here after a disagreement with his parents. The temple is one of the very few dedicated to Kartikeya in North India.",
+      "famousFor": "Close-up Himalayan views, hilltop temple, scenic trek, sunrise point",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kartik-swami-temple",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kartik-swami-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chopta",
+          "city": "Chopta",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "chopta",
+          "images": {
+            "main": "assets/images/states/uttarakhand/chopta.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/chopta.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "kartik-swami-temple",
+      "image": "assets/images/states/uttarakhand/kartik-swami-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/kartik-swami-temple.webp"
+    },
+    {
+      "name": "Tapovan",
+      "city": "Uttarkashi",
+      "district": "Uttarkashi",
+      "category": "nature",
+      "distance": "14 km from Gangotri",
+      "rating": 4.7,
+      "description": "A stunning alpine meadow at 14,600 feet situated just above the Gaumukh glacier — the true source of the Ganges. The lush green meadow contrasts dramatically with the surrounding glaciers and the towering Shivling peak (6,543m), considered the most beautiful mountain in India.",
+      "history": "Named 'Tapovan' (place of penance), where ancient sages performed severe austerities. The meadow is considered one of the most sacred meditation sites in the Himalayas.",
+      "famousFor": "Shivling peak views, above Gaumukh glacier, alpine meadow, spiritual significance",
+      "bestTime": "May to June, September to October",
+      "timings": "Open 24/7",
+      "entryFee": "Forest permit ₹150",
+      "slug": "tapovan",
+      "images": {
+        "main": "assets/images/states/uttarakhand/tapovan-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gangotri",
+          "city": "Gangotri",
+          "distance": "14 km trek",
+          "category": "temples",
+          "slug": "gangotri",
+          "images": {
+            "main": "assets/images/states/uttarakhand/gangotri.webp"
+          },
+          "state": "Uttarakhand",
+          "image": "assets/images/states/uttarakhand/gangotri.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "id": "tapovan",
+      "image": "assets/images/states/uttarakhand/tapovan-temple.webp",
+      "heroImage": "assets/images/states/uttarakhand/tapovan-temple.webp"
+    },
+    {
+      "name": "Pithoragarh",
+      "city": "Pithoragarh",
+      "district": "Pithoragarh",
+      "category": "heritage",
+      "distance": "480 km from Delhi",
+      "rating": 4.5,
+      "description": "A picturesque town set in the Soar Valley — also called 'Little Kashmir' — surrounded by mountains and offering views of the Panchachuli peaks. The town features historic Pithoragarh Fort ruins and serves as the gateway to the Adi Kailash and Om Parvat pilgrimages.",
+      "history": "Named after King Pithor, who ruled the region during the Pal dynasty. The town has been an important trade center on the ancient route between India and Tibet for centuries.",
+      "famousFor": "Little Kashmir, Pithoragarh Fort, Adi Kailash gateway, Soar Valley views",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pithoragarh",
+      "images": {
+        "main": "assets/images/states/uttarakhand/pithoragarh.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Uttarakhand",
+      "id": "pithoragarh",
+      "image": "assets/images/states/uttarakhand/pithoragarh.webp",
+      "heroImage": "assets/images/states/uttarakhand/pithoragarh.webp"
+    },
+    {
+      "id": "madhyamaheshwar",
+      "slug": "madhyamaheshwar",
+      "name": "Madhyamaheshwar",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "city": "Ukhimath",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/madhyamaheshwar.webp"
+      },
+      "image": "assets/images/states/uttarakhand/madhyamaheshwar.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/madhyamaheshwar.webp"
+    },
+    {
+      "id": "yogdhyan-badri",
+      "slug": "yogdhyan-badri",
+      "name": "Yogdhyan Badri",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Pandukeshwar",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/yogdhyan-badri.webp"
+      },
+      "image": "assets/images/states/uttarakhand/yogdhyan-badri.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/yogdhyan-badri.webp"
+    },
+    {
+      "id": "bhavishya-badri",
+      "slug": "bhavishya-badri",
+      "name": "Bhavishya Badri",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Joshimath",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/bhavishya-badri.webp"
+      },
+      "image": "assets/images/states/uttarakhand/bhavishya-badri.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/bhavishya-badri.webp"
+    },
+    {
+      "id": "adi-badri",
+      "slug": "adi-badri",
+      "name": "Adi Badri",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Karnaprayag",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/adi-badri.webp"
+      },
+      "image": "assets/images/states/uttarakhand/adi-badri.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/adi-badri.webp"
+    },
+    {
+      "id": "vriddha-badri",
+      "slug": "vriddha-badri",
+      "name": "Vriddha Badri",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Animath",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/vriddha-badri.webp"
+      },
+      "image": "assets/images/states/uttarakhand/vriddha-badri.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/vriddha-badri.webp"
+    },
+    {
+      "id": "khurpatal",
+      "slug": "khurpatal",
+      "name": "Khurpatal",
+      "state": "Uttarakhand",
+      "district": "Nainital",
+      "city": "Nainital",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/khurpatal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/khurpatal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/khurpatal.webp"
+    },
+    {
+      "id": "deoria-tal",
+      "slug": "deoria-tal",
+      "name": "Deoria Tal",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "city": "Sari",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/deoria-tal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/deoria-tal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/deoria-tal.webp"
+    },
+    {
+      "id": "dodital",
+      "slug": "dodital",
+      "name": "Dodital",
+      "state": "Uttarakhand",
+      "district": "Uttarkashi",
+      "city": "Uttarkashi",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/dodital.webp"
+      },
+      "image": "assets/images/states/uttarakhand/dodital.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/dodital.webp"
+    },
+    {
+      "id": "vasuki-tal",
+      "slug": "vasuki-tal",
+      "name": "Vasuki Tal",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "city": "Kedarnath",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/vasuki-tal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/vasuki-tal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/vasuki-tal.webp"
+    },
+    {
+      "id": "sonanadi",
+      "slug": "sonanadi",
+      "name": "Sonanadi Wildlife Sanctuary",
+      "state": "Uttarakhand",
+      "district": "Pauri Garhwal",
+      "city": "Kotdwar",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/sonanadi-wildlife-sanctuary.webp"
+      },
+      "image": "assets/images/states/uttarakhand/sonanadi-wildlife-sanctuary.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/sonanadi-wildlife-sanctuary.webp"
+    },
+    {
+      "id": "brahmatal",
+      "slug": "brahmatal",
+      "name": "Brahmatal",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Lohajung",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/brahmatal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/brahmatal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/brahmatal.webp"
+    },
+    {
+      "id": "kuari-pass",
+      "slug": "kuari-pass",
+      "name": "Kuari Pass",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Joshimath",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kuari-pass.webp"
+      },
+      "image": "assets/images/states/uttarakhand/kuari-pass.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/kuari-pass.webp"
+    },
+    {
+      "id": "nag-tibba",
+      "slug": "nag-tibba",
+      "name": "Nag Tibba",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Mussoorie",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/nag-tibba.webp"
+      },
+      "image": "assets/images/states/uttarakhand/nag-tibba.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/nag-tibba.webp"
+    },
+    {
+      "id": "rupin-pass",
+      "slug": "rupin-pass",
+      "name": "Rupin Pass",
+      "state": "Uttarakhand",
+      "district": "Uttarkashi",
+      "city": "Sankri",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/rupin-pass.webp"
+      },
+      "image": "assets/images/states/uttarakhand/rupin-pass.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/rupin-pass.webp"
+    },
+    {
+      "id": "pindari-glacier",
+      "slug": "pindari-glacier",
+      "name": "Pindari Glacier",
+      "state": "Uttarakhand",
+      "district": "Bageshwar",
+      "city": "Khati",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/pindari-glacier.webp"
+      },
+      "image": "assets/images/states/uttarakhand/pindari-glacier.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/pindari-glacier.webp"
+    },
+    {
+      "id": "milam-glacier",
+      "slug": "milam-glacier",
+      "name": "Milam Glacier",
+      "state": "Uttarakhand",
+      "district": "Pithoragarh",
+      "city": "Munsiyari",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/milam-glacier.webp"
+      },
+      "image": "assets/images/states/uttarakhand/milam-glacier.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/milam-glacier.webp"
+    },
+    {
+      "id": "gaumukh",
+      "slug": "gaumukh",
+      "name": "Gaumukh",
+      "state": "Uttarakhand",
+      "district": "Uttarkashi",
+      "city": "Gangotri",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/gaumukh.webp"
+      },
+      "image": "assets/images/states/uttarakhand/gaumukh.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/gaumukh.webp"
+    },
+    {
+      "id": "satopanth",
+      "slug": "satopanth",
+      "name": "Satopanth",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Badrinath",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/satopanth.webp"
+      },
+      "image": "assets/images/states/uttarakhand/satopanth.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/satopanth.webp"
+    },
+    {
+      "id": "ali-bedni-bugyal",
+      "slug": "ali-bedni-bugyal",
+      "name": "Ali Bedni Bugyal",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Lohajung",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/ali-bedni-bugyal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/ali-bedni-bugyal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/ali-bedni-bugyal.webp"
+    },
+    {
+      "id": "kafni-glacier",
+      "slug": "kafni-glacier",
+      "name": "Kafni Glacier",
+      "state": "Uttarakhand",
+      "district": "Bageshwar",
+      "city": "Khati",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kafni-glacier.webp"
+      },
+      "image": "assets/images/states/uttarakhand/kafni-glacier.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/kafni-glacier.webp"
+    },
+    {
+      "id": "sunderdhunga",
+      "slug": "sunderdhunga",
+      "name": "Sunderdhunga",
+      "state": "Uttarakhand",
+      "district": "Bageshwar",
+      "city": "Khati",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/sunderdhunga.webp"
+      },
+      "image": "assets/images/states/uttarakhand/sunderdhunga.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/sunderdhunga.webp"
+    },
+    {
+      "id": "dokriani",
+      "slug": "dokriani",
+      "name": "Dokriani",
+      "state": "Uttarakhand",
+      "district": "Uttarkashi",
+      "city": "Bhatwari",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/dokriani.webp"
+      },
+      "image": "assets/images/states/uttarakhand/dokriani.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/dokriani.webp"
+    },
+    {
+      "id": "gorson-bugyal",
+      "slug": "gorson-bugyal",
+      "name": "Gorson Bugyal",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Auli",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/gorson-bugyal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/gorson-bugyal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/gorson-bugyal.webp"
+    },
+    {
+      "id": "panwali-kantha",
+      "slug": "panwali-kantha",
+      "name": "Panwali Kantha",
+      "state": "Uttarakhand",
+      "district": "Tehri Garhwal",
+      "city": "Ghansali",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/panwali-kantha.webp"
+      },
+      "image": "assets/images/states/uttarakhand/panwali-kantha.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/panwali-kantha.webp"
+    },
+    {
+      "id": "kempty-falls",
+      "slug": "kempty-falls",
+      "name": "Kempty Falls",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Mussoorie",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kempty-falls.webp"
+      },
+      "image": "assets/images/states/uttarakhand/kempty-falls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/kempty-falls.webp"
+    },
+    {
+      "id": "bhatta-falls",
+      "slug": "bhatta-falls",
+      "name": "Bhatta Falls",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Mussoorie",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/bhatta-falls.webp"
+      },
+      "image": "assets/images/states/uttarakhand/bhatta-falls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/bhatta-falls.webp"
+    },
+    {
+      "id": "tiger-falls",
+      "slug": "tiger-falls",
+      "name": "Tiger Falls",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Chakrata",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/tiger-falls.webp"
+      },
+      "image": "assets/images/states/uttarakhand/tiger-falls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/tiger-falls.webp"
+    },
+    {
+      "id": "vasudhara-falls",
+      "slug": "vasudhara-falls",
+      "name": "Vasudhara Falls",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Badrinath",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/vasudhara-falls.webp"
+      },
+      "image": "assets/images/states/uttarakhand/vasudhara-falls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/vasudhara-falls.webp"
+    },
+    {
+      "id": "neer-garh",
+      "slug": "neer-garh",
+      "name": "Neer Garh",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Rishikesh",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/neer-garh-waterfall.webp"
+      },
+      "image": "assets/images/states/uttarakhand/neer-garh-waterfall.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/neer-garh-waterfall.webp"
+    },
+    {
+      "id": "jharipani-falls",
+      "slug": "jharipani-falls",
+      "name": "Jharipani Falls",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Mussoorie",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/jharipani-falls.webp"
+      },
+      "image": "assets/images/states/uttarakhand/jharipani-falls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/jharipani-falls.webp"
+    },
+    {
+      "id": "dhari-devi",
+      "slug": "dhari-devi",
+      "name": "Dhari Devi",
+      "state": "Uttarakhand",
+      "district": "Pauri Garhwal",
+      "city": "Srinagar",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/dhari-devi-temple.webp"
+      },
+      "image": "assets/images/states/uttarakhand/dhari-devi-temple.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/dhari-devi-temple.webp"
+    },
+    {
+      "id": "kainchi-dham",
+      "slug": "kainchi-dham",
+      "name": "Kainchi Dham",
+      "state": "Uttarakhand",
+      "district": "Nainital",
+      "city": "Bhowali",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/kainchi-dham.webp"
+      },
+      "image": "assets/images/states/uttarakhand/kainchi-dham.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/kainchi-dham.webp"
+    },
+    {
+      "id": "chitai-golu-devta",
+      "slug": "chitai-golu-devta",
+      "name": "Chitai Golu Devta",
+      "state": "Uttarakhand",
+      "district": "Almora",
+      "city": "Almora",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chitai-golu-devta-temple.webp"
+      },
+      "image": "assets/images/states/uttarakhand/chitai-golu-devta-temple.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/chitai-golu-devta-temple.webp"
+    },
+    {
+      "id": "chandi-devi",
+      "slug": "chandi-devi",
+      "name": "Chandi Devi",
+      "state": "Uttarakhand",
+      "district": "Haridwar",
+      "city": "Haridwar",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/chandi-devi.webp"
+      },
+      "image": "assets/images/states/uttarakhand/chandi-devi.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/chandi-devi.webp"
+    },
+    {
+      "id": "naina-devi",
+      "slug": "naina-devi",
+      "name": "Naina Devi",
+      "state": "Uttarakhand",
+      "district": "Nainital",
+      "city": "Nainital",
+      "category": "temples",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/naina-devi.webp"
+      },
+      "image": "assets/images/states/uttarakhand/naina-devi.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/naina-devi.webp"
+    },
+    {
+      "id": "katarmal-sun-temple",
+      "slug": "katarmal-sun-temple",
+      "name": "Katarmal Sun Temple",
+      "state": "Uttarakhand",
+      "district": "Almora",
+      "city": "Almora",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/baijnath-temple.webp"
+      },
+      "image": "assets/images/states/uttarakhand/baijnath-temple.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/baijnath-temple.webp"
+    },
+    {
+      "id": "pandukeshwar",
+      "slug": "pandukeshwar",
+      "name": "Pandukeshwar",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Pandukeshwar",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/badrinath.webp"
+      },
+      "image": "assets/images/states/uttarakhand/badrinath.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/badrinath.webp"
+    },
+    {
+      "id": "gupt-khal",
+      "slug": "gupt-khal",
+      "name": "Gupt Khal",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Badrinath",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/gupt-khal.webp"
+      },
+      "image": "assets/images/states/uttarakhand/gupt-khal.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/gupt-khal.webp"
+    },
+    {
+      "id": "vyas-cave",
+      "slug": "vyas-cave",
+      "name": "Vyas Cave",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Badrinath",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/vyas-cave.webp"
+      },
+      "image": "assets/images/states/uttarakhand/vyas-cave.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/vyas-cave.webp"
+    },
+    {
+      "id": "ganesh-cave",
+      "slug": "ganesh-cave",
+      "name": "Ganesh Cave",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "city": "Badrinath",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/ganesh-cave.webp"
+      },
+      "image": "assets/images/states/uttarakhand/ganesh-cave.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/ganesh-cave.webp"
+    },
+    {
+      "id": "mussoorie-wildlife-sanctuary",
+      "slug": "mussoorie-wildlife-sanctuary",
+      "name": "Mussoorie Wildlife Sanctuary",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Mussoorie",
+      "category": "wildlife",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/mussoorie.webp"
+      },
+      "image": "assets/images/states/uttarakhand/mussoorie.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/mussoorie.webp"
+    },
+    {
+      "id": "haridwar",
+      "slug": "haridwar",
+      "name": "Haridwar",
+      "state": "Uttarakhand",
+      "district": "Haridwar",
+      "city": "Haridwar",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "A newly added destination as per the Uttarakhand Master Destination Discovery List v4.0.",
+      "history": "Historic and significant location in Dev Bhoomi.",
+      "famousFor": "Tourism, nature, and spirituality.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/uttarakhand/haridwar.webp"
+      },
+      "image": "assets/images/states/uttarakhand/haridwar.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/uttarakhand/haridwar.webp"
+    },
+    {
+      "name": "Auli Ski Resort",
+      "city": "Chamoli",
+      "distance": "280 km from Rishikesh, 16 km from Joshimath",
+      "category": "nature",
+      "slug": "auli-ski-resort",
+      "images": {
+        "main": "assets/images/states/uttarakhand/auli.webp"
+      },
+      "image": "assets/images/states/uttarakhand/auli.webp",
+      "description": "Auli is India's premier skiing destination, a hill station at 2,500–3,050 m offering panoramic views of Nanda Devi (7,816 m), Kamet, Mana Parvat, and Dunagiri peaks. In summer, the slopes transform into lush green meadows with wildflowers, connected to Joshimath by Asia's longest cable car (4 km).",
+      "history": "Auli was a training ground for the Indo-Tibetan Border Police before being developed as a ski resort by the Garhwal Mandal Vikas Nigam in the 1990s. Adi Shankaracharya is said to have visited the area. The oak and conifer forests were planted by local communities centuries ago.",
+      "famousFor": "Skiing (December–March), Asia's longest cable car, Nanda Devi views, Artificial lake, Trekking, Bugyal meadows",
+      "bestTime": "December to March (skiing); April to June and September to November (trekking)",
+      "timings": "Cable car: 9:30 AM – 4:00 PM",
+      "entryFee": "Cable car: ₹1,000 round trip; Ski equipment rental: ₹500–₹1,500/day",
+      "nearbyAttractions": [
+        {
+          "name": "Joshimath",
+          "city": "Joshimath",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "joshimath",
+          "images": {
+            "main": "assets/images/states/uttarakhand/joshimath.webp"
+          },
+          "image": "assets/images/states/uttarakhand/joshimath.webp"
+        },
+        {
+          "name": "Gorson Bugyal",
+          "city": "Auli",
+          "distance": "3 km trek",
+          "category": "nature",
+          "slug": "gorson-bugyal",
+          "images": {
+            "main": "assets/images/states/uttarakhand/gorson-bugyal.webp"
+          },
+          "image": "assets/images/states/uttarakhand/gorson-bugyal.webp"
+        }
+      ],
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/auli.webp"
+    },
+    {
+      "id": "jim-corbett-museum",
+      "name": "Jim Corbett Museum",
+      "city": "Kaladhungi",
+      "image": "assets/images/states/uttarakhand/jim-corbett-museum.webp",
+      "rating": 4.3,
+      "category": "heritage",
+      "description": "The Jim Corbett Museum in Kaladhungi is the preserved winter home of the legendary hunter-turned-conservationist Jim Corbett, author of 'Man-Eaters of Kumaon.' The quaint colonial bungalow displays his personal belongings, photographs, hunting trophies, letters, and first editions of his famous books, offering an intimate glimpse into the life of the man who inspired India's first national park.",
+      "history": "Jim Corbett lived in this bungalow during the winter months while spending summers in Nainital. After his departure to Kenya in 1947, the house was converted into a museum by the Uttarakhand government to honour his extraordinary contributions to wildlife conservation.",
+      "famousFor": "Jim Corbett's personal belongings, colonial-era architecture, hunting memorabilia, and literary history.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "jim-corbett-museum",
+      "images": {
+        "main": "assets/images/states/uttarakhand/jim-corbett-museum.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/jim-corbett-museum.webp"
+    },
+    {
+      "id": "corbett-falls",
+      "name": "Corbett Falls",
+      "city": "Ramnagar",
+      "image": "assets/images/states/uttarakhand/corbett-falls.webp",
+      "rating": 4.2,
+      "category": "waterfalls",
+      "description": "Corbett Falls is a picturesque 20-meter waterfall cascading through dense sal and teak forests near Ramnagar, at the edge of Jim Corbett National Park. The falls create a refreshing pool at the base surrounded by moss-covered rocks and lush vegetation, making it a perfect picnic spot and nature retreat.",
+      "history": "Named after Jim Corbett, the falls are located within the buffer zone of the national park that bears his name. The area has been a popular excursion point since the colonial era when British officers would visit during their stays in the Kumaon hills.",
+      "famousFor": "Scenic waterfall in forest setting, nature walks, birdwatching, and proximity to Jim Corbett National Park.",
+      "bestTime": "March to June, September to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "corbett-falls",
+      "images": {
+        "main": "assets/images/states/uttarakhand/corbett-falls.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/corbett-falls.webp"
+    },
+    {
+      "id": "gangotri-glacier",
+      "name": "Gangotri Glacier",
+      "city": "Uttarkashi",
+      "image": "assets/images/states/uttarakhand/gangotri-glacier.webp",
+      "rating": 4.7,
+      "category": "nature",
+      "description": "Gangotri Glacier is one of the largest glaciers in the Himalayas, stretching approximately 30 km and serving as the primary source of the sacred Ganga River. Located at an altitude of 4,000 meters in the Uttarkashi district, the glacier and its snout at Gaumukh (shaped like a cow's mouth) offer one of India's most awe-inspiring high-altitude trekking experiences.",
+      "history": "Revered in Hindu mythology as the place where Goddess Ganga descended to Earth, the glacier has been a sacred pilgrimage site for centuries. Scientific studies show the glacier has been retreating over the past two centuries, making it an important site for climate change research.",
+      "famousFor": "Source of the Ganga River, Gaumukh trek, Himalayan vistas, Tapovan meadow, and high-altitude camping.",
+      "bestTime": "May to June, September to October",
+      "timings": "Open during trekking season",
+      "entryFee": "₹150 (Trekking permit)",
+      "slug": "gangotri-glacier",
+      "images": {
+        "main": "assets/images/states/uttarakhand/gangotri-glacier.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/gangotri-glacier.webp"
+    },
+    {
+      "id": "auli-bugyal",
+      "name": "Auli Bugyal",
+      "city": "Chamoli",
+      "image": "assets/images/states/uttarakhand/auli-bugyal.webp",
+      "rating": 4.5,
+      "category": "nature",
+      "description": "Auli Bugyal is a sprawling alpine meadow at an elevation of 2,500–3,000 meters, blanketed with wildflowers in summer and pristine snow in winter. Surrounded by towering Himalayan peaks including Nanda Devi, Kamet, and Mana Parbat, Auli is India's premier skiing destination and a year-round paradise for mountain lovers.",
+      "history": "The meadows of Auli were historically used by the Garhwali shepherds for grazing. In the 1960s, the Indo-Tibetan Border Police (ITBP) developed Auli as a high-altitude training ground, and it subsequently evolved into India's foremost ski resort.",
+      "famousFor": "Skiing, 360-degree Himalayan panorama, Asia's longest cable car (gondola), and alpine meadows.",
+      "bestTime": "January to March (skiing), April to June (meadows)",
+      "timings": "Cable car: 9:00 AM – 4:00 PM",
+      "entryFee": "₹500 (Cable car), Skiing packages vary",
+      "slug": "auli-bugyal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/auli-bugyal.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/auli-bugyal.webp"
+    },
+    {
+      "id": "bedni-bugyal",
+      "name": "Bedni Bugyal",
+      "city": "Chamoli",
+      "image": "assets/images/states/uttarakhand/bedni-bugyal.webp",
+      "rating": 4.6,
+      "category": "nature",
+      "description": "Bedni Bugyal is one of the highest and most stunning alpine meadows in India, situated at approximately 3,354 meters in the Chamoli district. Part of the famous Roopkund trek route, the vast emerald-green meadow is carpeted with wildflowers during summer and offers unobstructed views of Trishul, Nanda Ghunti, and Chaukhamba peaks.",
+      "history": "The bugyal holds deep spiritual significance in local Garhwali tradition — it hosts the annual Nanda Devi Raj Jat Yatra, a grand pilgrimage held once every 12 years. The meadow has been a traditional grazing ground for centuries and a sacred site for the worship of Goddess Nanda.",
+      "famousFor": "Roopkund trek base, Nanda Devi Raj Jat Yatra, wildflower meadows, and panoramic Himalayan views.",
+      "bestTime": "May to June, September to October",
+      "timings": "Open (trekking destination)",
+      "entryFee": "Forest permit required",
+      "slug": "bedni-bugyal",
+      "images": {
+        "main": "assets/images/states/uttarakhand/bedni-bugyal.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/bedni-bugyal.webp"
+    },
+    {
+      "id": "naini-lake",
+      "name": "Naini Lake",
+      "city": "Nainital",
+      "image": "assets/images/states/uttarakhand/naini-lake.webp",
+      "rating": 4.6,
+      "category": "lakes",
+      "description": "Naini Lake is the crescent-shaped jewel at the heart of Nainital, the beloved 'Lake District of India,' cradled between the Kumaon Hills. The serene lake reflects the surrounding forested hills and colonial-era buildings, and its vibrant boat club offers rowing, paddling, and yachting against a picture-perfect mountain backdrop.",
+      "history": "The lake was 'discovered' by the British sugar trader P. Barron in 1839, leading to the establishment of Nainital as a hill station. Named after the Naina Devi Temple on its northern shore, the lake is believed to be one of the sites where Goddess Sati's eyes fell according to Hindu mythology.",
+      "famousFor": "Boating, Naina Devi Temple, Mall Road promenade, Tiffin Top views, and colonial-era charm.",
+      "bestTime": "March to June, September to November",
+      "timings": "Boating: 6:00 AM – 6:00 PM",
+      "entryFee": "Free (Boating from ₹160)",
+      "slug": "naini-lake",
+      "images": {
+        "main": "assets/images/states/uttarakhand/naini-lake.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/naini-lake.webp"
+    },
+    {
+      "id": "pauri",
+      "name": "Pauri",
+      "city": "Pauri Garhwal",
+      "image": "assets/images/states/uttarakhand/pauri.webp",
+      "rating": 4.3,
+      "category": "hills",
+      "description": "Pauri is a serene hill town perched at 1,814 meters in the Garhwal Himalayas, offering spectacular 300-km-wide panoramic views of snow-capped peaks from Bandarpunch to Nanda Devi. Far from the tourist crowds, Pauri rewards visitors with pristine forests, ancient temples, and some of the most breathtaking Himalayan sunrises in Uttarakhand.",
+      "history": "Pauri served as the headquarters of the erstwhile Garhwal Kingdom and later became the administrative centre of Pauri Garhwal district under British rule. The town played a significant role in the Chipko Movement of the 1970s, India's pioneering environmental conservation movement.",
+      "famousFor": "Panoramic Himalayan views from Kandoliya, Chipko Movement heritage, Khirsu meadows, and Tara Kund lake.",
+      "bestTime": "March to June, September to November",
+      "timings": "Open (hill town)",
+      "entryFee": "Free",
+      "slug": "pauri",
+      "images": {
+        "main": "assets/images/states/uttarakhand/pauri.webp"
+      },
+      "state": "Uttarakhand",
+      "heroImage": "assets/images/states/uttarakhand/pauri.webp"
+    }
+  ],
+  "slug": "uttarakhand",
+  "tagline": "Dev Bhoomi — Land of the Gods",
+  "bestTime": "March to June, September to November",
+  "language": "Hindi, Garhwali, Kumaoni",
+  "heroImage": "assets/images/states/uttarakhand/banner.webp"
+}

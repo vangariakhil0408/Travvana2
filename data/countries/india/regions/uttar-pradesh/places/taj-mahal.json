@@ -1,0 +1,73 @@
+{
+  "id": "taj-mahal",
+  "slug": "taj-mahal",
+  "name": "Taj Mahal",
+  "location": "Uttar Pradesh, India",
+  "district": "Agra",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/states/uttar-pradesh/Taj-Mahal.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Taj-Mahal.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Taj-Mahal.webp"
+  ],
+  "overview": "Experience the beauty of Taj Mahal, a top destination in Uttar Pradesh, India.",
+  "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra. Commissioned in 1632 by the Mughal emperor Shah Jahan, it houses the tomb of his favourite wife, Mumtaz Mahal.",
+  "rating": "4.9",
+  "reviewCount": 22331,
+  "popularityScore": 100,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM - 6:30 PM (Closed Fridays)",
+  "entryFee": {
+    "indian": "\u20b950",
+    "foreigner": "\u20b91100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Agra Airport",
+      "distance": "13 km"
+    },
+    "nearestRailway": {
+      "name": "Agra Cantt",
+      "distance": "6 km"
+    },
+    "byRoad": "Connected strictly via Yamuna Expressway."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 812
+    },
+    {
+      "views": 636
+    }
+  ],
+  "nearbyPlaces": [
+    "agra-fort",
+    "fatehpur-sikri",
+    "itimad-ud-daulah",
+    "bateshwar-temples",
+    "akbar-tomb-sikandra"
+  ]
+}

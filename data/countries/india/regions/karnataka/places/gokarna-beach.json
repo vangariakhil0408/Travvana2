@@ -1,0 +1,58 @@
+{
+  "id": "gokarna-beach",
+  "name": "Gokarna Beach",
+  "slug": "gokarna-beach",
+  "stateId": "karnataka",
+  "districtId": "uttara-kannada",
+  "category": "beaches",
+  "subcategories": [],
+  "description": "A peaceful alternative to Goa with pristine crescent beaches",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.5,
+  "reviewCount": 4500,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to February",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bengaluru Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "hampi-ruins",
+    "coorg-abbey-falls"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to Gokarna Beach"
+  },
+  "tags": [
+    "beaches"
+  ],
+  "lastUpdated": "2026-03-15"
+}

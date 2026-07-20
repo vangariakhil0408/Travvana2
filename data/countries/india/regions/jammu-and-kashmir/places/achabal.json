@@ -1,0 +1,25 @@
+{
+  "id": "achabal",
+  "name": "Achabal Mughal Garden",
+  "city": "Anantnag",
+  "state": "Jammu and Kashmir",
+  "description": "One of the most splendid terraced Mughal gardens in India. It is beautifully fed by a powerful natural spring that flows dramatically over several terraces and waterfalls.",
+  "history": "Built in 1620 AD by the Mughal Empress Nur Jahan. It was her absolute favorite summer retreat.",
+  "famousFor": "Cascading springs, Chinar trees, Empress Nur Jahan's retreat.",
+  "bestTime": "April to October",
+  "timings": "9:00 AM – 7:00 PM",
+  "entryFee": "₹24",
+  "image": "./assets/images/states/jammu-and-kashmir/kokernag.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/kokernag.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/kokernag.webp"
+  ],
+  "nearbyPlaces": [
+    "chatpal",
+    "daksum",
+    "sinthan-top",
+    "verinag-spring",
+    "martand-sun-temple",
+    "kokernag"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pachmarhi",
+  "name": "Pachmarhi (Queen of Satpura)",
+  "city": "Pachmarhi",
+  "state": "Madhya Pradesh",
+  "description": "The only hill station in Madhya Pradesh, Pachmarhi is a lush green landscape of waterfalls, ancient caves, and stunning sunrise viewpoints in the Satpura Range.",
+  "history": "Discovered by Captain James Forsyth in 1857. Legend says the Pandavas built the five caves here during their exile.",
+  "famousFor": "Waterfalls (Bee Falls), Dhupgarh (highest point), and Pandava Caves.",
+  "bestTime": "October to June",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Pachmarhi.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Pachmarhi.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Pachmarhi.webp"
+  ],
+  "nearbyPlaces": [
+    "satpura-national-park"
+  ]
+}

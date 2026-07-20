@@ -1,0 +1,23 @@
+{
+  "name": "Travvana — Discover India",
+  "short_name": "Travvana",
+  "description": "Discover the soul of India through curated, high-fidelity travel experiences. Explore states, attractions, hidden gems, and plan your perfect Indian adventure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/images/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "assets/images/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "categories": ["travel", "tourism", "lifestyle"]
+}

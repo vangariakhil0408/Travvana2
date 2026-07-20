@@ -1,0 +1,71 @@
+{
+  "id": "madikeri-hill-station",
+  "slug": "madikeri-hill-station",
+  "name": "Madikeri Hill Station",
+  "location": "Karnataka, India",
+  "district": "Kodagu",
+  "stateId": "karnataka",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/madikeri-hill-station.webp",
+  "heroImage": "./assets/images/popular/madikeri-hill-station.webp",
+  "gallery": [
+    "./assets/images/popular/madikeri-hill-station.webp"
+  ],
+  "overview": "Experience the beauty of Madikeri Hill Station, a top destination in Karnataka, India.",
+  "description": "Madikeri is a scenic hill station in Karnataka's Kodagu district, often referred to as the 'Scotland of India'. It is famous for its coffee plantations, lush green forests, and misty weather.",
+  "rating": "4.6",
+  "reviewCount": 46198,
+  "popularityScore": -3,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "24 Hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Kannur International Airport",
+      "distance": "90 km"
+    },
+    "nearestRailway": {
+      "name": "Mysore Railway Station",
+      "distance": "120 km"
+    },
+    "byRoad": "Scenic drive from Mysore or Mangalore."
+  },
+  "tags": [
+    "nature",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2010
+    },
+    {
+      "views": 2897
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "hampi",
+    "jog-falls"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "laxmanpur-beach",
+  "name": "Laxmanpur Beach",
+  "city": "Shaheed Dweep",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A breathtaking sunset beach with natural coral rock formations creating dramatic silhouettes against the fiery evening sky.",
+  "history": "One of the earliest tourist beaches on Neil Island, it has been a favorite sunset spot since the island opened to tourism.",
+  "famousFor": "Spectacular sunsets and natural coral formations",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "bharatpur-beach",
+    "sitapur-beach",
+    "natural-bridge",
+    "radhanagar-beach",
+    "vijaynagar-beach",
+    "havelock-island-diving",
+    "elephant-beach",
+    "kalapathar-beach"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "feedType": "hidden-gems",
+  "title": "Hidden Gems",
+  "subtitle": "Off-beat destinations worth exploring",
+  "lastUpdated": "2026-04-01",
+  "items": [
+    { "placeId": "spiti-valley", "stateId": "himachal-pradesh", "name": "Spiti Valley", "thumbnail": "", "rating": 4.8, "reviewCount": 3200, "category": "adventure", "trendScore": 82, "district": "lahaul-spiti", "slug": "spiti-valley", "priceLevel": 2 },
+    { "placeId": "ziro-valley", "stateId": "arunachal-pradesh", "name": "Ziro Valley", "thumbnail": "", "rating": 4.6, "reviewCount": 1800, "category": "nature", "trendScore": 75, "district": "lower-subansiri", "slug": "ziro-valley", "priceLevel": 2 },
+    { "placeId": "gokarna-beach", "stateId": "karnataka", "name": "Gokarna Beach", "thumbnail": "", "rating": 4.5, "reviewCount": 4500, "category": "beaches", "trendScore": 78, "district": "uttara-kannada", "slug": "gokarna-beach", "priceLevel": 1 },
+    { "placeId": "majuli-island", "stateId": "assam", "name": "Majuli Island", "thumbnail": "", "rating": 4.4, "reviewCount": 1200, "category": "nature", "trendScore": 70, "district": "majuli", "slug": "majuli-island", "priceLevel": 1 },
+    { "placeId": "chopta-tungnath", "stateId": "uttarakhand", "name": "Chopta Tungnath", "thumbnail": "", "rating": 4.7, "reviewCount": 2800, "category": "adventure", "trendScore": 80, "district": "rudraprayag", "slug": "chopta-tungnath", "priceLevel": 1 },
+    { "placeId": "dhanushkodi", "stateId": "tamil-nadu", "name": "Dhanushkodi", "thumbnail": "", "rating": 4.3, "reviewCount": 3500, "category": "beaches", "trendScore": 72, "district": "ramanathapuram", "slug": "dhanushkodi", "priceLevel": 1 }
+  ]
+}

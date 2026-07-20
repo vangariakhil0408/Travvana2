@@ -1,0 +1,70 @@
+{
+  "id": "konark-sun-temple",
+  "slug": "konark-sun-temple",
+  "name": "Konark Sun Temple",
+  "location": "Odisha, India",
+  "district": "Puri",
+  "stateId": "odisha",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/konark-sun-temple.webp",
+  "heroImage": "./assets/images/popular/konark-sun-temple.webp",
+  "gallery": [
+    "./assets/images/popular/konark-sun-temple.webp"
+  ],
+  "overview": "Experience the beauty of Konark Sun Temple, a top destination in Odisha, India.",
+  "description": "The Konark Sun Temple is a monumental 13th-century CE temple structured specifically like a giant ornamented chariot for the Hindu sun god Surya.",
+  "rating": "4.5",
+  "reviewCount": 44449,
+  "popularityScore": 69,
+  "priceLevel": 2,
+  "bestTimeToVisit": "September to March",
+  "timings": "6:00 AM - 8:00 PM",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Biju Patnaik Airport",
+      "distance": "65 km"
+    },
+    "nearestRailway": {
+      "name": "Puri Railway Station",
+      "distance": "35 km"
+    },
+    "byRoad": "Positioned just off the Puri-Konark Marine Drive."
+  },
+  "tags": [
+    "heritage",
+    "odisha",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1218
+    },
+    {
+      "views": 2200
+    }
+  ],
+  "nearbyPlaces": [
+    "jagannath-temple",
+    "chilika-lake"
+  ]
+}

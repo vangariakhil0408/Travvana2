@@ -1,0 +1,69 @@
+{
+  "id": "patwon-ki-haveli",
+  "slug": "patwon-ki-haveli",
+  "name": "Patwon Ki Haveli",
+  "location": "Rajasthan, India",
+  "district": "Jaisalmer",
+  "stateId": "rajasthan",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/patwon-ki-haveli.webp",
+  "heroImage": "./assets/images/popular/patwon-ki-haveli.webp",
+  "gallery": [
+    "./assets/images/popular/patwon-ki-haveli.webp"
+  ],
+  "overview": "Experience the beauty of Patwon Ki Haveli, a top destination in Rajasthan, India.",
+  "description": "Built in the early 19th century by Guman Chand Patwa, this is a cluster of five havelis showcasing Marwari craftsmanship.",
+  "rating": "4.5",
+  "reviewCount": 5342,
+  "popularityScore": 34,
+  "priceLevel": 3,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹100",
+    "foreigner": "₹300"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jodhpur / Jaisalmer / Jaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Jaisalmer Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "1 km from Jaisalmer Fort"
+  },
+  "tags": [
+    "heritage",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3707
+    },
+    {
+      "views": 1797
+    }
+  ],
+  "nearbyPlaces": [
+    "jaisalmer-fort"
+  ]
+}

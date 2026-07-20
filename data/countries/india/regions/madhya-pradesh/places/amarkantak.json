@@ -1,0 +1,18 @@
+{
+  "id": "amarkantak",
+  "name": "Amarkantak",
+  "city": "Amarkantak",
+  "state": "Madhya Pradesh",
+  "description": "The meeting point of the Vindhya and Satpura Ranges, this sacred hill town is the source of the holy rivers Narmada and Son.",
+  "history": "Known as 'Teerthraj' (King of Pilgrimages). The Kalchuri temples here date back to the 10th-11th centuries.",
+  "famousFor": "Narmada Udgam, Ancient Temples, and waterfalls.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Amarkantak.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Amarkantak.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Amarkantak.webp"
+  ],
+  "nearbyPlaces": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "japanese-garden",
+  "name": "Japanese Garden",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A tranquil zen-inspired garden featuring Japanese pagodas, a serene water body with koi, bamboo groves, and wooden bridges \u2014 a peaceful escape in the heart of the city.",
+  "history": "Spread over 13 acres, this garden was designed inspired by traditional Japanese landscape aesthetics and serves as a meditation and relaxation space.",
+  "famousFor": "Japanese pagodas, zen garden, and koi pond.",
+  "bestTime": "October to March",
+  "timings": "6:00 AM \u2013 8:00 PM",
+  "entryFee": "\u20b920",
+  "image": "./assets/images/states/chandigarh/japanese-garden.webp",
+  "heroImage": "./assets/images/states/chandigarh/japanese-garden.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/japanese-garden.webp"
+  ],
+  "nearbyPlaces": [
+    "le-corbusier-centre",
+    "govt-museum-art-gallery",
+    "capitol-complex",
+    "rock-garden",
+    "sukhna-lake",
+    "terraced-garden",
+    "international-dolls-museum",
+    "garden-of-silence",
+    "rose-garden",
+    "leisure-valley"
+  ]
+}

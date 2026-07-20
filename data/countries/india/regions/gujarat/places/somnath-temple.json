@@ -1,0 +1,71 @@
+{
+  "id": "somnath-temple",
+  "slug": "somnath-temple",
+  "name": "Somnath Temple",
+  "location": "Gujarat, India",
+  "district": "Gir Somnath",
+  "stateId": "gujarat",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/somnath-temple.webp",
+  "heroImage": "./assets/images/popular/somnath-temple.webp",
+  "gallery": [
+    "./assets/images/popular/somnath-temple.webp"
+  ],
+  "overview": "Experience the beauty of Somnath Temple, a top destination in Gujarat, India.",
+  "description": "The Somnath temple is famously acknowledged as the very first among the twelve sacred Jyotirlinga shrines of Shiva, located right on the western coast.",
+  "rating": "4.4",
+  "reviewCount": 38219,
+  "popularityScore": 65,
+  "priceLevel": 2,
+  "bestTimeToVisit": "September to March",
+  "timings": "6:00 AM - 10:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Diu Airport",
+      "distance": "85 km"
+    },
+    "nearestRailway": {
+      "name": "Veraval Junction",
+      "distance": "7 km"
+    },
+    "byRoad": "Excellent connectivity to major Gujarati cities."
+  },
+  "tags": [
+    "spiritual",
+    "gujarat",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5278
+    },
+    {
+      "views": 772
+    }
+  ],
+  "nearbyPlaces": [
+    "statue-of-unity",
+    "rani-ki-vav",
+    "sun-temple-modhera"
+  ]
+}

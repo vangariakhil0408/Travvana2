@@ -1,0 +1,20 @@
+{
+  "id": "amini-island",
+  "name": "Amini Island",
+  "city": "Amini",
+  "state": "Lakshadweep",
+  "description": "An oval-shaped island rich in history and culture. It is known for its talented artisans who craft walking sticks with tortoise shells and coconut shells.",
+  "history": "One of the first islands in the archipelago to be inhabited. Vasco da Gama visited it in 1498.",
+  "famousFor": "Coir products, stone engraving, rich folk culture.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_00000000869072068dd036cc8e16ddd9.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_00000000869072068dd036cc8e16ddd9.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_00000000869072068dd036cc8e16ddd9.webp"
+  ],
+  "nearbyPlaces": [
+    "kadmat-island"
+  ]
+}

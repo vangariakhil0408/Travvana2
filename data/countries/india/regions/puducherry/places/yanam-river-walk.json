@@ -1,0 +1,18 @@
+{
+  "id": "yanam-river-walk",
+  "name": "Yanam River Walk",
+  "city": "Yanam",
+  "state": "Puducherry",
+  "description": "A beautifully landscaped promenade along the Gauthami Godavari River in the Yanam enclave of Puducherry. It features a massive replica of the Eiffel Tower.",
+  "history": "Yanam is a former French colony surrounded geographically by Andhra Pradesh, retaining a unique Franco-Telugu heritage.",
+  "famousFor": "Eiffel Tower replica, river boating, and serene evenings.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp"
+  ],
+  "nearbyPlaces": []
+}

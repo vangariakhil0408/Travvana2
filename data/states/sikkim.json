@@ -1,0 +1,1049 @@
+{
+  "stateSlug": "sikkim",
+  "name": "Sikkim",
+  "capital": "Gangtok",
+  "tagline": "Small But Beautiful",
+  "heroImage": "assets/images/states/sikkim/banner.webp",
+  "bestTime": "March to May, October to mid-December",
+  "language": "Nepali, Sikkimese, Lepcha, English",
+  "places": [
+    {
+      "name": "Nathu La Pass",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "56 km from Gangtok",
+      "rating": 4.9,
+      "description": "A high-altitude mountain pass on the ancient Silk Route at 14,140 feet, serving as the border between India and China. It offers breathtaking views of the snow-clad Himalayas.",
+      "history": "Historically a major trading route between India and Tibet. It was sealed after the 1962 Sino-Indian War and reopened in 2006 for bilateral trade.",
+      "famousFor": "Indo-China border, snow, high altitude.",
+      "bestTime": "May to October",
+      "timings": "8:00 AM – 3:30 PM (Closed Mon/Tue)",
+      "entryFee": "Permit required (₹200 approx)",
+      "slug": "nathu-la-pass",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/popular/nathula-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tsomgo Lake",
+          "city": "Gangtok",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "tsomgo-lake",
+          "state": "Sikkim",
+          "images": {
+            "main": "assets/images/states/sikkim/tsomgo-lake.webp"
+          },
+          "image": "assets/images/states/sikkim/tsomgo-lake.webp"
+        }
+      ],
+      "id": "nathu-la-pass",
+      "image": "assets/images/popular/nathula-pass.webp",
+      "heroImage": "assets/images/popular/nathula-pass.webp"
+    },
+    {
+      "name": "Tsomgo Lake (Changu Lake)",
+      "city": "Gangtok",
+      "category": "lakes",
+      "distance": "38 km from Gangtok",
+      "rating": 4.8,
+      "description": "Tsomgo Lake (Changu Lake) is a glacial lake at 3,753 m altitude, surrounded by steep rocky mountains. The oval-shaped lake changes colors with the seasons — frozen white in winter, turquoise in spring, and deep blue in summer, reflecting the surrounding mountains beautifully.",
+      "history": "Tsomgo means \"Source of the Lake\" in Bhutia language. The lake holds spiritual significance for Sikkimese Buddhists and Hindus — a Shiva temple sits on its banks. It was off-limits to visitors until 1982 due to its proximity to the Indo-China border.",
+      "famousFor": "Color-changing glacial lake, Yak rides, Snow-capped peaks, Baba Harbhajan Singh Memorial, Border area",
+      "bestTime": "March to June, September to December (January–February for frozen lake)",
+      "timings": "8:00 AM – 4:00 PM (permit required)",
+      "entryFee": "Free (Protected Area Permit: ₹200; Yak ride: ₹300)",
+      "slug": "tsomgo-lake",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/popular/tsomgo-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baba Harbhajan Singh Temple",
+          "city": "Gangtok",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "baba-mandir",
+          "state": "Sikkim",
+          "images": {
+            "main": "assets/images/states/sikkim/baba-mandir.webp"
+          },
+          "image": "assets/images/states/sikkim/baba-mandir.webp"
+        },
+        {
+          "name": "Nathu La Pass",
+          "city": "Gangtok",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "nathu-la-pass",
+          "images": {
+            "main": "assets/images/states/sikkim/nathu-la-pass.webp"
+          },
+          "image": "assets/images/states/sikkim/nathu-la-pass.webp"
+        }
+      ],
+      "id": "tsomgo-lake",
+      "image": "assets/images/popular/tsomgo-lake.webp",
+      "heroImage": "assets/images/popular/tsomgo-lake.webp"
+    },
+    {
+      "name": "Baba Harbhajan Singh Temple",
+      "city": "East Sikkim",
+      "category": "heritage",
+      "distance": "52 km from Gangtok",
+      "rating": 4.8,
+      "description": "A highly unique shrine dedicated to an Indian Army soldier, Major Harbhajan Singh, who died near Nathu La. Soldiers believe his spirit still protects the border.",
+      "history": "He drowned in a glacier in 1968. He was posthumously awarded the Maha Vir Chakra, and the army maintains his shrine as a sacred site.",
+      "famousFor": "The Hero of Nathula, spiritual border protection.",
+      "bestTime": "April to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free (Permit required for route)",
+      "slug": "baba-mandir",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/baba-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tsomgo Lake (Changu Lake)",
+          "city": "Gangtok",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "tsomgo-lake",
+          "images": {
+            "main": "assets/images/states/sikkim/tsomgo-lake.webp"
+          },
+          "image": "assets/images/states/sikkim/tsomgo-lake.webp"
+        }
+      ],
+      "id": "baba-mandir",
+      "image": "assets/images/states/sikkim/baba-mandir.webp",
+      "heroImage": "assets/images/states/sikkim/baba-mandir.webp"
+    },
+    {
+      "name": "MG Marg",
+      "city": "Gangtok",
+      "category": "cities",
+      "distance": "Center of Gangtok",
+      "rating": 4.7,
+      "description": "The vibrant heart of Gangtok. This vehicle-free pedestrian street is lined with cafes, shops, and bars, offering a pristine, European-like boulevard experience.",
+      "history": "Developed to promote eco-friendly, litter-free urban tourism in Sikkim's capital.",
+      "famousFor": "Shopping, cafes, vehicle-free street.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "mg-marg",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/mg-marg.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Namgyal Institute of Tibetology",
+          "city": "Gangtok",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "namgyal-tibetology",
+          "state": "Sikkim",
+          "images": {
+            "main": "assets/images/states/sikkim/namgyal-tibetology.webp"
+          },
+          "image": "assets/images/states/sikkim/namgyal-tibetology.webp"
+        }
+      ],
+      "id": "mg-marg",
+      "image": "assets/images/states/sikkim/mg-marg.webp",
+      "heroImage": "assets/images/states/sikkim/mg-marg.webp"
+    },
+    {
+      "name": "Namgyal Institute of Tibetology",
+      "city": "Gangtok",
+      "category": "heritage",
+      "distance": "2 km from MG Marg",
+      "rating": 4.6,
+      "description": "One of the most prestigious research institutes in the world for Tibetan language and culture. It houses a vast museum of rare manuscripts, statues, and thangkas.",
+      "history": "Established in 1958, its foundation stone was laid by the 14th Dalai Lama.",
+      "famousFor": "Tibetan artifacts, rare Buddhist manuscripts.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 4:00 PM (Closed Sundays)",
+      "entryFee": "₹10",
+      "slug": "namgyal-tibetology",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/namgyal-tibetology.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Do Drul Chorten",
+          "city": "Gangtok",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "do-drul-chorten",
+          "state": "Sikkim",
+          "images": {
+            "main": "assets/images/states/sikkim/do-drul-chorten.webp"
+          },
+          "image": "assets/images/states/sikkim/do-drul-chorten.webp"
+        },
+        {
+          "name": "MG Marg",
+          "city": "Gangtok",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "mg-marg",
+          "images": {
+            "main": "assets/images/states/sikkim/mg-marg.webp"
+          },
+          "image": "assets/images/states/sikkim/mg-marg.webp"
+        }
+      ],
+      "id": "namgyal-tibetology",
+      "image": "assets/images/states/sikkim/namgyal-tibetology.webp",
+      "heroImage": "assets/images/states/sikkim/namgyal-tibetology.webp"
+    },
+    {
+      "name": "Do Drul Chorten",
+      "city": "Gangtok",
+      "category": "heritage",
+      "distance": "In Gangtok",
+      "rating": 4.5,
+      "description": "Sikkim's most significant stupa, surrounded by 108 prayer wheels (Mani Lhakor). It stands as an important spiritual center with its striking golden top.",
+      "history": "Built in 1945 by Trulshik Rinpoche to drive away evil spirits that were said to wander the area.",
+      "famousFor": "108 prayer wheels, massive stupa.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "do-drul-chorten",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/do-drul-chorten.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Namgyal Institute of Tibetology",
+          "city": "Gangtok",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "namgyal-tibetology",
+          "images": {
+            "main": "assets/images/states/sikkim/namgyal-tibetology.webp"
+          },
+          "image": "assets/images/states/sikkim/namgyal-tibetology.webp"
+        }
+      ],
+      "id": "do-drul-chorten",
+      "image": "assets/images/states/sikkim/do-drul-chorten.webp",
+      "heroImage": "assets/images/states/sikkim/do-drul-chorten.webp"
+    },
+    {
+      "name": "Hanuman Tok",
+      "city": "Gangtok",
+      "category": "temples",
+      "distance": "11 km from Gangtok",
+      "rating": 4.8,
+      "description": "A very peaceful Hindu temple maintained by the Indian Army, perched at 7,200 feet. It offers absolutely spectacular, unobstructed views of the Kanchenjunga range.",
+      "history": "Legend says Lord Hanuman rested on this spot while carrying the Sanjeevani mountain.",
+      "famousFor": "Kanchenjunga views, Army maintenance, serenity.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "hanuman-tok",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/hanuman-tok.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "hanuman-tok",
+      "image": "assets/images/states/sikkim/hanuman-tok.webp",
+      "heroImage": "assets/images/states/sikkim/hanuman-tok.webp"
+    },
+    {
+      "name": "Rumtek Monastery",
+      "city": "Gangtok",
+      "category": "heritage",
+      "distance": "23 km from Gangtok",
+      "rating": 4.7,
+      "description": "The largest and most significant monastery in Sikkim, serving as the seat-in-exile of the Gyalwang Karmapa. It showcases brilliant Tibetan architecture and murals.",
+      "history": "Originally built in the 16th century, it was rebuilt in 1966 by the 16th Karmapa after fleeing Tibet.",
+      "famousFor": "Kagyu sect headquarters, Golden Stupa.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "rumtek-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/rumtek-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rumtek-monastery",
+      "image": "assets/images/states/sikkim/rumtek-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/rumtek-monastery.webp"
+    },
+    {
+      "name": "Gurudongmar Lake",
+      "city": "Lachen",
+      "category": "lakes",
+      "distance": "190 km from Gangtok",
+      "rating": 4.9,
+      "description": "Gurudongmar Lake is one of the highest lakes in the world at 5,183 m altitude and one of the most sacred lakes in Sikkim. Named after Guru Padmasambhava, the lake remains partially unfrozen even in the harshest winters — according to legend, the Guru blessed the lake so it would always provide water.",
+      "history": "Guru Padmasambhava (Guru Rinpoche) visited this lake in the 8th century while traveling to Tibet. He is said to have blessed the lake, and one portion remains unfrozen even at -35°C. The lake is sacred to both Buddhists and Sikhs (who associate it with Guru Nanak Dev).",
+      "famousFor": "One of the highest lakes in the world, Partially unfrozen year-round, Sacred to Buddhists and Sikhs, Stunning Himalayan views",
+      "bestTime": "March to June, October to December",
+      "timings": "6:00 AM – 2:00 PM (special permit required)",
+      "entryFee": "Free (Protected Area Permit required: ₹200)",
+      "slug": "gurudongmar-lake",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/gurudongmar-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chopta Valley",
+          "city": "North Sikkim",
+          "distance": "20 km",
+          "slug": "chopta-valley",
+          "image": "assets/images/states/sikkim/gurudongmar-lake.webp"
+        },
+        {
+          "name": "Lachen",
+          "city": "North Sikkim",
+          "distance": "60 km",
+          "slug": "lachen",
+          "image": "assets/images/states/sikkim/gurudongmar-lake.webp"
+        }
+      ],
+      "id": "gurudongmar-lake",
+      "image": "assets/images/states/sikkim/gurudongmar-lake.webp",
+      "heroImage": "assets/images/states/sikkim/gurudongmar-lake.webp"
+    },
+    {
+      "name": "Yumthang Valley of Flowers",
+      "city": "Lachung",
+      "category": "nature",
+      "distance": "150 km from Gangtok",
+      "rating": 4.8,
+      "description": "A spectacular nature sanctuary surrounded by snow-capped peaks, characterized by its river, hot springs, yaks, and rolling meadows that bloom with rhododendrons in spring.",
+      "history": "A vital pastureland for nomadic tribes, now protected under the Shingba Rhododendron Sanctuary.",
+      "famousFor": "Rhododendrons, Teesta river, valley landscapes.",
+      "bestTime": "Late February to mid-June",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Unknown",
+      "slug": "yumthang-valley",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/yumthang-valley.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yumthang-valley",
+      "image": "assets/images/states/sikkim/yumthang-valley.webp",
+      "heroImage": "assets/images/states/sikkim/yumthang-valley.webp"
+    },
+    {
+      "name": "Buddha Park (Tathagata Tsal)",
+      "city": "Ravangla",
+      "category": "heritage",
+      "distance": "65 km from Gangtok",
+      "rating": 4.8,
+      "description": "A magnificent spiritual park featuring a towering 130-foot statue of Lord Buddha, set against the dramatic backdrop of Mount Kanchenjunga.",
+      "history": "Constructed between 2006 and 2013 to commemorate the 2550th birth anniversary of Gautama Buddha. It was consecrated by the 14th Dalai Lama.",
+      "famousFor": "130-foot Buddha statue, landscaped gardens.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "buddha-park-ravangla",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/buddha-park-ravangla.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "buddha-park-ravangla",
+      "image": "assets/images/states/sikkim/buddha-park-ravangla.webp",
+      "heroImage": "assets/images/states/sikkim/buddha-park-ravangla.webp"
+    },
+    {
+      "name": "Siddhesvara Dhaam (Char Dham)",
+      "city": "Namchi",
+      "category": "temples",
+      "distance": "78 km from Gangtok",
+      "rating": 4.7,
+      "description": "A massive pilgrimage complex atop Solophok Hill featuring an 87-foot statue of Lord Shiva and stunning replicas of the four highly revered Hindu Dhams.",
+      "history": "Built to promote religious tourism in South Sikkim, it was inaugurated in 2011.",
+      "famousFor": "87-foot Shiva statue, replicas of Badrinath, Jagannath",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 7:00 PM",
+      "entryFee": "₹50",
+      "slug": "char-dham-namchi",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/char-dham-namchi.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "char-dham-namchi",
+      "image": "assets/images/states/sikkim/char-dham-namchi.webp",
+      "heroImage": "assets/images/states/sikkim/char-dham-namchi.webp"
+    },
+    {
+      "name": "Pelling Skywalk & Chenrezig Statue",
+      "city": "Pelling",
+      "category": "heritage",
+      "distance": "In Pelling",
+      "rating": 4.7,
+      "description": "India's first glass skywalk sits at 7,200 feet, offering thrilling transparent views of the valley below, leading up to a massive 137-foot statue of Chenrezig (Avalokiteshvara).",
+      "history": "Inaugurated in 2018, it quickly became one of the most iconic modern tourist attractions in West Sikkim.",
+      "famousFor": "Glass bottom bridge, 137-foot golden statue.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "pelling-skywalk",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/pelling-skywalk.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pelling-skywalk",
+      "image": "assets/images/states/sikkim/pelling-skywalk.webp",
+      "heroImage": "assets/images/states/sikkim/pelling-skywalk.webp"
+    },
+    {
+      "name": "Pemayangtse Monastery",
+      "city": "Pelling",
+      "category": "heritage",
+      "distance": "2 km from Pelling",
+      "rating": 4.6,
+      "description": "One of the oldest and most premier monasteries in Sikkim belonging to the Nyingma order. It features a spectacular seven-tiered painted wooden model of the Guru Rinpoche's Heavenly Palace.",
+      "history": "Planned, designed, and founded by Lhatsun Chempo in 1647. It controlled all other Nyingma monasteries in the state.",
+      "famousFor": "Ancient Buddhist heritage, Zandog Palri wooden sculpture.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "pemayangtse-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/pemayangtse-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pemayangtse-monastery",
+      "image": "assets/images/states/sikkim/pemayangtse-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/pemayangtse-monastery.webp"
+    },
+    {
+      "name": "Khecheopalri Lake",
+      "city": "Pelling",
+      "category": "nature",
+      "distance": "34 km from Pelling",
+      "rating": 4.6,
+      "description": "A deeply sacred, wish-fulfilling lake hidden in the dense forests. Locals believe that birds meticulously pick up every single leaf that falls onto its completely clear surface.",
+      "history": "Sacred to both Buddhists and Lepchas, shaped like a footprint, believed to be the footprint of Goddess Tara.",
+      "famousFor": "Wish-fulfillment, crystal clear waters, dense forest.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "khecheopalri-lake",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/khecheopalri-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "khecheopalri-lake",
+      "image": "assets/images/states/sikkim/khecheopalri-lake.webp",
+      "heroImage": "assets/images/states/sikkim/khecheopalri-lake.webp"
+    },
+    {
+      "name": "Temi Tea Garden",
+      "city": "Namchi",
+      "category": "nature",
+      "distance": "18 km from Namchi",
+      "rating": 4.7,
+      "description": "The only tea estate in Sikkim, famous for producing world-class organic tea. The lush green slopes offer gorgeous views of Mt. Kanchenjunga.",
+      "history": "Established in 1969 by the Government of Sikkim to provide employment to Tibetan refugees.",
+      "famousFor": "Organic tea, cherry blossoms, scenic landscapes.",
+      "bestTime": "November (Cherry Blossom Season) or Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "temi-tea-garden",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/temi-tea-garden.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "temi-tea-garden",
+      "image": "assets/images/states/sikkim/temi-tea-garden.webp",
+      "heroImage": "assets/images/states/sikkim/temi-tea-garden.webp"
+    },
+    {
+      "name": "Singshore Bridge",
+      "city": "Pelling",
+      "category": "nature",
+      "distance": "25 km from Pelling",
+      "rating": 4.5,
+      "description": "The highest bridge in Sikkim and the second-highest suspension bridge in Asia. Suspended at a dizzying height, it connects two lush green mountain ridges.",
+      "history": "An engineering marvel built to connect the remote villages of Dentam and Uttarey.",
+      "famousFor": "High-altitude suspension bridge, deep gorge views.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "singshore-bridge",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/singshore-bridge.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "singshore-bridge",
+      "image": "assets/images/states/sikkim/singshore-bridge.webp",
+      "heroImage": "assets/images/states/sikkim/singshore-bridge.webp"
+    },
+    {
+      "name": "Ban Jhakri Falls",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "7 km from Gangtok",
+      "rating": 4.4,
+      "description": "A beautiful 100-foot waterfall set in a lush energy park. The park is decorated with sculptures depicting traditional Shamanic (Jhakri) culture of Sikkim.",
+      "history": "Developed as a theme park to celebrate the ancient mystical healers of the region.",
+      "famousFor": "Waterfalls, Shamanic sculptures, picnic spot.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹50",
+      "slug": "ban-jhakri-falls",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/ban-jhakri-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "ban-jhakri-falls",
+      "image": "assets/images/states/sikkim/ban-jhakri-falls.webp",
+      "heroImage": "assets/images/states/sikkim/ban-jhakri-falls.webp"
+    },
+    {
+      "name": "Zuluk (Dzuluk)",
+      "city": "East Sikkim",
+      "category": "nature",
+      "distance": "90 km from Gangtok",
+      "rating": 4.8,
+      "description": "A remote, picturesque hamlet perched at 10,000 feet, famous for its jaw-dropping zig-zag roads (32 hairpin bends) offering phenomenal sunrise views over Kanchenjunga.",
+      "history": "It was once a transit point to the historic Silk Route from Tibet to India.",
+      "famousFor": "Zig-zag roads, Silk Route, Kanchenjunga sunrise.",
+      "bestTime": "August to October (for clear views)",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Unknown",
+      "slug": "zuluk",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/zuluk.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "zuluk",
+      "image": "assets/images/states/sikkim/zuluk.webp",
+      "heroImage": "assets/images/states/sikkim/zuluk.webp"
+    },
+    {
+      "name": "Tashiding Monastery",
+      "city": "Yuksom",
+      "category": "heritage",
+      "distance": "40 km from Pelling",
+      "rating": 4.5,
+      "description": "Considered the most sacred monastery in Sikkim. It sits majestically on a heart-shaped hill between the Rathong and Rangeet rivers.",
+      "history": "Founded in 1641 by Ngadak Sempa Chempo Phunshok Rigzing, one of the three wise men who consecrated the first Chogyal of Sikkim.",
+      "famousFor": "Bhumchu festival, sacred chortens, mountain views.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "tashiding-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/tashiding-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tashiding-monastery",
+      "image": "assets/images/states/sikkim/tashiding-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/tashiding-monastery.webp"
+    },
+    {
+      "name": "Seven Sisters Waterfall",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "32 km from Gangtok",
+      "rating": 4.6,
+      "description": "A magnificent cascade comprising seven distinct tiers of waterfalls descending down the rugged cliff face. It comes alive with roaring ferocity during the monsoon season.",
+      "history": "A natural wonder situated on the Gangtok-Lachung highway, it serves as a highly popular resting and photography point for travelers heading to North Sikkim.",
+      "famousFor": "Seven-tiered cascade, lush green surroundings.",
+      "bestTime": "May to July (Monsoons)",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "seven-sisters-waterfall",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/seven-sisters-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "seven-sisters-waterfall",
+      "image": "assets/images/states/sikkim/seven-sisters-waterfall.webp",
+      "heroImage": "assets/images/states/sikkim/seven-sisters-waterfall.webp"
+    },
+    {
+      "name": "Enchey Monastery",
+      "city": "Gangtok",
+      "category": "heritage",
+      "distance": "3 km from Gangtok",
+      "rating": 4.5,
+      "description": "An incredibly peaceful 200-year-old monastery belonging to the Nyingma order of Vajrayana Buddhism. Built like a Chinese pagoda, it sits on a ridge offering beautiful views of Kanchenjunga.",
+      "history": "Established in 1909 above Gangtok. It is believed that the protecting deities of Khangchendzonga and Yabdean reside here.",
+      "famousFor": "Pagoda architecture, Chaam dances, spiritual peace.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "enchey-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/enchey-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "enchey-monastery",
+      "image": "assets/images/states/sikkim/enchey-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/enchey-monastery.webp"
+    },
+    {
+      "name": "Kanchenjunga Falls",
+      "city": "Pelling",
+      "category": "nature",
+      "distance": "28 km from Pelling",
+      "rating": 4.7,
+      "description": "A stunning, perennial waterfall believed to originate directly from the glaciers of Mount Kanchenjunga. Hidden behind dense forest curves, its massive drop creates a pristine plunge pool.",
+      "history": "The falls were largely hidden from public view until they were 'discovered' by a local tour operator in the 1990s.",
+      "famousFor": "Perennial glacial water, immense natural beauty.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "kanchenjunga-falls",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/kanchenjunga-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kanchenjunga-falls",
+      "image": "assets/images/states/sikkim/kanchenjunga-falls.webp",
+      "heroImage": "assets/images/states/sikkim/kanchenjunga-falls.webp"
+    },
+    {
+      "name": "Khangchendzonga National Park",
+      "city": "Yuksom",
+      "category": "wildlife",
+      "distance": "Begins near Yuksom",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage Site (the only 'Mixed Heritage' site in India) known for its unparalleled alpine landscapes, glaciers (like Zemu), and wildlife including the elusive Snow Leopard and Red Panda.",
+      "history": "Inscribed as a UNESCO World Heritage site in 2016 for both its incredible natural biodiversity and deep mythological significance to the Sikkimese people.",
+      "famousFor": "Snow Leopards, Zemu Glacier, Mt. Kanchenjunga.",
+      "bestTime": "April to May, September to mid-December",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Unknown",
+      "slug": "khangchendzonga-national-park",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/khangchendzonga-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "khangchendzonga-national-park",
+      "image": "assets/images/states/sikkim/khangchendzonga-national-park.webp",
+      "heroImage": "assets/images/states/sikkim/khangchendzonga-national-park.webp"
+    },
+    {
+      "name": "Himalayan Zoological Park",
+      "city": "Gangtok",
+      "category": "wildlife",
+      "distance": "6 km from Gangtok",
+      "rating": 4.6,
+      "description": "Spanning 205 hectares of mountainous terrain, this incredible park houses animals in their natural semi-alpine habitats. It is one of the best places in India to see the highly endangered Red Panda.",
+      "history": "Established to preserve wildlife in their natural habitat without caging them in small enclosures.",
+      "famousFor": "Red Pandas, Snow Leopards, Himalayan Black Bears.",
+      "bestTime": "Mid-February to May",
+      "timings": "9:00 AM – 4:00 PM (Closed Thursdays)",
+      "entryFee": "₹25",
+      "slug": "sikkim-zoological-park",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/sikkim-zoological-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sikkim-zoological-park",
+      "image": "assets/images/states/sikkim/sikkim-zoological-park.webp",
+      "heroImage": "assets/images/states/sikkim/sikkim-zoological-park.webp"
+    },
+    {
+      "name": "Coronation Throne of Norbugang",
+      "city": "Yuksom",
+      "category": "heritage",
+      "distance": "In Yuksom",
+      "rating": 4.5,
+      "description": "A highly historical site marking the birth of the Kingdom of Sikkim. The ancient stone throne sits quietly in a pine forest, accompanied by a massive stupa and the footprint of the head lama.",
+      "history": "This is where the first Chogyal (King) of Sikkim, Phuntsog Namgyal, was consecrated by three wise lamas in 1642.",
+      "famousFor": "Birthplace of Sikkim's monarchy, ancient stone throne.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "norbugang-coronation-throne",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/norbugang-coronation-throne.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "norbugang-coronation-throne",
+      "image": "assets/images/states/sikkim/norbugang-coronation-throne.webp",
+      "heroImage": "assets/images/states/sikkim/norbugang-coronation-throne.webp"
+    },
+    {
+      "name": "Phodong Monastery",
+      "city": "North Sikkim",
+      "category": "heritage",
+      "distance": "38 km from Gangtok",
+      "rating": 4.5,
+      "description": "One of the six most important Buddhist monasteries in Sikkim, belonging to the Kagyu sect. It houses incredibly beautiful ancient murals and paintings.",
+      "history": "Built in the early 18th century by the 9th Karmapa. It was rebuilt later but retained its original frescoes.",
+      "famousFor": "Ancient murals, Kagyu sect history, Loosong festival.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "phodong-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/phodong-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "phodong-monastery",
+      "image": "assets/images/states/sikkim/phodong-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/phodong-monastery.webp"
+    },
+    {
+      "name": "Lachen Monastery",
+      "city": "Lachen",
+      "category": "heritage",
+      "distance": "In Lachen Village",
+      "rating": 4.6,
+      "description": "A peaceful and colorful monastery perched atop a hill overlooking the serene Lachen village. It serves as the spiritual hub for the nomadic communities of North Sikkim.",
+      "history": "Built in 1858 by the Nyingma Sect of Tibetan Buddhism, featuring beautiful prayer wheels and Tibetan architecture.",
+      "famousFor": "Spiritual hub of North Sikkim, stunning village views.",
+      "bestTime": "October to June",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "lachen-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/lachen-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lachen-monastery",
+      "image": "assets/images/states/sikkim/lachen-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/lachen-monastery.webp"
+    },
+    {
+      "name": "Lachung Monastery",
+      "city": "Lachung",
+      "category": "heritage",
+      "distance": "In Lachung Village",
+      "rating": 4.6,
+      "description": "A striking Buddhist gompa set against the backdrop of massive snow-capped mountains and apple orchards. It is the focal point of all religious functions in the Lachung Valley.",
+      "history": "Built in 1880, this Nyingma sect monastery plays host to the famous mask dance during winter.",
+      "famousFor": "Mask dances, apple orchard surroundings.",
+      "bestTime": "October to June",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "lachung-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/lachung-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lachung-monastery",
+      "image": "assets/images/states/sikkim/lachung-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/lachung-monastery.webp"
+    },
+    {
+      "name": "Tashi Viewpoint",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "8 km from Gangtok",
+      "rating": 4.7,
+      "description": "A circular viewing deck that offers the absolute best sunrise views of the majestic Mount Kanchenjunga and Mount Siniolchu, right from the outskirts of Gangtok.",
+      "history": "Built by Tashi Namgyal, the late King of Sikkim, specifically to allow visitors to witness the breathtaking Himalayan panorama.",
+      "famousFor": "Sunrise over Kanchenjunga, clear mountain views.",
+      "bestTime": "October to March (Early Morning)",
+      "timings": "5:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "tashi-viewpoint",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/tashi-viewpoint.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tashi-viewpoint",
+      "image": "assets/images/states/sikkim/tashi-viewpoint.webp",
+      "heroImage": "assets/images/states/sikkim/tashi-viewpoint.webp"
+    },
+    {
+      "name": "Tso Lhamo Lake (Cholamu Lake)",
+      "city": "North Sikkim",
+      "category": "nature",
+      "distance": "190 km from Gangtok",
+      "rating": 4.8,
+      "description": "One of the highest lakes in the world, situated at a staggering altitude of 17,490 feet. It is the primary source of the mighty Teesta River.",
+      "history": "Due to its extreme proximity to the Indo-China border (just 4 km away), it is highly restricted and requires special Army permits.",
+      "famousFor": "Extreme altitude, source of Teesta, pristine environment.",
+      "bestTime": "October to November",
+      "timings": "Unknown",
+      "entryFee": "Unknown",
+      "slug": "tso-lhamo-lake",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/tso-lhamo-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tso-lhamo-lake",
+      "image": "assets/images/states/sikkim/tso-lhamo-lake.webp",
+      "heroImage": "assets/images/states/sikkim/tso-lhamo-lake.webp"
+    },
+    {
+      "name": "Lampokhari (Aritar Lake)",
+      "city": "East Sikkim",
+      "category": "nature",
+      "distance": "60 km from Gangtok",
+      "rating": 4.6,
+      "description": "A stunning, boot-shaped emerald lake situated at an altitude of 4,600 feet. It holds the distinction of being the oldest natural lake in Sikkim with boating facilities.",
+      "history": "Recently developed for eco-tourism by the Sikkim government, surrounded by dense pine forests.",
+      "famousFor": "Paddle boating, boot shape, scenic pine forests.",
+      "bestTime": "March to May",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "lampokhari-aritar",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/lamokhari-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lampokhari-aritar",
+      "image": "assets/images/states/sikkim/lamokhari-lake.webp",
+      "heroImage": "assets/images/states/sikkim/lamokhari-lake.webp"
+    },
+    {
+      "name": "Barsey Rhododendron Sanctuary",
+      "city": "West Sikkim",
+      "category": "nature",
+      "distance": "115 km from Gangtok",
+      "rating": 4.7,
+      "description": "A magical 104-sq-km sanctuary that transforms into a riot of colors during spring when hundreds of species of Rhododendrons burst into full bloom.",
+      "history": "Declared a wildlife sanctuary to protect the unique alpine flora and the elusive Red Panda.",
+      "famousFor": "Spring rhododendron blooms, trekking, Red Pandas.",
+      "bestTime": "April to May (Peak Bloom)",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹55",
+      "slug": "barsey-rhododendron-sanctuary",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/barsey-rhododendron-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "barsey-rhododendron-sanctuary",
+      "image": "assets/images/states/sikkim/barsey-rhododendron-sanctuary.webp",
+      "heroImage": "assets/images/states/sikkim/barsey-rhododendron-sanctuary.webp"
+    },
+    {
+      "name": "Flower Exhibition Centre",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "In Gangtok (Ridge Park)",
+      "rating": 4.5,
+      "description": "A paradise for botany lovers, showcasing a spectacular array of exotic Himalayan orchids and seasonal flowers in a beautifully designed greenhouse.",
+      "history": "Sikkim is home to over 600 species of orchids, and this center was created to showcase this incredible floral wealth to tourists.",
+      "famousFor": "Annual Orchid Show, vibrant flower displays.",
+      "bestTime": "March to May",
+      "timings": "8:30 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "flower-exhibition-centre",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/flower-exhibition-centre.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "flower-exhibition-centre",
+      "image": "assets/images/states/sikkim/flower-exhibition-centre.webp",
+      "heroImage": "assets/images/states/sikkim/flower-exhibition-centre.webp"
+    },
+    {
+      "name": "Saramsa Garden",
+      "city": "Gangtok",
+      "category": "nature",
+      "distance": "14 km from Gangtok",
+      "rating": 4.4,
+      "description": "A historically significant and lush recreational garden originally established to grow tropical fruits and later converted to cultivate medicinal plants and orchids.",
+      "history": "Established in 1922 by the Sikkim Forest Department, it once hosted the International Florashow in 2008.",
+      "famousFor": "Orchids, picnic spots, historical greenhouse.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "saramsa-garden",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/saramsa-garden.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "saramsa-garden",
+      "image": "assets/images/states/sikkim/saramsa-garden.webp",
+      "heroImage": "assets/images/states/sikkim/saramsa-garden.webp"
+    },
+    {
+      "name": "Reshi Hot Springs",
+      "city": "Jorethang",
+      "category": "nature",
+      "distance": "25 km from Gyalshing",
+      "rating": 4.4,
+      "description": "Natural geothermal springs situated along the banks of the Rangeet River. The sulfur-rich waters are deeply believed to possess therapeutic and medicinal properties.",
+      "history": "For centuries, local pilgrims have visited these springs and nearby Lho-Khandro-Sang-Phug (cave of occult fairies) for healing.",
+      "famousFor": "Therapeutic hot waters, spiritual healing.",
+      "bestTime": "December to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "reshi-hot-springs",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/reshi-hot-springs.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "reshi-hot-springs",
+      "image": "assets/images/states/sikkim/reshi-hot-springs.webp",
+      "heroImage": "assets/images/states/sikkim/reshi-hot-springs.webp"
+    },
+    {
+      "name": "Rinchenpong Monastery",
+      "city": "West Sikkim",
+      "category": "heritage",
+      "distance": "40 km from Pelling",
+      "rating": 4.6,
+      "description": "The third oldest monastery in Sikkim, holding profound spiritual significance. It is most famous for housing the rare Ati Buddha (Adibuddha) statue sitting in the Yab-Yum position.",
+      "history": "Established in 1730 by the Nyingma order. The area is also historically famous for the 'Poison Lake' incident during the British-Gurkha war.",
+      "famousFor": "Rare Adibuddha statue, panoramic Kanchenjunga views.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "rinchenpong-monastery",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/rinchenpong-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "rinchenpong-monastery",
+      "image": "assets/images/states/sikkim/rinchenpong-monastery.webp",
+      "heroImage": "assets/images/states/sikkim/rinchenpong-monastery.webp"
+    },
+    {
+      "name": "Tendong Hill",
+      "city": "Namchi",
+      "category": "nature",
+      "distance": "15 km from Namchi",
+      "rating": 4.5,
+      "description": "A dormant volcano offering fantastic trekking opportunities. The summit provides a jaw-dropping 360-degree panorama of the entire Singalila range and the plains of Bengal.",
+      "history": "According to Lepcha mythology, this hill saved their ancestors from a massive flood by mysteriously rising above the water level.",
+      "famousFor": "Trekking, 360-degree views, Lepcha mythology.",
+      "bestTime": "March to June",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "slug": "tendong-hill",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/tendong-hill.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tendong-hill",
+      "image": "assets/images/states/sikkim/tendong-hill.webp",
+      "heroImage": "assets/images/states/sikkim/tendong-hill.webp"
+    },
+    {
+      "name": "Menmecho Lake",
+      "city": "East Sikkim",
+      "category": "nature",
+      "distance": "60 km from Gangtok",
+      "rating": 4.7,
+      "description": "A breathtaking high-altitude lake surrounded by untouched pine forests and deep valleys. It is famous across the state for its abundance of trout fish.",
+      "history": "Fed by the melting snows of the surrounding mountains, it is the source of the river Rangpo-chu.",
+      "famousFor": "Trout fishing, pristine pine valleys.",
+      "bestTime": "March to May",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "Unknown",
+      "slug": "menmecho-lake",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/menmecho-lake.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "menmecho-lake",
+      "image": "assets/images/states/sikkim/menmecho-lake.webp",
+      "heroImage": "assets/images/states/sikkim/menmecho-lake.webp"
+    },
+    {
+      "name": "Dzongri Trek Trail",
+      "city": "Yuksom",
+      "category": "nature",
+      "distance": "Begins at Yuksom",
+      "rating": 4.9,
+      "description": "One of the most thrilling and visually spectacular high-altitude trekking trails in the Himalayas, culminating at the Dzongri Viewpoint (13,700 ft) for a mind-bendingly close view of Mt. Kanchenjunga.",
+      "history": "It forms the first leg of the legendary Goechala Trek and traverses through the heart of the Khangchendzonga National Park.",
+      "famousFor": "High-altitude trekking, extreme Kanchenjunga views.",
+      "bestTime": "April to May, September to November",
+      "timings": "Multi-day Trek",
+      "entryFee": "Unknown",
+      "slug": "dzongri-trek-trail",
+      "state": "Sikkim",
+      "images": {
+        "main": "assets/images/states/sikkim/dzongri-trek-trail.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dzongri-trek-trail",
+      "image": "assets/images/states/sikkim/dzongri-trek-trail.webp",
+      "heroImage": "assets/images/states/sikkim/dzongri-trek-trail.webp"
+    },
+    {
+      "name": "Nathula Pass",
+      "city": "Gangtok",
+      "distance": "56 km from Gangtok",
+      "category": "nature",
+      "slug": "nathula-pass",
+      "images": {
+        "main": "assets/images/popular/nathula-pass.webp"
+      },
+      "image": "assets/images/popular/nathula-pass.webp",
+      "description": "Nathu La is a mountain pass at 4,310 m altitude on the Indo-China border, one of only three open trading border posts between India and China. The pass offers breathtaking views of the snow-covered Himalayas and the opportunity to stand at the actual border with a handshake across the fence.",
+      "history": "Nathu La was part of the ancient Silk Route connecting India to Tibet. It was sealed after the 1962 Sino-Indian War and reopened for trade in 2006. The Indian and Chinese soldiers stationed here are known for their friendly exchanges across the border.",
+      "famousFor": "Indo-China border, Silk Route history, Snow-covered peaks, Military memorial, High-altitude pass",
+      "bestTime": "May to October (open only Wednesday, Thursday, Saturday, Sunday)",
+      "timings": "Visiting hours: 8:00 AM – 4:00 PM (closed Monday, Tuesday, Friday)",
+      "entryFee": "Free (Protected Area Permit required: ₹200, arranged via tour operators)",
+      "nearbyAttractions": [
+        {
+          "name": "Tsomgo Lake",
+          "city": "Gangtok",
+          "distance": "18 km away",
+          "category": "lakes",
+          "slug": "tsomgo-lake",
+          "images": {
+            "main": "assets/images/popular/tsomgo-lake.webp"
+          },
+          "state": "Sikkim",
+          "image": "assets/images/popular/tsomgo-lake.webp"
+        },
+        {
+          "name": "Baba Harbhajan Singh Temple",
+          "city": "East Sikkim",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "baba-mandir",
+          "images": {
+            "main": "assets/images/states/sikkim/baba-mandir.webp"
+          },
+          "state": "Sikkim",
+          "image": "assets/images/states/sikkim/baba-mandir.webp"
+        }
+      ],
+      "state": "Sikkim",
+      "heroImage": "assets/images/popular/nathula-pass.webp"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "le-corbusier-centre",
+  "name": "Le Corbusier Centre",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A museum dedicated to the visionary architect who designed Chandigarh, housed in his former office building \u2014 showcasing rare sketches, furniture, and the city's planning history.",
+  "history": "Located in the building that served as Le Corbusier's office during the city's construction in the 1950s. Contains original drawings and correspondence.",
+  "famousFor": "Le Corbusier's original sketches, city planning documents, and furniture.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 5:00 PM (Closed on Mondays)",
+  "entryFee": "\u20b910",
+  "image": "./assets/images/states/chandigarh/le-corbusier-centre.webp",
+  "heroImage": "./assets/images/states/chandigarh/le-corbusier-centre.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/le-corbusier-centre.webp"
+  ],
+  "nearbyPlaces": [
+    "japanese-garden",
+    "govt-museum-art-gallery",
+    "capitol-complex",
+    "rock-garden",
+    "sukhna-lake",
+    "terraced-garden",
+    "international-dolls-museum",
+    "garden-of-silence",
+    "rose-garden",
+    "leisure-valley"
+  ]
+}

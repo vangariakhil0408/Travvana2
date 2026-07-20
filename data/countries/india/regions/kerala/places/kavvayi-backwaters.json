@@ -1,0 +1,68 @@
+{
+  "id": "kavvayi-backwaters",
+  "slug": "kavvayi-backwaters",
+  "name": "Kavvayi Backwaters",
+  "location": "Kerala, India",
+  "district": "Kannur",
+  "stateId": "kerala",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/states/kerala/banner.webp",
+  "heroImage": "./assets/images/states/kerala/banner.webp",
+  "gallery": [
+    "./assets/images/states/kerala/banner.webp"
+  ],
+  "overview": "Experience the beauty of Kavvayi Backwaters, a top destination in Kerala.",
+  "description": "Unexplored backwater destination in North Kerala.",
+  "rating": "4.5",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "nature",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "bekal-fort",
+    "ranipuram-hills"
+  ]
+}

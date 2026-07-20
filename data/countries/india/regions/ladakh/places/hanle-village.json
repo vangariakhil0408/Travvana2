@@ -1,0 +1,20 @@
+{
+  "id": "hanle-village",
+  "name": "Hanle Village & Observatory",
+  "city": "Changthang",
+  "state": "Ladakh",
+  "description": "A remote, pristine village housing the Indian Astronomical Observatory, one of the world's highest optical telescopes, taking advantage of the completely clear, unpolluted skies.",
+  "history": "Designated as India's first Dark Sky Reserve to protect its unparalleled stargazing conditions.",
+  "famousFor": "Dark Sky Reserve, stargazing, Hanle Monastery.",
+  "bestTime": "June to September",
+  "timings": "Open 24/7 (Inner Line Permit required)",
+  "entryFee": "Free (Permit fees apply)",
+  "image": "./assets/images/states/ladakh/file_0000000095447208885dedd74daf5143.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000095447208885dedd74daf5143.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000095447208885dedd74daf5143.webp"
+  ],
+  "nearbyPlaces": [
+    "umling-la"
+  ]
+}

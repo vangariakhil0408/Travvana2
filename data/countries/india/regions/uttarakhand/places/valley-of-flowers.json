@@ -1,0 +1,69 @@
+{
+  "id": "valley-of-flowers",
+  "slug": "valley-of-flowers",
+  "name": "Valley of Flowers",
+  "location": "Uttarakhand, India",
+  "district": "Joshimath",
+  "stateId": "uttarakhand",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/valley-of-flowers.webp",
+  "heroImage": "./assets/images/popular/valley-of-flowers.webp",
+  "gallery": [
+    "./assets/images/popular/valley-of-flowers.webp"
+  ],
+  "overview": "Experience the beauty of Valley of Flowers, a top destination in Uttarakhand, India.",
+  "description": "Discovered in 1931, the Valley of Flowers is a UNESCO World Heritage Site known for its endemic alpine flora and natural beauty.",
+  "rating": "4.5",
+  "reviewCount": 12515,
+  "popularityScore": 38,
+  "priceLevel": 2,
+  "bestTimeToVisit": "July to September",
+  "timings": "7:00 AM - 5:00 PM",
+  "entryFee": {
+    "indian": "₹150",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jolly Grant Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Joshimath Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "17 km trek from Govindghat"
+  },
+  "tags": [
+    "nature",
+    "uttarakhand",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4810
+    },
+    {
+      "views": 4864
+    }
+  ],
+  "nearbyPlaces": [
+    "nanda-devi-national-park"
+  ]
+}

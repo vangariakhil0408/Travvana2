@@ -1,0 +1,69 @@
+{
+  "id": "kaziranga-national-park",
+  "slug": "kaziranga-national-park",
+  "name": "Kaziranga National Park",
+  "location": "Assam, India",
+  "district": "Golaghat",
+  "stateId": "assam",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/kaziranga-national-park.webp",
+  "heroImage": "./assets/images/popular/kaziranga-national-park.webp",
+  "gallery": [
+    "./assets/images/popular/kaziranga-national-park.webp"
+  ],
+  "overview": "Experience the beauty of Kaziranga National Park, a top destination in Assam, India.",
+  "description": "Kaziranga is a massive wildlife sanctuary famous globally for securely hosting two-thirds of the world's great one-horned rhinoceroses.",
+  "rating": "4.6",
+  "reviewCount": 33937,
+  "popularityScore": 57,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to April",
+  "timings": "7:30 AM - 10:00 AM, 1:30 PM - 3:00 PM",
+  "entryFee": {
+    "indian": "₹100 (Safaris cost extra)",
+    "foreigner": "₹650"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jorhat Airport",
+      "distance": "90 km"
+    },
+    "nearestRailway": {
+      "name": "Furkating Junction",
+      "distance": "75 km"
+    },
+    "byRoad": "Linked perfectly by NH37 passing through."
+  },
+  "tags": [
+    "nature",
+    "assam",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2028
+    },
+    {
+      "views": 5348
+    }
+  ],
+  "nearbyPlaces": [
+    "majuli-island"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "diu-fort",
+  "name": "Diu Fort",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A colossal 16th-century Portuguese fortress surrounded by the sea on three sides, offering breathtaking views of the Arabian Sea, an iconic lighthouse, and rows of ancient brass cannons.",
+  "history": "Built by the Portuguese in 1535 after an alliance with the Sultan of Gujarat. It was considered one of the most important Portuguese forts in Asia and remained under their rule until 1961.",
+  "famousFor": "16th-century Portuguese architecture, sea views, and lighthouse.",
+  "bestTime": "October to March",
+  "timings": "8:00 AM \u2013 6:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+  ],
+  "nearbyPlaces": [
+    "panikotha",
+    "ghoghla-beach",
+    "ins-khukri-memorial",
+    "nagoa-beach",
+    "gangeshwar-mahadev-temple",
+    "naida-caves"
+  ]
+}

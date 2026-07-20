@@ -1,0 +1,25 @@
+{
+  "id": "panikotha",
+  "name": "Panikotha (Fortim do Mar)",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A striking fortress shaped like a ship, standing alone in the middle of the Arabian Sea just off the coast of Diu, accessible only by motorboat.",
+  "history": "Built by the Portuguese to guard the entrance of the creek against enemy ships. It once housed a small chapel and a lighthouse, and has been featured in several Bollywood films.",
+  "famousFor": "Sea fortress, boat access, and evening illumination.",
+  "bestTime": "October to March",
+  "timings": "8:00 AM \u2013 6:00 PM (Subject to tide)",
+  "entryFee": "Free (Boat ride extra)",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+  ],
+  "nearbyPlaces": [
+    "diu-fort",
+    "ghoghla-beach",
+    "ins-khukri-memorial",
+    "nagoa-beach",
+    "gangeshwar-mahadev-temple",
+    "naida-caves"
+  ]
+}

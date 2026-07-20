@@ -1,0 +1,60 @@
+{
+  "id": "khusro-bagh",
+  "slug": "khusro-bagh",
+  "name": "Khusro Bagh",
+  "location": "Uttar Pradesh, India",
+  "district": "Prayagraj",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A magnificent walled Mughal garden enclosing three exquisitely ornate sandstone tombs. The intricately carved gateway is considered one of the finest examples of Mughal stone carving in all of India.",
+  "description": "Built in the early 17th century. Contains the tombs of Prince Khusro (Shah Jahan's brother), his mother Shah Begum, and his sister Sultanunnisa.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "allahabad-triveni-sangam",
+    "anand-bhavan"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Khusro-Bagh.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Khusro-Bagh.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Khusro-Bagh.webp"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mahakaleshwar-temple",
+  "name": "Mahakaleshwar Jyotirlinga",
+  "city": "Ujjain",
+  "state": "Madhya Pradesh",
+  "description": "One of the twelve sacred Jyotirlingas, this ancient temple on the banks of Shipra River is famous for its unique Bhasma Aarti and its south-facing idol.",
+  "history": "The temple is mentioned in the Puranas. The current structure was rebuilt by the Scindia dynasty in the 18th century after being destroyed by Iltutmish in 1235.",
+  "famousFor": "Bhasma Aarti, Jyotirlinga, and Kumbh Mela.",
+  "bestTime": "October to March",
+  "timings": "4:00 AM \u2013 11:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Mahakaleshwar-Jyotirlinga.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Mahakaleshwar-Jyotirlinga.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Mahakaleshwar-Jyotirlinga.webp"
+  ],
+  "nearbyPlaces": []
+}

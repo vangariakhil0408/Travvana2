@@ -1,0 +1,16 @@
+{
+  "feedType": "trending",
+  "title": "Trending Now",
+  "subtitle": "Most searched destinations this week",
+  "lastUpdated": "2026-04-01",
+  "items": [
+    { "placeId": "alleppey-backwaters", "stateId": "kerala", "name": "Alleppey Backwaters", "thumbnail": "", "rating": 4.8, "reviewCount": 8500, "category": "nature", "trendScore": 98, "district": "alappuzha", "slug": "alleppey-backwaters", "priceLevel": 2 },
+    { "placeId": "jaisalmer-fort", "stateId": "rajasthan", "name": "Jaisalmer Fort", "thumbnail": "", "rating": 4.7, "reviewCount": 12000, "category": "heritage", "trendScore": 95, "district": "jaisalmer", "slug": "jaisalmer-fort", "priceLevel": 2 },
+    { "placeId": "baga-beach", "stateId": "goa", "name": "Baga Beach", "thumbnail": "", "rating": 4.5, "reviewCount": 15000, "category": "beaches", "trendScore": 94, "district": "north-goa", "slug": "baga-beach", "priceLevel": 2 },
+    { "placeId": "manali-solang-valley", "stateId": "himachal-pradesh", "name": "Solang Valley", "thumbnail": "", "rating": 4.6, "reviewCount": 9000, "category": "adventure", "trendScore": 92, "district": "kullu", "slug": "manali-solang-valley", "priceLevel": 2 },
+    { "placeId": "meenakshi-temple", "stateId": "tamil-nadu", "name": "Meenakshi Temple", "thumbnail": "", "rating": 4.9, "reviewCount": 20000, "category": "temples", "trendScore": 91, "district": "madurai", "slug": "meenakshi-temple", "priceLevel": 1 },
+    { "placeId": "coorg-abbey-falls", "stateId": "karnataka", "name": "Abbey Falls", "thumbnail": "", "rating": 4.4, "reviewCount": 5500, "category": "nature", "trendScore": 88, "district": "kodagu", "slug": "coorg-abbey-falls", "priceLevel": 1 },
+    { "placeId": "pangong-lake", "stateId": "ladakh", "name": "Pangong Lake", "thumbnail": "", "rating": 4.9, "reviewCount": 7800, "category": "nature", "trendScore": 96, "district": "leh", "slug": "pangong-lake", "priceLevel": 3 },
+    { "placeId": "varanasi-ghats", "stateId": "uttar-pradesh", "name": "Varanasi Ghats", "thumbnail": "", "rating": 4.7, "reviewCount": 25000, "category": "heritage", "trendScore": 90, "district": "varanasi", "slug": "varanasi-ghats", "priceLevel": 1 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "butler-bay-beach",
+  "name": "Butler Bay Beach",
+  "city": "Little Andaman",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A breathtakingly long, empty, and pristine stretch of white sand beach on Little Andaman Island, famous for surfing with consistent rolling waves.",
+  "history": "Discovered as a premier surfing destination in recent years, becoming popular with international surf tourists.",
+  "famousFor": "Surfing, pristine emptiness, tall coconut palms.",
+  "bestTime": "November to April",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "little-andaman-lighthouse"
+  ]
+}

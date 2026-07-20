@@ -1,0 +1,20 @@
+{
+  "id": "satpura-national-park",
+  "name": "Satpura National Park",
+  "city": "Pachmarhi",
+  "state": "Madhya Pradesh",
+  "description": "A unique wildlife experience offering walking safaris, boat safaris, and night safaris in a rugged landscape of deep valleys and sandstone peaks.",
+  "history": "Established in 1981. It is extremely bio-diverse and home to many species not common in other Indian parks, like the Indian Giant Squirrel.",
+  "famousFor": "Walking safaris, Sloth Bears, and Leopards.",
+  "bestTime": "October to June",
+  "timings": "6:30 AM \u2013 11:00 AM, 3:30 PM \u2013 6:30 PM",
+  "entryFee": "\u20b91500 (approx for safari)",
+  "image": "./assets/images/states/madhya-pradesh/Panna-National-Park.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Panna-National-Park.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Panna-National-Park.webp"
+  ],
+  "nearbyPlaces": [
+    "pachmarhi"
+  ]
+}

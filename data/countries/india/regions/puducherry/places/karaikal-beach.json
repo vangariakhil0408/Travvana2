@@ -1,0 +1,18 @@
+{
+  "id": "karaikal-beach",
+  "name": "Karaikal Beach",
+  "city": "Karaikal",
+  "state": "Puducherry",
+  "description": "One of the finest and cleanest natural beaches in South India. It features a wide beachfront, calm waters perfect for swimming, and extensive boating facilities on the Arasalar River.",
+  "history": "Developed heavily by the local tourism department to feature a scenic 2km road along the river leading to the beach.",
+  "famousFor": "Clean sands, river boating, and beautiful sunrises.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp",
+  "heroImage": "./assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp"
+  ],
+  "nearbyPlaces": []
+}

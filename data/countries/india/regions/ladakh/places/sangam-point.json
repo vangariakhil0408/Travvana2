@@ -1,0 +1,20 @@
+{
+  "id": "sangam-point",
+  "name": "Sangam Point (Confluence)",
+  "city": "Nimmu",
+  "state": "Ladakh",
+  "description": "The spectacular confluence of the mud-colored Zanskar River and the crystal-clear bluish-green Indus River amidst barren, imposing mountains.",
+  "history": "A geographic marvel where two mighty Himalayan rivers violently meet.",
+  "famousFor": "River confluence, river rafting in Zanskar, photography.",
+  "bestTime": "May to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000019cc72089e9e8c824b126f47.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000019cc72089e9e8c824b126f47.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000019cc72089e9e8c824b126f47.webp"
+  ],
+  "nearbyPlaces": [
+    "zanskar-valley"
+  ]
+}

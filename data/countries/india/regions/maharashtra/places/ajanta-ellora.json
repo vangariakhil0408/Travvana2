@@ -1,0 +1,71 @@
+{
+  "id": "ajanta-ellora",
+  "slug": "ajanta-ellora",
+  "name": "Ajanta and Ellora Caves",
+  "location": "Maharashtra, India",
+  "district": "Aurangabad",
+  "stateId": "maharashtra",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/ajanta-ellora.webp",
+  "heroImage": "./assets/images/popular/ajanta-ellora.webp",
+  "gallery": [
+    "./assets/images/popular/ajanta-ellora.webp"
+  ],
+  "overview": "Experience the beauty of Ajanta and Ellora Caves, a top destination in Maharashtra, India.",
+  "description": "The Ajanta and Ellora Caves are historic rock-cut monuments recognized as UNESCO World Heritage sites, containing monumental ancient sculptures and elaborate murals.",
+  "rating": "4.3",
+  "reviewCount": 24176,
+  "popularityScore": 84,
+  "priceLevel": 1,
+  "bestTimeToVisit": "June to March",
+  "timings": "9:00 AM - 5:00 PM (Ajanta cl. Mon, Ellora cl. Tue)",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Aurangabad Airport",
+      "distance": "30 km"
+    },
+    "nearestRailway": {
+      "name": "Aurangabad Railway Station",
+      "distance": "30 km"
+    },
+    "byRoad": "Taxis readily available directly from Aurangabad."
+  },
+  "tags": [
+    "heritage",
+    "maharashtra",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1200
+    },
+    {
+      "views": 3333
+    }
+  ],
+  "nearbyPlaces": [
+    "gateway-of-india",
+    "marine-drive",
+    "lavasa"
+  ]
+}

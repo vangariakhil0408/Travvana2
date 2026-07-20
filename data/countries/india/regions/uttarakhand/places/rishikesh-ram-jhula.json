@@ -1,0 +1,71 @@
+{
+  "id": "rishikesh-ram-jhula",
+  "slug": "rishikesh-ram-jhula",
+  "name": "Rishikesh Ram Jhula",
+  "location": "Uttarakhand, India",
+  "district": "Tehri Garhwal",
+  "stateId": "uttarakhand",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/rishikesh-ram-jhula.webp",
+  "heroImage": "./assets/images/popular/rishikesh-ram-jhula.webp",
+  "gallery": [
+    "./assets/images/popular/rishikesh-ram-jhula.webp"
+  ],
+  "overview": "Experience the beauty of Rishikesh Ram Jhula, a top destination in Uttarakhand, India.",
+  "description": "Ram Jhula is an iconic iron suspension bridge across the holy river Ganges in Rishikesh. It is one of the most famous landmarks of the city, connecting several important ashrams and temples.",
+  "rating": "4.5",
+  "reviewCount": 8479,
+  "popularityScore": -4,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to April",
+  "timings": "24 Hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jolly Grant Airport",
+      "distance": "20 km"
+    },
+    "nearestRailway": {
+      "name": "Rishikesh Railway Station",
+      "distance": "5 km"
+    },
+    "byRoad": "Centrally located in Rishikesh, easily accessible by walk or rickshaw."
+  },
+  "tags": [
+    "spiritual",
+    "uttarakhand",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1292
+    },
+    {
+      "views": 4730
+    }
+  ],
+  "nearbyPlaces": [
+    "badrinath-temple",
+    "kedarnath-temple",
+    "jim-corbett-national-park"
+  ]
+}

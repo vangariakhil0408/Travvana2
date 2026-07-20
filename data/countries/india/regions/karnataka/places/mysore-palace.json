@@ -1,0 +1,71 @@
+{
+  "id": "mysore-palace",
+  "slug": "mysore-palace",
+  "name": "Mysore Palace",
+  "location": "Karnataka, India",
+  "district": "Mysore",
+  "stateId": "karnataka",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/mysore-palace.webp",
+  "heroImage": "./assets/images/popular/mysore-palace.webp",
+  "gallery": [
+    "./assets/images/popular/mysore-palace.webp"
+  ],
+  "overview": "Experience the beauty of Mysore Palace, a top destination in Karnataka, India.",
+  "description": "Mysore Palace is a breathtaking historical palace and a royal residence. The awe-inspiring architecture is beautifully illuminated on sundays and during public holidays.",
+  "rating": "4.3",
+  "reviewCount": 34655,
+  "popularityScore": 89,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to February",
+  "timings": "10:00 AM - 5:30 PM",
+  "entryFee": {
+    "indian": "₹100",
+    "foreigner": "₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Mysore Airport",
+      "distance": "10 km"
+    },
+    "nearestRailway": {
+      "name": "Mysore Railway Station",
+      "distance": "2 km"
+    },
+    "byRoad": "Extremely accessible from all parts of Mysore."
+  },
+  "tags": [
+    "heritage",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3090
+    },
+    {
+      "views": 4334
+    }
+  ],
+  "nearbyPlaces": [
+    "hampi",
+    "jog-falls",
+    "belur-halebidu-temples"
+  ]
+}

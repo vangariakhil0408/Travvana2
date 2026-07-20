@@ -1,0 +1,39 @@
+{
+  "id": "aberdeen-bazaar",
+  "name": "Aberdeen Bazaar",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "The bustling heart of Port Blair \u2014 a vibrant street market offering local seafood, Andamanese handicrafts, shells, jewelry, and spices. The best place to experience authentic island life.",
+  "history": "Established during the British colonial era as the main commercial district of Port Blair, it has grown organically over 150 years.",
+  "famousFor": "Local crafts, fresh seafood, shell souvenirs",
+  "bestTime": "October to May",
+  "timings": "8:00 AM \u2013 9:00 PM (Closed on Sundays)",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar.webp"
+  ],
+  "nearbyPlaces": [
+    "marina-park",
+    "jolly-buoy-island",
+    "kalipur-beach",
+    "mahatma-gandhi-marine-national-park",
+    "ross-island",
+    "corbyns-cove-beach",
+    "cellular-jail",
+    "barren-island",
+    "diglipur-town",
+    "mundapahad",
+    "wandoor-beach",
+    "north-bay-island",
+    "saddle-peak",
+    "long-island",
+    "samudrika-naval-marine-museum",
+    "chatham-saw-mill",
+    "mount-harriet-national-park",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "viper-island"
+  ]
+}

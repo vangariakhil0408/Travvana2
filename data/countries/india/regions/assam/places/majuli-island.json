@@ -1,0 +1,68 @@
+{
+  "id": "majuli-island",
+  "slug": "majuli-island",
+  "name": "Majuli Island",
+  "location": "Assam, India",
+  "district": "",
+  "stateId": "assam",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/majuli-island.webp",
+  "heroImage": "./assets/images/popular/majuli-island.webp",
+  "gallery": [
+    "./assets/images/popular/majuli-island.webp"
+  ],
+  "overview": "Experience the beauty of Majuli Island, a top destination in Assam, India.",
+  "description": "Tucked away in Assam, India, Majuli Island is a sanctuary of heritage splendor that leaves visitors spellbound. Whether you're seeking inspiration, adventure, or simply a moment of peace, this beloved spot delivers beyond expectations. Don't miss the chance to wander through its charming surroundings and engage with the local heritage.",
+  "rating": "4.9",
+  "reviewCount": 17709,
+  "popularityScore": 43,
+  "priceLevel": 1,
+  "bestTimeToVisit": "Oct - Mar",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "₹50 - ₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "84 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "34 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "heritage",
+    "assam",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1424
+    },
+    {
+      "views": 967
+    }
+  ],
+  "nearbyPlaces": [
+    "kaziranga-national-park"
+  ]
+}

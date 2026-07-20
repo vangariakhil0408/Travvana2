@@ -1,0 +1,20 @@
+{
+  "id": "madan-mahal-fort",
+  "name": "Madan Mahal Fort",
+  "city": "Jabalpur",
+  "state": "Madhya Pradesh",
+  "description": "A 12th-century military outpost perched on a massive granite boulder, offering panoramic views of Jabalpur and a glimpse into Gond history.",
+  "history": "Built by the Gond ruler Raja Madan Singh. It is famous for the 'Balancing Rock' located nearby, which survived a major earthquake in 1997.",
+  "famousFor": "Balancing Rock and panoramic city views.",
+  "bestTime": "October to March",
+  "timings": "8:00 AM \u2013 6:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Madan-Mahal-Fort.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Madan-Mahal-Fort.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Madan-Mahal-Fort.webp"
+  ],
+  "nearbyPlaces": [
+    "bhedaghat"
+  ]
+}

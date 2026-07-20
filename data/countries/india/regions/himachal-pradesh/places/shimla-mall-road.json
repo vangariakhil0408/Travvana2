@@ -1,0 +1,71 @@
+{
+  "id": "shimla-mall-road",
+  "slug": "shimla-mall-road",
+  "name": "Shimla Mall Road",
+  "location": "Himachal Pradesh, India",
+  "district": "Shimla",
+  "stateId": "himachal-pradesh",
+  "category": "urban",
+  "uiCategory": "urban",
+  "image": "./assets/images/popular/shimla-mall-road.webp",
+  "heroImage": "./assets/images/popular/shimla-mall-road.webp",
+  "gallery": [
+    "./assets/images/popular/shimla-mall-road.webp"
+  ],
+  "overview": "Experience the beauty of Shimla Mall Road, a top destination in Himachal Pradesh, India.",
+  "description": "The Mall Road is the most famous promenade spanning Shimla. It is a central hub composed of boutiques, stylish cafes, and enchanting colonial-style heritage views.",
+  "rating": "4.8",
+  "reviewCount": 7220,
+  "popularityScore": 77,
+  "priceLevel": 1,
+  "bestTimeToVisit": "March to June, November to January",
+  "timings": "24 Hours (Shops close early)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jubbarhatti Airport",
+      "distance": "22 km"
+    },
+    "nearestRailway": {
+      "name": "Shimla Railway Station",
+      "distance": "2 km"
+    },
+    "byRoad": "Highly connected through major state transport routes."
+  },
+  "tags": [
+    "urban",
+    "himachal-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2399
+    },
+    {
+      "views": 2543
+    }
+  ],
+  "nearbyPlaces": [
+    "manali",
+    "rohtang-pass",
+    "spiti-valley"
+  ]
+}

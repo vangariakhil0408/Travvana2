@@ -1,0 +1,57 @@
+{
+  "id": "chitrakoot",
+  "slug": "chitrakoot",
+  "name": "Chitrakoot",
+  "location": "Uttar Pradesh, India",
+  "district": "Chitrakoot",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A deeply sacred pilgrimage town where Lord Rama, Sita, and Lakshmana spent 11 of their 14 years of exile. The town features ancient ashrams, sacred ghats on the Mandakini River, and the Kamadgiri Hill.",
+  "description": "Mentioned extensively in the Ramayana. Sage Atri, Sati Anusuya, and Sage Valmiki all had ashrams here.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [],
+  "image": "./assets/images/states/uttar-pradesh/Chitrakoot.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Chitrakoot.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Chitrakoot.webp"
+  ]
+}

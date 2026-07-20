@@ -1,0 +1,70 @@
+{
+  "id": "loktak-lake",
+  "slug": "loktak-lake",
+  "name": "Loktak Lake",
+  "location": "Manipur, India",
+  "district": "",
+  "stateId": "manipur",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/loktak-lake.webp",
+  "heroImage": "./assets/images/popular/loktak-lake.webp",
+  "gallery": [
+    "./assets/images/popular/loktak-lake.webp"
+  ],
+  "overview": "Experience the beauty of Loktak Lake, a top destination in Manipur, India.",
+  "description": "Step into a world of wonder at Loktak Lake, deeply rooted in the rich tapestry of Manipur, India. It offers breathtaking views, profound historical context, and a vibrant atmosphere that captivates every traveler. A visit here not only enriches your itinerary but also creates memories that last a lifetime.",
+  "rating": "4.8",
+  "reviewCount": 7203,
+  "popularityScore": 44,
+  "priceLevel": 3,
+  "bestTimeToVisit": "Oct - Mar",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "₹50 - ₹100"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "10 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "8 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "nature",
+    "manipur",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 5269
+    },
+    {
+      "views": 3978
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "amber-fort",
+    "hawa-mahal"
+  ]
+}

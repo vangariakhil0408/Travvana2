@@ -1,0 +1,69 @@
+{
+  "id": "pamban-bridge",
+  "slug": "pamban-bridge",
+  "name": "Pamban Bridge",
+  "location": "Tamil Nadu, India",
+  "district": "Rameswaram",
+  "stateId": "tamil-nadu",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/pamban-bridge.webp",
+  "heroImage": "./assets/images/popular/pamban-bridge.webp",
+  "gallery": [
+    "./assets/images/popular/pamban-bridge.webp"
+  ],
+  "overview": "Experience the beauty of Pamban Bridge, a top destination in Tamil Nadu, India.",
+  "description": "Opened in 1914, Pamban Bridge is India’s first sea bridge, connecting mainland India to Rameswaram island.",
+  "rating": "4.6",
+  "reviewCount": 34745,
+  "popularityScore": 24,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open all day",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chennai International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Rameswaram Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "14 km from Rameswaram town"
+  },
+  "tags": [
+    "heritage",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 978
+    },
+    {
+      "views": 1265
+    }
+  ],
+  "nearbyPlaces": [
+    "ramanathaswamy-temple"
+  ]
+}

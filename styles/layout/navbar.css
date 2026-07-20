@@ -1,0 +1,282 @@
+/* ============================================
+   TRAVVANA — Navbar (Top Bar + Bottom Nav)
+   ============================================ */
+
+/* ── Top Bar (Flush Full-Width Design) ── */
+.top-bar {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--sp-6);
+  background: var(--glass-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--clr-bg-surface);
+  z-index: var(--z-nav);
+  transition: transform 0.3s var(--ease-out);
+}
+
+.top-bar--hidden {
+  transform: translateY(-120%);
+}
+
+/* ── Logo ── */
+.top-bar__logo {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-extrabold);
+  letter-spacing: var(--ls-tight);
+  flex-shrink: 0;
+}
+
+.top-bar__logo-img {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  object-fit: cover;
+}
+
+.top-bar__logo-text {
+  background: var(--clr-accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Right side: Nav Links + Actions grouped together ── */
+.top-bar__right {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+}
+
+.top-bar__nav {
+  display: none; /* hidden on mobile, shown on desktop */
+  align-items: center;
+  gap: var(--sp-1);
+}
+
+.top-bar__nav-link {
+  padding: 6px var(--sp-3);
+  border-radius: var(--radius-full);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  color: var(--clr-text-secondary);
+  transition: all var(--tr-fast);
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+}
+
+.top-bar__nav-link:hover {
+  color: var(--clr-text-primary);
+  background: var(--clr-bg-surface);
+}
+
+.top-bar__nav-link--active {
+  background: var(--clr-accent);
+  color: white;
+  font-weight: var(--fw-bold);
+}
+
+.top-bar__nav-link--active:hover {
+  background: var(--clr-accent-hover);
+  color: white;
+}
+
+/* ── Theme Switch Button (Single Dynamic Icon) ── */
+.theme-toggle-btn {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--clr-border);
+  background: rgba(255, 255, 255, 0.06);
+  cursor: pointer;
+  margin-left: var(--sp-4);
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: transform 0.4s cubic-bezier(0.65, 0, 0.35, 1), 
+              box-shadow 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+              background 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+              border-color 0.4s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+[data-theme="light"] .theme-toggle-btn {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.theme-toggle-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.theme-icon-sun, .theme-icon-moon {
+  position: absolute;
+  font-size: 20px;
+  transition: all 0.4s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+/* Default Dark Mode active -> Show Sun (Click to go Light) */
+.theme-icon-sun {
+  opacity: 1;
+  transform: rotate(0deg) scale(1);
+}
+
+.theme-icon-moon {
+  opacity: 0;
+  transform: rotate(90deg) scale(0.5);
+}
+
+/* Light Mode active -> Show Moon (Click to go Dark) */
+[data-theme="light"] .theme-icon-sun {
+  opacity: 0;
+  transform: rotate(-90deg) scale(0.5);
+}
+
+[data-theme="light"] .theme-icon-moon {
+  opacity: 1;
+  transform: rotate(0deg) scale(1);
+}
+
+/* ── Actions ── */
+.top-bar__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  flex-shrink: 0;
+}
+
+.top-bar__btn {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--clr-bg-tertiary);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-text-secondary);
+  transition: all var(--tr-fast);
+  font-size: var(--fs-md);
+  cursor: pointer;
+}
+
+.top-bar__btn:hover {
+  background: var(--clr-bg-card-hover);
+  color: var(--clr-accent);
+  border-color: var(--clr-border-active);
+}
+
+/* ── Bottom Navigation ── */
+.bottom-nav {
+  position: fixed;
+  bottom: calc(var(--sp-4) + env(safe-area-inset-bottom, 12px));
+  left: var(--sp-4);
+  right: var(--sp-4);
+  height: var(--bottom-nav-h);
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--shadow-lg);
+  z-index: var(--z-nav);
+  padding: 0 var(--sp-2);
+}
+
+.bottom-nav__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: var(--sp-1) var(--sp-3);
+  border-radius: var(--radius-md);
+  color: var(--clr-text-muted);
+  transition: all var(--tr-fast);
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.bottom-nav__item:active {
+  transform: scale(0.92);
+}
+
+.bottom-nav__item--active {
+  color: var(--clr-accent);
+}
+
+.bottom-nav__icon {
+  font-size: 20px;
+  line-height: 1;
+  transition: transform var(--tr-spring), filter var(--tr-normal);
+}
+
+.bottom-nav__item--active .bottom-nav__icon {
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 12px var(--clr-accent));
+}
+
+.bottom-nav__label {
+  font-size: 10px;
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-wide);
+}
+
+/* ── AI Planner center button ── */
+.bottom-nav__item--center {
+  position: relative;
+  margin-top: -16px;
+}
+
+.bottom-nav__item--center .bottom-nav__icon {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  background: var(--clr-accent-gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  box-shadow: var(--shadow-glow);
+}
+
+/* ── Content offset for fixed bars ── */
+.page-content {
+  padding-top: var(--sp-4);
+  padding-bottom: calc(var(--bottom-nav-h) + var(--sp-8) + env(safe-area-inset-bottom, 12px));
+  min-height: 100vh;
+}
+
+/* ── Desktop: Hide bottom nav, show top nav links ── */
+@media (min-width: 768px) {
+  .top-bar__nav {
+    display: flex;
+  }
+  .top-bar {
+    padding: 0 var(--sp-8);
+  }
+}
+
+@media (min-width: 1024px) {
+  .bottom-nav { display: none; }
+  .page-content { padding-bottom: var(--sp-8); }
+  .top-bar {
+    padding: 0 var(--sp-10);
+  }
+}

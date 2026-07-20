@@ -1,0 +1,39 @@
+{
+  "id": "wandoor-beach",
+  "name": "Wandoor Beach",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A serene, palm-fringed beach serving as the gateway to the Mahatma Gandhi Marine National Park, with calm turquoise waters perfect for snorkeling.",
+  "history": "Developed as the primary access point for the marine national park, it has been protected under environmental conservation laws since 1983.",
+  "famousFor": "Gateway to Jolly Buoy and Red Skin islands",
+  "bestTime": "November to April",
+  "timings": "6:00 AM \u2013 5:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "ross-island",
+    "diglipur-town",
+    "anthropological-museum",
+    "corbyns-cove-beach",
+    "chidiya-tapu",
+    "chatham-saw-mill",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "kalipur-beach",
+    "aberdeen-bazaar",
+    "marina-park",
+    "jolly-buoy-island",
+    "barren-island",
+    "long-island",
+    "north-bay-island",
+    "mount-harriet-national-park",
+    "viper-island",
+    "mundapahad",
+    "saddle-peak",
+    "samudrika-naval-marine-museum"
+  ]
+}

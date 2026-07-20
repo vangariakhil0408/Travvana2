@@ -1,0 +1,18 @@
+{
+  "id": "omkareshwar",
+  "name": "Omkareshwar Temple",
+  "city": "Omkareshwar",
+  "state": "Madhya Pradesh",
+  "description": "A sacred island shaped like the holy symbol 'Om' in the Narmada River, housing one of the twelve Jyotirlingas and numerous ancient temples.",
+  "history": "Mentioned in Hindu scriptures as Mandhata Mountain. The island's shape is entirely natural and is considered highly auspicious.",
+  "famousFor": "Jyotirlinga, Narmada River, and bridge walk.",
+  "bestTime": "October to March",
+  "timings": "5:30 AM \u2013 9:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/madhya-pradesh/Omkareshwar-Temple.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Omkareshwar-Temple.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Omkareshwar-Temple.webp"
+  ],
+  "nearbyPlaces": []
+}

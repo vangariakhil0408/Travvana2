@@ -1,0 +1,1070 @@
+{
+  "state": "Arunachal Pradesh",
+  "slug": "arunachal-pradesh",
+  "capital": "Itanagar",
+  "bestTime": "March to June, September to November",
+  "language": "English, Hindi, Nyishi, Adi",
+  "places": [
+    {
+      "name": "Tawang Monastery",
+      "city": "Tawang",
+      "category": "heritage",
+      "distance": "450 km from Itanagar",
+      "rating": 4.9,
+      "description": "Perched at 10,000 feet, the largest monastery in India and second largest in the world after Lhasa radiates serenity against a canvas of snow-draped Himalayan peaks.",
+      "history": "Founded in 1680 by Merak Lama Lodre Gyatso as per the wishes of the 5th Dalai Lama. It is the birthplace of the 6th Dalai Lama.",
+      "famousFor": "Largest monastery in India, ancient Buddhist manuscripts, and 8-meter-tall golden Buddha statue",
+      "bestTime": "March to June, September to October",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "₹50",
+      "slug": "tawang-monastery",
+      "images": {
+        "main": "assets/images/popular/tawang-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tawang War Memorial",
+          "city": "Tawang",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "tawang-war-memorial",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/tawang-war-memorial.webp"
+          },
+          "state": "Arunachal Pradesh"
+        },
+        {
+          "name": "Urgelling Monastery",
+          "slug": "urgelling-monastery",
+          "id": "urgelling-monastery",
+          "image": "assets/images/states/arunachal-pradesh/urgelling-monastery.webp",
+          "bidirectional_verified": true,
+          "distance": "5 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "tawang-monastery",
+      "image": "assets/images/popular/tawang-monastery.webp",
+      "heroImage": "assets/images/popular/tawang-monastery.webp"
+    },
+    {
+      "name": "Sela Pass",
+      "city": "Tawang",
+      "category": "nature",
+      "distance": "78 km from Tawang",
+      "rating": 4.8,
+      "description": "A breathtaking high-altitude mountain pass at 13,700 feet draped in snow for most of the year, with the sacred Sela Lake shimmering like a jewel beside the road.",
+      "history": "Named after a brave girl Sela who sacrificed her life during the 1962 Sino-Indian war to save Indian soldiers by guiding them through the pass.",
+      "famousFor": "Snow-covered pass, Sela Lake, and panoramic Himalayan views",
+      "bestTime": "April to June, September to November",
+      "timings": "Open 24/7 (weather permitting)",
+      "entryFee": "Free",
+      "slug": "sela-pass",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/sela-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nuranang Falls (Jang Falls)",
+          "city": "Jang",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "nuranang-falls",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/nuranang-falls.webp"
+          }
+        },
+        {
+          "name": "Jaswant Garh War Memorial",
+          "slug": "jaswant-garh",
+          "id": "jaswant-garh",
+          "image": "assets/images/states/arunachal-pradesh/jaswant-garh-war-memorial.webp",
+          "bidirectional_verified": true,
+          "distance": "21 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "sela-pass",
+      "heroImage": "assets/images/states/arunachal-pradesh/sela-pass.webp"
+    },
+    {
+      "name": "Nuranang Falls (Jang Falls)",
+      "city": "Jang",
+      "category": "waterfalls",
+      "distance": "40 km from Tawang",
+      "rating": 4.7,
+      "description": "A spectacular 100-meter waterfall cascading down rugged mountain cliffs into a crystal-clear pool, surrounded by dense alpine vegetation and misty mountain air.",
+      "history": "Named after a local Monpa tribal girl Nura who helped Indian soldiers during the 1962 war. Featured in the Bollywood film Koyla.",
+      "famousFor": "100-meter cascade, Bollywood filming location, and hydroelectric project",
+      "bestTime": "April to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nuranang-falls",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/nuranang-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sela Pass",
+          "city": "Tawang",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "sela-pass",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/sela-pass.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "nuranang-falls",
+      "heroImage": "assets/images/states/arunachal-pradesh/nuranang-falls.webp"
+    },
+    {
+      "name": "Bumla Pass",
+      "city": "Tawang",
+      "category": "nature",
+      "distance": "37 km from Tawang",
+      "rating": 4.6,
+      "description": "Standing at 15,200 feet on the Indo-China border, this remote pass offers a surreal landscape of barren mountains, frozen lakes, and a meeting point of two nations.",
+      "history": "A historically significant border point where the Chinese army entered India during the 1962 war. Now a peaceful border meeting point.",
+      "famousFor": "Indo-China border, Madhuri Lake, and extreme altitude views",
+      "bestTime": "May to October",
+      "timings": "9:00 AM – 3:00 PM (Permit required from Tawang DC)",
+      "entryFee": "Free (Permit needed)",
+      "slug": "bumla-pass",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/bumla-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Madhuri Lake (Sangetsar Lake)",
+          "city": "Tawang",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "madhuri-lake",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/madhuri-lake.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "bumla-pass",
+      "heroImage": "assets/images/states/arunachal-pradesh/bumla-pass.webp"
+    },
+    {
+      "name": "Ziro Valley",
+      "city": "Ziro",
+      "category": "nature",
+      "distance": "167 km from Itanagar",
+      "rating": 4.8,
+      "description": "A UNESCO World Heritage tentative site where emerald paddy fields stretch beneath pine-clad hills, home to the Apatani tribe and their unique nose-plug tradition.",
+      "history": "The Apatani tribe has sustainably cultivated rice in this valley for centuries using an ingenious wet-rice cultivation system recognized by UNESCO.",
+      "famousFor": "Apatani tribal culture, Ziro Festival of Music, and paddy field landscapes",
+      "bestTime": "March to October",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ziro-valley",
+      "images": {
+        "main": "assets/images/popular/ziro-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Talley Valley Wildlife Sanctuary",
+          "slug": "talley-valley-wildlife-sanctuary",
+          "id": "talley-valley-wildlife-sanctuary",
+          "image": "assets/images/states/arunachal-pradesh/talley-valley-wildlife-sanctuary.webp",
+          "bidirectional_verified": true,
+          "distance": "30 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "ziro-valley",
+      "image": "assets/images/popular/ziro-valley.webp",
+      "heroImage": "assets/images/popular/ziro-valley.webp"
+    },
+    {
+      "name": "Bomdila Monastery",
+      "city": "Bomdila",
+      "category": "heritage",
+      "distance": "330 km from Itanagar",
+      "rating": 4.5,
+      "description": "Three beautiful Buddhist monasteries at different elevations offering panoramic views of the snow-capped Kangto and Gorichen peaks against the morning sky.",
+      "history": "The Upper Gompa built in 1965 follows the Gelugpa school of Mahayana Buddhism and houses a giant image of Buddha.",
+      "famousFor": "Himalayan panoramic views, Buddhist culture, and apple orchards",
+      "bestTime": "March to June, September to November",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "bomdila-monastery",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/bomdila-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "bomdila-monastery",
+      "heroImage": "assets/images/states/arunachal-pradesh/bomdila-monastery.webp"
+    },
+    {
+      "name": "Dirang Valley",
+      "city": "Dirang",
+      "category": "nature",
+      "distance": "350 km from Itanagar",
+      "rating": 4.6,
+      "description": "A picturesque valley town with apple orchards, hot water springs, and the ancient Dirang Dzong stone fortress nestled among Himalayan foothills.",
+      "history": "An ancient Monpa settlement with a 500-year-old stone fortress (Dirang Dzong) that served as a defense and administrative center.",
+      "famousFor": "Hot springs, Dirang Dzong, apple orchards",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dirang-valley",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/dirang-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sangti Valley",
+          "city": "Dirang",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "sangti-valley",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/sangti-valley.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "dirang-valley",
+      "heroImage": "assets/images/states/arunachal-pradesh/dirang-valley.webp"
+    },
+    {
+      "name": "Namdapha National Park",
+      "city": "Miao",
+      "category": "wildlife",
+      "distance": "480 km from Itanagar",
+      "rating": 4.7,
+      "description": "India's third-largest national park and a biodiversity hotspot spanning from tropical lowlands to alpine meadows — the only park sheltering four big cat species.",
+      "history": "Declared a national park in 1983 and a Tiger Reserve. The Noa-Dihing River flows through this pristine wilderness in the Changlang district.",
+      "famousFor": "Snow leopard, red panda, clouded leopard",
+      "bestTime": "October to April",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "namdapha-national-park",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/namdapha-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "namdapha-national-park",
+      "heroImage": "assets/images/states/arunachal-pradesh/namdapha-national-park.webp"
+    },
+    {
+      "name": "Ita Fort",
+      "city": "Itanagar",
+      "category": "heritage",
+      "distance": "In Itanagar city",
+      "rating": 4.3,
+      "description": "Ancient ruins of a 14th-century brick fort sprawling over a hillside, with massive brick walls partially reclaimed by tropical forest, offering panoramic city views.",
+      "history": "Dating back to the 14th-15th century, built by the Jitari dynasty. The name 'Itanagar' itself derives from 'Ita' meaning brick in the local language.",
+      "famousFor": "Ancient brick fortification and panoramic views of the capital",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "itanagar-ita-fort",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/ita-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ganga Lake (Gyakar Sinyi)",
+          "city": "Itanagar",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "ganga-lake",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/ganga-lake.webp"
+          },
+          "state": "Arunachal Pradesh"
+        },
+        {
+          "name": "Jawaharlal Nehru State Museum",
+          "slug": "jawaharlal-nehru-state-museum",
+          "id": "jawaharlal-nehru-state-museum",
+          "image": "assets/images/states/arunachal-pradesh/jawaharlal-nehru-state-museum.webp",
+          "bidirectional_verified": true,
+          "distance": "2 km away"
+        },
+        {
+          "name": "Donyi Polo Temple",
+          "slug": "donyi-polo-temple",
+          "id": "donyi-polo-temple",
+          "image": "assets/images/states/arunachal-pradesh/donyi-polo-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "3 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "itanagar-ita-fort",
+      "heroImage": "assets/images/states/arunachal-pradesh/ita-fort.webp"
+    },
+    {
+      "name": "Ganga Lake (Gyakar Sinyi)",
+      "city": "Itanagar",
+      "category": "nature",
+      "distance": "6 km from City Center",
+      "rating": 4.4,
+      "description": "A serene natural lake surrounded by dense bamboo groves and tropical forest, reflecting the sky in its calm waters — a peaceful retreat near the state capital.",
+      "history": "Known locally as Gyakar Sinyi, the lake is considered sacred by local tribes and serves as an important ecological zone.",
+      "famousFor": "Boating, nature walks, and scenic picnic spot",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "ganga-lake",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/ganga-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ita Fort",
+          "city": "Itanagar",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "itanagar-ita-fort",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/ita-fort.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "ganga-lake",
+      "heroImage": "assets/images/states/arunachal-pradesh/ganga-lake.webp"
+    },
+    {
+      "name": "Mechuka Valley",
+      "city": "Mechuka",
+      "category": "nature",
+      "distance": "580 km from Itanagar",
+      "rating": 4.8,
+      "description": "A hidden Shangri-La at 6,000 feet where undulating meadows, the Siyom River, and a 400-year-old monastery create a landscape so pristine it feels untouched by time.",
+      "history": "Home to the Memba and Ramo tribes, Mechuka remained virtually inaccessible until recently. The 400-year-old Samten Yongcha monastery reflects Tibetan Buddhist influence.",
+      "famousFor": "Remote valley beauty, ancient monastery, and Mechuka Adventure Festival",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mechuka-valley",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/mechuka-valley.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "mechuka-valley",
+      "heroImage": "assets/images/states/arunachal-pradesh/mechuka-valley.webp"
+    },
+    {
+      "name": "Pasighat",
+      "city": "Pasighat",
+      "category": "cities",
+      "distance": "310 km from Itanagar",
+      "rating": 4.5,
+      "description": "The oldest town in Arunachal Pradesh nestled on the banks of the mighty Siang River, offering world-class river rafting and a gateway to the rich Adi tribal culture.",
+      "history": "Founded in 1911 by the British as an administrative center, it is the oldest town in the state and headquarters of the Adi tribe.",
+      "famousFor": "River rafting on Siang, hanging bridges, and Adi tribal heritage",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pasighat",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/pasighat.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "pasighat",
+      "heroImage": "assets/images/states/arunachal-pradesh/pasighat.webp"
+    },
+    {
+      "name": "Roing",
+      "city": "Roing",
+      "category": "nature",
+      "distance": "380 km from Itanagar",
+      "rating": 4.4,
+      "description": "A scenic valley town at the foot of the Mishmi Hills, surrounded by dense forests, pristine rivers, and the ancient ruins of Bhismaknagar Fort.",
+      "history": "The gateway to the Dibang Valley, it is home to the Idu Mishmi tribe. The ruins of Bhismaknagar Fort date back to the 8th century Chutia kingdom.",
+      "famousFor": "Bhismaknagar Fort, Mehao Wildlife Sanctuary, and Sally Lake",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "roing",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/roing.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mayudia Pass",
+          "slug": "mayudia-pass",
+          "id": "mayudia-pass",
+          "image": "assets/images/states/arunachal-pradesh/mayodia-pass.webp",
+          "bidirectional_verified": true,
+          "distance": "56 km away"
+        },
+        {
+          "name": "Bhismaknagar Fort",
+          "slug": "bhismaknagar-fort",
+          "id": "bhismaknagar-fort",
+          "image": "assets/images/states/arunachal-pradesh/bhismaknagar-fort.webp",
+          "bidirectional_verified": true,
+          "distance": "30 km away"
+        },
+        {
+          "name": "Mehao Wildlife Sanctuary",
+          "slug": "mehao-wildlife-sanctuary",
+          "id": "mehao-wildlife-sanctuary",
+          "image": "assets/images/states/arunachal-pradesh/mehao-wildlife-sanctuary.webp",
+          "bidirectional_verified": true,
+          "distance": "14 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "roing",
+      "heroImage": "assets/images/states/arunachal-pradesh/roing.webp"
+    },
+    {
+      "name": "Bhalukpong",
+      "city": "Bhalukpong",
+      "category": "nature",
+      "distance": "230 km from Itanagar",
+      "rating": 4.3,
+      "description": "A gateway town on the banks of the Kameng River where adventure meets wilderness — offering thrilling white-water rafting, trekking, and the nearby Tipi Orchidarium.",
+      "history": "Historically an entry point to western Arunachal Pradesh and the Tawang circuit, it sits along the ancient trade route between Assam and Tibet.",
+      "famousFor": "White-water rafting, Pakhui Wildlife Sanctuary, and Tipi Orchidarium",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "bhalukpong",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/bhalukpong.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "bhalukpong",
+      "heroImage": "assets/images/states/arunachal-pradesh/bhalukpong.webp"
+    },
+    {
+      "name": "Parasuram Kund",
+      "city": "Tezu",
+      "category": "temples",
+      "distance": "420 km from Itanagar",
+      "rating": 4.5,
+      "description": "A sacred Hindu pilgrimage site on the Lohit River where thousands gather during Makar Sankranti to take a holy dip, believed to wash away sins.",
+      "history": "According to Hindu mythology, sage Parasuram washed away his sin of matricide at this spot. It has been a major pilgrimage site for centuries.",
+      "famousFor": "Makar Sankranti pilgrimage, holy dip, and mythological significance",
+      "bestTime": "January (Makar Sankranti), October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "parasuram-kund",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/parshuram-kund.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "parasuram-kund",
+      "heroImage": "assets/images/states/arunachal-pradesh/parshuram-kund.webp"
+    },
+    {
+      "name": "Tawang War Memorial",
+      "city": "Tawang",
+      "category": "heritage",
+      "distance": "2 km from Tawang Town",
+      "rating": 4.7,
+      "description": "A solemn memorial set against towering mountains, honoring the brave soldiers who fell during the 1962 Sino-Indian War with inscribed names and a stupa.",
+      "history": "Built by the Indian Army to honor 2,420 soldiers who made the supreme sacrifice during the 1962 war. It was inaugurated in 1999.",
+      "famousFor": "1962 war tribute, Light & Sound show, and mountainous setting",
+      "bestTime": "March to June, September to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "tawang-war-memorial",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/tawang-war-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tawang Monastery",
+          "city": "Tawang",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "tawang-monastery",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/tawang-monastery.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "tawang-war-memorial",
+      "heroImage": "assets/images/states/arunachal-pradesh/tawang-war-memorial.webp"
+    },
+    {
+      "name": "Madhuri Lake (Sangetsar Lake)",
+      "city": "Tawang",
+      "category": "nature",
+      "distance": "35 km from Tawang",
+      "rating": 4.7,
+      "description": "A hauntingly beautiful high-altitude lake formed by an earthquake, with submerged dead tree trunks emerging from its still waters against a backdrop of snowy peaks.",
+      "history": "Created by the massive 1950 Assam earthquake that altered the landscape. Named after Bollywood actress Madhuri Dixit who shot a film sequence here.",
+      "famousFor": "Earthquake-formed lake, submerged trees, and Bollywood connection",
+      "bestTime": "May to October",
+      "timings": "9:00 AM – 3:00 PM (Permit required)",
+      "entryFee": "Free (Permit needed)",
+      "slug": "madhuri-lake",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/madhuri-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bumla Pass",
+          "city": "Tawang",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "bumla-pass",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/bumla-pass.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "madhuri-lake",
+      "heroImage": "assets/images/states/arunachal-pradesh/madhuri-lake.webp"
+    },
+    {
+      "name": "Anini",
+      "city": "Anini",
+      "category": "nature",
+      "distance": "500 km from Itanagar",
+      "rating": 4.6,
+      "description": "One of the most remote and least explored towns in India, nestled deep in the Dibang Valley with untouched forests, roaring rivers, and a profound sense of solitude.",
+      "history": "Headquarters of the Dibang Valley district, home to the Idu Mishmi tribe. It remains one of the least populated districts in India.",
+      "famousFor": "Pristine remoteness, Dibang Valley exploration, and Idu Mishmi culture",
+      "bestTime": "March to May, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "anini",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/anini.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "anini",
+      "heroImage": "assets/images/states/arunachal-pradesh/anini.webp"
+    },
+    {
+      "name": "Sangti Valley",
+      "city": "Dirang",
+      "category": "nature",
+      "distance": "15 km from Dirang",
+      "rating": 4.5,
+      "description": "A hidden gem where black-necked cranes migrate each winter, set against rolling green meadows and snow-capped peaks — a paradise for birdwatchers and nature lovers.",
+      "history": "This valley serves as the winter habitat for the endangered black-necked crane, attracting ornithologists from around the world.",
+      "famousFor": "Black-necked crane habitat, sheep breeding farm, and mountain views",
+      "bestTime": "November to March (for cranes), March to June",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sangti-valley",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/sangti-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dirang Valley",
+          "city": "Dirang",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "dirang-valley",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/dirang-valley.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "sangti-valley",
+      "heroImage": "assets/images/states/arunachal-pradesh/sangti-valley.webp"
+    },
+    {
+      "name": "Dong Village",
+      "city": "Dong",
+      "category": "nature",
+      "distance": "450 km from Itanagar",
+      "rating": 4.6,
+      "description": "India's easternmost village where the first rays of the sun touch Indian soil each morning — a mystical experience at the edge of the nation.",
+      "history": "Located at the tri-junction of India, China, and Myanmar, this tiny Meyor tribal village holds the distinction of witnessing India's first sunrise.",
+      "famousFor": "India's first sunrise point and tri-junction border",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Permit needed)",
+      "slug": "dong-village",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/dong-village.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "dong-village",
+      "heroImage": "assets/images/states/arunachal-pradesh/dong-village.webp"
+    },
+    {
+      "name": "Golden Pagoda",
+      "city": "Namsai",
+      "category": "temples",
+      "distance": "350 km from Itanagar",
+      "rating": 4.8,
+      "description": "A breathtakingly beautiful Burmese-style Buddhist temple set on a hilltop, glowing magnificently in the sunlight and beautifully illuminated at night.",
+      "history": "Built in 2010 on a sprawling 20-hectare complex. It houses the holy relics of Buddha and is an important site for the Tai Khamti community.",
+      "famousFor": "Burmese architecture, Buddhist pilgrimage, Kathina Civara Dana festival",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "golden-pagoda-namsai",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/golden-pagoda.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "golden-pagoda-namsai",
+      "heroImage": "assets/images/states/arunachal-pradesh/golden-pagoda.webp"
+    },
+    {
+      "name": "Jaswant Garh War Memorial",
+      "city": "Tawang",
+      "category": "heritage",
+      "distance": "21 km from Sela Pass",
+      "rating": 4.8,
+      "description": "A poignant memorial dedicated to Rifleman Jaswant Singh Rawat, MVC, who single-handedly held off the Chinese army for 72 hours during the 1962 war.",
+      "history": "Commemorates the extreme bravery of Jaswant Singh Rawat of the 4 Garhwal Rifles in the Battle of Nuranang in 1962.",
+      "famousFor": "Tribute to a national hero, military history, and free tea/snacks by the Army",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jaswant-garh",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/jaswant-garh-war-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sela Pass",
+          "city": "Tawang",
+          "distance": "21 km away",
+          "category": "nature",
+          "slug": "sela-pass",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/sela-pass.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "jaswant-garh",
+      "heroImage": "assets/images/states/arunachal-pradesh/jaswant-garh-war-memorial.webp"
+    },
+    {
+      "name": "Pakke Tiger Reserve",
+      "city": "Seijosa",
+      "category": "wildlife",
+      "distance": "200 km from Itanagar",
+      "rating": 4.7,
+      "description": "A pristine wildlife haven in the foothills of the Eastern Himalayas, famous for its incredible hornbill conservation and dense evergreen forests.",
+      "history": "Declared a sanctuary in 1977 and a Tiger Reserve in 2002. It won the India Biodiversity Award in 2016 for its hornbill nest adoption program.",
+      "famousFor": "Hornbills, tigers, elephants, and community-led conservation",
+      "bestTime": "November to March",
+      "timings": "6:30 AM – 4:00 PM",
+      "entryFee": "₹40",
+      "slug": "pakke-tiger-reserve",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/pakke-tiger-reserve.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "pakke-tiger-reserve",
+      "heroImage": "assets/images/states/arunachal-pradesh/pakke-tiger-reserve.webp"
+    },
+    {
+      "name": "Malinithan",
+      "city": "Likabali",
+      "category": "heritage",
+      "distance": "150 km from Itanagar",
+      "rating": 4.4,
+      "description": "An ancient Hindu temple ruin site dating back to the 13th and 14th centuries, featuring exquisitely carved stone sculptures.",
+      "history": "Built by the Chutia kings. According to legend, Lord Krishna and Rukmini rested here on their way to Dwarka, and Goddess Parvati offered them garlands.",
+      "famousFor": "Ancient stone temple ruins, mythological significance, and archaeological finds",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "malinithan",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/malinithan.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "malinithan",
+      "heroImage": "assets/images/states/arunachal-pradesh/malinithan.webp"
+    },
+    {
+      "name": "Mayudia Pass",
+      "city": "Roing",
+      "category": "nature",
+      "distance": "56 km from Roing",
+      "rating": 4.6,
+      "description": "A stunning mountain pass at an elevation of 8,711 feet that receives heavy snowfall during winter, transforming into a magical white wonderland.",
+      "history": "Named after a local girl named Maya who disappeared in the snow. It is a major domestic tourist attraction during the winter months.",
+      "famousFor": "Winter snowfall, panoramic mountain views, and adventure",
+      "bestTime": "December to March (for snow), October to May",
+      "timings": "Open 24/7 (Weather permitting)",
+      "entryFee": "Free",
+      "slug": "mayudia-pass",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/mayodia-pass.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Roing",
+          "city": "Roing",
+          "distance": "56 km away",
+          "category": "nature",
+          "slug": "roing",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/roing.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "mayudia-pass",
+      "heroImage": "assets/images/states/arunachal-pradesh/mayodia-pass.webp"
+    },
+    {
+      "name": "Eaglenest Wildlife Sanctuary",
+      "city": "West Kameng",
+      "category": "wildlife",
+      "distance": "230 km from Itanagar",
+      "rating": 4.8,
+      "description": "One of the premier birding destinations in the world, this sanctuary spans a vast altitudinal range and hosts an astonishing diversity of rare bird species.",
+      "history": "The Bugun Liocichla, a rare bird species new to science, was discovered here in 2006. Named after the Red Eagle Division of the Indian Army.",
+      "famousFor": "World-class bird watching, Bugun Liocichla, and spectacular biodiversity",
+      "bestTime": "March to May, October to November",
+      "timings": "Open 24/7 (Permit needed)",
+      "entryFee": "₹100 (Guide fees extra)",
+      "slug": "eaglenest-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/eaglenest-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "eaglenest-wildlife-sanctuary",
+      "heroImage": "assets/images/states/arunachal-pradesh/eaglenest-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Bhismaknagar Fort",
+      "city": "Roing",
+      "category": "heritage",
+      "distance": "30 km from Roing",
+      "rating": 4.3,
+      "description": "The ruins of one of the oldest archaeological sites in Arunachal Pradesh, featuring a fascinating fortress built with burnt bricks.",
+      "history": "Dating back to the 8th century AD, it was the stronghold of the Chutia Kingdom. Linked to the mythological king Bhismaka.",
+      "famousFor": "Ancient brick ruins, historical importance, and pottery artifacts",
+      "bestTime": "October to April",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "Free",
+      "slug": "bhismaknagar-fort",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/bhismaknagar-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Roing",
+          "city": "Roing",
+          "distance": "30 km away",
+          "category": "nature",
+          "slug": "roing",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/roing.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "bhismaknagar-fort",
+      "heroImage": "assets/images/states/arunachal-pradesh/bhismaknagar-fort.webp"
+    },
+    {
+      "name": "Gorsam Chorten",
+      "city": "Zemithang",
+      "category": "heritage",
+      "distance": "90 km from Tawang",
+      "rating": 4.5,
+      "description": "A colossal 12th-century Buddhist stupa standing 93 feet tall, modeled after the famous Boudhanath stupa in Nepal.",
+      "history": "Built by a Monpa monk, Lama Pradhar. It is the largest stupa in the region and opens its doors to devotees only once every 12 years.",
+      "famousFor": "Giant stupa, remote Zemithang valley, and Monpa heritage",
+      "bestTime": "March to June, September to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gorsam-chorten",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/gorsam-chorten.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "gorsam-chorten",
+      "heroImage": "assets/images/states/arunachal-pradesh/gorsam-chorten.webp"
+    },
+    {
+      "name": "Jawaharlal Nehru State Museum",
+      "city": "Itanagar",
+      "category": "heritage",
+      "distance": "In Itanagar city",
+      "rating": 4.4,
+      "description": "A comprehensive museum showcasing the rich tribal heritage, anthropology, history, and culture of Arunachal Pradesh under one roof.",
+      "history": "Established in the 1980s, it provides an in-depth look into the daily life, textiles, weapons, and musical instruments of various indigenous tribes.",
+      "famousFor": "Tribal artifacts, anthropological exhibits, and archaeological finds from Ita Fort",
+      "bestTime": "Open year-round",
+      "timings": "10:00 AM – 4:00 PM (Closed on Mondays)",
+      "entryFee": "₹15",
+      "slug": "jawaharlal-nehru-state-museum",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/jawaharlal-nehru-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ita Fort",
+          "city": "Itanagar",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "itanagar-ita-fort",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/ita-fort.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "jawaharlal-nehru-state-museum",
+      "heroImage": "assets/images/states/arunachal-pradesh/jawaharlal-nehru-state-museum.webp"
+    },
+    {
+      "name": "Talley Valley Wildlife Sanctuary",
+      "city": "Ziro",
+      "category": "wildlife",
+      "distance": "30 km from Ziro",
+      "rating": 4.6,
+      "description": "A pristine plateau featuring vast stretches of alpine forests, silver fir trees, and rare flora like the endangered clouded leopard and various orchids.",
+      "history": "A biodiversity hotspot highly revered by the local Apatani tribe who practice sustainable living around it.",
+      "famousFor": "Trekking, biodiversity, clouded leopards, and orchids",
+      "bestTime": "April to October",
+      "timings": "Open 24/7 (Permit needed)",
+      "entryFee": "₹50",
+      "slug": "talley-valley-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/talley-valley-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ziro Valley",
+          "city": "Ziro",
+          "distance": "30 km away",
+          "category": "nature",
+          "slug": "ziro-valley",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/ziro-valley.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "talley-valley-wildlife-sanctuary",
+      "heroImage": "assets/images/states/arunachal-pradesh/talley-valley-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Walong War Memorial",
+      "city": "Walong",
+      "category": "heritage",
+      "distance": "200 km from Tezu",
+      "rating": 4.7,
+      "description": "A poignant tribute to the Indian soldiers who fought valiantly against the Chinese forces during the 1962 war in the Walong sector.",
+      "history": "The Battle of Walong was one of the fiercest engagements of the 1962 war, where Indian troops halted the enemy advance despite overwhelming odds.",
+      "famousFor": "Military history, patriotic significance, and remote eastern location",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "walong-war-memorial",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/walong-war-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kibithu & Kaho Villages",
+          "slug": "kibithu-kaho-villages",
+          "id": "kibithu-kaho-villages",
+          "image": "assets/images/states/arunachal-pradesh/kibithu-kaho-village.webp",
+          "bidirectional_verified": true,
+          "distance": "30 km away"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "walong-war-memorial",
+      "heroImage": "assets/images/states/arunachal-pradesh/walong-war-memorial.webp"
+    },
+    {
+      "name": "Urgelling Monastery",
+      "city": "Tawang",
+      "category": "temples",
+      "distance": "5 km from Tawang Town",
+      "rating": 4.5,
+      "description": "A small but profoundly important 15th-century monastery surrounded by tranquil prayer flags, known as the birthplace of the 6th Dalai Lama.",
+      "history": "Built around 1489. Tsangyang Gyatso, the 6th Dalai Lama, was born here in 1683. He is known for his unconventional lifestyle and romantic poetry.",
+      "famousFor": "Birthplace of 6th Dalai Lama, ancient holy trees, and peaceful ambiance",
+      "bestTime": "March to June, September to November",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "urgelling-monastery",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/urgelling-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tawang Monastery",
+          "city": "Tawang",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "tawang-monastery",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/tawang-monastery.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "urgelling-monastery",
+      "heroImage": "assets/images/states/arunachal-pradesh/urgelling-monastery.webp"
+    },
+    {
+      "name": "Kamlang Wildlife Sanctuary",
+      "city": "Lohit",
+      "category": "wildlife",
+      "distance": "60 km from Tezu",
+      "rating": 4.6,
+      "description": "A dense tropical sanctuary known for its deep gorges, the beautiful Glow Lake, and its population of tigers, hoolock gibbons, and hornbills.",
+      "history": "Established in 1974, it derives its name from the Kamlang River. The Mishmi, Digaro, and Miju tribes inhabit the periphery.",
+      "famousFor": "Glow Lake, trekking, tigers, and hoolock gibbons",
+      "bestTime": "October to April",
+      "timings": "Open 24/7 (Permit needed)",
+      "entryFee": "₹50",
+      "slug": "kamlang-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/kamlang-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Arunachal Pradesh",
+      "id": "kamlang-wildlife-sanctuary",
+      "heroImage": "assets/images/states/arunachal-pradesh/kamlang-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Mehao Wildlife Sanctuary",
+      "city": "Roing",
+      "category": "wildlife",
+      "distance": "14 km from Roing",
+      "rating": 4.5,
+      "description": "A rich sanctuary with altitudes ranging from 400m to 3568m, centered around the pristine Mehao Lake and hosting diverse flora and fauna.",
+      "history": "Declared a sanctuary in 1980, it serves as an important catchment area for the Dibang river system.",
+      "famousFor": "Mehao Lake, trekking, orchids, and hoolock gibbons",
+      "bestTime": "November to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "Free (Trekking requires permit)",
+      "slug": "mehao-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/mehao-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Roing",
+          "city": "Roing",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "roing",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/roing.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "mehao-wildlife-sanctuary",
+      "heroImage": "assets/images/states/arunachal-pradesh/mehao-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Kibithu & Kaho Villages",
+      "city": "Anjaw",
+      "category": "nature",
+      "distance": "280 km from Tezu",
+      "rating": 4.7,
+      "description": "Some of the easternmost inhabited areas in India near the Line of Actual Control, featuring dramatic landscapes and the winding Lohit River.",
+      "history": "Kaho is the last Indian village on the border with China. Kibithu is a crucial military outpost where a historic 1962 battle took place.",
+      "famousFor": "India's easternmost frontier, Lohit River views, and military history",
+      "bestTime": "October to April",
+      "timings": "Open 24/7 (Permit needed)",
+      "entryFee": "Free",
+      "slug": "kibithu-kaho-villages",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/kibithu-kaho-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Walong War Memorial",
+          "city": "Walong",
+          "distance": "30 km away",
+          "category": "heritage",
+          "slug": "walong-war-memorial",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/walong-war-memorial.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "kibithu-kaho-villages",
+      "heroImage": "assets/images/states/arunachal-pradesh/kibithu-kaho-village.webp"
+    },
+    {
+      "name": "Donyi Polo Temple",
+      "city": "Itanagar",
+      "category": "temples",
+      "distance": "In Itanagar city",
+      "rating": 4.3,
+      "description": "A prominent center for the indigenous Donyi Polo religion, which worships the Sun (Donyi) and Moon (Polo) as ultimate deities.",
+      "history": "The Donyi-Polo movement was institutionalized in the 1970s by Talom Rukbo to preserve and promote indigenous tribal beliefs and practices.",
+      "famousFor": "Indigenous tribal religion, cultural immersion, and peaceful chants",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "donyi-polo-temple",
+      "images": {
+        "main": "assets/images/states/arunachal-pradesh/donyi-polo-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ita Fort",
+          "city": "Itanagar",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "itanagar-ita-fort",
+          "images": {
+            "main": "assets/images/states/arunachal-pradesh/ita-fort.webp"
+          },
+          "state": "Arunachal Pradesh"
+        }
+      ],
+      "state": "Arunachal Pradesh",
+      "id": "donyi-polo-temple",
+      "heroImage": "assets/images/states/arunachal-pradesh/donyi-polo-temple.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/arunachal-pradesh/banner.webp"
+}

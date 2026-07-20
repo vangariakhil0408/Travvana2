@@ -1,0 +1,63 @@
+{
+  "id": "itimad-ud-daulah",
+  "slug": "itimad-ud-daulah",
+  "name": "Tomb of Itimad-ud-Daulah",
+  "location": "Uttar Pradesh, India",
+  "district": "Agra",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "Often called the 'Baby Taj', this exquisite white marble tomb is considered the first Mughal structure built entirely from marble and the precursor to the Taj Mahal. Its pietra dura (inlaid gemstone) work is incredibly detailed.",
+  "description": "Built between 1622 and 1628 by Empress Nur Jahan for her father Mirza Ghiyas Beg, the prime minister of Emperor Jahangir.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "agra-fort",
+    "fatehpur-sikri",
+    "bateshwar-temples",
+    "akbar-tomb-sikandra"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Tomb -of-Itimad-ud-Daulah.png",
+  "heroImage": "./assets/images/states/uttar-pradesh/Tomb -of-Itimad-ud-Daulah.png",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Tomb -of-Itimad-ud-Daulah.png"
+  ]
+}

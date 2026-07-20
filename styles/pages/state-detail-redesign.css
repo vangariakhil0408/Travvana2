@@ -1,0 +1,453 @@
+/* ============================================
+   TRAVVANA — State Detail Page Redesign
+   Premium glassmorphism exploration page
+   ============================================ */
+
+/* --- Back Button --- */
+.state-back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  background: rgba(255, 138, 30, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 138, 30, 0.3);
+  border-radius: 12px;
+  color: #FF8A1E;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  margin-bottom: 24px;
+}
+.state-back-btn:hover {
+  background: rgba(255, 138, 30, 0.2);
+  border-color: rgba(255, 138, 30, 0.5);
+  transform: translateX(-4px);
+  box-shadow: 0 4px 15px rgba(255, 138, 30, 0.15);
+}
+.state-back-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* --- Hero Banner --- */
+.state-hero {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 5;
+  min-height: 280px;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 32px;
+  background: #0a0a0f;
+}
+.state-hero__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.state-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(10,10,15,0.95) 0%, rgba(10,10,15,0.4) 50%, transparent 100%);
+}
+.state-hero__content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 32px;
+}
+.state-hero__label {
+  display: inline-block;
+  padding: 4px 14px;
+  background: rgba(255,179,102,0.2);
+  border: 1px solid rgba(255,179,102,0.4);
+  border-radius: 20px;
+  color: #FFB366;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.state-hero__title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #FFFFFF;
+  margin: 0 0 6px 0;
+  line-height: 1.2;
+}
+.state-hero__tagline {
+  font-size: 1rem;
+  color: #FFFFFF;
+  margin: 0;
+}
+.state-hero__stats {
+  display: flex;
+  gap: 20px;
+  margin-top: 14px;
+}
+.state-hero__stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  background: var(--clr-bg-surface);
+  backdrop-filter: blur(8px);
+  border-radius: 10px;
+  color: var(--clr-text-secondary);
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+
+/* --- Search Bar --- */
+.state-search-wrap {
+  position: relative;
+  margin-bottom: 20px;
+}
+.state-search-input {
+  width: 100%;
+  padding: 14px 20px 14px 48px;
+  background: var(--clr-bg-surface);
+  border: 1px solid var(--clr-bg-elevated);
+  border-radius: 14px;
+  color: var(--clr-text-primary);
+  font-size: 0.95rem;
+  font-family: 'Inter', sans-serif;
+  outline: none;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+.state-search-input::placeholder {
+  color: rgba(255,255,255,0.35);
+}
+.state-search-input:focus {
+  border-color: rgba(255,179,102,0.5);
+  background: var(--clr-bg-surface);
+  box-shadow: 0 0 0 3px rgba(255,179,102,0.1);
+}
+.state-search-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255,255,255,0.35);
+  font-size: 1.1rem;
+  pointer-events: none;
+}
+
+/* --- Category Pills --- */
+.state-categories {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  margin-bottom: 24px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.state-categories::-webkit-scrollbar {
+  display: none;
+}
+.state-cat-pill {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  background: var(--clr-bg-surface);
+  border: 1px solid var(--clr-bg-surface);
+  border-radius: 24px;
+  color: var(--clr-text-secondary);
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.25s ease;
+  font-family: 'Inter', sans-serif;
+}
+.state-cat-pill:hover {
+  background: var(--clr-bg-elevated);
+  color: var(--clr-text-primary);
+}
+.state-cat-pill--active {
+  background: rgba(255,179,102,0.15);
+  border-color: rgba(255,179,102,0.4);
+  color: #FFB366;
+  font-weight: 600;
+}
+.state-cat-pill__icon {
+  font-size: 1rem;
+}
+
+/* --- Results Count --- */
+.state-results-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.state-results-count {
+  color: var(--clr-text-secondary);
+  font-size: 0.85rem;
+}
+.mobile-grid-toggle {
+  display: none;
+  background: transparent;
+  border: none;
+  color: var(--clr-text-secondary);
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+.mobile-grid-toggle:hover {
+  background: rgba(255, 179, 102, 0.1);
+  color: #FFB366;
+}
+.state-results-sort {
+  padding: 6px 14px;
+  background: var(--clr-bg-surface);
+  border: 1px solid var(--clr-bg-surface);
+  border-radius: 10px;
+  color: var(--clr-text-secondary);
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+}
+
+/* --- Places Grid --- */
+.state-places-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+/* --- Place Card --- */
+.state-place-card {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  background: var(--clr-bg-surface);
+  border: 1px solid var(--clr-bg-surface);
+  cursor: pointer;
+  transition: all 0.35s ease;
+  text-decoration: none;
+  display: block;
+}
+.state-place-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(255,179,102,0.3);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.4), 0 0 20px rgba(255,179,102,0.08);
+}
+.state-place-card__img-wrap {
+  position: relative;
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+}
+.state-place-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.state-place-card:hover .state-place-card__img {
+  transform: scale(1.08);
+}
+.state-place-card__badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 4px 10px;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(6px);
+  border-radius: 8px;
+  color: #FFB366;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.state-place-card__fee {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 4px 10px;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(6px);
+  border-radius: 8px;
+  color: #4ade80;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.state-place-card__content {
+  padding: 14px 16px;
+}
+.state-place-card__name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--clr-text-primary);
+  margin: 0 0 4px 0;
+  line-height: 1.3;
+}
+.state-place-card__city {
+  font-size: 0.78rem;
+  color: var(--clr-text-secondary);
+  margin: 0 0 8px 0;
+}
+.state-place-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.state-place-card__distance {
+  font-size: 0.75rem;
+  color: #FFB366;
+  font-weight: 500;
+}
+.state-place-card__rating {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: #fbbf24;
+  font-weight: 600;
+}
+
+/* --- Empty State --- */
+.state-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--clr-text-secondary);
+}
+.state-empty__icon {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+.state-empty__title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--clr-text-secondary);
+  margin-bottom: 8px;
+}
+
+/* --- Quick Info Pills --- */
+.state-info-pills {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+.state-info-pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  background: var(--clr-bg-surface);
+  border: 1px solid var(--clr-border);
+  border-radius: 24px;
+}
+.state-info-pill__icon {
+  font-size: 1.1rem;
+}
+.state-info-pill__label {
+  font-size: 0.72rem;
+  color: var(--clr-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.state-info-pill__value {
+  font-size: 0.85rem;
+  color: var(--clr-text-primary);
+  font-weight: 600;
+}
+
+/* --- Responsive --- */
+@media (max-width: 1024px) {
+  .state-places-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .state-places-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .state-hero {
+    aspect-ratio: 16 / 7;
+    min-height: 260px;
+    border-radius: 16px;
+  }
+  .state-hero__title {
+    font-size: 1.8rem;
+    margin-bottom: 4px;
+  }
+  .state-hero__content {
+    padding: 24px;
+  }
+}
+@media (max-width: 480px) {
+  .state-places-grid {
+    grid-template-columns: 1fr;
+  }
+  .state-hero {
+    aspect-ratio: 4 / 3;
+    min-height: 240px;
+    border-radius: 12px;
+  }
+  .state-hero__content {
+    padding: 16px;
+  }
+  .state-hero__title {
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+  .state-hero__tagline {
+    font-size: 0.9rem;
+  }
+  .state-hero__stats {
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  .mobile-grid-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .state-places-grid.state-places-grid--2col {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__img-wrap {
+    height: 120px;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__name {
+    font-size: 0.85rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__content {
+    padding: 10px;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__fee {
+    font-size: 0.65rem;
+    padding: 3px 6px;
+    top: 6px; left: 6px;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__badge {
+    font-size: 0.65rem;
+    padding: 3px 6px;
+    top: 6px; right: 6px;
+  }
+  .state-places-grid.state-places-grid--2col .state-place-card__meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+}

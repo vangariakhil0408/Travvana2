@@ -1,0 +1,39 @@
+{
+  "id": "mahatma-gandhi-marine-national-park",
+  "name": "Mahatma Gandhi Marine National Park",
+  "city": "Wandoor",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A protected marine sanctuary spanning 15 islands with pristine coral reefs, mangrove creeks, and tropical fish in crystal-clear waters \u2014 a diver's paradise.",
+  "history": "Established in 1983 to protect the rich coral ecosystem, it covers 281.5 sq km of open sea, reef, and tropical forest.",
+  "famousFor": "Jolly Buoy Island coral reefs and glass-bottom boat rides",
+  "bestTime": "November to April",
+  "timings": "6:00 AM \u2013 4:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+  ],
+  "nearbyPlaces": [
+    "cellular-jail",
+    "barren-island",
+    "long-island",
+    "north-bay-island",
+    "mundapahad",
+    "aberdeen-bazaar",
+    "ross-island",
+    "chatham-saw-mill",
+    "mount-harriet-national-park",
+    "marina-park",
+    "saddle-peak",
+    "kalipur-beach",
+    "jolly-buoy-island",
+    "wandoor-beach",
+    "samudrika-naval-marine-museum",
+    "corbyns-cove-beach",
+    "diglipur-town",
+    "viper-island",
+    "anthropological-museum",
+    "chidiya-tapu"
+  ]
+}

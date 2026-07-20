@@ -1,0 +1,20 @@
+{
+  "id": "patnitop",
+  "name": "Patnitop",
+  "city": "Udhampur",
+  "state": "Jammu and Kashmir",
+  "description": "A highly popular hilltop tourist location in the Jammu region, surrounded by thick pine and cedar forests, offering stunning views of the Shivalik range and winter skiing.",
+  "history": "Originally called 'Patan Da Talab' meaning 'Pond of the Princess', referencing a bathing pond used by a local princess.",
+  "famousFor": "Pine forests, paragliding, winter snowfall",
+  "bestTime": "May to June, December to March (Snow)",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/patnitop.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/patnitop.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/patnitop.webp"
+  ],
+  "nearbyPlaces": [
+    "sanasar"
+  ]
+}

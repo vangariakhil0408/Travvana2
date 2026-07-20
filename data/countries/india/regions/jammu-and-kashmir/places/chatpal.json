@@ -1,0 +1,25 @@
+{
+  "id": "chatpal",
+  "name": "Chatpal",
+  "city": "Anantnag",
+  "state": "Jammu and Kashmir",
+  "description": "A completely hidden, offbeat gem in South Kashmir. It is a deeply tranquil valley devoid of electricity in some parts, offering an absolute escape into raw nature.",
+  "history": "Recently introduced to the tourism map by the J&K tourism department to promote unexplored destinations in the valley.",
+  "famousFor": "Absolute tranquility, off-grid experience, clear streams.",
+  "bestTime": "April to September",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/chatpal.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/chatpal.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/chatpal.webp"
+  ],
+  "nearbyPlaces": [
+    "daksum",
+    "achabal",
+    "sinthan-top",
+    "verinag-spring",
+    "martand-sun-temple",
+    "kokernag"
+  ]
+}

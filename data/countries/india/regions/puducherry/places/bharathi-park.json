@@ -1,0 +1,36 @@
+{
+  "id": "bharathi-park",
+  "name": "Bharathi Park",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "A lush, well-maintained green park located at the exact center of the French Quarter, featuring the stunning Aayi Mandapam monument at its core.",
+  "history": "The Aayi Mandapam was built in the 19th century by Napoleon III to honor Aayi, a local courtesan who demolished her house to supply water to the city.",
+  "famousFor": "Aayi Mandapam, peaceful walking paths, and heritage buildings.",
+  "bestTime": "October to March",
+  "timings": "6:30 AM \u2013 8:30 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp",
+  "heroImage": "./assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+  ],
+  "nearbyPlaces": [
+    "thirunallar-temple",
+    "french-war-memorial",
+    "promenade-beach",
+    "sacred-heart-basilica",
+    "serenity-beach",
+    "immaculate-conception",
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "arikamedu",
+    "notre-dame-des-anges",
+    "puducherry-museum",
+    "sri-karneshwar-nataraja",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "coorg-abbey-falls",
+  "name": "Abbey Falls",
+  "slug": "coorg-abbey-falls",
+  "stateId": "karnataka",
+  "districtId": "kodagu",
+  "category": "nature",
+  "subcategories": [],
+  "description": "A beautiful waterfall surrounded by coffee and spice plantations",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.4,
+  "reviewCount": 5500,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to February",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bengaluru Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "hampi-ruins",
+    "gokarna-beach"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to Abbey Falls"
+  },
+  "tags": [
+    "nature"
+  ],
+  "lastUpdated": "2026-03-15"
+}

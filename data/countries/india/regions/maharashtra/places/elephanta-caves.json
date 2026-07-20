@@ -1,0 +1,69 @@
+{
+  "id": "elephanta-caves",
+  "slug": "elephanta-caves",
+  "name": "Elephanta Caves",
+  "location": "Maharashtra, India",
+  "district": "Mumbai",
+  "stateId": "maharashtra",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/elephanta-caves.webp",
+  "heroImage": "./assets/images/popular/elephanta-caves.webp",
+  "gallery": [
+    "./assets/images/popular/elephanta-caves.webp"
+  ],
+  "overview": "Experience the beauty of Elephanta Caves, a top destination in Maharashtra, India.",
+  "description": "These UNESCO-listed rock-cut caves date back to the 5th-8th centuries and are dedicated primarily to Lord Shiva.",
+  "rating": "4.6",
+  "reviewCount": 4869,
+  "popularityScore": 41,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to March",
+  "timings": "9:00 AM - 5:30 PM (Closed Monday)",
+  "entryFee": {
+    "indian": "₹40",
+    "foreigner": "₹600"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Chhatrapati Shivaji Maharaj International Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Mumbai Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "11 km ferry ride from Gateway of India"
+  },
+  "tags": [
+    "heritage",
+    "maharashtra",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4990
+    },
+    {
+      "views": 1587
+    }
+  ],
+  "nearbyPlaces": [
+    "gateway-of-india"
+  ]
+}

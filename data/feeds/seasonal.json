@@ -1,0 +1,13 @@
+{
+  "feedType": "seasonal",
+  "title": "Best for This Season",
+  "subtitle": "Perfect destinations for April — escape the summer heat",
+  "lastUpdated": "2026-04-01",
+  "season": "summer",
+  "items": [
+    { "placeId": "munnar-tea-gardens", "stateId": "kerala", "name": "Munnar Tea Gardens", "thumbnail": "", "rating": 4.7, "reviewCount": 9500, "category": "nature", "trendScore": 90, "district": "idukki", "slug": "munnar-tea-gardens", "priceLevel": 2 },
+    { "placeId": "manali-solang-valley", "stateId": "himachal-pradesh", "name": "Solang Valley", "thumbnail": "", "rating": 4.6, "reviewCount": 9000, "category": "adventure", "trendScore": 88, "district": "kullu", "slug": "manali-solang-valley", "priceLevel": 2 },
+    { "placeId": "ooty-botanical", "stateId": "tamil-nadu", "name": "Ooty Botanical Gardens", "thumbnail": "", "rating": 4.5, "reviewCount": 7000, "category": "nature", "trendScore": 85, "district": "nilgiris", "slug": "ooty-botanical", "priceLevel": 1 },
+    { "placeId": "coorg-abbey-falls", "stateId": "karnataka", "name": "Abbey Falls, Coorg", "thumbnail": "", "rating": 4.4, "reviewCount": 5500, "category": "nature", "trendScore": 82, "district": "kodagu", "slug": "coorg-abbey-falls", "priceLevel": 1 }
+  ]
+}

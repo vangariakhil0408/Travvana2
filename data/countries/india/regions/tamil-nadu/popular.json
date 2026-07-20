@@ -1,0 +1,44 @@
+{
+  "stateId": "tamil-nadu",
+  "places": [
+    {
+      "id": "meenakshi-temple",
+      "name": "Meenakshi Temple",
+      "slug": "meenakshi-temple",
+      "district": "madurai",
+      "thumbnail": "",
+      "rating": 4.9,
+      "reviewCount": 20000,
+      "category": "temples",
+      "shortDescription": "One of India most stunning Dravidian temples with 14 gopurams",
+      "popularityScore": 98,
+      "priceLevel": 1
+    },
+    {
+      "id": "ooty-botanical",
+      "name": "Ooty Botanical Gardens",
+      "slug": "ooty-botanical",
+      "district": "nilgiris",
+      "thumbnail": "",
+      "rating": 4.5,
+      "reviewCount": 7000,
+      "category": "nature",
+      "shortDescription": "Beautiful gardens established in 1848 with rare plant species",
+      "popularityScore": 85,
+      "priceLevel": 1
+    },
+    {
+      "id": "dhanushkodi",
+      "name": "Dhanushkodi",
+      "slug": "dhanushkodi",
+      "district": "ramanathapuram",
+      "thumbnail": "",
+      "rating": 4.3,
+      "reviewCount": 3500,
+      "category": "beaches",
+      "shortDescription": "Ghost town at the tip of Rameswaram island",
+      "popularityScore": 72,
+      "priceLevel": 1
+    }
+  ]
+}

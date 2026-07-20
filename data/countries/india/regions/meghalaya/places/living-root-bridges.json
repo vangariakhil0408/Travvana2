@@ -1,0 +1,71 @@
+{
+  "id": "living-root-bridges",
+  "slug": "living-root-bridges",
+  "name": "Living Root Bridges",
+  "location": "Meghalaya, India",
+  "district": "Cherrapunji",
+  "stateId": "meghalaya",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/living-root-bridges.webp",
+  "heroImage": "./assets/images/popular/living-root-bridges.webp",
+  "gallery": [
+    "./assets/images/popular/living-root-bridges.webp"
+  ],
+  "overview": "Experience the beauty of Living Root Bridges, a top destination in Meghalaya, India.",
+  "description": "These bio-engineered bridges are grown from the roots of rubber trees by Khasi tribes over generations.",
+  "rating": "4.9",
+  "reviewCount": 8069,
+  "popularityScore": 42,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to April",
+  "timings": "Open all day",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Shillong Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Cherrapunji Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "15 km from Cherrapunji"
+  },
+  "tags": [
+    "nature",
+    "meghalaya",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1822
+    },
+    {
+      "views": 2906
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "amber-fort",
+    "hawa-mahal"
+  ]
+}

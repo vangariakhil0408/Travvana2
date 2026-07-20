@@ -1,0 +1,60 @@
+{
+  "id": "ayodhya-ram-mandir",
+  "slug": "ayodhya-ram-mandir",
+  "name": "Shri Ram Janmabhoomi Mandir",
+  "location": "Uttar Pradesh, India",
+  "district": "Ayodhya",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "The magnificent, newly constructed temple at the birthplace of Lord Rama. Built in the Nagara style of Hindu temple architecture, it features three floors, 392 pillars, and a 161-foot shikhara.",
+  "description": "Consecrated on January 22, 2024 (Pran Pratishtha). The site has been a focal point of Indian history and faith for centuries.",
+  "rating": "5",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round (avoid extreme summers)",
+  "timings": "7:00 AM \u2013 11:30 AM, 2:00 PM \u2013 7:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "kanak-bhawan-ayodhya",
+    "saryu-ghat-ayodhya"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Shri-Ram-Janmabhoomi-Mandir.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Shri-Ram-Janmabhoomi-Mandir.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Shri-Ram-Janmabhoomi-Mandir.webp"
+  ]
+}

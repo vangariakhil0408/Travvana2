@@ -1,0 +1,20 @@
+{
+  "id": "sanasar",
+  "name": "Sanasar",
+  "city": "Patnitop",
+  "state": "Jammu and Kashmir",
+  "description": "Named after two small local lakes, Sana and Sar. It is an expansive, cup-shaped green meadow completely surrounded by dense, gigantic conifers.",
+  "history": "Developed rapidly as the adventure sports capital of the Jammu region.",
+  "famousFor": "Paragliding, horseback riding, golf course",
+  "bestTime": "May to June, September to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Activities extra)",
+  "image": "./assets/images/states/jammu-and-kashmir/sanasar.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/sanasar.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/sanasar.webp"
+  ],
+  "nearbyPlaces": [
+    "patnitop"
+  ]
+}

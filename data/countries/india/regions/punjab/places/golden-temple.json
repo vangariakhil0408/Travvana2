@@ -1,0 +1,71 @@
+{
+  "id": "golden-temple",
+  "slug": "golden-temple",
+  "name": "Golden Temple",
+  "location": "Punjab, India",
+  "district": "Amritsar",
+  "stateId": "punjab",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/golden-temple.webp",
+  "heroImage": "./assets/images/popular/golden-temple.webp",
+  "gallery": [
+    "./assets/images/popular/golden-temple.webp"
+  ],
+  "overview": "Experience the beauty of Golden Temple, a top destination in Punjab, India.",
+  "description": "The Golden Temple, also known as Harmandir Sahib, is the holiest Gurdwara and the most important pilgrimage site of Sikhism. Its upper floors are gorgeously covered in real gold.",
+  "rating": "4.5",
+  "reviewCount": 2231,
+  "popularityScore": 97,
+  "priceLevel": 1,
+  "bestTimeToVisit": "November to March",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Sri Guru Ram Dass Jee International Airport",
+      "distance": "13 km"
+    },
+    "nearestRailway": {
+      "name": "Amritsar Junction",
+      "distance": "2 km"
+    },
+    "byRoad": "Well connected by road to major cities in Punjab."
+  },
+  "tags": [
+    "spiritual",
+    "punjab",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1095
+    },
+    {
+      "views": 4684
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "amber-fort",
+    "hawa-mahal"
+  ]
+}

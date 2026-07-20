@@ -1,0 +1,29 @@
+{
+  "id": "international-dolls-museum",
+  "name": "International Dolls Museum",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A charming museum housing a vibrant collection of dolls and puppets from over 25 countries, showcasing diverse cultures, costumes, and traditions from around the world.",
+  "history": "Established in the 1980s, the museum features collections donated by various embassies and cultural organizations, representing global diversity.",
+  "famousFor": "Dolls from 25+ countries and cultural costumes.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 5:00 PM (Closed on Mondays)",
+  "entryFee": "\u20b910",
+  "image": "./assets/images/states/chandigarh/international-dolls-museum.webp",
+  "heroImage": "./assets/images/states/chandigarh/international-dolls-museum.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/international-dolls-museum.webp"
+  ],
+  "nearbyPlaces": [
+    "rose-garden",
+    "leisure-valley",
+    "garden-of-silence",
+    "sukhna-lake",
+    "capitol-complex",
+    "terraced-garden",
+    "govt-museum-art-gallery",
+    "le-corbusier-centre",
+    "japanese-garden",
+    "rock-garden"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "brahma-temple-pushkar",
+  "slug": "brahma-temple-pushkar",
+  "name": "Brahma Temple Pushkar",
+  "location": "Rajasthan, India",
+  "district": "Pushkar",
+  "stateId": "rajasthan",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/brahma-temple-pushkar.webp",
+  "heroImage": "./assets/images/popular/brahma-temple-pushkar.webp",
+  "gallery": [
+    "./assets/images/popular/brahma-temple-pushkar.webp"
+  ],
+  "overview": "Experience the beauty of Brahma Temple Pushkar, a top destination in Rajasthan, India.",
+  "description": "One of the very few temples in the world dedicated to Lord Brahma, dating back over a thousand years.",
+  "rating": "4.9",
+  "reviewCount": 49346,
+  "popularityScore": 10,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "5:00 AM - 9:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Jaipur / Jodhpur / Udaipur Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Pushkar Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "0.4 km from Pushkar Lake"
+  },
+  "tags": [
+    "spiritual",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3543
+    },
+    {
+      "views": 3118
+    }
+  ],
+  "nearbyPlaces": [
+    "pushkar-lake"
+  ]
+}

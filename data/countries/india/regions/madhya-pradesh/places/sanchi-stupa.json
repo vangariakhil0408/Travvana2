@@ -1,0 +1,18 @@
+{
+  "id": "sanchi-stupa",
+  "name": "Sanchi Stupa",
+  "city": "Sanchi",
+  "state": "Madhya Pradesh",
+  "description": "A masterpiece of Buddhist art and architecture, these UNESCO World Heritage monuments include the Great Stupa, famous for its intricately carved gateways (Toranas).",
+  "history": "Originally commissioned by Emperor Ashoka in the 3rd century BC. It is one of the oldest stone structures in India and a major center of Buddhist learning.",
+  "famousFor": "Great Stupa, Ashoka Pillar, and ancient Buddhist art.",
+  "bestTime": "October to March",
+  "timings": "6:30 AM \u2013 6:30 PM",
+  "entryFee": "\u20b940",
+  "image": "./assets/images/states/madhya-pradesh/Sanchi-Stupa.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Sanchi-Stupa.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Sanchi-Stupa.webp"
+  ],
+  "nearbyPlaces": []
+}

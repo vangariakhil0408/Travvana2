@@ -1,0 +1,2436 @@
+{
+  "state": "Meghalaya",
+  "slug": "meghalaya",
+  "capital": "Shillong",
+  "tagline": "The Abode of Clouds",
+  "heroImage": "assets/images/states/meghalaya/banner.webp",
+  "bestTime": "October to April",
+  "language": "Khasi, Garo, English",
+  "places": [
+    {
+      "name": "Shillong Peak",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "10 km from Shillong",
+      "rating": 4.5,
+      "description": "The highest point of Shillong at an elevation of 1,965 meters, offering breathtaking panoramic views of the entire city, surrounding hills, and on clear days, the plains of Bangladesh.",
+      "history": "Legend states that the patron deity 'U Lum Shyllong' (Leishyllong) resides here, from whom the city of Shillong derives its name. It also houses an Indian Air Force radar station.",
+      "famousFor": "Panoramic city views, highest point in Shillong, telescopes.",
+      "bestTime": "September to May",
+      "timings": "9:00 AM – 3:30 PM (Closed Wednesdays)",
+      "entryFee": "₹30",
+      "slug": "shillong-peak",
+      "images": {
+        "main": "assets/images/states/meghalaya/shillong-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Elephant Falls",
+          "city": "Shillong",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "elephant-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/elephant-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/elephant-falls.webp"
+        },
+        {
+          "name": "Lady Hydari Park",
+          "city": "Shillong",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "lady-hydari-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/lady-hydari-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/lady-hydari-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "shillong-peak",
+      "image": "assets/images/states/meghalaya/shillong-peak.webp",
+      "heroImage": "assets/images/states/meghalaya/shillong-peak.webp"
+    },
+    {
+      "name": "Umiam Lake",
+      "city": "Shillong",
+      "district": "Ri-Bhoi",
+      "category": "nature",
+      "distance": "15 km from Shillong",
+      "rating": 4.8,
+      "description": "A mesmerizing and vast man-made reservoir surrounded by lush green hills, often compared to the Scottish Highlands. The sprawling lake is a prime destination for boating, kayaking, and water sports.",
+      "history": "Created in the early 1960s by damming the Umiam River as part of Northeast India's first major hydroelectric power project. The dam was built to generate electricity for the region.",
+      "famousFor": "Boating, kayaking, water sports, scenic sunset views.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free (Water sports extra)",
+      "slug": "umiam-lake",
+      "images": {
+        "main": "assets/images/states/meghalaya/umiam-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Laitlum Canyons",
+          "city": "Smit",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "laitlum-canyons",
+          "images": {
+            "main": "assets/images/states/meghalaya/laitlum-canyons.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/laitlum-canyons.webp"
+        },
+        {
+          "name": "Smit Village",
+          "city": "Smit",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "smit-village",
+          "images": {
+            "main": "assets/images/states/meghalaya/smit-village.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/smit-village.webp"
+        },
+        {
+          "name": "Umden Village",
+          "city": "Nongpoh",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "umden-village",
+          "images": {
+            "main": "assets/images/states/meghalaya/umden-village.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umden-village.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "umiam-lake",
+      "image": "assets/images/states/meghalaya/umiam-lake.webp",
+      "heroImage": "assets/images/states/meghalaya/umiam-lake.webp"
+    },
+    {
+      "name": "Ward's Lake",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "Center of Shillong",
+      "rating": 4.5,
+      "description": "A beautiful horseshoe-shaped artificial lake with a striking wooden bridge, surrounded by lush gardens and cobblestone paths. A perfect spot for a peaceful stroll or boating in the heart of the city.",
+      "history": "Constructed during the British era by Sir William Ward, the then Chief Commissioner of Assam, in the early 20th century as a recreational space for colonial officials.",
+      "famousFor": "Boating, cherry blossoms in November, ornamental fish feeding.",
+      "bestTime": "Year-round",
+      "timings": "8:30 AM – 5:30 PM",
+      "entryFee": "₹20",
+      "slug": "wards-lake",
+      "images": {
+        "main": "assets/images/states/meghalaya/wards-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Don Bosco Museum",
+          "city": "Shillong",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "don-bosco-museum",
+          "images": {
+            "main": "assets/images/states/meghalaya/don-bosco-museum.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/don-bosco-museum.webp"
+        },
+        {
+          "name": "Cathedral of Mary Help of Christians",
+          "city": "Shillong",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "cathedral-mary-help-of-christians",
+          "images": {
+            "main": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+        },
+        {
+          "name": "Lady Hydari Park",
+          "city": "Shillong",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "lady-hydari-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/lady-hydari-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/lady-hydari-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "wards-lake",
+      "image": "assets/images/states/meghalaya/wards-lake.webp",
+      "heroImage": "assets/images/states/meghalaya/wards-lake.webp"
+    },
+    {
+      "name": "Don Bosco Museum",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "heritage",
+      "distance": "In Shillong",
+      "rating": 4.7,
+      "description": "A magnificent seven-story museum offering an encyclopedic deep dive into the indigenous cultures, art, weaponry, textiles, and lifestyles of all the states of Northeast India, crowned by a rooftop skywalk.",
+      "history": "Established by the Salesians of Don Bosco to preserve and showcase the incredibly diverse heritage of the indigenous tribes of the Northeast Indian region.",
+      "famousFor": "7 floors of Northeast culture, rooftop Skywalk view of Shillong.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:30 PM (Closed Sundays & Public Holidays)",
+      "entryFee": "₹100",
+      "slug": "don-bosco-museum",
+      "images": {
+        "main": "assets/images/states/meghalaya/don-bosco-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ward's Lake",
+          "city": "Shillong",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "wards-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/wards-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wards-lake.webp"
+        },
+        {
+          "name": "Cathedral of Mary Help of Christians",
+          "city": "Shillong",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "cathedral-mary-help-of-christians",
+          "images": {
+            "main": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "don-bosco-museum",
+      "image": "assets/images/states/meghalaya/don-bosco-museum.webp",
+      "heroImage": "assets/images/states/meghalaya/don-bosco-museum.webp"
+    },
+    {
+      "name": "Cathedral of Mary Help of Christians",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "heritage",
+      "distance": "In Shillong",
+      "rating": 4.6,
+      "description": "One of the most prominent and beautiful churches in Northeast India, this grand Roman Catholic cathedral features striking Gothic-style architecture, stained glass windows, and a towering spire visible across Shillong.",
+      "history": "The cathedral was consecrated in 1936 and serves as the seat of the Roman Catholic Archdiocese of Shillong. It was inspired by the European Gothic cathedral tradition.",
+      "famousFor": "Gothic architecture, stained glass windows, Christmas celebrations.",
+      "bestTime": "Year-round (Christmas season for festivities)",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "cathedral-mary-help-of-christians",
+      "images": {
+        "main": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ward's Lake",
+          "city": "Shillong",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "wards-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/wards-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wards-lake.webp"
+        },
+        {
+          "name": "Don Bosco Museum",
+          "city": "Shillong",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "don-bosco-museum",
+          "images": {
+            "main": "assets/images/states/meghalaya/don-bosco-museum.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/don-bosco-museum.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "cathedral-mary-help-of-christians",
+      "image": "assets/images/states/meghalaya/cathedral-of-mary.webp",
+      "heroImage": "assets/images/states/meghalaya/cathedral-of-mary.webp"
+    },
+    {
+      "name": "Lady Hydari Park",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "In Shillong",
+      "rating": 4.4,
+      "description": "A beautifully maintained garden and mini-zoo in the heart of Shillong, also known as Phan Nonglait Park. It features lush lawns, a Japanese-style garden, a small deer park, and a mini-zoo with birds and primates.",
+      "history": "Named after Lady Hydari, the wife of Sir Akbar Hydari, the first Governor of Assam after Indian independence. It was developed as a public park and recreational space.",
+      "famousFor": "Japanese garden, mini-zoo, children's park, lush greenery.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM (Closed Sundays)",
+      "entryFee": "₹10",
+      "slug": "lady-hydari-park",
+      "images": {
+        "main": "assets/images/states/meghalaya/lady-hydari-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ward's Lake",
+          "city": "Shillong",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "wards-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/wards-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wards-lake.webp"
+        },
+        {
+          "name": "Shillong Peak",
+          "city": "Shillong",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "shillong-peak",
+          "images": {
+            "main": "assets/images/states/meghalaya/shillong-peak.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/shillong-peak.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "lady-hydari-park",
+      "image": "assets/images/states/meghalaya/lady-hydari-park.webp",
+      "heroImage": "assets/images/states/meghalaya/lady-hydari-park.webp"
+    },
+    {
+      "name": "Elephant Falls",
+      "city": "Shillong",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "12 km from Shillong",
+      "rating": 4.6,
+      "description": "A picturesque, three-tiered waterfall easily accessible from Shillong via a well-maintained stairway. The falls cascade through dense ferns, mossy rocks, and lush vegetation in three distinct stages.",
+      "history": "Named 'Elephant Falls' by the British due to a large elephant-shaped rock near the falls, which was later destroyed in the devastating earthquake of 1897. The Khasi name is Ka Kshaid Lai Pateng Khohsiew.",
+      "famousFor": "Three-tiered cascade, photography, ease of access from Shillong.",
+      "bestTime": "August to November",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "elephant-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/elephant-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shillong Peak",
+          "city": "Shillong",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "shillong-peak",
+          "images": {
+            "main": "assets/images/states/meghalaya/shillong-peak.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/shillong-peak.webp"
+        },
+        {
+          "name": "Mawphlang Sacred Forest",
+          "city": "Mawphlang",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "mawphlang-sacred-forest",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawphlang-sacred-forest.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawphlang-sacred-forest.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "elephant-falls",
+      "image": "assets/images/states/meghalaya/elephant-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/elephant-falls.webp"
+    },
+    {
+      "name": "Nohkalikai Falls",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "54 km from Shillong",
+      "rating": 4.9,
+      "description": "The tallest plunge waterfall in India, dropping spectacularly from a height of 340 meters into a breathtaking, vibrant emerald-green pool below. The sheer cliff face and surrounding mist create one of India's most iconic natural vistas.",
+      "history": "Named after a tragic local Khasi legend of a woman named Ka Likai who, in grief and rage, leapt from the cliff beside the falls after discovering a horrific act committed by her second husband.",
+      "famousFor": "Tallest plunge waterfall in India (340m), dramatic cliffs, emerald pool.",
+      "bestTime": "September to November",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "nohkalikai-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Eco Park Cherrapunji",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "eco-park-cherrapunji",
+          "images": {
+            "main": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+        },
+        {
+          "name": "Dainthlen Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "dainthlen-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/dainthlen-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/dainthlen-falls.webp"
+        },
+        {
+          "name": "Thangkharang Park",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "thangkharang-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/thangkharang-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/thangkharang-park.webp"
+        },
+        {
+          "name": "Wah Kaba Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "wah-kaba-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "nohkalikai-falls",
+      "image": "assets/images/states/meghalaya/nohkalikai-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+    },
+    {
+      "name": "Seven Sisters Falls",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "60 km from Shillong",
+      "rating": 4.7,
+      "description": "Also known as Nohsngithiang Falls, this is a spectacular seven-segmented waterfall that plunges over 315 meters from the limestone cliffs of the Khasi Hills during the monsoon, creating a breathtaking curtain of water.",
+      "history": "The seven segments of the falls symbolically represent the seven sister states of Northeast India. During peak monsoon, the falls merge into a single massive cascade.",
+      "famousFor": "Seven parallel cascades, sunset views, monsoon spectacle.",
+      "bestTime": "June to September (Monsoon)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "seven-sisters-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawsmai Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "1 km away",
+          "category": "caves",
+          "slug": "mawsmai-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsmai-cave.webp"
+        },
+        {
+          "name": "Eco Park Cherrapunji",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "eco-park-cherrapunji",
+          "images": {
+            "main": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "seven-sisters-falls",
+      "image": "assets/images/states/meghalaya/seven-sisters-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+    },
+    {
+      "name": "Mawsmai Cave",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "caves",
+      "distance": "60 km from Shillong",
+      "rating": 4.5,
+      "description": "The most popular and tourist-friendly limestone cave in Meghalaya, fully illuminated with electric lights. It features fascinating stalactite and stalagmite formations, narrow squeeze-through passages, and a 150-meter walkable stretch.",
+      "history": "One of the first caves in Meghalaya to be commercialized and illuminated for tourists by the Meghalaya Tourism Department. It is part of a larger cave system in the Sohra limestone belt.",
+      "famousFor": "Limestone formations, stalactites and stalagmites, spelunking.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "mawsmai-cave",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Seven Sisters Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "1 km away",
+          "category": "waterfalls",
+          "slug": "seven-sisters-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+        },
+        {
+          "name": "Arwah Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "caves",
+          "slug": "arwah-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/arwah-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/arwah-cave.webp"
+        },
+        {
+          "name": "Eco Park Cherrapunji",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "eco-park-cherrapunji",
+          "images": {
+            "main": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+        },
+        {
+          "name": "Krem Mawmluh",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "6 km away",
+          "category": "caves",
+          "slug": "krem-mawmluh",
+          "images": {
+            "main": "assets/images/states/meghalaya/krem-mawmluh.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krem-mawmluh.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawsmai-cave",
+      "image": "assets/images/states/meghalaya/mawsmai-cave.webp",
+      "heroImage": "assets/images/states/meghalaya/mawsmai-cave.webp"
+    },
+    {
+      "name": "Arwah Cave",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "caves",
+      "distance": "62 km from Shillong",
+      "rating": 4.5,
+      "description": "A fascinating limestone cave famous for its ancient marine fossils embedded in the cave walls, dating back millions of years. It features a well-lit walkway through stunning rock formations and narrow passages.",
+      "history": "The cave contains fossils of ancient marine organisms, providing evidence that this region was once submerged under an ancient sea. It was developed for tourism in the early 2000s.",
+      "famousFor": "Ancient marine fossils, limestone formations, well-lit cave trail.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹20",
+      "slug": "arwah-cave",
+      "images": {
+        "main": "assets/images/states/meghalaya/arwah-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawsmai Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "caves",
+          "slug": "mawsmai-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsmai-cave.webp"
+        },
+        {
+          "name": "Garden of Caves",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "garden-of-caves",
+          "images": {
+            "main": "assets/images/states/meghalaya/garden-of-caves.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/garden-of-caves.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "arwah-cave",
+      "image": "assets/images/states/meghalaya/arwah-cave.webp",
+      "heroImage": "assets/images/states/meghalaya/arwah-cave.webp"
+    },
+    {
+      "name": "Eco Park Cherrapunji",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "56 km from Shillong",
+      "rating": 4.6,
+      "description": "A beautifully maintained eco-tourism park perched on the edge of a cliff, offering stunning panoramic views of the deep Khasi Hills gorges, the Bangladesh plains below, and the Seven Sisters Falls in the distance.",
+      "history": "Developed by the Meghalaya Tourism Development Corporation as part of efforts to promote eco-tourism in the Cherrapunji region. Features walking trails, orchid gardens, and a children's park.",
+      "famousFor": "Cliff-edge views, Bangladesh plains vista, orchid gardens.",
+      "bestTime": "October to May",
+      "timings": "8:30 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "eco-park-cherrapunji",
+      "images": {
+        "main": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nohkalikai Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "nohkalikai-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+        },
+        {
+          "name": "Seven Sisters Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "2 km away",
+          "category": "waterfalls",
+          "slug": "seven-sisters-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+        },
+        {
+          "name": "Mawsmai Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "2 km away",
+          "category": "caves",
+          "slug": "mawsmai-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsmai-cave.webp"
+        },
+        {
+          "name": "Thangkharang Park",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "thangkharang-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/thangkharang-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/thangkharang-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "eco-park-cherrapunji",
+      "image": "assets/images/states/meghalaya/eco-park-cherrapunji.webp",
+      "heroImage": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+    },
+    {
+      "name": "Dainthlen Falls",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "56 km from Shillong",
+      "rating": 4.5,
+      "description": "A wide, powerful waterfall with a unique flat rocky landscape, where water cascades over a broad expanse of rock. The falls are surrounded by lush green hills and offer a dramatic landscape for photography.",
+      "history": "Named after a legendary Khasi tale of a giant serpent (Thlen) that was slain by a local hero at this very spot. 'Dain-Thlen' translates to 'where Thlen was cut', and the rock formations are said to resemble the snake's remains.",
+      "famousFor": "Wide rocky cascade, Khasi folklore of the Thlen serpent, photography.",
+      "bestTime": "July to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "dainthlen-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/dainthlen-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nohkalikai Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "nohkalikai-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+        },
+        {
+          "name": "Krem Mawmluh",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "4 km away",
+          "category": "caves",
+          "slug": "krem-mawmluh",
+          "images": {
+            "main": "assets/images/states/meghalaya/krem-mawmluh.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krem-mawmluh.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "dainthlen-falls",
+      "image": "assets/images/states/meghalaya/dainthlen-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/dainthlen-falls.webp"
+    },
+    {
+      "name": "Double Decker Living Root Bridge",
+      "city": "Nongriat",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "65 km from Shillong",
+      "rating": 4.9,
+      "description": "An awe-inspiring, two-tiered bridge grown over centuries from the aerial roots of the Indian Rubber Fig Tree (Ficus elastica) by the Khasi people. It stands as one of the greatest examples of bio-engineering on the planet.",
+      "history": "Created by the indigenous Khasi and War Khasi people over centuries by patiently training and guiding the living aerial roots of rubber trees across rivers and streams using hollowed-out betel nut trunks, forming incredibly strong, growing bridges.",
+      "famousFor": "UNESCO Tentative List, 3000+ step trek, living root bio-engineering.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7 (Daylight trek recommended)",
+      "entryFee": "₹20",
+      "slug": "double-decker-living-root-bridge",
+      "images": {
+        "main": "assets/images/popular/living-root-bridges.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawryngkhew Living Root Bridge",
+          "city": "Mawryngkhew",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "mawryngkhew-living-root-bridge",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawryngkhang-living-bridges.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawryngkhang-living-bridges.webp"
+        },
+        {
+          "name": "Wei Sawdong Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "wei-sawdong-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "double-decker-living-root-bridge",
+      "image": "assets/images/popular/living-root-bridges.webp",
+      "heroImage": "assets/images/popular/living-root-bridges.webp"
+    },
+    {
+      "name": "Umngot River",
+      "city": "Dawki",
+      "district": "West Jaintia Hills",
+      "category": "nature",
+      "distance": "82 km from Shillong",
+      "rating": 4.9,
+      "description": "Famous worldwide for its incredibly crystal-clear, transparent waters where boats appear to float on air. The Umngot River serves as the natural boundary between India and Bangladesh at the border town of Dawki.",
+      "history": "A historically significant trade route between India and Bangladesh. The town of Dawki has served as a vital border crossing point for centuries, facilitating commerce between the two nations.",
+      "famousFor": "Crystal clear water, boating on transparent water, Indo-Bangladesh border.",
+      "bestTime": "November to May",
+      "timings": "Open 24/7 (Boating 8:00 AM – 4:00 PM)",
+      "entryFee": "Free (Boating ₹500-800 per boat)",
+      "slug": "umngot-river",
+      "images": {
+        "main": "assets/images/states/meghalaya/umngot-river.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dawki Suspension Bridge",
+          "city": "Dawki",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "dawki-suspension-bridge",
+          "images": {
+            "main": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+        },
+        {
+          "name": "Shnongpdeng",
+          "city": "Shnongpdeng",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "shnongpdeng",
+          "images": {
+            "main": "assets/images/states/meghalaya/shnongpdeng.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/shnongpdeng.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "umngot-river",
+      "image": "assets/images/states/meghalaya/umngot-river.webp",
+      "heroImage": "assets/images/states/meghalaya/umngot-river.webp"
+    },
+    {
+      "name": "Mawlynnong Village",
+      "city": "Mawlynnong",
+      "district": "East Khasi Hills",
+      "category": "heritage",
+      "distance": "78 km from Shillong",
+      "rating": 4.7,
+      "description": "Internationally acclaimed as 'Asia's Cleanest Village', Mawlynnong offers a pristine environment with manicured gardens, bamboo dustbins, and a deep insight into the eco-friendly matrilineal Khasi lifestyle.",
+      "history": "Discovered and acclaimed by Discover India magazine in 2003, the village has since become a global model for sustainable eco-tourism, community-driven cleanliness, and grassroots environmental stewardship.",
+      "famousFor": "Asia's Cleanest Village, eco-tourism, community cleanliness, living root bridge.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "₹50 (Parking)",
+      "slug": "mawlynnong-village",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawlynnong-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Byrdaw Falls",
+          "city": "Pomshutia",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "byrdaw-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/byrdaw-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/byrdaw-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawlynnong-village",
+      "image": "assets/images/states/meghalaya/mawlynnong-village.webp",
+      "heroImage": "assets/images/states/meghalaya/mawlynnong-village.webp"
+    },
+    {
+      "name": "Laitlum Canyons",
+      "city": "Smit",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "22 km from Shillong",
+      "rating": 4.8,
+      "description": "Translating to 'End of Hills' in Khasi, Laitlum offers majestic, dramatic views of deep gorges, winding stairways descending into misty valleys, and expansive landscapes shrouded in clouds and rolling fog.",
+      "history": "A relatively unexplored gem that gained fame after being featured in popular culture. It is the traditional territory of the Khasi Syiemship of Khyrim, one of the oldest Khasi kingdoms.",
+      "famousFor": "Deep gorges, sweeping landscapes, sunrise and sunset views, trekking.",
+      "bestTime": "September to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "laitlum-canyons",
+      "images": {
+        "main": "assets/images/states/meghalaya/laitlum-canyons.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Smit Village",
+          "city": "Smit",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "smit-village",
+          "images": {
+            "main": "assets/images/states/meghalaya/smit-village.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/smit-village.webp"
+        },
+        {
+          "name": "Umiam Lake",
+          "city": "Shillong",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "umiam-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/umiam-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umiam-lake.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "laitlum-canyons",
+      "image": "assets/images/states/meghalaya/laitlum-canyons.webp",
+      "heroImage": "assets/images/states/meghalaya/laitlum-canyons.webp"
+    },
+    {
+      "name": "Krang Suri Falls",
+      "city": "Jowai",
+      "district": "West Jaintia Hills",
+      "category": "waterfalls",
+      "distance": "90 km from Shillong",
+      "rating": 4.9,
+      "description": "One of the most visually stunning waterfalls in Meghalaya, known for its mesmerizing cobalt-blue pool and a path that allows visitors to walk behind the curtain of cascading water, creating a magical cave-like experience.",
+      "history": "Located in the Jaintia Hills, it has been a well-kept local secret until recent years when tourism infrastructure was significantly improved with stairs, railings, and changing rooms.",
+      "famousFor": "Cobalt-blue pool, swimming, walking behind the falls.",
+      "bestTime": "September to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "krang-suri-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/krang-suri-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nartiang Monoliths",
+          "city": "Nartiang",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "nartiang-monoliths",
+          "images": {
+            "main": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+        },
+        {
+          "name": "Tyrshi Falls",
+          "city": "Jowai",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "tyrshi-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/tyrshi-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/tyrshi-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "krang-suri-falls",
+      "image": "assets/images/states/meghalaya/krang-suri-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/krang-suri-falls.webp"
+    },
+    {
+      "name": "Balpakram National Park",
+      "city": "Baghmara",
+      "district": "South Garo Hills",
+      "category": "wildlife",
+      "distance": "160 km from Tura",
+      "rating": 4.7,
+      "description": "Often referred to as the 'Land of Spirits' by the Garo tribe, this remote national park features a spectacular deep canyon, unique pitcher plants, and is home to rare species including the Red Panda, Asian Elephant, and Wild Buffalo.",
+      "history": "Declared a National Park in 1986. According to local Garo A'chik beliefs, the spirits of the dead travel to Balpakram for judgement before passing to the afterlife. The canyon holds deep cultural significance.",
+      "famousFor": "Deep canyon, Red Pandas, Pitcher Plants, Garo tribal folklore.",
+      "bestTime": "November to May",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "balpakram-national-park",
+      "images": {
+        "main": "assets/images/states/meghalaya/balpakram-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Siju Cave",
+          "city": "Siju",
+          "distance": "15 km away",
+          "category": "caves",
+          "slug": "siju-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/siju-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/siju-cave.webp"
+        },
+        {
+          "name": "Baghmara Pitcher Plant Reserve",
+          "city": "Baghmara",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "baghmara-pitcher-plant-reserve",
+          "images": {
+            "main": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "balpakram-national-park",
+      "image": "assets/images/states/meghalaya/balpakram-national-park.webp",
+      "heroImage": "assets/images/states/meghalaya/balpakram-national-park.webp"
+    },
+    {
+      "name": "Nokrek National Park",
+      "city": "Tura",
+      "district": "West Garo Hills",
+      "category": "wildlife",
+      "distance": "50 km from Tura",
+      "rating": 4.6,
+      "description": "A UNESCO Biosphere Reserve and home to the wild Citrus indica, the ancestor of all citrus fruits. This pristine national park covers 47 sq km of tropical and subtropical forests with rich biodiversity including Hoolock Gibbons and Red Pandas.",
+      "history": "Declared a National Park in 1986 and designated a UNESCO Biosphere Reserve in 2009. The park protects the genetic heritage of the wild citrus species Citrus indica, found only here.",
+      "famousFor": "UNESCO Biosphere Reserve, wild Citrus indica, Hoolock Gibbons, Red Pandas.",
+      "bestTime": "October to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "nokrek-national-park",
+      "images": {
+        "main": "assets/images/states/meghalaya/nokrek-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tura Peak",
+          "city": "Tura",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "tura-peak",
+          "images": {
+            "main": "assets/images/states/meghalaya/tura-peak.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/tura-peak.webp"
+        },
+        {
+          "name": "Pelga Falls",
+          "city": "Tura",
+          "distance": "18 km away",
+          "category": "waterfalls",
+          "slug": "pelga-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/pelga-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/pelga-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "nokrek-national-park",
+      "image": "assets/images/states/meghalaya/nokrek-national-park.webp",
+      "heroImage": "assets/images/states/meghalaya/nokrek-national-park.webp"
+    },
+    {
+      "name": "Mawphlang Sacred Forest",
+      "city": "Mawphlang",
+      "district": "East Khasi Hills",
+      "category": "heritage",
+      "distance": "25 km from Shillong",
+      "rating": 4.7,
+      "description": "An ancient, 78-hectare sacred grove preserved for centuries by the indigenous Khasi community through strict religious taboos. The dense forest is home to rare orchids, ancient trees covered in moss, medicinal plants, and a mystical ambiance.",
+      "history": "Protected for over 800 years by the Lyngdoh clan of the Khasi tribe. Removing even a leaf, twig, or stone from the forest is strictly forbidden under Khasi customary law, enforced by the village elders.",
+      "famousFor": "800-year-old sacred grove, ancient trees, rare orchids, spiritual significance.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 4:00 PM (Guide mandatory)",
+      "entryFee": "₹200 (includes guide)",
+      "slug": "mawphlang-sacred-forest",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawphlang-sacred-forest.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Elephant Falls",
+          "city": "Shillong",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "elephant-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/elephant-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/elephant-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawphlang-sacred-forest",
+      "image": "assets/images/states/meghalaya/mawphlang-sacred-forest.webp",
+      "heroImage": "assets/images/states/meghalaya/mawphlang-sacred-forest.webp"
+    },
+    {
+      "name": "Wei Sawdong Falls",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "68 km from Shillong",
+      "rating": 4.8,
+      "description": "A breathtaking three-tiered waterfall hidden deep in the Khasi Hills, cascading into a stunning turquoise-blue pool surrounded by lush bamboo groves. The dramatic descent through the forest to reach it adds to its mystical allure.",
+      "history": "Long known to local villages, it remained relatively unknown to mainstream tourism until recent years. It requires a steep descent of approximately 1,500 steps through dense vegetation.",
+      "famousFor": "Three-tier cascade, turquoise pool, bamboo forest, adventure trek.",
+      "bestTime": "September to April",
+      "timings": "Open 24/7 (Daylight trek recommended)",
+      "entryFee": "₹20",
+      "slug": "wei-sawdong-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Double Decker Living Root Bridge",
+          "city": "Nongriat",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "double-decker-living-root-bridge",
+          "images": {
+            "main": "assets/images/states/meghalaya/double-decker-root-bridge.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/double-decker-root-bridge.webp"
+        },
+        {
+          "name": "Wah Kaba Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "wah-kaba-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "wei-sawdong-falls",
+      "image": "assets/images/states/meghalaya/wei-sawdong-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+    },
+    {
+      "name": "Garden of Caves",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "64 km from Shillong",
+      "rating": 4.6,
+      "description": "A stunning natural complex near Laitmawsiang village featuring a series of caves, waterfalls, and lush gardens interconnected by stone pathways. The site combines geological wonders with tropical vegetation in a magical setting.",
+      "history": "Developed as a community-driven eco-tourism project by the local village of Laitmawsiang. The caves and waterfalls have existed for millennia but were opened to tourists in the 2010s.",
+      "famousFor": "Cave and waterfall complex, stone pathways, eco-tourism, photography.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹100",
+      "slug": "garden-of-caves",
+      "images": {
+        "main": "assets/images/states/meghalaya/garden-of-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arwah Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "8 km away",
+          "category": "caves",
+          "slug": "arwah-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/arwah-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/arwah-cave.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "garden-of-caves",
+      "image": "assets/images/states/meghalaya/garden-of-caves.webp",
+      "heroImage": "assets/images/states/meghalaya/garden-of-caves.webp"
+    },
+    {
+      "name": "Mawjymbuin Cave",
+      "city": "Mawsynram",
+      "district": "East Khasi Hills",
+      "category": "caves",
+      "distance": "70 km from Shillong",
+      "rating": 4.4,
+      "description": "A limestone cave near the wettest village on Earth, famous for its massive stalagmite formation that resembles a Shiva Lingam, making it a site of both geological and religious significance.",
+      "history": "The cave is revered by local devotees who visit to worship the naturally formed Shiva Lingam stalagmite. It is situated near Mawsynram, which holds the Guinness record for the highest average annual rainfall.",
+      "famousFor": "Natural Shiva Lingam stalagmite, proximity to Mawsynram.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "mawjymbuin-cave",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawsynram",
+          "city": "Mawsynram",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "mawsynram",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsynram.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsynram.webp"
+        },
+        {
+          "name": "Krem Puri",
+          "city": "Mawsynram",
+          "distance": "4 km away",
+          "category": "caves",
+          "slug": "krem-puri",
+          "images": {
+            "main": "assets/images/states/meghalaya/krem-puri.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krem-puri.webp"
+        },
+        {
+          "name": "Mawsynram Balancing Rock",
+          "city": "Mawsynram",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "mawsynram-balancing-rock",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawjymbuin-cave",
+      "image": "assets/images/states/meghalaya/mawjymbuin-cave.webp",
+      "heroImage": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+    },
+    {
+      "name": "Krem Liat Prah",
+      "city": "Shnongrim",
+      "district": "East Jaintia Hills",
+      "category": "caves",
+      "distance": "100 km from Shillong",
+      "rating": 4.6,
+      "description": "One of the longest natural caves in the Indian subcontinent, stretching over 30 km of mapped passages through the Shnongrim Ridge. The cave features massive underground chambers, rivers, and extraordinary speleothem formations.",
+      "history": "First explored extensively by the Meghalaya Adventurers' Association and international caving expeditions. Ongoing surveys continue to reveal new passages, making it one of Asia's most significant cave systems.",
+      "famousFor": "One of India's longest caves, underground rivers, advanced spelunking.",
+      "bestTime": "November to April (Advanced cavers only)",
+      "timings": "By permit only",
+      "entryFee": "Permit required",
+      "slug": "krem-liat-prah",
+      "images": {
+        "main": "assets/images/states/meghalaya/krem-liat-prah.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Meghalaya",
+      "id": "krem-liat-prah",
+      "image": "assets/images/states/meghalaya/krem-liat-prah.webp",
+      "heroImage": "assets/images/states/meghalaya/krem-liat-prah.webp"
+    },
+    {
+      "name": "Krem Mawmluh",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "caves",
+      "distance": "58 km from Shillong",
+      "rating": 4.5,
+      "description": "The fourth longest cave in the Indian subcontinent at over 7 km, located near Mawmluh village. It is scientifically significant for its stalagmite that provided evidence helping to define the Meghalayan Age in geological history.",
+      "history": "A stalagmite from this cave provided the reference point for the International Commission on Stratigraphy to define the Meghalayan Age (4,200 years ago to present), making Meghalaya the only Indian state with a geological age named after it.",
+      "famousFor": "Meghalayan Age reference cave, advanced caving, underground river.",
+      "bestTime": "November to April",
+      "timings": "By arrangement with local guides",
+      "entryFee": "₹50 (Guide mandatory)",
+      "slug": "krem-mawmluh",
+      "images": {
+        "main": "assets/images/states/meghalaya/krem-mawmluh.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dainthlen Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "4 km away",
+          "category": "waterfalls",
+          "slug": "dainthlen-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/dainthlen-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/dainthlen-falls.webp"
+        },
+        {
+          "name": "Mawsmai Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "6 km away",
+          "category": "caves",
+          "slug": "mawsmai-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsmai-cave.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "krem-mawmluh",
+      "image": "assets/images/states/meghalaya/krem-mawmluh.webp",
+      "heroImage": "assets/images/states/meghalaya/krem-mawmluh.webp"
+    },
+    {
+      "name": "Siju Cave",
+      "city": "Siju",
+      "district": "South Garo Hills",
+      "category": "caves",
+      "distance": "130 km from Tura",
+      "rating": 4.6,
+      "description": "Known as 'Dobakkol' (Bat Cave), it is one of the longest and most significant cave systems in the Indian subcontinent, featuring stunning limestone chambers, an underground river, and massive colonies of bats.",
+      "history": "First explored extensively by the British in the early 20th century. The cave is deeply revered in local Garo folklore and is one of the most biologically rich caves in India due to its bat colonies.",
+      "famousFor": "Massive bat colonies, stalactites, underground river, Garo Hills exploration.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "siju-cave",
+      "images": {
+        "main": "assets/images/states/meghalaya/siju-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Balpakram National Park",
+          "city": "Baghmara",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "balpakram-national-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/balpakram-national-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/balpakram-national-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "siju-cave",
+      "image": "assets/images/states/meghalaya/siju-cave.webp",
+      "heroImage": "assets/images/states/meghalaya/siju-cave.webp"
+    },
+    {
+      "name": "Dawki Suspension Bridge",
+      "city": "Dawki",
+      "district": "West Jaintia Hills",
+      "category": "heritage",
+      "distance": "83 km from Shillong",
+      "rating": 4.5,
+      "description": "A historic single-lane suspension bridge spanning the crystal-clear Umngot River at Dawki, built during the British colonial era. The bridge offers breathtaking views of the transparent river below and the lush surrounding hills.",
+      "history": "Constructed by the British in 1932 to facilitate trade between India and Bangladesh. The bridge remains a vital crossing point and an iconic landmark of the Dawki region.",
+      "famousFor": "British-era bridge, views of transparent Umngot River, photography.",
+      "bestTime": "November to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "dawki-suspension-bridge",
+      "images": {
+        "main": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Umngot River",
+          "city": "Dawki",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "umngot-river",
+          "images": {
+            "main": "assets/images/states/meghalaya/umngot-river.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umngot-river.webp"
+        },
+        {
+          "name": "Shnongpdeng",
+          "city": "Shnongpdeng",
+          "distance": "17 km away",
+          "category": "nature",
+          "slug": "shnongpdeng",
+          "images": {
+            "main": "assets/images/states/meghalaya/shnongpdeng.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/shnongpdeng.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "dawki-suspension-bridge",
+      "image": "assets/images/states/meghalaya/dawki-suspension-bridge.webp",
+      "heroImage": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+    },
+    {
+      "name": "Nartiang Monoliths",
+      "city": "Nartiang",
+      "district": "West Jaintia Hills",
+      "category": "heritage",
+      "distance": "65 km from Shillong",
+      "rating": 4.5,
+      "description": "The largest collection of ancient monoliths in the Indian subcontinent, these towering flat standing stones were erected by Jaintia kings as memorial markers. The tallest monolith stands over 8 meters high.",
+      "history": "Erected by the rulers of the Jaintia Kingdom between the 16th and 18th centuries to commemorate battles, mark boundaries, and honor important events. Nartiang was once the summer capital of the Jaintia kings.",
+      "famousFor": "Tallest monoliths in India, Jaintia Kingdom heritage, ancient stone markers.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nartiang-monoliths",
+      "images": {
+        "main": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Krang Suri Falls",
+          "city": "Jowai",
+          "distance": "18 km away",
+          "category": "waterfalls",
+          "slug": "krang-suri-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/krang-suri-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krang-suri-falls.webp"
+        },
+        {
+          "name": "Tyrshi Falls",
+          "city": "Jowai",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "tyrshi-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/tyrshi-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/tyrshi-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "nartiang-monoliths",
+      "image": "assets/images/states/meghalaya/nartiang-monoliths.webp",
+      "heroImage": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+    },
+    {
+      "name": "Jakrem Hot Springs",
+      "city": "Jakrem",
+      "district": "South West Khasi Hills",
+      "category": "nature",
+      "distance": "64 km from Shillong",
+      "rating": 4.3,
+      "description": "Natural sulphur hot water springs believed to have therapeutic and medicinal properties. The hot springs are set in a scenic valley and have been developed with bathing pools for visitors seeking natural wellness treatments.",
+      "history": "Used by local Khasi communities for centuries for their healing properties. The springs contain high concentrations of sulphur, believed to cure skin ailments and joint pain.",
+      "famousFor": "Sulphur hot springs, therapeutic bathing, natural wellness.",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "jakrem-hot-springs",
+      "images": {
+        "main": "assets/images/states/meghalaya/jakrem-hot-springs.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ranikor",
+          "city": "Ranikor",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "ranikor",
+          "images": {
+            "main": "assets/images/states/meghalaya/ranikor.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/ranikor.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "jakrem-hot-springs",
+      "image": "assets/images/states/meghalaya/jakrem-hot-springs.webp",
+      "heroImage": "assets/images/states/meghalaya/jakrem-hot-springs.webp"
+    },
+    {
+      "name": "Wah Kaba Falls",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "58 km from Shillong",
+      "rating": 4.5,
+      "description": "A dramatic, towering waterfall that plunges from the edge of a limestone cliff into a deep gorge. Best viewed during and after the monsoon when it reaches its full, spectacular power. Easily accessible from the Shillong-Sohra highway.",
+      "history": "One of the many seasonal waterfalls created by Cherrapunji's extreme rainfall. The falls have carved a deep gorge over millennia of persistent water erosion through the limestone plateau.",
+      "famousFor": "Dramatic cliff-edge drop, gorge views, roadside accessibility.",
+      "bestTime": "July to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "wah-kaba-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Wei Sawdong Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "12 km away",
+          "category": "waterfalls",
+          "slug": "wei-sawdong-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wei-sawdong-falls.webp"
+        },
+        {
+          "name": "Nohkalikai Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "nohkalikai-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "wah-kaba-falls",
+      "image": "assets/images/states/meghalaya/wah-kaba-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/wah-kaba-falls.webp"
+    },
+    {
+      "name": "Shnongpdeng",
+      "city": "Shnongpdeng",
+      "district": "West Jaintia Hills",
+      "category": "nature",
+      "distance": "95 km from Shillong",
+      "rating": 4.8,
+      "description": "A pristine riverside village on the banks of the crystal-clear Umngot River, rapidly emerging as Meghalaya's premier adventure tourism destination. It offers cliff jumping, scuba diving in freshwater, kayaking, camping, and snorkeling in transparent waters.",
+      "history": "A traditional Pnar (Jaintia) fishing village that has been transformed into an adventure sports hub through community-driven tourism initiatives, offering homestays and eco-friendly camping.",
+      "famousFor": "Cliff jumping, freshwater scuba diving, kayaking, riverside camping.",
+      "bestTime": "November to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Activities extra)",
+      "slug": "shnongpdeng",
+      "images": {
+        "main": "assets/images/states/meghalaya/shnongpdeng.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Umngot River",
+          "city": "Dawki",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "umngot-river",
+          "images": {
+            "main": "assets/images/states/meghalaya/umngot-river.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umngot-river.webp"
+        },
+        {
+          "name": "Dawki Suspension Bridge",
+          "city": "Dawki",
+          "distance": "17 km away",
+          "category": "heritage",
+          "slug": "dawki-suspension-bridge",
+          "images": {
+            "main": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/dawki-suspension-bridge.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "shnongpdeng",
+      "image": "assets/images/states/meghalaya/shnongpdeng.webp",
+      "heroImage": "assets/images/states/meghalaya/shnongpdeng.webp"
+    },
+    {
+      "name": "Langshiang Falls",
+      "city": "Sangriang",
+      "district": "West Khasi Hills",
+      "category": "waterfalls",
+      "distance": "110 km from Shillong",
+      "rating": 4.6,
+      "description": "One of the tallest waterfalls in India, plunging from an immense height deep within a remote, densely forested gorge. The falls are surrounded by untouched wilderness and require a trek through dense vegetation to reach a viewpoint.",
+      "history": "Located near Sangriang village in the West Khasi Hills, the falls have been known to local communities for centuries but remain one of the least visited major waterfalls in India due to their remote location.",
+      "famousFor": "One of India's tallest waterfalls, remote jungle trek, pristine gorge.",
+      "bestTime": "July to November",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "langshiang-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/langshiang-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nongkhnum Island",
+          "city": "Nongstoin",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "nongkhnum-island",
+          "images": {
+            "main": "assets/images/states/meghalaya/nongkhnum-island.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nongkhnum-island.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "langshiang-falls",
+      "image": "assets/images/states/meghalaya/langshiang-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/langshiang-falls.webp"
+    },
+    {
+      "name": "Tyrshi Falls",
+      "city": "Jowai",
+      "district": "West Jaintia Hills",
+      "category": "waterfalls",
+      "distance": "70 km from Shillong",
+      "rating": 4.4,
+      "description": "A wide, segmented waterfall located near the town of Jowai, featuring a walking trail and an arch bridge near the falls. Frequently compared to Elephant Falls due to its cascading, multi-tiered appearance.",
+      "history": "A popular picnic and recreation spot for the residents of Jowai and surrounding Jaintia Hills communities. The waterfall is situated along the Shillong-Jowai road, making it easily accessible.",
+      "famousFor": "Wide cascade, arch bridge, easy access from Jowai.",
+      "bestTime": "July to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tyrshi-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/tyrshi-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nartiang Monoliths",
+          "city": "Nartiang",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "nartiang-monoliths",
+          "images": {
+            "main": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nartiang-monoliths.webp"
+        },
+        {
+          "name": "Krang Suri Falls",
+          "city": "Jowai",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "krang-suri-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/krang-suri-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krang-suri-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "tyrshi-falls",
+      "image": "assets/images/states/meghalaya/tyrshi-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/tyrshi-falls.webp"
+    },
+    {
+      "name": "Pelga Falls",
+      "city": "Tura",
+      "district": "West Garo Hills",
+      "category": "waterfalls",
+      "distance": "7 km from Tura",
+      "rating": 4.3,
+      "description": "A popular waterfall near the town of Tura, cascading over rocks amid lush tropical vegetation. A traditional Garo bamboo bridge over the Ganol River near the falls adds to its rustic charm.",
+      "history": "A well-known local attraction for the residents of Tura and the Garo Hills region. The traditional bamboo bridge near the falls showcases indigenous Garo engineering skills.",
+      "famousFor": "Garo bamboo bridge, Ganol River, tropical forest setting.",
+      "bestTime": "July to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "pelga-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/pelga-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tura Peak",
+          "city": "Tura",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "tura-peak",
+          "images": {
+            "main": "assets/images/states/meghalaya/tura-peak.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/tura-peak.webp"
+        },
+        {
+          "name": "Nokrek National Park",
+          "city": "Tura",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "nokrek-national-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/nokrek-national-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nokrek-national-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "pelga-falls",
+      "image": "assets/images/states/meghalaya/pelga-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/pelga-falls.webp"
+    },
+    {
+      "name": "Byrdaw Falls",
+      "city": "Pomshutia",
+      "district": "East Khasi Hills",
+      "category": "waterfalls",
+      "distance": "85 km from Shillong",
+      "rating": 4.4,
+      "description": "A beautiful, two-tiered waterfall located in a remote and scenic area near Pomshutia village. Often visited while traveling between Shillong and Dawki, it offers a serene, less-crowded alternative to more famous waterfalls.",
+      "history": "A hidden gem known primarily to locals of the East Khasi Hills, the falls have gained attention through travel bloggers and social media in recent years.",
+      "famousFor": "Two-tiered cascade, off-the-beaten-path location, serene surroundings.",
+      "bestTime": "August to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "byrdaw-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/byrdaw-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawlynnong Village",
+          "city": "Mawlynnong",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "mawlynnong-village",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawlynnong-village.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawlynnong-village.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "byrdaw-falls",
+      "image": "assets/images/states/meghalaya/byrdaw-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/byrdaw-falls.webp"
+    },
+    {
+      "name": "Rongbang Dare Falls",
+      "city": "Williamnagar",
+      "district": "East Garo Hills",
+      "category": "waterfalls",
+      "distance": "30 km from Williamnagar",
+      "rating": 4.3,
+      "description": "A scenic waterfall located near Chinabat village along the Tura-Williamnagar Road in the Garo Hills. The falls cascade through a lush tropical setting, offering a refreshing stop for travelers exploring the Garo region.",
+      "history": "A popular local attraction for residents of the East Garo Hills, known for its picturesque setting amid dense tropical forests.",
+      "famousFor": "Tropical waterfall, Garo Hills exploration, scenic roadside stop.",
+      "bestTime": "July to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "rongbang-dare-falls",
+      "images": {
+        "main": "assets/images/states/meghalaya/rongbang-dare-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Wari Chora",
+          "city": "Baghmara",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "wari-chora",
+          "images": {
+            "main": "assets/images/states/meghalaya/wari-chora.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wari-chora.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "rongbang-dare-falls",
+      "image": "assets/images/states/meghalaya/rongbang-dare-falls.webp",
+      "heroImage": "assets/images/states/meghalaya/rongbang-dare-falls.webp"
+    },
+    {
+      "name": "Ranikor",
+      "city": "Ranikor",
+      "district": "South West Khasi Hills",
+      "category": "nature",
+      "distance": "120 km from Shillong",
+      "rating": 4.5,
+      "description": "A serene riverside destination along the Jadukata River, renowned as one of the best angling spots in Northeast India. The clear turquoise waters, white sand banks, and surrounding hills create a paradise for fishing and camping enthusiasts.",
+      "history": "A traditional Khasi fishing village on the banks of the Jadukata River, which flows from the Khasi Hills into Bangladesh. It has been developed as an eco-tourism and adventure sports destination.",
+      "famousFor": "Mahseer angling, Jadukata River, riverside camping, kayaking.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ranikor",
+      "images": {
+        "main": "assets/images/states/meghalaya/ranikor.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jakrem Hot Springs",
+          "city": "Jakrem",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "jakrem-hot-springs",
+          "images": {
+            "main": "assets/images/states/meghalaya/jakrem-hot-springs.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/jakrem-hot-springs.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "ranikor",
+      "image": "assets/images/states/meghalaya/ranikor.webp",
+      "heroImage": "assets/images/states/meghalaya/ranikor.webp"
+    },
+    {
+      "name": "Mawsynram",
+      "city": "Mawsynram",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "61 km from Shillong",
+      "rating": 4.5,
+      "description": "Officially recognized as the wettest place on Earth by the Guinness Book of World Records, receiving an average annual rainfall of 11,871 mm. The village offers stunning views of deep valleys, living root bridges, and a unique experience of extreme rainfall.",
+      "history": "Holds the Guinness World Record for the highest average annual rainfall, surpassing the neighbouring town of Cherrapunji. The extreme rainfall is caused by moisture-laden monsoon winds from the Bay of Bengal hitting the Khasi Hills.",
+      "famousFor": "Wettest place on Earth, extreme monsoon rainfall, valley views.",
+      "bestTime": "October to April (avoid peak monsoon June-September)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mawsynram",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawsynram.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawjymbuin Cave",
+          "city": "Mawsynram",
+          "distance": "1 km away",
+          "category": "caves",
+          "slug": "mawjymbuin-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+        },
+        {
+          "name": "Krem Puri",
+          "city": "Mawsynram",
+          "distance": "5 km away",
+          "category": "caves",
+          "slug": "krem-puri",
+          "images": {
+            "main": "assets/images/states/meghalaya/krem-puri.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/krem-puri.webp"
+        },
+        {
+          "name": "Mawsynram Balancing Rock",
+          "city": "Mawsynram",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "mawsynram-balancing-rock",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawsynram",
+      "image": "assets/images/states/meghalaya/mawsynram.webp",
+      "heroImage": "assets/images/states/meghalaya/mawsynram.webp"
+    },
+    {
+      "name": "Krem Puri",
+      "city": "Mawsynram",
+      "district": "East Khasi Hills",
+      "category": "caves",
+      "distance": "65 km from Shillong",
+      "rating": 4.5,
+      "description": "The longest sandstone cave in the world, stretching over 24 km of mapped passages near the village of Laitsohum in the Mawsynram area. The cave contains extraordinary formations and fossils of dinosaur-era marine creatures.",
+      "history": "Mapped by the Meghalaya Adventurers' Association, it was confirmed as the world's longest sandstone cave in 2018, surpassing the previous record holder in Venezuela. Contains fossils dating back 66 million years.",
+      "famousFor": "World's longest sandstone cave, dinosaur-era fossils, advanced caving.",
+      "bestTime": "November to April (Advanced cavers only)",
+      "timings": "By permit and guide",
+      "entryFee": "Permit required",
+      "slug": "krem-puri",
+      "images": {
+        "main": "assets/images/states/meghalaya/krem-puri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawsynram",
+          "city": "Mawsynram",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "mawsynram",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsynram.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsynram.webp"
+        },
+        {
+          "name": "Mawjymbuin Cave",
+          "city": "Mawsynram",
+          "distance": "4 km away",
+          "category": "caves",
+          "slug": "mawjymbuin-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "krem-puri",
+      "image": "assets/images/states/meghalaya/krem-puri.webp",
+      "heroImage": "assets/images/states/meghalaya/krem-puri.webp"
+    },
+    {
+      "name": "Tura Peak",
+      "city": "Tura",
+      "district": "West Garo Hills",
+      "category": "nature",
+      "distance": "5 km from Tura",
+      "rating": 4.4,
+      "description": "The highest point of the Tura Range at 872 meters, offering panoramic views of the sprawling Garo Hills landscape, the Tura town below, and on clear days, the plains stretching towards Bangladesh.",
+      "history": "A prominent landmark for the town of Tura, the capital of the Garo Hills. The peak has been a strategic viewpoint and is associated with local Garo traditions and stories.",
+      "famousFor": "Panoramic Garo Hills views, sunset point, trekking.",
+      "bestTime": "October to April",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tura-peak",
+      "images": {
+        "main": "assets/images/states/meghalaya/tura-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pelga Falls",
+          "city": "Tura",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "pelga-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/pelga-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/pelga-falls.webp"
+        },
+        {
+          "name": "Nokrek National Park",
+          "city": "Tura",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "nokrek-national-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/nokrek-national-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nokrek-national-park.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "tura-peak",
+      "image": "assets/images/states/meghalaya/tura-peak.webp",
+      "heroImage": "assets/images/states/meghalaya/tura-peak.webp"
+    },
+    {
+      "name": "Wari Chora",
+      "city": "Baghmara",
+      "district": "South Garo Hills",
+      "category": "nature",
+      "distance": "140 km from Tura",
+      "rating": 4.5,
+      "description": "A stunning, narrow river gorge where crystal-clear blue-green waters flow through towering rock walls. Often described as the 'Grand Canyon of Meghalaya', it offers an otherworldly boat ride through the narrow canyon.",
+      "history": "A recently popularized natural wonder that has gained recognition through social media and travel blogs. The gorge is formed by the erosion of the Simsang River through soft limestone rock.",
+      "famousFor": "Narrow river canyon, turquoise waters, boat ride, photography.",
+      "bestTime": "November to April",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹50 (Boat ride extra)",
+      "slug": "wari-chora",
+      "images": {
+        "main": "assets/images/states/meghalaya/wari-chora.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rongbang Dare Falls",
+          "city": "Williamnagar",
+          "distance": "20 km away",
+          "category": "waterfalls",
+          "slug": "rongbang-dare-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/rongbang-dare-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/rongbang-dare-falls.webp"
+        },
+        {
+          "name": "Baghmara Pitcher Plant Reserve",
+          "city": "Baghmara",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "baghmara-pitcher-plant-reserve",
+          "images": {
+            "main": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "wari-chora",
+      "image": "assets/images/states/meghalaya/wari-chora.webp",
+      "heroImage": "assets/images/states/meghalaya/wari-chora.webp"
+    },
+    {
+      "name": "Nongkhnum Island",
+      "city": "Nongstoin",
+      "district": "West Khasi Hills",
+      "category": "nature",
+      "distance": "100 km from Shillong",
+      "rating": 4.5,
+      "description": "The second largest river island in Asia, formed by the bifurcation of the Kynshi River into two channels. It features vast sandy beaches, meadows, pine forests, and pristine rivers — an emerging eco-tourism destination.",
+      "history": "A remote island inhabited by a small Khasi community. Recently promoted by the Meghalaya government as part of their sustainable tourism initiative. The island's unique geography makes it a natural wonder.",
+      "famousFor": "Second largest river island in Asia, sandy beaches, pine forests.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nongkhnum-island",
+      "images": {
+        "main": "assets/images/states/meghalaya/nongkhnum-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Langshiang Falls",
+          "city": "Sangriang",
+          "distance": "20 km away",
+          "category": "waterfalls",
+          "slug": "langshiang-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/langshiang-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/langshiang-falls.webp"
+        },
+        {
+          "name": "Kyllang Rock",
+          "city": "Nongstoin",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "kyllang-rock",
+          "images": {
+            "main": "assets/images/states/meghalaya/kyllang-rock.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/kyllang-rock.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "nongkhnum-island",
+      "image": "assets/images/states/meghalaya/nongkhnum-island.webp",
+      "heroImage": "assets/images/states/meghalaya/nongkhnum-island.webp"
+    },
+    {
+      "name": "Thangkharang Park",
+      "city": "Cherrapunji (Sohra)",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "54 km from Shillong",
+      "rating": 4.5,
+      "description": "A scenic viewpoint park perched on the edge of a cliff offering spectacular panoramic views of the deep valleys, Bangladesh plains far below, and a distant view of the Kynrem Falls cascading into the gorge.",
+      "history": "Developed by the Meghalaya Tourism Development Corporation as a major viewpoint in the Sohra region. The park is named after Thangkharang, a local historical figure.",
+      "famousFor": "Cliff-edge panoramic views, Kynrem Falls vista, Bangladesh plains.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "thangkharang-park",
+      "images": {
+        "main": "assets/images/states/meghalaya/thangkharang-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nohkalikai Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "3 km away",
+          "category": "waterfalls",
+          "slug": "nohkalikai-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+        },
+        {
+          "name": "Eco Park Cherrapunji",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "eco-park-cherrapunji",
+          "images": {
+            "main": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/eco-park-cherrapunji.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "thangkharang-park",
+      "image": "assets/images/states/meghalaya/thangkharang-park.webp",
+      "heroImage": "assets/images/states/meghalaya/thangkharang-park.webp"
+    },
+    {
+      "name": "Baghmara Pitcher Plant Reserve",
+      "city": "Baghmara",
+      "district": "South Garo Hills",
+      "category": "wildlife",
+      "distance": "145 km from Tura",
+      "rating": 4.3,
+      "description": "A unique wildlife reserve protecting one of the largest natural concentrations of carnivorous Nepenthes pitcher plants in India. The reserve also shelters diverse wildlife and offers insights into the Garo Hills' unique ecosystem.",
+      "history": "Established to protect the rare Nepenthes khasiana, the only species of pitcher plant native to India, which is classified as endangered. The reserve serves as a critical conservation area.",
+      "famousFor": "Nepenthes pitcher plants, rare endemic species, biodiversity hotspot.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "baghmara-pitcher-plant-reserve",
+      "images": {
+        "main": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Balpakram National Park",
+          "city": "Baghmara",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "balpakram-national-park",
+          "images": {
+            "main": "assets/images/states/meghalaya/balpakram-national-park.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/balpakram-national-park.webp"
+        },
+        {
+          "name": "Wari Chora",
+          "city": "Baghmara",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "wari-chora",
+          "images": {
+            "main": "assets/images/states/meghalaya/wari-chora.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/wari-chora.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "baghmara-pitcher-plant-reserve",
+      "image": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp",
+      "heroImage": "assets/images/states/meghalaya/baghmara-pitcher-plant-sanctuary.webp"
+    },
+    {
+      "name": "Mawryngkhew Living Root Bridge",
+      "city": "Mawryngkhew",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "75 km from Shillong",
+      "rating": 4.6,
+      "description": "A stunning single-decker living root bridge spanning a stream near Mawryngkhew village. Less crowded than the famous Double Decker, it offers an equally magical experience of bio-engineered architecture in a serene forest setting.",
+      "history": "Like all living root bridges, it was grown over generations by the Khasi people using the aerial roots of the Indian rubber fig tree. It continues to grow stronger with age and is actively maintained by the village community.",
+      "famousFor": "Living root bridge, less crowded alternative, serene forest trek.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "₹20",
+      "slug": "mawryngkhew-living-root-bridge",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawryngkhang-living-bridges.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Double Decker Living Root Bridge",
+          "city": "Nongriat",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "double-decker-living-root-bridge",
+          "images": {
+            "main": "assets/images/states/meghalaya/double-decker-root-bridge.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/double-decker-root-bridge.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawryngkhew-living-root-bridge",
+      "image": "assets/images/states/meghalaya/mawryngkhang-living-bridges.webp",
+      "heroImage": "assets/images/states/meghalaya/mawryngkhang-living-bridges.webp"
+    },
+    {
+      "name": "Kyllang Rock",
+      "city": "Nongstoin",
+      "district": "West Khasi Hills",
+      "category": "nature",
+      "distance": "78 km from Shillong",
+      "rating": 4.4,
+      "description": "A massive, mysterious red granite dome rising 5,400 feet above sea level, covered with dense forest and featuring unique rock formations. Local Khasi legends describe it as a site of divine battles and mystical events.",
+      "history": "Steeped in Khasi mythology, the rock is believed to be the site where two ancient deities — U Lum Kyllang and U Lum Symper — fought a fierce battle. The surrounding area holds spiritual significance for the Khasi people.",
+      "famousFor": "Massive granite dome, Khasi mythology, trekking, rock climbing.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kyllang-rock",
+      "images": {
+        "main": "assets/images/states/meghalaya/kyllang-rock.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nongkhnum Island",
+          "city": "Nongstoin",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "nongkhnum-island",
+          "images": {
+            "main": "assets/images/states/meghalaya/nongkhnum-island.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/nongkhnum-island.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "kyllang-rock",
+      "image": "assets/images/states/meghalaya/kyllang-rock.webp",
+      "heroImage": "assets/images/states/meghalaya/kyllang-rock.webp"
+    },
+    {
+      "name": "Smit Village",
+      "city": "Smit",
+      "district": "East Khasi Hills",
+      "category": "heritage",
+      "distance": "11 km from Shillong",
+      "rating": 4.4,
+      "description": "The seat of the Hima Khyrim, one of the oldest and most powerful Khasi kingdoms. Famous for its traditional Khasi royal durbar hall (Ing Sad), the village hosts the spectacular Nongkrem Dance Festival annually.",
+      "history": "Smit has been the traditional seat of the Khyrim Syiemship for centuries. The Nongkrem Dance, held annually in November, is the most important Khasi cultural festival, celebrating the harvest and praying for prosperity.",
+      "famousFor": "Nongkrem Dance Festival, Khasi royal durbar hall, traditional architecture.",
+      "bestTime": "November (for Nongkrem Festival)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "smit-village",
+      "images": {
+        "main": "assets/images/states/meghalaya/smit-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Laitlum Canyons",
+          "city": "Smit",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "laitlum-canyons",
+          "images": {
+            "main": "assets/images/states/meghalaya/laitlum-canyons.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/laitlum-canyons.webp"
+        },
+        {
+          "name": "Umiam Lake",
+          "city": "Shillong",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "umiam-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/umiam-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umiam-lake.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "smit-village",
+      "image": "assets/images/states/meghalaya/smit-village.webp",
+      "heroImage": "assets/images/states/meghalaya/smit-village.webp"
+    },
+    {
+      "name": "Mawsynram Balancing Rock",
+      "city": "Mawsynram",
+      "district": "East Khasi Hills",
+      "category": "nature",
+      "distance": "63 km from Shillong",
+      "rating": 4.3,
+      "description": "A remarkable natural geological formation near the wettest place on Earth, where a massive boulder sits delicately balanced on a narrow stone pedestal, defying gravity. The site offers panoramic views of the surrounding Khasi Hills landscape.",
+      "history": "A naturally occurring geological phenomenon formed over millennia by weathering and erosion. The formation has been a point of local fascination and is now promoted as a tourist attraction alongside nearby Mawsynram.",
+      "famousFor": "Gravity-defying balancing rock, geological wonder, Mawsynram proximity.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "mawsynram-balancing-rock",
+      "images": {
+        "main": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mawsynram",
+          "city": "Mawsynram",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "mawsynram",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsynram.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawsynram.webp"
+        },
+        {
+          "name": "Mawjymbuin Cave",
+          "city": "Mawsynram",
+          "distance": "3 km away",
+          "category": "caves",
+          "slug": "mawjymbuin-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/mawjymbuin-cave.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "mawsynram-balancing-rock",
+      "image": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp",
+      "heroImage": "assets/images/states/meghalaya/mawsynram-balancing-rock.webp"
+    },
+    {
+      "name": "Umden Village",
+      "city": "Nongpoh",
+      "district": "Ri-Bhoi",
+      "category": "heritage",
+      "distance": "67 km from Shillong",
+      "rating": 4.4,
+      "description": "A traditional Khasi village renowned as the center of Eri silk weaving, a unique peace silk produced without killing the silkworm. The village offers visitors a chance to witness the ancient silk weaving process on traditional looms.",
+      "history": "Umden has practiced Eri silk weaving for generations, passing down the craft through the matrilineal Khasi tradition. Eri silk, also called 'Ahimsa silk' (peace silk), is harvested only after the moth has naturally emerged from the cocoon.",
+      "famousFor": "Eri silk weaving, traditional Khasi looms, ethical silk production.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "umden-village",
+      "images": {
+        "main": "assets/images/states/meghalaya/umden-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Umiam Lake",
+          "city": "Shillong",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "umiam-lake",
+          "images": {
+            "main": "assets/images/states/meghalaya/umiam-lake.webp"
+          },
+          "state": "Meghalaya",
+          "image": "assets/images/states/meghalaya/umiam-lake.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "id": "umden-village",
+      "image": "assets/images/states/meghalaya/umden-village.webp",
+      "heroImage": "assets/images/states/meghalaya/umden-village.webp"
+    },
+    {
+      "name": "Living Root Bridges",
+      "city": "Cherrapunji",
+      "distance": "78 km from Shillong",
+      "category": "nature",
+      "slug": "living-root-bridges",
+      "images": {
+        "main": "assets/images/popular/living-root-bridges.webp"
+      },
+      "image": "assets/images/popular/living-root-bridges.webp",
+      "description": "The Living Root Bridges of Meghalaya are bio-engineering marvels created by the Khasi and Jaintia tribes over centuries. These bridges are grown from the aerial roots of the Ficus elastica (rubber fig) tree, guided across rivers using betel nut trunks. The famous double-decker bridge at Nongriat takes 15–30 years to become fully functional.",
+      "history": "The Khasi people have been growing root bridges for over 500 years. With rainfall over 11,000 mm annually, conventional wooden bridges rotted quickly, leading to this ingenious living alternative. The bridges grow stronger with age and some are over 500 years old.",
+      "famousFor": "Double Decker Root Bridge (Nongriat), Bio-engineering marvel, Trekking, Umshiang Root Bridge, Rainbow Falls",
+      "bestTime": "October to May (avoid heavy monsoon June–September)",
+      "timings": "Open 24 hours (trek takes 3–4 hours each way to Nongriat)",
+      "entryFee": "₹20 per person (village entry fee)",
+      "nearbyAttractions": [
+        {
+          "name": "Nohkalikai Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "nohkalikai-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+          },
+          "image": "assets/images/states/meghalaya/nohkalikai-falls.webp"
+        },
+        {
+          "name": "Mawsmai Cave",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "5 km away",
+          "category": "caves",
+          "slug": "mawsmai-cave",
+          "images": {
+            "main": "assets/images/states/meghalaya/mawsmai-cave.webp"
+          },
+          "image": "assets/images/states/meghalaya/mawsmai-cave.webp"
+        },
+        {
+          "name": "Seven Sisters Falls",
+          "city": "Cherrapunji (Sohra)",
+          "distance": "7 km away",
+          "category": "waterfalls",
+          "slug": "seven-sisters-falls",
+          "images": {
+            "main": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+          },
+          "image": "assets/images/states/meghalaya/seven-sisters-falls.webp"
+        }
+      ],
+      "state": "Meghalaya",
+      "heroImage": "assets/images/popular/living-root-bridges.webp"
+    },
+    {
+      "name": "Dawki River",
+      "city": "Dawki",
+      "distance": "82 km from Shillong",
+      "category": "nature",
+      "slug": "dawki-river",
+      "images": {
+        "main": "assets/images/popular/dawki-river.webp"
+      },
+      "image": "assets/images/popular/dawki-river.webp",
+      "description": "The Umngot River at Dawki is famous for its crystal-clear waters so transparent that boats appear to float in mid-air. Located on the India-Bangladesh border, this emerald river offers surreal boating experiences through a stunning gorge surrounded by lush hills.",
+      "history": "Dawki has been a traditional border trading post between India and Bangladesh. The annual Nongkrem Dance festival of the Khasi tribe is celebrated nearby. The river has gained viral internet fame for its glass-clear waters, drawing tourists from across the world.",
+      "famousFor": "Crystal-clear river, Glass-bottom boat rides, India-Bangladesh border, Shnongpdeng camping, Cliff jumping",
+      "bestTime": "October to May (clearest water: November–April)",
+      "timings": "Boating: 8:00 AM – 4:00 PM",
+      "entryFee": "Boat ride: ₹500–₹800 per boat (shared), ₹1,500–₹2,500 (private)",
+      "nearbyAttractions": [],
+      "state": "Meghalaya",
+      "heroImage": "assets/images/popular/dawki-river.webp"
+    }
+  ]
+}

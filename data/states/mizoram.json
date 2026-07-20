@@ -1,0 +1,1859 @@
+{
+  "state": "Mizoram",
+  "slug": "mizoram",
+  "capital": "Aizawl",
+  "tagline": "Land of the Hill People",
+  "heroImage": "assets/images/states/mizoram/banner.webp",
+  "bestTime": "October to March",
+  "language": "Mizo, English",
+  "total_places": 35,
+  "places": [
+    {
+      "place_id": "miz-001",
+      "name": "Solomon's Temple",
+      "official_name": "Solomon's Temple",
+      "alternate_names": [
+        "Kohhran Thianghlim Temple"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "heritage",
+      "distance": "10 km from Aizawl Center",
+      "rating": 4.8,
+      "latitude": 23.7479,
+      "longitude": 92.6884,
+      "description": "A magnificent white marble church set amidst a sprawling courtyard, Solomon's Temple is the largest church in Mizoram and an architectural marvel. The massive structure can seat over 2,000 worshippers and offers sweeping panoramic views of the surrounding hills and valleys from its elevated hilltop location.",
+      "history": "Built by the Kohhran Thianghlim (The Holy Church). Construction began in 1996 and was completed and consecrated in 2017. The temple stands as a testament to the deep Christian faith of the Mizo people.",
+      "famousFor": "White marble architecture, largest church in Mizoram, panoramic hilltop views.",
+      "bestTime": "Year-round",
+      "timings": "9:30 AM – 4:30 PM",
+      "entryFee": "Free",
+      "slug": "solomons-temple",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/solomons-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        },
+        {
+          "name": "KV Paradise",
+          "city": "Aizawl",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "kv-paradise",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/kv-paradise.webp"
+          },
+          "image": "assets/images/states/mizoram/kv-paradise.webp"
+        },
+        {
+          "name": "Mizoram State Museum",
+          "city": "Aizawl",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "mizoram-state-museum",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/mizoram-state-museum.webp"
+          },
+          "image": "assets/images/states/mizoram/mizoram-state-museum.webp"
+        }
+      ],
+      "id": "solomons-temple",
+      "image": "assets/images/states/mizoram/solomons-temple.webp",
+      "heroImage": "assets/images/states/mizoram/solomons-temple.webp"
+    },
+    {
+      "place_id": "miz-002",
+      "name": "Mizoram State Museum",
+      "official_name": "Mizoram State Museum",
+      "alternate_names": [
+        "Luangmual Museum"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "heritage",
+      "distance": "In Aizawl (Zarkawt)",
+      "rating": 4.5,
+      "latitude": 23.7367,
+      "longitude": 92.7173,
+      "description": "Established in 1977, the Mizoram State Museum is the premier repository of Mizo cultural heritage. Housing over 2,500 artifacts including traditional textiles, tribal weapons, archaeological objects, and natural history specimens, the museum offers an encyclopedic deep dive into the rich history and culture of the Mizo people.",
+      "history": "Established in April 1977 at Macdonald Hill, Zarkawt. The museum was created to preserve and showcase the diverse heritage, traditions, and natural history of Mizoram and its indigenous communities.",
+      "famousFor": "Traditional Mizo artifacts, tribal weapons, handwoven textiles, cultural exhibits.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 5:00 PM (Mon–Fri), 9:00 AM – 1:00 PM (Sat), Closed Sunday",
+      "entryFee": "Free",
+      "slug": "mizoram-state-museum",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/mizoram-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Solomon's Temple",
+          "city": "Aizawl",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "solomons-temple",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/solomons-temple.webp"
+          },
+          "image": "assets/images/states/mizoram/solomons-temple.webp"
+        },
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        }
+      ],
+      "id": "mizoram-state-museum",
+      "image": "assets/images/states/mizoram/mizoram-state-museum.webp",
+      "heroImage": "assets/images/states/mizoram/mizoram-state-museum.webp"
+    },
+    {
+      "place_id": "miz-003",
+      "name": "Durtlang Hills",
+      "official_name": "Durtlang Hills",
+      "alternate_names": [
+        "Durtlang Viewpoint"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "nature",
+      "distance": "5 km from Aizawl Center",
+      "rating": 4.6,
+      "latitude": 23.7883,
+      "longitude": 92.7269,
+      "description": "Located on the northern outskirts of Aizawl, Durtlang Hills offers some of the most breathtaking panoramic views of the capital city and the surrounding lush green valleys. The hills are a serene retreat popular for light hiking, trekking, mountain biking, and enjoying stunning sunsets.",
+      "history": "Durtlang is one of the oldest settled areas on the outskirts of Aizawl. The hills have served as a natural vantage point for centuries and are now developed as a premier viewpoint and recreational area by the tourism department.",
+      "famousFor": "Panoramic views of Aizawl, sunset viewpoint, trekking trails, night-time city vistas.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "durtlang-hills",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/durtlang-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        },
+        {
+          "name": "Berawtlang Tourist Complex",
+          "city": "Aizawl",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "berawtlang-tourist-complex",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+          },
+          "image": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+        }
+      ],
+      "id": "durtlang-hills",
+      "image": "assets/images/states/mizoram/durtlang-hills.webp",
+      "heroImage": "assets/images/states/mizoram/durtlang-hills.webp"
+    },
+    {
+      "place_id": "miz-004",
+      "name": "Berawtlang Tourist Complex",
+      "official_name": "Berawtlang Tourist Complex",
+      "alternate_names": [
+        "Berawtlang Resort"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "nature",
+      "distance": "15 km from Aizawl Center",
+      "rating": 4.5,
+      "latitude": 23.7431,
+      "longitude": 92.7542,
+      "description": "A popular resort and picnic destination set along NH-54 on the eastern outskirts of Aizawl. The complex features well-maintained cottages, a convention center, dining facilities, and beautifully landscaped gardens offering serene views of the surrounding hills and valleys.",
+      "history": "Developed by the Mizoram Tourism Department as a modern recreational facility to cater to both local and visiting tourists. The complex serves as a gateway for exploring the eastern regions of the state.",
+      "famousFor": "Resort cottages, picnic spot, landscaped gardens, valley views.",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "berawtlang-tourist-complex",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Durtlang Hills",
+          "city": "Aizawl",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "durtlang-hills",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/durtlang-hills.webp"
+          },
+          "image": "assets/images/states/mizoram/durtlang-hills.webp"
+        },
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        }
+      ],
+      "id": "berawtlang-tourist-complex",
+      "image": "assets/images/states/mizoram/berawtlang-tourist-complex.webp",
+      "heroImage": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+    },
+    {
+      "place_id": "miz-005",
+      "name": "Aizawl City",
+      "official_name": "Aizawl City",
+      "alternate_names": [
+        "Aizawl"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "cities",
+      "distance": "Capital City",
+      "rating": 4.6,
+      "latitude": 23.7271,
+      "longitude": 92.7176,
+      "description": "The capital city of Mizoram, perched dramatically on a ridge at an elevation of 1,132 meters. Aizawl is known for its incredible discipline, complete absence of honking, vibrant Bara Bazaar night market, and sweeping views of the Tlawng river valley stretching below.",
+      "history": "Established in 1890 as a fortified military post by the British Raj, Aizawl has grown into the cultural, commercial, and administrative hub of the Mizo people. It became the capital when Mizoram achieved statehood in 1987.",
+      "famousFor": "No-honking traffic, Bara Bazaar, scenic ridge views, night markets, Mizo cuisine.",
+      "bestTime": "September to May",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "aizawl-city",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/aizawl-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Solomon's Temple",
+          "city": "Aizawl",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "solomons-temple",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/solomons-temple.webp"
+          },
+          "image": "assets/images/states/mizoram/solomons-temple.webp"
+        },
+        {
+          "name": "Mizoram State Museum",
+          "city": "Aizawl",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "mizoram-state-museum",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/mizoram-state-museum.webp"
+          },
+          "image": "assets/images/states/mizoram/mizoram-state-museum.webp"
+        },
+        {
+          "name": "KV Paradise",
+          "city": "Aizawl",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "kv-paradise",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/kv-paradise.webp"
+          },
+          "image": "assets/images/states/mizoram/kv-paradise.webp"
+        },
+        {
+          "name": "Durtlang Hills",
+          "city": "Aizawl",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "durtlang-hills",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/durtlang-hills.webp"
+          },
+          "image": "assets/images/states/mizoram/durtlang-hills.webp"
+        },
+        {
+          "name": "Berawtlang Tourist Complex",
+          "city": "Aizawl",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "berawtlang-tourist-complex",
+          "images": {
+            "main": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/berawtlang-tourist-complex.webp"
+        },
+        {
+          "name": "Falkawn Heritage Village",
+          "city": "Falkawn",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "falkawn-heritage-village",
+          "images": {
+            "main": "assets/images/states/mizoram/falkwan-heritage-village.webp"
+          },
+          "state": "Mizoram"
+        },
+        {
+          "name": "Tlawng River",
+          "city": "Aizawl",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "tlawng-river",
+          "images": {
+            "main": "assets/images/states/mizoram/talwang-river.webp"
+          },
+          "state": "Mizoram"
+        }
+      ],
+      "id": "aizawl-city",
+      "image": "assets/images/states/mizoram/aizawl-city.webp",
+      "heroImage": "assets/images/states/mizoram/aizawl-city.webp"
+    },
+    {
+      "place_id": "miz-006",
+      "name": "KV Paradise",
+      "official_name": "KV Paradise",
+      "alternate_names": [
+        "KV Memorial"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "heritage",
+      "distance": "In Aizawl",
+      "rating": 4.5,
+      "latitude": 23.735,
+      "longitude": 92.72,
+      "description": "Often called the 'Taj Mahal of Mizoram', this beautiful three-story monument was built by a grieving husband in memory of his beloved wife. The ornate mausoleum offers sweeping views of the city and stands as a unique testament to enduring love.",
+      "history": "Khawlhring built this beautiful mausoleum in 2001 after his wife Varte tragically passed away. The name 'KV' stands for the couple's initials — K for Khawlhring and V for Varte.",
+      "famousFor": "Mausoleum architecture, romantic history, city views, 'Taj Mahal of Mizoram'.",
+      "bestTime": "September to May",
+      "timings": "10:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "kv-paradise",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/kv-paradise.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        },
+        {
+          "name": "Solomon's Temple",
+          "city": "Aizawl",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "solomons-temple",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/solomons-temple.webp"
+          },
+          "image": "assets/images/states/mizoram/solomons-temple.webp"
+        }
+      ],
+      "id": "kv-paradise",
+      "image": "assets/images/states/mizoram/kv-paradise.webp",
+      "heroImage": "assets/images/states/mizoram/kv-paradise.webp"
+    },
+    {
+      "place_id": "miz-007",
+      "name": "Reiek Tlang",
+      "official_name": "Reiek Tlang",
+      "alternate_names": [
+        "Reiek Peak",
+        "Reiek Heritage Village"
+      ],
+      "former_names": [],
+      "city": "Reiek",
+      "district": "Mamit",
+      "category": "hills",
+      "distance": "29 km from Aizawl",
+      "rating": 4.8,
+      "latitude": 23.6781,
+      "longitude": 92.6031,
+      "description": "A picturesque mountain peak offering breathtaking panoramic views of the surrounding valleys and distant Aizawl city. At its base lies the Reiek Heritage Village, a meticulously reconstructed traditional Mizo village showcasing authentic tribal architecture, customs, and way of life.",
+      "history": "The Reiek Heritage Village was built by the Mizoram Tourism Department to preserve and showcase the architectural and cultural heritage of the Mizo tribes. The peak is the venue for the famous annual Anthurium Festival.",
+      "famousFor": "Trekking, Anthurium Festival, Mizo Heritage Village, panoramic views.",
+      "bestTime": "September to April",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "reiek-tlang",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/reiek-tlang.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Falkawn Heritage Village",
+          "city": "Falkawn",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "falkawn-heritage-village",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/falkwan-heritage-village.webp"
+          }
+        },
+        {
+          "name": "Hmuifang Tlang",
+          "city": "Aizawl",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "hmuifang-tlang",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/hmuifang-tlang.webp"
+          },
+          "image": "assets/images/states/mizoram/hmuifang-tlang.webp"
+        },
+        {
+          "name": "Dampa Tiger Reserve",
+          "city": "Mamit",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "dampa-tiger-reserve",
+          "images": {
+            "main": "assets/images/states/mizoram/dampa-tiger-reserve.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/dampa-tiger-reserve.webp"
+        }
+      ],
+      "id": "reiek-tlang",
+      "image": "assets/images/states/mizoram/reiek-tlang.webp",
+      "heroImage": "assets/images/states/mizoram/reiek-tlang.webp"
+    },
+    {
+      "place_id": "miz-008",
+      "name": "Phawngpui (Blue Mountain)",
+      "official_name": "Phawngpui (Blue Mountain)",
+      "alternate_names": [
+        "Phawngpui Peak",
+        "Blue Mountain",
+        "Phawngpui Tlang"
+      ],
+      "former_names": [],
+      "city": "Lawngtlai",
+      "district": "Lawngtlai",
+      "category": "hills",
+      "distance": "Near Myanmar Border",
+      "rating": 4.9,
+      "latitude": 22.6531,
+      "longitude": 93.0414,
+      "description": "The highest mountain peak in Mizoram at 2,157 meters, revered in Mizo folklore as the sacred abode of the gods. It offers spectacular views of deep valleys, the meandering Chhimtuipui River, and the Myanmar border. The peak is home to rare orchids including the blue Vanda and the endangered Blyth's Tragopan bird.",
+      "history": "Revered in Mizo folklore as a highly sacred peak where powerful spirits dwell. It was declared a National Park in 1992 to conserve its rare and endemic flora and fauna, including over 200 orchid species.",
+      "famousFor": "Highest peak in Mizoram, rare orchids, Blyth's Tragopan, sacred folklore.",
+      "bestTime": "October to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "phawngpui-blue-mountain",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/phawngpui.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Phawngpui National Park",
+          "city": "Lawngtlai",
+          "distance": "0 km (same area)",
+          "category": "wildlife",
+          "slug": "phawngpui-national-park",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui-national-park.webp"
+          },
+          "image": "assets/images/states/mizoram/phawngpui-national-park.webp"
+        },
+        {
+          "name": "Ngengpui Wildlife Sanctuary",
+          "city": "Lawngtlai",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "ngengpui-wildlife-sanctuary",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+          },
+          "image": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Farpak",
+          "city": "Lawngtlai",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "farpak",
+          "images": {
+            "main": "assets/images/states/mizoram/farpak.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/farpak.webp"
+        }
+      ],
+      "id": "phawngpui-blue-mountain",
+      "heroImage": "assets/images/states/mizoram/phawngpui.webp"
+    },
+    {
+      "place_id": "miz-009",
+      "name": "Vantawng Falls",
+      "official_name": "Vantawng Falls",
+      "alternate_names": [
+        "Vantawng Khawhthla"
+      ],
+      "former_names": [],
+      "city": "Thenzawl",
+      "district": "Serchhip",
+      "category": "waterfalls",
+      "distance": "137 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 23.2569,
+      "longitude": 92.7625,
+      "description": "The highest and most spectacular waterfall in Mizoram, plunging dramatically from a height of 750 feet (229 meters) amidst a dense bamboo forest. The sheer, uninterrupted cascade creates a mesmerizing spectacle, especially during and after the monsoon season.",
+      "history": "Named after Vantawnga, a legendary swimmer from Mizo folklore who was said to be so skilled he could hover like a fish in the mighty cascading waters. The falls are located approximately 5 km south of the town of Thenzawl.",
+      "famousFor": "Highest waterfall in Mizoram, bamboo forests, Mizo folklore.",
+      "bestTime": "September to January",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "vantawng-falls",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/vantawng-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tuirihiau Falls",
+          "city": "Thenzawl",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "tuirihiau-falls",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/tuirihiau-falls.webp"
+          },
+          "image": "assets/images/states/mizoram/tuirihiau-falls.webp"
+        },
+        {
+          "name": "Thenzawl",
+          "city": "Thenzawl",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "thenzawl",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/thenzawl.webp"
+          },
+          "image": "assets/images/states/mizoram/thenzawl.webp"
+        },
+        {
+          "name": "Chawngchilhi Puk",
+          "city": "Thenzawl",
+          "distance": "8 km away",
+          "category": "caves",
+          "slug": "chawngchilhi-puk",
+          "images": {
+            "main": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+        }
+      ],
+      "id": "vantawng-falls",
+      "image": "assets/images/states/mizoram/vantawng-falls.webp",
+      "heroImage": "assets/images/states/mizoram/vantawng-falls.webp"
+    },
+    {
+      "place_id": "miz-010",
+      "name": "Tam Dil",
+      "official_name": "Tam Dil",
+      "alternate_names": [
+        "Tamdil Lake",
+        "Lake of Mustard"
+      ],
+      "former_names": [],
+      "city": "Saitual",
+      "district": "Saitual",
+      "category": "nature",
+      "distance": "85 km from Aizawl",
+      "rating": 4.6,
+      "latitude": 23.7389,
+      "longitude": 92.9528,
+      "description": "A tranquil and pristine natural lake surrounded by dense tropical evergreen and moist deciduous forests. Tam Dil is one of the most popular picnic and boating spots in Mizoram, offering serene jungle walks and beautiful reflections of the surrounding hills on its calm surface.",
+      "history": "According to Mizo legend, a huge mustard plant (tam) once stood at this site; when it was cut down, water sprayed from the stump and filled the depression, creating the lake. The name literally translates to 'Lake of Mustard'.",
+      "famousFor": "Boating, picnicking, serene jungle walks, Mizo folklore.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "tam-dil",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/tam-dil.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Champhai",
+          "city": "Champhai",
+          "distance": "20 km away",
+          "category": "cities",
+          "slug": "champhai",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/champhai.webp"
+          },
+          "image": "assets/images/states/mizoram/champhai.webp"
+        }
+      ],
+      "id": "tam-dil",
+      "image": "assets/images/states/mizoram/tam-dil.webp",
+      "heroImage": "assets/images/states/mizoram/tam-dil.webp"
+    },
+    {
+      "place_id": "miz-011",
+      "name": "Murlen National Park",
+      "official_name": "Murlen National Park",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "wildlife",
+      "distance": "245 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 23.6097,
+      "longitude": 93.2881,
+      "description": "Often compared to the Amazon rainforest for its incredibly thick canopy where only 1% of sunlight reaches the ground. Murlen National Park is a pristine sub-tropical evergreen forest covering 100 sq km, home to Hoolock Gibbons, Leopards, Himalayan Black Bears, and over 150 bird species.",
+      "history": "Declared a National Park in 1991 to protect the rich and pristine sub-tropical evergreen forest ecosystem. The park shares its boundary with Myanmar and is a critical biodiversity hotspot within the Indo-Burma region.",
+      "famousFor": "Dense canopy, Hoolock Gibbons, Leopards, rare orchids, 150+ bird species.",
+      "bestTime": "October to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "murlen-national-park",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/murlen-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lengteng Wildlife Sanctuary",
+          "city": "Champhai",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "lengteng-wildlife-sanctuary",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/lengteng-wildlife.webp"
+          }
+        }
+      ],
+      "id": "murlen-national-park",
+      "image": "assets/images/states/mizoram/murlen-national-park.webp",
+      "heroImage": "assets/images/states/mizoram/murlen-national-park.webp"
+    },
+    {
+      "place_id": "miz-012",
+      "name": "Phawngpui National Park",
+      "official_name": "Phawngpui National Park",
+      "alternate_names": [
+        "Blue Mountain National Park"
+      ],
+      "former_names": [],
+      "city": "Lawngtlai",
+      "district": "Lawngtlai",
+      "category": "wildlife",
+      "distance": "300 km from Aizawl",
+      "rating": 4.8,
+      "latitude": 22.6531,
+      "longitude": 93.0414,
+      "description": "Encompassing the highest peak in Mizoram (2,157m), Phawngpui National Park protects 50 sq km of pristine cloud forest with incredible biodiversity. The park is home to over 200 orchid species, the critically endangered Blyth's Tragopan, rare butterflies, and endemic montane flora found nowhere else in India.",
+      "history": "Established as a National Park in 1992. The area has been revered by the Mizo people as a sacred mountain where the spirits of the gods dwell. It is one of India's most important protected areas for montane biodiversity conservation.",
+      "famousFor": "Cloud forest, 200+ orchid species, Blyth's Tragopan, montane biodiversity.",
+      "bestTime": "October to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "phawngpui-national-park",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/phawngpui-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Phawngpui (Blue Mountain)",
+          "city": "Lawngtlai",
+          "distance": "0 km (same area)",
+          "category": "hills",
+          "slug": "phawngpui-blue-mountain",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui.webp"
+          }
+        },
+        {
+          "name": "Ngengpui Wildlife Sanctuary",
+          "city": "Lawngtlai",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "ngengpui-wildlife-sanctuary",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+          },
+          "image": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Farpak",
+          "city": "Lawngtlai",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "farpak",
+          "images": {
+            "main": "assets/images/states/mizoram/farpak.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/farpak.webp"
+        }
+      ],
+      "id": "phawngpui-national-park",
+      "image": "assets/images/states/mizoram/phawngpui-national-park.webp",
+      "heroImage": "assets/images/states/mizoram/phawngpui-national-park.webp"
+    },
+    {
+      "place_id": "miz-013",
+      "name": "Hmuifang Tlang",
+      "official_name": "Hmuifang Tlang",
+      "alternate_names": [
+        "Hmuifang Hill Station"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "hills",
+      "distance": "50 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 23.5833,
+      "longitude": 92.7167,
+      "description": "A stunning hill station characterized by untouched forests, steep rugged cliffs, and panoramic viewpoints. Hmuifang is the venue for the annual Anthurium Festival and the Thalfavang Kut festival, attracting visitors with its pristine natural beauty and eco-tourism resorts.",
+      "history": "Traditionally a hunting ground for Mizo chieftains, Hmuifang has been developed into a premier eco-tourism resort by the Mizoram Tourism Department. The name translates to 'sheltering smoke' in Mizo.",
+      "famousFor": "Anthurium Festival, Thalfavang Kut festival, eco-tourism resort, trekking.",
+      "bestTime": "August to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "hmuifang-tlang",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/hmuifang-tlang.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Reiek Tlang",
+          "city": "Reiek",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "reiek-tlang",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/reiek-tlang.webp"
+          },
+          "image": "assets/images/states/mizoram/reiek-tlang.webp"
+        },
+        {
+          "name": "Sialsuk",
+          "city": "Sialsuk",
+          "distance": "16 km away",
+          "category": "nature",
+          "slug": "sialsuk",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/sialsuk.webp"
+          },
+          "image": "assets/images/states/mizoram/sialsuk.webp"
+        }
+      ],
+      "id": "hmuifang-tlang",
+      "image": "assets/images/states/mizoram/hmuifang-tlang.webp",
+      "heroImage": "assets/images/states/mizoram/hmuifang-tlang.webp"
+    },
+    {
+      "place_id": "miz-014",
+      "name": "Falkawn Heritage Village",
+      "official_name": "Falkawn Heritage Village",
+      "alternate_names": [
+        "Falkawn Traditional Village"
+      ],
+      "former_names": [],
+      "city": "Falkawn",
+      "district": "Aizawl",
+      "category": "heritage",
+      "distance": "18 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 23.6539,
+      "longitude": 92.7208,
+      "description": "A meticulously reconstructed traditional Mizo village that offers visitors an authentic immersive experience into the ancient tribal way of life. The village showcases traditional bamboo and thatch houses, Mizo artifacts, handloom weaving demonstrations, and cultural performances.",
+      "history": "Developed to preserve and showcase the rapidly disappearing architectural and cultural traditions of the Mizo tribes. The village recreates the structure and social organization of a traditional chief's village.",
+      "famousFor": "Traditional Mizo architecture, handloom weaving, cultural immersion, bamboo houses.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "falkawn-heritage-village",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/falkwan-heritage-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Reiek Tlang",
+          "city": "Reiek",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "reiek-tlang",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/reiek-tlang.webp"
+          },
+          "image": "assets/images/states/mizoram/reiek-tlang.webp"
+        },
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        }
+      ],
+      "id": "falkawn-heritage-village",
+      "heroImage": "assets/images/states/mizoram/falkwan-heritage-village.webp"
+    },
+    {
+      "place_id": "miz-015",
+      "name": "Palak Dil",
+      "official_name": "Palak Dil",
+      "alternate_names": [
+        "Palak Lake"
+      ],
+      "former_names": [],
+      "city": "Siaha",
+      "district": "Siaha",
+      "category": "nature",
+      "distance": "390 km from Aizawl",
+      "rating": 4.6,
+      "latitude": 22.3403,
+      "longitude": 92.9425,
+      "description": "The largest natural lake in Mizoram, an oval-shaped wonder situated deep in the lush southern forests. Spanning approximately 30 hectares, Palak Dil is a biodiversity hotspot surrounded by dense tropical forests and is deeply associated with local Mara folklore of a submerged village.",
+      "history": "Local Mara legend claims the lake was formed when a massive earthquake submerged an entire village beneath the waters. Some versions attribute the lake's creation to a giant serpent. The lake has been an important ecological site since the Mara tribal era.",
+      "famousFor": "Largest lake in Mizoram, wild elephants, Mara folklore, biodiversity hotspot.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "₹20",
+      "slug": "palak-dil",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/palak-dil.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ngengpui Wildlife Sanctuary",
+          "city": "Lawngtlai",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "ngengpui-wildlife-sanctuary",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+          },
+          "image": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "palak-dil",
+      "image": "assets/images/states/mizoram/palak-dil.webp",
+      "heroImage": "assets/images/states/mizoram/palak-dil.webp"
+    },
+    {
+      "place_id": "miz-016",
+      "name": "Tuirihiau Falls",
+      "official_name": "Tuirihiau Falls",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Thenzawl",
+      "district": "Serchhip",
+      "category": "waterfalls",
+      "distance": "120 km from Aizawl",
+      "rating": 4.8,
+      "latitude": 23.2372,
+      "longitude": 92.748,
+      "description": "A stunning and unique waterfall in Mizoram where visitors can actually walk behind the cascading sheet of water and look out through the curtain of falling water. The crystal-clear pool at the base makes it an extraordinary natural swimming spot surrounded by lush vegetation.",
+      "history": "A pristine natural cascade that has gained immense popularity among eco-tourists for its unique curtain-like formation. The cave behind the waterfall has been a known site to local communities for generations.",
+      "famousFor": "Walking behind the waterfall, crystal clear pool, natural swimming, photography.",
+      "bestTime": "September to January",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tuirihiau-falls",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/tuirihiau-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vantawng Falls",
+          "city": "Thenzawl",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "vantawng-falls",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/vantawng-falls.webp"
+          },
+          "image": "assets/images/states/mizoram/vantawng-falls.webp"
+        },
+        {
+          "name": "Thenzawl",
+          "city": "Thenzawl",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "thenzawl",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/thenzawl.webp"
+          },
+          "image": "assets/images/states/mizoram/thenzawl.webp"
+        }
+      ],
+      "id": "tuirihiau-falls",
+      "image": "assets/images/states/mizoram/tuirihiau-falls.webp",
+      "heroImage": "assets/images/states/mizoram/tuirihiau-falls.webp"
+    },
+    {
+      "place_id": "miz-017",
+      "name": "Sibuta Lung",
+      "official_name": "Sibuta Lung",
+      "alternate_names": [
+        "Sibuta Memorial Stone"
+      ],
+      "former_names": [],
+      "city": "Serchhip",
+      "district": "Serchhip",
+      "category": "heritage",
+      "distance": "112 km from Aizawl",
+      "rating": 4.4,
+      "latitude": 23.32,
+      "longitude": 92.85,
+      "description": "An incredibly important historical memorial stone (lung means 'stone' in Mizo) erected approximately 300 years ago by an orphan turned chief named Sibuta. The massive megalith commemorates a tragic story of love and sacrifice deeply embedded in Mizo oral tradition.",
+      "history": "According to legend, Sibuta was an orphan who rose to become a powerful chief. He erected this massive stone and, tragically, a young beautiful girl named Darlai was buried alive beneath it as a human sacrifice. The stone stands as a solemn reminder of ancient Mizo customs.",
+      "famousFor": "Tragic folklore, ancient megalith, Mizo history, archaeological significance.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sibuta-lung",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/sibuta-lung.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thenzawl",
+          "city": "Thenzawl",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "thenzawl",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/thenzawl.webp"
+          },
+          "image": "assets/images/states/mizoram/thenzawl.webp"
+        }
+      ],
+      "id": "sibuta-lung",
+      "image": "assets/images/states/mizoram/sibuta-lung.webp",
+      "heroImage": "assets/images/states/mizoram/sibuta-lung.webp"
+    },
+    {
+      "place_id": "miz-018",
+      "name": "Thenzawl",
+      "official_name": "Thenzawl",
+      "alternate_names": [
+        "Thenzawl Town"
+      ],
+      "former_names": [],
+      "city": "Thenzawl",
+      "district": "Serchhip",
+      "category": "nature",
+      "distance": "130 km from Aizawl",
+      "rating": 4.6,
+      "latitude": 23.2833,
+      "longitude": 92.75,
+      "description": "Known as the handloom capital of Mizoram, Thenzawl is a charming hill town famous for its traditional Mizo puan textile weaving, deer park, and proximity to the state's most spectacular waterfalls. The town also features a well-maintained golf course set amidst beautiful rolling hills.",
+      "history": "Thenzawl has been a significant center for traditional Mizo handloom weaving for centuries. The Thenzawl Deer Park was established in 1998 to conserve the Sambar deer population. The town's golf course and resort make it a popular weekend getaway.",
+      "famousFor": "Handloom weaving, Deer Park, Golf Course, gateway to Vantawng Falls.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "thenzawl",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/thenzawl.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vantawng Falls",
+          "city": "Thenzawl",
+          "distance": "5 km away",
+          "category": "waterfalls",
+          "slug": "vantawng-falls",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/vantawng-falls.webp"
+          },
+          "image": "assets/images/states/mizoram/vantawng-falls.webp"
+        },
+        {
+          "name": "Tuirihiau Falls",
+          "city": "Thenzawl",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "tuirihiau-falls",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/tuirihiau-falls.webp"
+          },
+          "image": "assets/images/states/mizoram/tuirihiau-falls.webp"
+        },
+        {
+          "name": "Sibuta Lung",
+          "city": "Serchhip",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "sibuta-lung",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/sibuta-lung.webp"
+          },
+          "image": "assets/images/states/mizoram/sibuta-lung.webp"
+        },
+        {
+          "name": "Chawngchilhi Puk",
+          "city": "Thenzawl",
+          "distance": "5 km away",
+          "category": "caves",
+          "slug": "chawngchilhi-puk",
+          "images": {
+            "main": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+        }
+      ],
+      "id": "thenzawl",
+      "image": "assets/images/states/mizoram/thenzawl.webp",
+      "heroImage": "assets/images/states/mizoram/thenzawl.webp"
+    },
+    {
+      "place_id": "miz-019",
+      "name": "Lamsial Puk",
+      "official_name": "Lamsial Puk",
+      "alternate_names": [
+        "Lamsial Puk Cave"
+      ],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "caves",
+      "distance": "220 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 23.7931,
+      "longitude": 93.1236,
+      "description": "A historically and culturally significant cave located near Farkawn village in the Champhai district. The cave is associated with ancient Mizo legends of tribal migration, warfare, and shelter. Its dark chambers and narrow passages create an adventurous spelunking experience.",
+      "history": "The cave holds deep cultural significance in Mizo oral tradition, often linked to stories of tribal conflicts and migrations. It served as a refuge and hiding place during inter-tribal wars. The name 'Lamsial' relates to a historical episode in Mizo folklore.",
+      "famousFor": "Mizo folklore, spelunking, tribal history, geological formations.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7 (Daylight visit recommended)",
+      "entryFee": "Free",
+      "slug": "lamsial-puk",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/lamsial-puk.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Champhai",
+          "city": "Champhai",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "champhai",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/champhai.webp"
+          },
+          "image": "assets/images/states/mizoram/champhai.webp"
+        }
+      ],
+      "id": "lamsial-puk",
+      "image": "assets/images/states/mizoram/lamsial-puk.webp",
+      "heroImage": "assets/images/states/mizoram/lamsial-puk.webp"
+    },
+    {
+      "place_id": "miz-021",
+      "name": "Khawnglung Wildlife Sanctuary",
+      "official_name": "Khawnglung Wildlife Sanctuary",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Lunglei",
+      "district": "Lunglei",
+      "category": "wildlife",
+      "distance": "170 km from Aizawl",
+      "rating": 4.6,
+      "latitude": 22.6667,
+      "longitude": 92.8333,
+      "description": "A dense, high-altitude sanctuary known for its rugged terrain, steep cliffs, and incredible biodiversity. Covering 35 sq km, the sanctuary is home to Leopards, Barking Deer, Wild Boars, Hoolock Gibbons, and numerous bird species in its pristine subtropical forests.",
+      "history": "Declared a wildlife sanctuary in 2000 to protect the rich flora and fauna of the Lunglei district. The sanctuary plays a vital role in the conservation of the Indo-Burma biodiversity hotspot region.",
+      "famousFor": "Wild Boars, Leopards, Hoolock Gibbons, rugged trekking trails.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "khawnglung-wildlife-sanctuary",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/khawnglung-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lunglei Viewpoint",
+          "city": "Lunglei",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "lunglei-viewpoint",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/farpak.webp"
+          }
+        }
+      ],
+      "id": "khawnglung-wildlife-sanctuary",
+      "image": "assets/images/states/mizoram/khawnglung-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/mizoram/khawnglung-wildlife-sanctuary.webp"
+    },
+    {
+      "place_id": "miz-022",
+      "name": "Ngengpui Wildlife Sanctuary",
+      "official_name": "Ngengpui Wildlife Sanctuary",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Lawngtlai",
+      "district": "Lawngtlai",
+      "category": "wildlife",
+      "distance": "320 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 22.5,
+      "longitude": 92.95,
+      "description": "A pristine, low-altitude virgin forest sanctuary covering 110 sq km, managed closely with local communities through successful community-based conservation initiatives. It is a critical habitat for Asian Elephants, Sun Bears, and Clouded Leopards.",
+      "history": "Declared a wildlife sanctuary in 1991. Notable for its highly successful community-based conservation model involving surrounding villages. The sanctuary protects one of the last remaining patches of pristine lowland tropical forest in Mizoram.",
+      "famousFor": "Asian Elephants, Sun Bears, Clouded Leopards, virgin tropical forests, community conservation.",
+      "bestTime": "November to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹30",
+      "slug": "ngengpui-wildlife-sanctuary",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Phawngpui (Blue Mountain)",
+          "city": "Lawngtlai",
+          "distance": "18 km away",
+          "category": "hills",
+          "slug": "phawngpui-blue-mountain",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui.webp"
+          }
+        },
+        {
+          "name": "Phawngpui National Park",
+          "city": "Lawngtlai",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "phawngpui-national-park",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui-national-park.webp"
+          },
+          "image": "assets/images/states/mizoram/phawngpui-national-park.webp"
+        },
+        {
+          "name": "Palak Dil",
+          "city": "Siaha",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "palak-dil",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/palak-dil.webp"
+          },
+          "image": "assets/images/states/mizoram/palak-dil.webp"
+        }
+      ],
+      "id": "ngengpui-wildlife-sanctuary",
+      "image": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/mizoram/ngengpui-wildlife-sanctuary.webp"
+    },
+    {
+      "place_id": "miz-023",
+      "name": "Lengteng Wildlife Sanctuary",
+      "official_name": "Lengteng Wildlife Sanctuary",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "wildlife",
+      "distance": "260 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 23.75,
+      "longitude": 93.2167,
+      "description": "An alpine forest sanctuary situated at high altitude, serving as the critical habitat for the rare and endangered Blyth's Tragopan bird and the majestic Serow. The sanctuary shares its boundary with the Murlen National Park, creating a contiguous protected landscape.",
+      "history": "Established in 1999 as an essential conservation area to protect the alpine and sub-alpine forest ecosystem near the Myanmar border. The sanctuary is a vital corridor for wildlife movement between India and Myanmar.",
+      "famousFor": "Blyth's Tragopan, Serow, alpine forests, Myanmar border views.",
+      "bestTime": "October to April",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "lengteng-wildlife-sanctuary",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/lengteng-wildlife.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Murlen National Park",
+          "city": "Champhai",
+          "distance": "18 km away",
+          "category": "wildlife",
+          "slug": "murlen-national-park",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/murlen-national-park.webp"
+          },
+          "image": "assets/images/states/mizoram/murlen-national-park.webp"
+        }
+      ],
+      "id": "lengteng-wildlife-sanctuary",
+      "heroImage": "assets/images/states/mizoram/lengteng-wildlife.webp"
+    },
+    {
+      "place_id": "miz-024",
+      "name": "Champhai",
+      "official_name": "Champhai",
+      "alternate_names": [
+        "Rice Bowl of Mizoram"
+      ],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "cities",
+      "distance": "192 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 23.4747,
+      "longitude": 93.3256,
+      "description": "Known as the 'Rice Bowl of Mizoram', this bustling border town offers spectacular views of the Myanmar hills and vast, incredibly green paddy fields stretching to the horizon. Champhai is also home to local vineyards producing Mizoram's own grape wine.",
+      "history": "A historically significant commercial hub serving as the main corridor for Indo-Myanmar cross-border trade. The town's strategic location near the Myanmar border has made it a vital trading post for centuries.",
+      "famousFor": "Paddy fields, Myanmar border views, vineyards, Zokhawthar border market.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "champhai",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/champhai.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lamsial Puk",
+          "city": "Champhai",
+          "distance": "15 km away",
+          "category": "caves",
+          "slug": "lamsial-puk",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/lamsial-puk.webp"
+          },
+          "image": "assets/images/states/mizoram/lamsial-puk.webp"
+        },
+        {
+          "name": "Thasiama Seno Neihna",
+          "city": "Champhai",
+          "distance": "18 km away",
+          "category": "hills",
+          "slug": "thasiama-seno-neihna",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/thasiama-seno-neihna.webp"
+          },
+          "image": "assets/images/states/mizoram/thasiama-seno-neihna.webp"
+        },
+        {
+          "name": "Tam Dil",
+          "city": "Saitual",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "tam-dil",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/tam-dil.webp"
+          },
+          "image": "assets/images/states/mizoram/tam-dil.webp"
+        },
+        {
+          "name": "Vangchhia",
+          "city": "Champhai",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "vangchhia",
+          "images": {
+            "main": "assets/images/states/mizoram/vangchhia.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/vangchhia.webp"
+        }
+      ],
+      "id": "champhai",
+      "image": "assets/images/states/mizoram/champhai.webp",
+      "heroImage": "assets/images/states/mizoram/champhai.webp"
+    },
+    {
+      "place_id": "miz-025",
+      "name": "Thasiama Seno Neihna",
+      "official_name": "Thasiama Seno Neihna",
+      "alternate_names": [
+        "Thasiama Plateau"
+      ],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "hills",
+      "distance": "Near Vaphai Village",
+      "rating": 4.6,
+      "latitude": 23.78,
+      "longitude": 93.15,
+      "description": "A steep and rugged plateau that features prominently in Mizo folklore. The site offers dramatic views of the surrounding mountains and valleys. It is a thrilling trekking destination with near-vertical cliff faces that test even experienced trekkers.",
+      "history": "Legend says that a man named Thasiama had a mithun (bovine) that miraculously climbed this impossibly steep cliff to give birth, guided by a fairy. The name translates to 'Thasiama's cow's place of giving birth'.",
+      "famousFor": "Folklore, incredibly steep cliffs, trekking, dramatic mountain views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "thasiama-seno-neihna",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/thasiama-seno-neihna.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Champhai",
+          "city": "Champhai",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "champhai",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/champhai.webp"
+          },
+          "image": "assets/images/states/mizoram/champhai.webp"
+        }
+      ],
+      "id": "thasiama-seno-neihna",
+      "image": "assets/images/states/mizoram/thasiama-seno-neihna.webp",
+      "heroImage": "assets/images/states/mizoram/thasiama-seno-neihna.webp"
+    },
+    {
+      "place_id": "miz-026",
+      "name": "Dampa Tiger Reserve",
+      "official_name": "Dampa Tiger Reserve",
+      "alternate_names": [
+        "Dampa Wildlife Sanctuary"
+      ],
+      "former_names": [],
+      "city": "Mamit",
+      "district": "Mamit",
+      "category": "wildlife",
+      "distance": "127 km from Aizawl",
+      "rating": 4.7,
+      "latitude": 23.7,
+      "longitude": 92.3833,
+      "description": "The largest protected area in Mizoram, covering 500 sq km of dense tropical forests with steep hills and deep valleys near the Bangladesh border. Dampa is home to an incredible diversity of wildlife including Hoolock Gibbons, Clouded Leopards, Sambar Deer, and numerous primate species.",
+      "history": "Established as a wildlife sanctuary in 1985 and elevated to Tiger Reserve status in 1994 under Project Tiger. The reserve is a critical part of India's tiger conservation landscape and protects one of the richest tropical ecosystems in Northeast India.",
+      "famousFor": "Largest sanctuary in Mizoram, Hoolock Gibbons, Clouded Leopards, tropical forests.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹50",
+      "slug": "dampa-tiger-reserve",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/dampa-tiger-reserve.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Reiek Tlang",
+          "city": "Reiek",
+          "distance": "20 km away",
+          "category": "hills",
+          "slug": "reiek-tlang",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/reiek-tlang.webp"
+          },
+          "image": "assets/images/states/mizoram/reiek-tlang.webp"
+        }
+      ],
+      "id": "dampa-tiger-reserve",
+      "image": "assets/images/states/mizoram/dampa-tiger-reserve.webp",
+      "heroImage": "assets/images/states/mizoram/dampa-tiger-reserve.webp"
+    },
+    {
+      "place_id": "miz-027",
+      "name": "Lunglei Viewpoint",
+      "official_name": "Lunglei Viewpoint",
+      "alternate_names": [
+        "Lunglei Town Viewpoint"
+      ],
+      "former_names": [],
+      "city": "Lunglei",
+      "district": "Lunglei",
+      "category": "nature",
+      "distance": "230 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 22.8833,
+      "longitude": 92.7333,
+      "description": "A panoramic viewpoint at Mizoram's second-largest city, Lunglei, offering breathtaking vistas of the surrounding rolling hills, lush green valleys, and the Nghasih stream below. The viewpoint is especially spectacular during sunset when the hills are bathed in golden light.",
+      "history": "Lunglei, meaning 'bridge of rock', was named after a natural rock bridge over the Nghasih stream. The town has been the administrative center of southern Mizoram and a base for exploring the southern regions of the state.",
+      "famousFor": "Panoramic sunset views, gateway to southern Mizoram, Saikuti Hall.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "lunglei-viewpoint",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/durtlang-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khawnglung Wildlife Sanctuary",
+          "city": "Lunglei",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "khawnglung-wildlife-sanctuary",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/khawnglung-wildlife-sanctuary.webp"
+          },
+          "image": "assets/images/states/mizoram/khawnglung-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Zobawk",
+          "city": "Zobawk",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "zobawk",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/sialsuk.webp"
+          }
+        },
+        {
+          "name": "Thorangtlang Wildlife Sanctuary",
+          "city": "Lunglei",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "thorangtlang-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/mizoram/thorangtlang-wildlife-sanctuary.webp"
+          },
+          "state": "Mizoram",
+          "image": "assets/images/states/mizoram/thorangtlang-wildlife-sanctuary.webp"
+        }
+      ],
+      "id": "lunglei-viewpoint",
+      "heroImage": "assets/images/states/mizoram/durtlang-hills.webp"
+    },
+    {
+      "place_id": "miz-029",
+      "name": "Chawngchilhi Puk",
+      "official_name": "Chawngchilhi Puk",
+      "alternate_names": [
+        "Chawngchilhi Cave"
+      ],
+      "former_names": [],
+      "city": "Thenzawl",
+      "district": "Serchhip",
+      "category": "caves",
+      "distance": "135 km from Aizawl",
+      "rating": 4.4,
+      "latitude": 23.27,
+      "longitude": 92.76,
+      "description": "A natural cave near Thenzawl associated with one of the most popular Mizo folktales — the story of Chawngchilhi, a legendary woman who lived in this cave. The cave features interesting geological formations and serves as both a cultural heritage site and an adventure tourism destination.",
+      "history": "The cave is named after Chawngchilhi, a central figure in Mizo mythology. According to legend, she was a woman of extraordinary beauty who lived in seclusion in this cave. The story has been passed down through generations of Mizo oral tradition.",
+      "famousFor": "Mizo folktale of Chawngchilhi, spelunking, geological formations, cultural heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7 (Daylight visit recommended)",
+      "entryFee": "Free",
+      "slug": "chawngchilhi-puk",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thenzawl",
+          "city": "Thenzawl",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "thenzawl",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/thenzawl.webp"
+          },
+          "image": "assets/images/states/mizoram/thenzawl.webp"
+        },
+        {
+          "name": "Vantawng Falls",
+          "city": "Thenzawl",
+          "distance": "8 km away",
+          "category": "waterfalls",
+          "slug": "vantawng-falls",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/vantawng-falls.webp"
+          },
+          "image": "assets/images/states/mizoram/vantawng-falls.webp"
+        }
+      ],
+      "id": "chawngchilhi-puk",
+      "image": "assets/images/states/mizoram/chawngchilhi-puk.webp",
+      "heroImage": "assets/images/states/mizoram/chawngchilhi-puk.webp"
+    },
+    {
+      "place_id": "miz-030",
+      "name": "Sialsuk",
+      "official_name": "Sialsuk",
+      "alternate_names": [
+        "Sialsuk Village"
+      ],
+      "former_names": [],
+      "city": "Sialsuk",
+      "district": "Aizawl",
+      "category": "nature",
+      "distance": "66 km from Aizawl",
+      "rating": 4.4,
+      "latitude": 23.3978,
+      "longitude": 92.75,
+      "description": "A scenic village perched on a hilltop along the Aizawl–Lunglei highway, offering stunning panoramic views of the surrounding valleys and rolling hills. Sialsuk is known for its pleasant climate, serene landscape, and as a perfect stopover point for travelers heading to southern Mizoram.",
+      "history": "One of the oldest settlements in the Aizawl district, Sialsuk has served as a waypoint for travelers between Aizawl and Lunglei for centuries. The village maintains its traditional Mizo character while welcoming tourists drawn to its natural beauty.",
+      "famousFor": "Scenic hilltop views, serene landscape, stopover point, pleasant climate.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "sialsuk",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/sialsuk.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hmuifang Tlang",
+          "city": "Aizawl",
+          "distance": "16 km away",
+          "category": "hills",
+          "slug": "hmuifang-tlang",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/hmuifang-tlang.webp"
+          },
+          "image": "assets/images/states/mizoram/hmuifang-tlang.webp"
+        }
+      ],
+      "id": "sialsuk",
+      "image": "assets/images/states/mizoram/sialsuk.webp",
+      "heroImage": "assets/images/states/mizoram/sialsuk.webp"
+    },
+    {
+      "place_id": "miz-031",
+      "name": "Tlawng River",
+      "official_name": "Tlawng River",
+      "alternate_names": [
+        "Dhaleswari River"
+      ],
+      "former_names": [],
+      "city": "Aizawl",
+      "district": "Aizawl",
+      "category": "nature",
+      "distance": "Flows through Mizoram",
+      "rating": 4.3,
+      "latitude": 23.7,
+      "longitude": 92.7333,
+      "description": "The longest river in Mizoram, originating from the Zopui hills near Zobawk. The Tlawng River and its banks offer scenic picnic spots, nature walks, and tranquil riverside camping opportunities. The river holds historical significance as a former colonial-era transport route.",
+      "history": "The Tlawng (known as Dhaleswari in its lower reaches) is the longest river originating within Mizoram. During the British colonial era, it served as an important transport route. Today, its banks are popular for recreational activities and eco-tourism.",
+      "famousFor": "Longest river in Mizoram, riverside picnics, nature walks, scenic photography.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "tlawng-river",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/talwang-river.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Aizawl City",
+          "city": "Aizawl",
+          "distance": "10 km away",
+          "category": "cities",
+          "slug": "aizawl-city",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/aizawl-city.webp"
+          },
+          "image": "assets/images/states/mizoram/aizawl-city.webp"
+        }
+      ],
+      "id": "tlawng-river",
+      "heroImage": "assets/images/states/mizoram/talwang-river.webp"
+    },
+    {
+      "place_id": "miz-032",
+      "name": "Zobawk",
+      "official_name": "Zobawk",
+      "alternate_names": [
+        "Zobawk Tourism Area"
+      ],
+      "former_names": [],
+      "city": "Zobawk",
+      "district": "Lunglei",
+      "category": "nature",
+      "distance": "15 km from Lunglei",
+      "rating": 4.4,
+      "latitude": 22.86,
+      "longitude": 92.72,
+      "description": "A scenic locality near Lunglei known for its beautiful hilltop trails, District Park, and the origin of the Tlawng River. Zobawk serves as a popular excursion point for hiking, picnics, and capturing the breathtaking beauty of the surrounding mountains and dense forests.",
+      "history": "Zobawk is significant as the origin point of the Zopui hills, from where the Tlawng — the longest river in Mizoram — begins its journey. The area has been developed as a tourism destination with parks and trails.",
+      "famousFor": "District Park, origin of Tlawng River, hilltop trails, hiking, panoramic views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "zobawk",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/sialsuk.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lunglei Viewpoint",
+          "city": "Lunglei",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "lunglei-viewpoint",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/durtlang-hills.webp"
+          }
+        }
+      ],
+      "id": "zobawk",
+      "heroImage": "assets/images/states/mizoram/sialsuk.webp"
+    },
+    {
+      "place_id": "miz-033",
+      "name": "Farpak",
+      "official_name": "Farpak",
+      "alternate_names": [
+        "Farpak Grassland"
+      ],
+      "former_names": [],
+      "city": "Lawngtlai",
+      "district": "Lawngtlai",
+      "category": "nature",
+      "distance": "Near Phawngpui",
+      "rating": 4.5,
+      "latitude": 22.66,
+      "longitude": 93.03,
+      "description": "A beautiful, wide-open grassland located within the Phawngpui National Park area. Farpak offers stunning panoramic views of the mountains, excellent birdwatching opportunities, and serves as a base camp for trekkers ascending the Blue Mountain. The area features forest bungalows for overnight stays.",
+      "history": "The name Farpak is derived from the Lai word meaning 'single pine tree', tied to local myths about spirits and gift exchanges. The grassland has been a traditional grazing ground and a stopping point for travelers visiting the Phawngpui area.",
+      "famousFor": "Grassland landscape, birdwatching, trekking base camp, forest bungalows.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "farpak",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/farpak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Phawngpui (Blue Mountain)",
+          "city": "Lawngtlai",
+          "distance": "5 km away",
+          "category": "hills",
+          "slug": "phawngpui-blue-mountain",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui.webp"
+          }
+        },
+        {
+          "name": "Phawngpui National Park",
+          "city": "Lawngtlai",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "phawngpui-national-park",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/phawngpui-national-park.webp"
+          },
+          "image": "assets/images/states/mizoram/phawngpui-national-park.webp"
+        }
+      ],
+      "id": "farpak",
+      "image": "assets/images/states/mizoram/farpak.webp",
+      "heroImage": "assets/images/states/mizoram/farpak.webp"
+    },
+    {
+      "place_id": "miz-034",
+      "name": "Vangchhia",
+      "official_name": "Vangchhia",
+      "alternate_names": [
+        "Vangchhia Monoliths"
+      ],
+      "former_names": [],
+      "city": "Champhai",
+      "district": "Champhai",
+      "category": "heritage",
+      "distance": "200 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 23.55,
+      "longitude": 93.2,
+      "description": "A mysterious archaeological site featuring ancient monoliths and stone carvings believed to date back several centuries. The site is associated with legends of a lost civilization and features intricately carved menhirs standing amidst dense forest, offering a glimpse into the ancient cultural history of the region.",
+      "history": "The monoliths at Vangchhia are believed to be remnants of an ancient civilization that once thrived in the Champhai district. The carvings on the stones depict human figures, animals, and geometric patterns, though their exact origin and purpose remain a subject of archaeological research and debate.",
+      "famousFor": "Ancient monoliths, lost civilization legends, archaeological mystery, stone carvings.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "vangchhia",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/vangchhia.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Champhai",
+          "city": "Champhai",
+          "distance": "15 km away",
+          "category": "cities",
+          "slug": "champhai",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/champhai.webp"
+          },
+          "image": "assets/images/states/mizoram/champhai.webp"
+        }
+      ],
+      "id": "vangchhia",
+      "image": "assets/images/states/mizoram/vangchhia.webp",
+      "heroImage": "assets/images/states/mizoram/vangchhia.webp"
+    },
+    {
+      "place_id": "miz-035",
+      "name": "Thorangtlang Wildlife Sanctuary",
+      "official_name": "Thorangtlang Wildlife Sanctuary",
+      "alternate_names": [],
+      "former_names": [],
+      "city": "Lunglei",
+      "district": "Lunglei",
+      "category": "wildlife",
+      "distance": "250 km from Aizawl",
+      "rating": 4.5,
+      "latitude": 22.5833,
+      "longitude": 92.6667,
+      "description": "A rich biodiversity sanctuary in the Lunglei district known for its pristine tropical forests, Hoolock Gibbons, endemic bird species, and diverse butterfly populations. The sanctuary provides excellent opportunities for wildlife photography and nature trekking through untouched forest trails.",
+      "history": "Established as a wildlife sanctuary to protect the unique biodiversity of the southern Mizoram region. The sanctuary is part of the Indo-Burma biodiversity hotspot and serves as a critical habitat for several endemic and endangered species.",
+      "famousFor": "Hoolock Gibbons, endemic birds, butterfly diversity, pristine forest treks.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "thorangtlang-wildlife-sanctuary",
+      "state": "Mizoram",
+      "images": {
+        "main": "assets/images/states/mizoram/thorangtlang-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lunglei Viewpoint",
+          "city": "Lunglei",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "lunglei-viewpoint",
+          "state": "Mizoram",
+          "images": {
+            "main": "assets/images/states/mizoram/farpak.webp"
+          }
+        }
+      ],
+      "id": "thorangtlang-wildlife-sanctuary",
+      "image": "assets/images/states/mizoram/thorangtlang-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/mizoram/thorangtlang-wildlife-sanctuary.webp"
+    }
+  ]
+}

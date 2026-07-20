@@ -1,0 +1,2248 @@
+{
+  "stateSlug": "andhra-pradesh",
+  "name": "Andhra Pradesh",
+  "capital": "Amaravati",
+  "tagline": "The Kohinoor of India",
+  "heroImage": "assets/images/states/andhra-pradesh/banner.webp",
+  "bestTime": "October to March",
+  "language": "Telugu",
+  "places": [
+    {
+      "name": "Tirupati Balaji Temple",
+      "city": "Tirumala",
+      "category": "temples",
+      "distance": "22 km from Tirupati",
+      "entryFee": "Free Darshan / ₹300 Special Darshan",
+      "rating": 4.9,
+      "description": "The Venkateswara Temple is a landmark Vaishnavite temple situated in the hill town of Tirumala. It is one of the richest and most visited religious sites in the world, drawing tens of thousands of pilgrims daily.",
+      "history": "Built over centuries beginning in the 8th century by various empires including the Pallavas, Cholas, and Vijayanagara empire. The temple is dedicated to Lord Venkateswara, an incarnation of Vishnu, who is believed to have appeared here to save mankind from trials and troubles of Kali Yuga.",
+      "famousFor": "Dravidian architecture, the spectacular gold-plated Vimana (Ananda Nilayam), the renowned Laddu Prasadam",
+      "bestTime": "September to February",
+      "timings": "2:30 AM – 1:30 AM (Darshan timings vary greatly depending on ticket type)",
+      "slug": "tirupati-balaji",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/tirupati-balaji.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chandragiri Fort",
+          "city": "Tirupati",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "chandragiri-fort",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/chandragiri-fort.webp"
+          }
+        },
+        {
+          "name": "Sri Venkateswara National Park",
+          "city": "Tirupati",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "sv-national-park",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/sv-national-park.webp"
+          }
+        }
+      ],
+      "id": "tirupati-balaji",
+      "heroImage": "assets/images/states/andhra-pradesh/tirupati-balaji.webp"
+    },
+    {
+      "name": "Kanaka Durga Temple",
+      "city": "Vijayawada",
+      "category": "temples",
+      "distance": "Indrakeeladri Hill",
+      "entryFee": "Free Darshan / ₹100, ₹300 Special Queues",
+      "rating": 4.7,
+      "description": "Situated on the Indrakeeladri Hill on the banks of Krishna River, this magnificent temple is dedicated to Goddess Kanaka Durga. It is one of the most visited temples in Andhra Pradesh, especially during the 10-day Dasara festival.",
+      "history": "Mentioned in many sacred texts including the Kalika Purana. Legend states that Goddess Durga defeated the demon Mahishasura here. Arjuna obtained the Pasupatha astra at this very site from Lord Shiva.",
+      "famousFor": "Dasara Navaratri festival, the beautiful golden Vimana, striking location atop the hill",
+      "bestTime": "September to February (Especially during Dasara)",
+      "timings": "4:00 AM – 9:00 PM (Closed briefly in afternoon)",
+      "slug": "kanaka-durga-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhavani Island",
+          "city": "Vijayawada",
+          "distance": "5 km away",
+          "category": "lakes",
+          "slug": "bhavani-island",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+          }
+        },
+        {
+          "name": "Undavalli Caves",
+          "city": "Vijayawada",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "undavalli-caves",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/undavalli-caves.webp"
+          }
+        },
+        {
+          "name": "Kondapalli Fort",
+          "city": "Vijayawada",
+          "distance": "19.5 km away",
+          "category": "heritage",
+          "slug": "kondapalli-fort",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kondapalli-fort.webp"
+          }
+        },
+        {
+          "name": "Vijayawada City",
+          "city": "Vijayawada",
+          "distance": "2 km away",
+          "category": "cities",
+          "slug": "vijayawada-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/vijayawada-city.webp"
+          }
+        }
+      ],
+      "id": "kanaka-durga-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+    },
+    {
+      "name": "Sri Mallikarjuna Swamy",
+      "city": "Srisailam",
+      "category": "temples",
+      "distance": "213 km from Hyderabad",
+      "entryFee": "Free (₹100 for special darshan)",
+      "rating": 4.8,
+      "description": "The Mallikarjuna Swamy Temple at Srisailam is one of the twelve Jyotirlinga temples of Lord Shiva and one of the eighteen Maha Shakti Peethas. Situated on the Nallamala Hills along the banks of the River Krishna, the temple combines spiritual significance with natural beauty.",
+      "history": "The temple dates back to the 2nd century CE with inscriptions from the Satavahana dynasty. Major expansions were done by the Vijayanagara Empire rulers. The temple complex includes the Srisailam Dam (Nagarjuna Sagar) on the Krishna River.",
+      "famousFor": "Jyotirlinga shrine, Shakti Peetham, Srisailam Dam, Patala Ganga, Nallamala Forest",
+      "bestTime": "August to March (monsoon brings lush greenery)",
+      "timings": "4:30 AM – 3:30 PM, 6:00 PM – 10:00 PM",
+      "slug": "srisailam-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/srisailam-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Srisailam Dam",
+          "city": "Srisailam",
+          "distance": "8 km",
+          "slug": "srisailam-dam",
+          "image": "assets/images/states/andhra-pradesh/srisailam-temple.webp"
+        },
+        {
+          "name": "Akka Mahadevi Caves",
+          "city": "Srisailam",
+          "distance": "5 km",
+          "slug": "akka-mahadevi-caves",
+          "image": "assets/images/states/andhra-pradesh/srisailam-temple.webp"
+        }
+      ],
+      "id": "srisailam-temple",
+      "image": "assets/images/states/andhra-pradesh/srisailam-temple.webp",
+      "heroImage": "assets/images/states/andhra-pradesh/srisailam-temple.webp"
+    },
+    {
+      "name": "Sri Kalahasti Temple",
+      "city": "Srikalahasti",
+      "category": "temples",
+      "distance": "36 km from Tirupati",
+      "entryFee": "Free / Special Darshan ₹200",
+      "rating": 4.8,
+      "description": "Known as the 'Kailash of the South', Sri Kalahasti is one of the most important ancient Shiva temples in India. It is famous for its Vayu Linga, representing the element of wind.",
+      "history": "Constructed in the 5th century during the Pallava period and later significantly expanded by the Chola and Vijayanagara empires. Legend says that a spider, snake, and elephant worshiped Lord Shiva here.",
+      "famousFor": "Rahu-Ketu Pooja, magnificent towering gopurams, intricate Dravidian architecture",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "slug": "sri-kalahasti-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/sri-kalahasti-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pulicat Lake",
+          "city": "Tirupati",
+          "distance": "11 km away",
+          "category": "wildlife",
+          "slug": "pulicat-lake",
+          "images": {
+            "main": "assets/images/popular/pulicat-lake.webp"
+          }
+        }
+      ],
+      "id": "sri-kalahasti-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/sri-kalahasti-temple.webp"
+    },
+    {
+      "name": "Simhachalam Temple",
+      "city": "Visakhapatnam",
+      "category": "temples",
+      "distance": "20 km from Vizag",
+      "entryFee": "Free / ₹100 Special Queue",
+      "rating": 4.7,
+      "description": "Dedicated to Lord Narasimha, an incarnation of Vishnu, situated on the pristine Simhachalam hill range. The deity is covered with sandalwood paste throughout the year, revealing his true form only on Akshaya Tritiya.",
+      "history": "Dates back to the 11th century with patronage from the Cholas and Eastern Gangas. It features a stunning mix of Kalinga and Dravidian architectural styles with over 500 ancient inscriptions.",
+      "famousFor": "Chandana Yatra (sandalwood festival), remarkable 16-pillared Mandapam, and panoramic views of Visakhapatnam.",
+      "bestTime": "September to March",
+      "timings": "7:00 AM – 4:00 PM, 6:00 PM – 9:00 PM",
+      "slug": "simhachalam-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kailasagiri Hill",
+          "city": "Visakhapatnam",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "R K Beach",
+          "city": "Visakhapatnam",
+          "distance": "18 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        },
+        {
+          "name": "Rushikonda Beach",
+          "city": "Visakhapatnam",
+          "distance": "19 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "Kambalakonda Sanctuary",
+          "city": "Visakhapatnam",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "kambalakonda-wildlife",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kambalakonda-wildlife.webp"
+          }
+        },
+        {
+          "name": "Visakhapatnam (Vizag)",
+          "city": "Visakhapatnam",
+          "distance": "20 km away",
+          "category": "cities",
+          "slug": "visakhapatnam-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+          }
+        }
+      ],
+      "id": "simhachalam-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+    },
+    {
+      "name": "Araku Valley",
+      "city": "Visakhapatnam",
+      "category": "nature",
+      "distance": "120 km from Visakhapatnam",
+      "entryFee": "Free (Tribal Museum: ₹30, Padmapuram Gardens: ₹30)",
+      "rating": 4.7,
+      "description": "Araku Valley is a picturesque hill station nestled in the Eastern Ghats at an elevation of 1,300 m. Known for its lush coffee plantations, tribal culture, and the stunning train journey through tunnels and bridges, it is one of the most beautiful valleys in India.",
+      "history": "Araku has been home to indigenous tribal communities for centuries. The valley gained prominence as a coffee-growing region when the British introduced coffee plantations in the early 20th century. The Araku Valley coffee is now internationally acclaimed.",
+      "famousFor": "Araku Coffee, Tribal Museum, Coffee plantations, Scenic train ride from Vizag, Padmapuram Gardens",
+      "bestTime": "October to March (cool, pleasant weather)",
+      "timings": "Open throughout the day",
+      "slug": "araku-valley",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/popular/araku-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Borra Caves",
+          "city": "Ananthagiri",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "borra-caves",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/borra-caves.webp"
+          }
+        }
+      ],
+      "id": "araku-valley",
+      "image": "assets/images/popular/araku-valley.webp",
+      "heroImage": "assets/images/popular/araku-valley.webp"
+    },
+    {
+      "name": "Borra Caves",
+      "city": "Visakhapatnam",
+      "category": "nature",
+      "distance": "90 km from Visakhapatnam",
+      "entryFee": "₹65 for adults, ₹35 for children",
+      "rating": 4.6,
+      "description": "Borra Caves are million-year-old natural limestone caves located in the Ananthagiri Hills of the Eastern Ghats at an elevation of about 1,400 m. The caves feature stunning stalactites and stalagmites formed over millions of years by the Gosthani River.",
+      "history": "Discovered in 1807 by British geologist William King, the caves hold religious significance for local tribal communities who worship a Shiva Lingam-shaped stalagmite inside. The caves span an area of about 2 sq km.",
+      "famousFor": "Stalactite and stalagmite formations, Natural Shiva Lingam, Deepest caves in India, Underground river",
+      "bestTime": "October to February",
+      "timings": "10:00 AM – 5:00 PM",
+      "slug": "borra-caves",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/borra-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Araku Valley",
+          "city": "Visakhapatnam",
+          "distance": "14 km away",
+          "category": "hills",
+          "slug": "araku-valley",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/araku-valley.webp"
+          }
+        }
+      ],
+      "id": "borra-caves",
+      "image": "assets/images/states/andhra-pradesh/borra-caves.webp",
+      "heroImage": "assets/images/states/andhra-pradesh/borra-caves.webp"
+    },
+    {
+      "name": "Rushikonda Beach",
+      "city": "Visakhapatnam",
+      "category": "beaches",
+      "distance": "8 km from Visakhapatnam city center",
+      "entryFee": "Free (water sports: ₹300–₹2,000)",
+      "rating": 4.5,
+      "description": "Rushikonda Beach is a golden-sand beach along the Bay of Bengal, considered one of the best beaches in South India. The beach is a popular destination for water sports including surfing, jet skiing, and scuba diving, with gentle waves and clean shoreline.",
+      "history": "The name Rushikonda comes from the Telugu words for \"Hill of the Sages.\" The beach and surrounding hills have been a scenic retreat for centuries. It has recently been developed as a major tourism hub with international-standard facilities.",
+      "famousFor": "Water sports, Surfing, Golden sands, Sunrise views, Hill trekking",
+      "bestTime": "October to February",
+      "timings": "5:00 AM – 7:00 PM (water sports: 9:00 AM – 5:00 PM)",
+      "slug": "rushikonda-beach",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/popular/rushikonda-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kailasagiri Hill Park",
+          "city": "Visakhapatnam",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "R K Beach",
+          "city": "Visakhapatnam",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        },
+        {
+          "name": "Submarine Museum",
+          "city": "Visakhapatnam",
+          "distance": "11 km away",
+          "category": "heritage",
+          "slug": "submarine-museum",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/submarine-museum.webp"
+          }
+        },
+        {
+          "name": "Kambalakonda Sanctuary",
+          "city": "Visakhapatnam",
+          "distance": "12 km away",
+          "category": "wildlife",
+          "slug": "kambalakonda-wildlife",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kambalakonda-wildlife.webp"
+          }
+        },
+        {
+          "name": "Simhachalam Temple",
+          "city": "Visakhapatnam",
+          "distance": "19 km away",
+          "category": "temples",
+          "slug": "simhachalam-temple",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+          }
+        },
+        {
+          "name": "Visakhapatnam (Vizag)",
+          "city": "Visakhapatnam",
+          "distance": "14 km away",
+          "category": "cities",
+          "slug": "visakhapatnam-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+          }
+        }
+      ],
+      "id": "rushikonda-beach",
+      "image": "assets/images/popular/rushikonda-beach.webp",
+      "heroImage": "assets/images/popular/rushikonda-beach.webp"
+    },
+    {
+      "name": "R K Beach",
+      "city": "Visakhapatnam",
+      "category": "beaches",
+      "distance": "Vizag City",
+      "entryFee": "Free (Museums have entry fees)",
+      "rating": 4.5,
+      "description": "Ramakrishna Beach is the absolute vibrant heartbeat of Visakhapatnam city. A long, beautiful stretch of sand lined with museums, memorials, and bustling street food stalls.",
+      "history": "Named prominently after the Ramakrishna Mission ashram located right across the beach road. It has historically served as the primary gathering spot for the city's coastal celebrations.",
+      "famousFor": "INS Kursura Submarine Museum, TU-142 Aircraft Museum, Kali Temple",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "slug": "rk-beach",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Submarine Museum",
+          "city": "R K Beach",
+          "distance": "0.1 km away",
+          "category": "heritage",
+          "slug": "submarine-museum",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/submarine-museum.webp"
+          }
+        },
+        {
+          "name": "Kailasagiri Hill",
+          "city": "Visakhapatnam",
+          "distance": "10 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "Rushikonda Beach",
+          "city": "Visakhapatnam",
+          "distance": "14 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "Simhachalam Temple",
+          "city": "Visakhapatnam",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "simhachalam-temple",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+          }
+        },
+        {
+          "name": "Yarada Beach",
+          "city": "Visakhapatnam",
+          "distance": "15 km away",
+          "category": "beaches",
+          "slug": "yarada-beach",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/yarada-beach.webp"
+          }
+        },
+        {
+          "name": "Visakhapatnam (Vizag)",
+          "city": "Visakhapatnam",
+          "distance": "5 km away",
+          "category": "cities",
+          "slug": "visakhapatnam-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+          }
+        }
+      ],
+      "id": "rk-beach",
+      "heroImage": "assets/images/states/andhra-pradesh/rk-beach.webp"
+    },
+    {
+      "name": "Gandikota",
+      "city": "Kadapa",
+      "category": "heritage",
+      "distance": "15 km from Jammalamadugu",
+      "entryFee": "Free (Camping rates apply)",
+      "rating": 4.7,
+      "description": "Widely known as the 'Grand Canyon of India', Gandikota features a majestic fort guarding a spectacularly deep gorge carved by the Penna River through Erramala hills.",
+      "history": "Originated logically in 1123 AD by Kapa Raja but reached immense military significance under the Pemmasani Nayakas and Qutb Shahi dynasty. It stood virtually impenetrable for centuries.",
+      "famousFor": "The breathtaking gorge viewpoint, camping beneath the stars, the historic fort ruins",
+      "bestTime": "September to February",
+      "timings": "Open 24/7 (Fort sights best from 6:00 AM - 6:00 PM)",
+      "slug": "gandikota",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/gandikota.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gandikota",
+      "heroImage": "assets/images/states/andhra-pradesh/gandikota.webp"
+    },
+    {
+      "name": "Veerabhadra Temple",
+      "city": "Lepakshi",
+      "category": "heritage",
+      "distance": "120 km from Bangalore",
+      "entryFee": "Free",
+      "rating": 4.8,
+      "description": "A magnificent heritage village renowned for the Veerabhadra Temple. It showcases breathtaking Vijayanagara architectural mastery, including the famous dangling hanging pillar.",
+      "history": "Built in 1530 AD by brothers Virupanna and Veeranna. According to the Ramayana, the mythological bird Jatayu fell exactly here after fighting Ravana ('Le Pakshi' translates to 'Rise, bird').",
+      "famousFor": "The miraculous Hanging Pillar, incredible ceiling frescoes, and the colossal monolith Nandi bull carved from a single granite stone.",
+      "bestTime": "October to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "slug": "lepakshi",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/lepakshi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Horsley Hills",
+          "city": "Madanapalle",
+          "distance": "17 km away",
+          "category": "hills",
+          "slug": "horsley-hills",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/horsley-hills.webp"
+          }
+        }
+      ],
+      "id": "lepakshi",
+      "heroImage": "assets/images/states/andhra-pradesh/lepakshi.webp"
+    },
+    {
+      "name": "Belum Caves",
+      "city": "Kurnool",
+      "category": "nature",
+      "distance": "106 km from Kurnool",
+      "entryFee": "₹65 (Indians), ₹300 (Foreigners)",
+      "rating": 4.7,
+      "description": "The longest and second-largest cave system on the Indian subcontinent, famous for its sprawling stalactite and stalagmite formations stretching over 3.2 kilometers.",
+      "history": "Formed over tens of thousands of years by the continuous flow of underground water acting on limestone deposits. Jain and Buddhist monks occupied these caves centuries ago, leaving relics behind.",
+      "famousFor": "The Patalaganga (underground stream), the massive Kotilingalu chamber, the enormous Buddha statue outside",
+      "bestTime": "November to February",
+      "timings": "10:00 AM – 4:30 PM",
+      "slug": "belum-caves",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/belum-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Oravakallu Rock Garden",
+          "city": "Kurnool",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "oravakallu-rock-garden",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+          }
+        }
+      ],
+      "id": "belum-caves",
+      "heroImage": "assets/images/states/andhra-pradesh/belum-caves.webp"
+    },
+    {
+      "name": "Amaravati Stupa",
+      "city": "Amaravati",
+      "category": "heritage",
+      "distance": "35 km from Guntur",
+      "entryFee": "₹20 (Indians), ₹250 (Foreigners)",
+      "rating": 4.5,
+      "description": "One of the most consequential Buddhist monuments in India. Though largely in ruins today, it was once a colossal, beautifully carved stupa serving as a major seat of Mahayana Buddhism.",
+      "history": "Built during the reign of Ashoka (3rd century BCE) and expanded brilliantly by the Satavahanas. Many of its intricate marble reliefs are currently housed in global museums like the British Museum.",
+      "famousFor": "Priceless limestone carvings depicting Buddha's life, the grand Mahachaitya, and the adjacent archaeological museum.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Fridays)",
+      "slug": "amaravati-stupa",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/amaravati-stupa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhyana Buddha Statue",
+          "city": "Amaravati",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "dhyana-buddha",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/dhyana-buddha.webp"
+          }
+        }
+      ],
+      "id": "amaravati-stupa",
+      "heroImage": "assets/images/states/andhra-pradesh/amaravati-stupa.webp"
+    },
+    {
+      "name": "Dhyana Buddha Statue",
+      "city": "Amaravati",
+      "category": "heritage",
+      "distance": "35 km from Guntur",
+      "entryFee": "Free (Museum entry nominal)",
+      "rating": 4.6,
+      "description": "A colossal 125-foot statue of Lord Buddha depicted in a deep meditative posture. It stands majestically on the banks of the Krishna River, celebrating Amaravati's rich Buddhist legacy.",
+      "history": "It is a modern architectural marvel completed in 2015. However, it was built specifically to commemorate the ancient Mahachaitya that thrived in the region over two millennia ago.",
+      "famousFor": "The sheer scale of the 125-foot statue, the museum inside its lotus base, and beautifully maintained thematic park surroundings.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "slug": "dhyana-buddha",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/dhyana-buddha.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amaravati Stupa",
+          "city": "Amaravati",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "amaravati-stupa",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/amaravati-stupa.webp"
+          }
+        }
+      ],
+      "id": "dhyana-buddha",
+      "heroImage": "assets/images/states/andhra-pradesh/dhyana-buddha.webp"
+    },
+    {
+      "name": "Ahobilam Temple",
+      "city": "Allagadda",
+      "category": "temples",
+      "distance": "70 km from Nandyal",
+      "entryFee": "Free",
+      "rating": 4.8,
+      "description": "A profoundly sacred complex spread across the Nallamala Hills, encompassing nine different temples dedicated to the nine distinct forms of Lord Narasimha (Nava Narasimha).",
+      "history": "Extensively developed during the Vijayanagara era (15th-16th century). It is believed to be the exact location where Lord Narasimha slew the demon king Hiranyakashipu.",
+      "famousFor": "Intense trekking routes through forests, Lower and Upper Ahobilam division, and massive carved pillars.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 1:00 PM, 3:00 PM – 8:00 PM",
+      "slug": "ahobilam-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/ahobilam-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "ahobilam-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/ahobilam-temple.webp"
+    },
+    {
+      "name": "Annavaram Temple",
+      "city": "Annavaram",
+      "category": "temples",
+      "distance": "72 km from Rajahmundry",
+      "entryFee": "Free / Vratam ₹150+",
+      "rating": 4.6,
+      "description": "Situated firmly on Ratnagiri hill, this splendid temple dedicated to Lord Veera Venkata Satyanarayana Swamy is the second most visited temple in Andhra Pradesh after Tirupati.",
+      "history": "Built originally in 1891 by Raja Ramanarayana contextually inspired by Puranas referencing the Lord of truth and immense wealth.",
+      "famousFor": "Satyanarayana Vratam (thousands perform this daily), striking chariot-shaped architecture, and the Pampa river view.",
+      "bestTime": "Throughout the year",
+      "timings": "6:00 AM – 9:00 PM",
+      "slug": "annavaram-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/annavaram-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "annavaram-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/annavaram-temple.webp"
+    },
+    {
+      "name": "Mantralayam",
+      "city": "Kurnool",
+      "category": "temples",
+      "distance": "75 km from Kurnool",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "description": "A deeply serene pilgrimage center located along the banks of the Tungabhadra River. It is famous for the Brindavan (tomb) of the eminent Vaishnava saint Sri Raghavendra Swamy.",
+      "history": "Sri Raghavendra Swamy (1595–1671) is believed to have entered alive into his samadhi (Brindavan) here in 1671 and remains in a state of deep meditation.",
+      "famousFor": "Raghavendra Swamy Mutt, massive charity dining, clean spiritual atmosphere",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 2:00 PM, 4:00 PM – 9:00 PM",
+      "slug": "mantralayam",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/mantralayam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Oravakallu Rock Garden",
+          "city": "Kurnool",
+          "distance": "17 km away",
+          "category": "nature",
+          "slug": "oravakallu-rock-garden",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+          }
+        }
+      ],
+      "id": "mantralayam",
+      "heroImage": "assets/images/states/andhra-pradesh/mantralayam.webp"
+    },
+    {
+      "name": "Kailasagiri Hill Park",
+      "city": "Visakhapatnam",
+      "category": "hills",
+      "distance": "Vizag City",
+      "entryFee": "₹20 (Ropeway/Train extra)",
+      "rating": 4.5,
+      "description": "A spectacularly developed hilltop park overlooking the Bay of Bengal and Visakhapatnam city. The park offers phenomenal panoramic ocean views and a famous ropeway car ride.",
+      "history": "Developed by VUDA (Visakhapatnam Urban Development Authority) into an eco-rich bio-park. It features gigantic 40-foot tall white statues of Lord Shiva and Goddess Parvati.",
+      "famousFor": "The breathtaking ropeway cable car, massive Shiva-Parvati statues, floral clock",
+      "bestTime": "September to March",
+      "timings": "10:00 AM – 8:00 PM",
+      "slug": "kailasagiri",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "R K Beach",
+          "city": "Vizag",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        },
+        {
+          "name": "Rushikonda Beach",
+          "city": "Vizag",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "Simhachalam Temple",
+          "city": "Vizag",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "simhachalam-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+          }
+        },
+        {
+          "name": "Submarine Museum",
+          "city": "Visakhapatnam",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "submarine-museum",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/submarine-museum.webp"
+          }
+        },
+        {
+          "name": "Kambalakonda Sanctuary",
+          "city": "Visakhapatnam",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "kambalakonda-wildlife",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kambalakonda-wildlife.webp"
+          }
+        },
+        {
+          "name": "Visakhapatnam (Vizag)",
+          "city": "Visakhapatnam",
+          "distance": "8 km away",
+          "category": "cities",
+          "slug": "visakhapatnam-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+          }
+        }
+      ],
+      "id": "kailasagiri",
+      "heroImage": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+    },
+    {
+      "name": "Papikondalu",
+      "city": "Rajahmundry",
+      "category": "nature",
+      "distance": "Godavari River",
+      "entryFee": "₹800 to ₹1500 (Cruise Packages)",
+      "rating": 4.6,
+      "description": "A spectacularly breathtaking mountain range running along the majestic Godavari River. The scenic boat ride cutting through the narrow gorge flanked by the Papi hills is legendary.",
+      "history": "Mythology connects these ranges to Lord Rama and Sita during their exile in the Dandakaranya forest. The tribes here practice ancient traditions and agriculture.",
+      "famousFor": "Multi-day Godavari river boat cruises, Kolluru bamboo hut camping, and dense tropical rainforest scenery.",
+      "bestTime": "October to January",
+      "timings": "7:00 AM – 5:00 PM (Boats leave by 8 AM)",
+      "slug": "papikondalu",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/papikondalu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Draksharamam Temple",
+          "city": "Rajahmundry",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "draksharamam",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/draksharamam.webp"
+          }
+        },
+        {
+          "name": "Konaseema (Venice of India)",
+          "city": "East Godavari",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "konaseema",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/konaseema.webp"
+          }
+        },
+        {
+          "name": "Rajahmundry (Rajamahendravaram)",
+          "city": "East Godavari",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "rajahmundry-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rajahmundry-city.webp"
+          }
+        }
+      ],
+      "id": "papikondalu",
+      "heroImage": "assets/images/states/andhra-pradesh/papikondalu.webp"
+    },
+    {
+      "name": "Talakona Waterfalls",
+      "city": "Chittoor",
+      "category": "waterfalls",
+      "distance": "60 km from Tirupati",
+      "entryFee": "₹50 (Vehicle extra)",
+      "rating": 4.6,
+      "description": "Dropping from a height of 270 feet, Talakona is the highest waterfall in Andhra Pradesh. Nestled deeply within the Sri Venkateswara National Park, the waters are believed to have therapeutic properties.",
+      "history": "The forest surrounding the falls boasts incredibly rich biodiversity, recognized as a Biosphere Reserve. Lord Siddheswara Swamy Temple is situated incredibly close to the falls.",
+      "famousFor": "270-foot plunging waterfall, dense sandalwood tree forests, exhilarating canopy rope walks",
+      "bestTime": "September to January",
+      "timings": "6:00 AM – 5:30 PM",
+      "slug": "talakona-waterfalls",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/talakona-waterfalls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Horsley Hills",
+          "city": "Madanapalle",
+          "distance": "11 km away",
+          "category": "hills",
+          "slug": "horsley-hills",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/horsley-hills.webp"
+          }
+        },
+        {
+          "name": "Sri Venkateswara National Park",
+          "city": "Tirupati",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "sv-national-park",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/sv-national-park.webp"
+          }
+        }
+      ],
+      "id": "talakona-waterfalls",
+      "heroImage": "assets/images/states/andhra-pradesh/talakona-waterfalls.webp"
+    },
+    {
+      "name": "Yarada Beach",
+      "city": "Visakhapatnam",
+      "category": "beaches",
+      "distance": "15 km from Vizag",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "description": "An incredibly pristine, golden sand beach surrounded beautifully by lush green hills on three sides and the magnificent Bay of Bengal on the fourth.",
+      "history": "Hidden behind the Dolphin's Nose mountain, it has remained largely uncommercialized, retaining its spotless natural beauty away from the main city's chaos.",
+      "famousFor": "Breathtaking secluded sunrises, the Dolphin's Nose Lighthouse overlooking the beach, and clean golden sands.",
+      "bestTime": "November to February",
+      "timings": "Open 24/7 (Avoid swimming due to steep drop-offs)",
+      "slug": "yarada-beach",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/yarada-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "R K Beach",
+          "city": "Vizag",
+          "distance": "15 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        }
+      ],
+      "id": "yarada-beach",
+      "heroImage": "assets/images/states/andhra-pradesh/yarada-beach.webp"
+    },
+    {
+      "name": "Ethipothala Falls",
+      "city": "Macherla",
+      "category": "waterfalls",
+      "distance": "11 km from Nagarjuna Sagar",
+      "entryFee": "₹20",
+      "rating": 4.4,
+      "description": "A stunning 70-foot high river cascade formed by the confluence of three mountain streams falling into a lagoon. It also houses a crocodile breeding center.",
+      "history": "The name Ethipothala is derived from Telugu, literally meaning 'lift and pour', referring to the local river lifting scheme. It has archaeological importance due to ancient caves nearby.",
+      "famousFor": "The breathtaking waterfall viewpoint at dusk (illuminated by lights), the Crocodile breeding centre, and Dattatreya Swamy temple.",
+      "bestTime": "July to October (Monsoon)",
+      "timings": "6:30 AM – 9:00 PM",
+      "slug": "ethipothala-falls",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/ethipothala-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nagarjunakonda",
+          "city": "Macherla",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "nagarjunakonda",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/nagarjunakonda.webp"
+          }
+        }
+      ],
+      "id": "ethipothala-falls",
+      "heroImage": "assets/images/states/andhra-pradesh/ethipothala-falls.webp"
+    },
+    {
+      "name": "Kondapalli Fort",
+      "city": "Vijayawada",
+      "category": "heritage",
+      "distance": "24 km from Vijayawada",
+      "entryFee": "₹15 (Adults)",
+      "rating": 4.3,
+      "description": "A historic 14th-century mountain fortress stretching across the Eastern Ghats. Overlooking the scenic Krishna valley, it's famous for supplying the soft wood used to make Kondapalli toys.",
+      "history": "Built by the Musunuri Nayakas in 1360. Over the centuries, it witnessed epic sieges and was controlled by the Reddy Dynasty, Gajapatis, Vijayanagara Empire, and eventually the British.",
+      "famousFor": "Majestic Dargah Darwaza entrance, the historic Dancing Hall, and the vibrant local Kondapalli wooden toy industry.",
+      "bestTime": "September to February",
+      "timings": "10:30 AM – 5:00 PM",
+      "slug": "kondapalli-fort",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kondapalli-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanaka Durga Temple",
+          "city": "Vijayawada",
+          "distance": "19.5 km away",
+          "category": "temples",
+          "slug": "kanaka-durga-temple",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+          }
+        }
+      ],
+      "id": "kondapalli-fort",
+      "heroImage": "assets/images/states/andhra-pradesh/kondapalli-fort.webp"
+    },
+    {
+      "name": "Chandragiri Fort",
+      "city": "Tirupati",
+      "category": "heritage",
+      "distance": "15 km from Tirupati",
+      "entryFee": "₹25 / Light Show ₹40",
+      "rating": 4.4,
+      "description": "A stunning 11th-century fort comprising the Raja Mahal (King’s Palace) and Rani Mahal (Queen’s Palace), entirely constructed without using timber. It rests beautifully against a massive granite hill backdrop.",
+      "history": "Built initially by Yadava rays, it rose to prominence as the final capital of the mighty Vijayanagara Empire after the calamitous battle of Talikota. The British acquired lands for Fort St. George (Chennai) from the king residing here.",
+      "famousFor": "Indo-Saracenic architecture of the Mahals, laser light & sound show, and profound Vijayanagara history.",
+      "bestTime": "September to February",
+      "timings": "9:00 AM – 5:00 PM (Light show at 6:30 PM)",
+      "slug": "chandragiri-fort",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/chandragiri-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tirupati Balaji",
+          "city": "Tirupati",
+          "distance": "18 km away",
+          "category": "temples",
+          "slug": "tirupati-balaji",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/tirupati-balaji.webp"
+          }
+        },
+        {
+          "name": "Sri Venkateswara National Park",
+          "city": "Tirupati",
+          "distance": "19 km away",
+          "category": "wildlife",
+          "slug": "sv-national-park",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/sv-national-park.webp"
+          }
+        }
+      ],
+      "id": "chandragiri-fort",
+      "heroImage": "assets/images/states/andhra-pradesh/chandragiri-fort.webp"
+    },
+    {
+      "name": "Submarine Museum",
+      "city": "Visakhapatnam",
+      "category": "heritage",
+      "distance": "R K Beach",
+      "entryFee": "₹40",
+      "rating": 4.6,
+      "description": "The first submarine museum in Asia. The INS Kursura (S20), an authentic decommissioned Indian Navy submarine, was hauled up onto the sands of R K Beach and converted into a magnificent museum.",
+      "history": "INS Kursura played a vital role in the 1971 Indo-Pak war. It was decommissioned in 2001 and established as a museum by the Eastern Naval Command.",
+      "famousFor": "Walking inside a real Soviet-built submarine, exploring torpedo tubes, crew quarters",
+      "bestTime": "Throughout the year",
+      "timings": "2:00 PM – 8:30 PM (Closed Mondays)",
+      "slug": "submarine-museum",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/submarine-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kailasagiri Hill",
+          "city": "Vizag",
+          "distance": "10 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "Rushikonda Beach",
+          "city": "Visakhapatnam",
+          "distance": "11 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "R K Beach",
+          "city": "Visakhapatnam",
+          "distance": "0.1 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        }
+      ],
+      "id": "submarine-museum",
+      "heroImage": "assets/images/states/andhra-pradesh/submarine-museum.webp"
+    },
+    {
+      "name": "Bhavani Island",
+      "city": "Vijayawada",
+      "category": "nature",
+      "distance": "Krishna River",
+      "entryFee": "₹150 (Includes Ferry)",
+      "rating": 4.3,
+      "description": "One of the largest river islands in India, situated right in the middle of the mighty Krishna River. It is a stunning 133-acre eco-resort developed brilliantly for recreation.",
+      "history": "Named in honor of Goddess Bhavani (Kanaka Durga) whose temple is situated on the adjacent Indrakeeladri hill. It was developed into a premium resort island by APTDC.",
+      "famousFor": "Exhilarating water sports, treetop cottages, floating restaurants",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM (Resort open 24/7)",
+      "slug": "bhavani-island",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanaka Durga Temple",
+          "city": "Vijayawada",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "kanaka-durga-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+          }
+        },
+        {
+          "name": "Undavalli Caves",
+          "city": "Vijayawada",
+          "distance": "9 km away",
+          "category": "heritage",
+          "slug": "undavalli-caves",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/undavalli-caves.webp"
+          }
+        },
+        {
+          "name": "Kolleru Lake",
+          "city": "Eluru",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "kolleru-lake",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kolleru-lake.webp"
+          }
+        },
+        {
+          "name": "Vijayawada City",
+          "city": "Vijayawada",
+          "distance": "3 km away",
+          "category": "cities",
+          "slug": "vijayawada-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/vijayawada-city.webp"
+          }
+        }
+      ],
+      "id": "bhavani-island",
+      "heroImage": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+    },
+    {
+      "name": "Nagarjunakonda",
+      "city": "Macherla",
+      "category": "heritage",
+      "distance": "150 km from Guntur",
+      "entryFee": "₹20 (Museum), ₹150 (Ferry)",
+      "rating": 4.5,
+      "description": "A magnificent historical island nestled deep inside the Nagarjuna Sagar reservoir. It houses crucial Buddhist ruins from ancient universities and beautifully reconstructed stupas.",
+      "history": "Named after the pioneering 2nd-century Mahayana Buddhist master Nagarjuna. When the modern dam was built, brilliant massive excavations saved these ruins from being permanently submerged.",
+      "famousFor": "The phenomenal island archaeological museum, ancient Buddhist relics, and the breathtaking boat ride to the island.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:00 PM (Ferry timings apply)",
+      "slug": "nagarjunakonda",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/nagarjunakonda.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ethipothala Falls",
+          "city": "Macherla",
+          "distance": "15 km away",
+          "category": "waterfalls",
+          "slug": "ethipothala-falls",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/ethipothala-falls.webp"
+          }
+        }
+      ],
+      "id": "nagarjunakonda",
+      "heroImage": "assets/images/states/andhra-pradesh/nagarjunakonda.webp"
+    },
+    {
+      "name": "Yaganti Temple",
+      "city": "Nandyal",
+      "category": "temples",
+      "distance": "80 km from Kurnool",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "description": "An incredibly unique Shiva temple situated in a gorge. What makes Yaganti extraordinary is its continuously growing Nandi statue and its strict prohibition of crows.",
+      "history": "Built in the 15th century by King Harihara Bukka Raya of the Vijayanagara Empire. Sage Agastya originally wished to build a Venkateswara temple here but due to a broken toe idol, a Shiva temple was established instead.",
+      "famousFor": "The magically growing Nandi idol (scientifically confirmed to be expanding), Pushkarini waters feeding from hill springs, and Agastya Cave.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 1:00 PM, 3:00 PM – 8:00 PM",
+      "slug": "yaganti-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/yaganti-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "yaganti-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/yaganti-temple.webp"
+    },
+    {
+      "name": "Lambasingi",
+      "city": "Chintapalle",
+      "category": "hills",
+      "distance": "100 km from Vizag",
+      "entryFee": "Free",
+      "rating": 4.4,
+      "description": "Universally dubbed the 'Kashmir of Andhra Pradesh', this is the only place in Southern India where you can experience snowfall (hoar frost) during extreme winters.",
+      "history": "Developed out of obscurity in the last two decades. The village sits at an altitude of 1000 meters, historically home to isolated tribal communities before becoming an eco-tourism hotspot.",
+      "famousFor": "Freezing winter temperatures (often dropping below 0°C), strawberry picking farms, apple orchards",
+      "bestTime": "November to January",
+      "timings": "Open 24/7 (Mornings before 8 AM for frost)",
+      "slug": "lambasingi",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/lambasingi.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lambasingi",
+      "heroImage": "assets/images/states/andhra-pradesh/lambasingi.webp"
+    },
+    {
+      "name": "Horsley Hills",
+      "city": "Madanapalle",
+      "category": "hills",
+      "distance": "26 km from Madanapalle",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "description": "A picturesque hill station offering incredibly calm weather, beautiful viewpoints, and thick foliage. Known as the 'Ooty of Andhra', it stands at an altitude of 1,290 meters.",
+      "history": "Named after W D Horsley, a British collector of Kadapa district who made this area his summer resort in 1870. The historical bungalow he built still stands there.",
+      "famousFor": "The majestic Kalyani eucalyptus tree (over 160 years old), Galibanda viewpoint, Governor's Bungalow",
+      "bestTime": "December to March",
+      "timings": "Open 24/7",
+      "slug": "horsley-hills",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/horsley-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Talakona Waterfalls",
+          "city": "Chittoor",
+          "distance": "11 km away",
+          "category": "waterfalls",
+          "slug": "talakona-waterfalls",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/talakona-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Lepakshi Temple",
+          "city": "Anantapur",
+          "distance": "17 km away",
+          "category": "heritage",
+          "slug": "lepakshi",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/lepakshi.webp"
+          }
+        }
+      ],
+      "id": "horsley-hills",
+      "heroImage": "assets/images/states/andhra-pradesh/horsley-hills.webp"
+    },
+    {
+      "name": "Maredumilli",
+      "city": "Rajahmundry",
+      "category": "nature",
+      "distance": "85 km from Rajahmundry",
+      "entryFee": "₹50 (Eco-Tourism entry)",
+      "rating": 4.5,
+      "description": "A magnificent eco-tourism project hidden deep in the East Godavari district. Dense forests, rolling hills, incredibly pristine streams, and the famous 'Bamboo Chicken' define this paradise.",
+      "history": "Maintained by the local tribal communities and the AP Forest Department under a unique eco-tourism initiative. The forests are incredibly ancient and largely untouched.",
+      "famousFor": "Jalatarangini & Swarnadhara waterfalls, Madanapunjoli bio-diversity area, and explicitly for the world-famous local Bamboo Chicken delicacy.",
+      "bestTime": "August to December",
+      "timings": "8:00 AM – 5:00 PM",
+      "slug": "maredumilli",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/maredumilli.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "maredumilli",
+      "heroImage": "assets/images/states/andhra-pradesh/maredumilli.webp"
+    },
+    {
+      "name": "Coringa Wildlife Sanctuary",
+      "city": "Kakinada",
+      "category": "wildlife",
+      "distance": "22 km from Kakinada",
+      "entryFee": "₹50 (Boating extra ~₹600)",
+      "rating": 4.4,
+      "description": "The second largest stretch of mangrove forests in India (after the Sundarbans). Coringa is a spectacular estuary ecosystem featuring winding rivers and immense biodiversity.",
+      "history": "Declared a wildlife sanctuary in 1978. It protects extremely rare flora and acts as a massive natural barrier protecting Kakinada from cyclones.",
+      "famousFor": "The incredible 18-km long sandpit (Hope Island), spotting Fishing Cats, Crocodiles",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 5:00 PM (Closed on Tuesdays)",
+      "slug": "coringa-wildlife",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/coringa-wildlife.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hope Island",
+          "city": "Kakinada",
+          "distance": "15 km away",
+          "category": "beaches",
+          "slug": "hope-island",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/hope-island.webp"
+          }
+        },
+        {
+          "name": "Konaseema (Venice of India)",
+          "city": "East Godavari",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "konaseema",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/konaseema.webp"
+          }
+        }
+      ],
+      "id": "coringa-wildlife",
+      "heroImage": "assets/images/states/andhra-pradesh/coringa-wildlife.webp"
+    },
+    {
+      "name": "Pulicat Lake",
+      "city": "Tirupati",
+      "category": "wildlife",
+      "distance": "60 km from Nellore",
+      "entryFee": "Free (Boat rentals vary)",
+      "rating": 4.4,
+      "description": "The second largest brackish-water eco-system in India after Chilika Lake. It spans across the Andhra-Tamil Nadu border and is an absolute paradise for migratory birds.",
+      "history": "An incredibly ancient lagoon. During the 17th century, the Dutch heavily utilized the lake setting up fortresses nearby, notably Fort Geldria.",
+      "famousFor": "The annual Flamingo Festival (December-January), massive flocks of pelicans, and serene boating near the SHAR space center.",
+      "bestTime": "December to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "slug": "pulicat-lake",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/pulicat-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Kalahasti Temple",
+          "city": "Srikalahasti",
+          "distance": "11 km away",
+          "category": "temples",
+          "slug": "sri-kalahasti-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/sri-kalahasti-temple.webp"
+          }
+        },
+        {
+          "name": "Nelapattu Bird Sanctuary",
+          "city": "Tirupati",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "nelapattu-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/nelapattu-bird-sanctuary.webp"
+          }
+        }
+      ],
+      "id": "pulicat-lake",
+      "heroImage": "assets/images/states/andhra-pradesh/pulicat-lake.webp"
+    },
+    {
+      "name": "Kolleru Lake",
+      "city": "Eluru",
+      "category": "nature",
+      "distance": "20 km from Eluru",
+      "entryFee": "Free",
+      "rating": 4.3,
+      "description": "The largest freshwater lake in India, situated beautifully between the Krishna and Godavari deltas. It is a stunning, vast wetland serving as a prime wintering ground for birds.",
+      "history": "Has a strong historical mention in the copper plates of the Pallavas and served as a defensive fort for the Gajapatis. Designated as a Ramsar Wetland of International Importance.",
+      "famousFor": "Housing the Kolleru Bird Sanctuary, millions of migratory birds tracking from Siberia, and the Atapaka Pelicanry.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "slug": "kolleru-lake",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kolleru-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhavani Island",
+          "city": "Vijayawada",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "bhavani-island",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+          }
+        }
+      ],
+      "id": "kolleru-lake",
+      "heroImage": "assets/images/states/andhra-pradesh/kolleru-lake.webp"
+    },
+    {
+      "name": "Nelapattu Bird Sanctuary",
+      "city": "Tirupati",
+      "category": "wildlife",
+      "distance": "80 km from Tirupati",
+      "entryFee": "₹15",
+      "rating": 4.6,
+      "description": "One of the most reputed bird sanctuaries in Southern India, primarily famous as a massive breeding ground for the extremely rare Spot-Billed Pelicans.",
+      "history": "Established logically to protect the Barringtonia trees which are the absolute favorite nesting grounds for Pelicans coming from Southeast Asia.",
+      "famousFor": "Spot-Billed Pelicans, Open-Billed Storks, massive nesting viewing towers",
+      "bestTime": "December to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "slug": "nelapattu-bird-sanctuary",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/nelapattu-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pulicat Lake",
+          "city": "Nellore",
+          "distance": "20 km away",
+          "category": "lakes",
+          "slug": "pulicat-lake",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/popular/pulicat-lake.webp"
+          }
+        }
+      ],
+      "id": "nelapattu-bird-sanctuary",
+      "heroImage": "assets/images/states/andhra-pradesh/nelapattu-bird-sanctuary.webp"
+    },
+    {
+      "name": "Uppalapadu Bird Sanctuary",
+      "city": "Guntur",
+      "category": "wildlife",
+      "distance": "6 km from Guntur",
+      "entryFee": "₹15",
+      "rating": 4.5,
+      "description": "A surprisingly compact but incredibly dense water tank sanctuary located intimately close to Guntur. The sanctuary is phenomenally crowded with birds, turning the trees entirely white with nests.",
+      "history": "Initiated naturally over the past decades by migratory birds like Painted Storks which aggressively chose these small village tanks due to local villager protection.",
+      "famousFor": "Being deafeningly loud with thousands of Painted Storks and Pelicans concentrated into a tiny 4-acre tank.",
+      "bestTime": "September to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "slug": "uppalapadu-bird-sanctuary",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/uppalapadu-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "uppalapadu-bird-sanctuary",
+      "heroImage": "assets/images/states/andhra-pradesh/uppalapadu-bird-sanctuary.webp"
+    },
+    {
+      "name": "Rollapadu Wildlife",
+      "city": "Kurnool",
+      "category": "wildlife",
+      "distance": "40 km from Kurnool",
+      "entryFee": "₹20",
+      "rating": 4.3,
+      "description": "A vast, dry grassland sanctuary specifically established to fiercely protect the critically endangered Great Indian Bustard.",
+      "history": "Established in 1988 upon the thrilling discovery of the Great Indian Bustard in the area. It acts as an incredible example of dry-land semi-arid ecology conservation.",
+      "famousFor": "The majestic Great Indian Bustard, Lesser Florican, Blackbucks",
+      "bestTime": "October to February",
+      "timings": "7:00 AM – 5:00 PM",
+      "slug": "rollapadu-wildlife",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/rollapadu-wildlife.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Oravakallu Rock Garden",
+          "city": "Kurnool",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "oravakallu-rock-garden",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+          }
+        }
+      ],
+      "id": "rollapadu-wildlife",
+      "heroImage": "assets/images/states/andhra-pradesh/rollapadu-wildlife.webp"
+    },
+    {
+      "name": "Kambalakonda Sanctuary",
+      "city": "Visakhapatnam",
+      "category": "wildlife",
+      "distance": "20 km from Vizag",
+      "entryFee": "₹10 (Activities extra)",
+      "rating": 4.4,
+      "description": "A magnificent green reserve located literally on the outskirts of Visakhapatnam city. It offers excellent nature trails, adventurous night safaris, and a rich leopard population.",
+      "history": "Named after the local hill Kambalakonda, the sanctuary covers 70 square kilometers of Eastern Ghats dry evergreen forest.",
+      "famousFor": "The elusive Indian Leopard, Indian Muntjac, brilliant zip-lining eco-park",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 4:30 PM",
+      "slug": "kambalakonda-wildlife",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kambalakonda-wildlife.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rushikonda Beach",
+          "city": "Visakhapatnam",
+          "distance": "12 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "Kailasagiri Hill",
+          "city": "Visakhapatnam",
+          "distance": "10 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "Simhachalam Temple",
+          "city": "Vizag",
+          "distance": "5 km away",
+          "category": "temples",
+          "slug": "simhachalam-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+          }
+        }
+      ],
+      "id": "kambalakonda-wildlife",
+      "heroImage": "assets/images/states/andhra-pradesh/kambalakonda-wildlife.webp"
+    },
+    {
+      "name": "Suryalanka Beach",
+      "city": "Bapatla",
+      "category": "beaches",
+      "distance": "9 km from Bapatla",
+      "entryFee": "Free",
+      "rating": 4.3,
+      "description": "A sprawling, flat, and wide beach sweeping along the Bay of Bengal. It is incredibly popular for swimming and weekend getaways due to its gentle slope and beautiful sunrises.",
+      "history": "Located near the historic town of Bapatla. It has gained massive popularity in recent years due to the excellent beach resorts built right on the sandy shore.",
+      "famousFor": "Safe, flat swimming waters, stunning uninterrupted sunrises",
+      "bestTime": "November to February",
+      "timings": "Open 24/7",
+      "slug": "suryalanka-beach",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/suryalanka-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "suryalanka-beach",
+      "heroImage": "assets/images/states/andhra-pradesh/suryalanka-beach.webp"
+    },
+    {
+      "name": "Mypadu Beach",
+      "city": "Nellore",
+      "category": "beaches",
+      "distance": "25 km from Nellore",
+      "entryFee": "Free",
+      "rating": 4.2,
+      "description": "An incredibly scenic and less crowded beach featuring golden sands and incredibly lush green vegetation lining the coast. The waters here are captivatingly crystal clear.",
+      "history": "Maintained by the Andhra Pradesh Tourism Board to provide highly relaxing, crowd-free experiences compared to city beaches.",
+      "famousFor": "Pristine clear waters, ATV rides on the sand, secluded sunset walks",
+      "bestTime": "December to February",
+      "timings": "Open 24/7",
+      "slug": "mypadu-beach",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/mypadu-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mypadu-beach",
+      "heroImage": "assets/images/states/andhra-pradesh/mypadu-beach.webp"
+    },
+    {
+      "name": "Draksharamam Temple",
+      "city": "Kakinada",
+      "category": "temples",
+      "distance": "28 km from Kakinada",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "description": "Known as 'Dakshina Kashi' (Kashi of the South), this monumental Shiva temple is one of the five powerful Pancharama Kshetras. The awe-inspiring Crystal Lingam here spans two floors.",
+      "history": "Originally constructed between the 9th and 10th centuries by the Eastern Chalukyan king Bhima. Mythology states the Lingam fell here when Lord Shiva shattered the demon Tarakasura's colossal Lingam.",
+      "famousFor": "14-foot tall Crystal Shiva Lingam, massive fortress-like ancient walls, and exquisite 11th-century inscriptions.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 12:00 PM, 3:00 PM – 8:00 PM",
+      "slug": "draksharamam",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/draksharamam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Papikondalu",
+          "city": "Rajahmundry",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "papikondalu",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/papikondalu.webp"
+          }
+        },
+        {
+          "name": "Konaseema (Venice of India)",
+          "city": "East Godavari",
+          "distance": "13 km away",
+          "category": "nature",
+          "slug": "konaseema",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/konaseema.webp"
+          }
+        },
+        {
+          "name": "Rajahmundry (Rajamahendravaram)",
+          "city": "East Godavari",
+          "distance": "11 km away",
+          "category": "cities",
+          "slug": "rajahmundry-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rajahmundry-city.webp"
+          }
+        }
+      ],
+      "id": "draksharamam",
+      "heroImage": "assets/images/states/andhra-pradesh/draksharamam.webp"
+    },
+    {
+      "name": "Sri Kurmam Temple",
+      "city": "Srikakulam",
+      "category": "temples",
+      "distance": "13 km from Srikakulam",
+      "entryFee": "Free",
+      "rating": 4.7,
+      "description": "The only Indian temple dedicated to the Kurma (Tortoise) avatar of Lord Vishnu. The majestic temple contains beautiful antique murals and an incredible conservatory for rare Star Tortoises.",
+      "history": "Dating back to the 2nd century AD, later rebuilt heavily by Cholas and Eastern Gangas. It features two Dhwaja Stambhas (flagpoles), an extremely rare characteristic.",
+      "famousFor": "The live turtle conservation park housing hundreds of ancient tortoises, its unique dual flagpoles, and fossilized stone carvings.",
+      "bestTime": "September to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "slug": "sri-kurmam-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/sri-kurmam-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Arasavalli Sun Temple",
+          "city": "Srikakulam",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "arasavalli-sun-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/arasavalli-sun-temple.webp"
+          }
+        }
+      ],
+      "id": "sri-kurmam-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/sri-kurmam-temple.webp"
+    },
+    {
+      "name": "Arasavalli Sun Temple",
+      "city": "Srikakulam",
+      "category": "temples",
+      "distance": "2 km from Srikakulam",
+      "entryFee": "Free",
+      "rating": 4.6,
+      "description": "One of the absolute rarest temples in India dedicated to the Sun God (Surya). Its precision architectural layout allows the sun's rays to directly touch the deity's feet twice a year.",
+      "history": "Built in the 7th century by the Kalinga king Devendra Varma. Historical accounts confirm it was visited by saints like Sri Chaitanya Mahaprabhu.",
+      "famousFor": "The Ratha Saptami festival, the miraculous architectural solar alignment, and the highly revered chariot procession.",
+      "bestTime": "February (Ratha Saptami)",
+      "timings": "6:00 AM – 8:00 PM",
+      "slug": "arasavalli-sun-temple",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/arasavalli-sun-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sri Kurmam Temple",
+          "city": "Srikurmam",
+          "distance": "14 km away",
+          "category": "temples",
+          "slug": "sri-kurmam-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/sri-kurmam-temple.webp"
+          }
+        }
+      ],
+      "id": "arasavalli-sun-temple",
+      "heroImage": "assets/images/states/andhra-pradesh/arasavalli-sun-temple.webp"
+    },
+    {
+      "name": "Kondareddy Buruju",
+      "city": "Kurnool",
+      "category": "heritage",
+      "distance": "City Center",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "description": "Also known as the Kurnool Fort gateway, this iconic bastion is synonymous with Kurnool city. Built beautifully at the city's heart, it features a secretive underground tunnel system.",
+      "history": "Constructed by the rulers of the Vijayanagara Empire. It earned its fame when Konda Reddy, a 17th-century ruler, was imprisoned here by the Nawab of Kurnool and famously escaped.",
+      "famousFor": "Iconic cinematic appearances, the hidden underground tunnels leading to Alampur, and great city views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "slug": "kondareddy-buruju",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/kondareddy-buruju.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Oravakallu Rock Garden",
+          "city": "Kurnool",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "oravakallu-rock-garden",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+          }
+        }
+      ],
+      "id": "kondareddy-buruju",
+      "heroImage": "assets/images/states/andhra-pradesh/kondareddy-buruju.webp"
+    },
+    {
+      "name": "Gooty Fort",
+      "city": "Gooty",
+      "category": "heritage",
+      "distance": "52 km from Anantapur",
+      "entryFee": "Free",
+      "rating": 4.3,
+      "description": "Renowned as the 'King of Forts' in Andhra Pradesh, Gooty Fort is one of the oldest hill forts in the state. Built upon a mammoth granite hill, its sheer shell-shaped structure makes it incredibly unique.",
+      "history": "Inscriptions here span from the 7th-century Western Chalukyas to the great Maratha ruler Shivaji, who conquered it without firing a shot using diplomacy.",
+      "famousFor": "Massive granite monolith foundation, containing over 15 embedded forts within its walls, and a pristine hilltop well.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 5:00 PM",
+      "slug": "gooty-fort",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/gooty-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gooty-fort",
+      "heroImage": "assets/images/states/andhra-pradesh/gooty-fort.webp"
+    },
+    {
+      "name": "Undavalli Caves",
+      "city": "Vijayawada",
+      "category": "heritage",
+      "distance": "8 km from Vijayawada",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "rating": 4.5,
+      "description": "An exquisite example of early Indian rock-cut architecture. These 4-story monolithic caves are carved out of solid sandstone hills and overlook the majestic Krishna river.",
+      "history": "Believed to be carved out in the 4th to 5th centuries AD by the Vishnukundina kings. Initially designed as a Buddhist sanctuary and later modified into a Hindu temple.",
+      "famousFor": "The massive 5-meter long monolithic sculpture of Lord Vishnu in a reclining posture (Anantasayana), and intricate pillar carvings.",
+      "bestTime": "September to February",
+      "timings": "9:00 AM – 6:00 PM",
+      "slug": "undavalli-caves",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/undavalli-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanaka Durga Temple",
+          "city": "Vijayawada",
+          "distance": "7 km away",
+          "category": "temples",
+          "slug": "kanaka-durga-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+          }
+        },
+        {
+          "name": "Bhavani Island",
+          "city": "Vijayawada",
+          "distance": "9 km away",
+          "category": "lakes",
+          "slug": "bhavani-island",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+          }
+        },
+        {
+          "name": "Vijayawada City",
+          "city": "Vijayawada",
+          "distance": "7 km away",
+          "category": "cities",
+          "slug": "vijayawada-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/vijayawada-city.webp"
+          }
+        }
+      ],
+      "id": "undavalli-caves",
+      "heroImage": "assets/images/states/andhra-pradesh/undavalli-caves.webp"
+    },
+    {
+      "name": "Oravakallu Rock Garden",
+      "city": "Kurnool",
+      "category": "nature",
+      "distance": "20 km from Kurnool",
+      "entryFee": "₹10",
+      "rating": 4.2,
+      "description": "An incredibly surreal natural landscape boasting hundreds of bizarre, majestic igneous rock formations. Maintained beautifully by the state tourism board with pathways threading through the boulders.",
+      "history": "Formed naturally millions of years ago, the rocks are some of the oldest igneous formations in South India, shaped purely by water and wind erosion.",
+      "famousFor": "Spectacular sci-fi cinematic boulder landscapes, fantastic sunset photography, and its prominent feature in massive Telugu blockbusters like Baahubali.",
+      "bestTime": "November to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "slug": "oravakallu-rock-garden",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rollapadu Wildlife",
+          "city": "Kurnool",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "rollapadu-wildlife",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rollapadu-wildlife.webp"
+          }
+        },
+        {
+          "name": "Belum Caves",
+          "city": "Kurnool",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "belum-caves",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/belum-caves.webp"
+          }
+        },
+        {
+          "name": "Mantralayam",
+          "city": "Kurnool",
+          "distance": "17 km away",
+          "category": "temples",
+          "slug": "mantralayam",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/mantralayam.webp"
+          }
+        },
+        {
+          "name": "Kondareddy Buruju",
+          "city": "Kurnool",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "kondareddy-buruju",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kondareddy-buruju.webp"
+          }
+        }
+      ],
+      "id": "oravakallu-rock-garden",
+      "heroImage": "assets/images/states/andhra-pradesh/oravakallu-rock-garden.webp"
+    },
+    {
+      "name": "Hope Island",
+      "city": "Kakinada",
+      "category": "beaches",
+      "distance": "Ferry from Kakinada",
+      "entryFee": "₹200 (Ferry Ride)",
+      "rating": 4.2,
+      "description": "A phenomenal, tadpole-shaped island formed by absolutely natural sand drifts off the coast of Kakinada. It brilliantly protects the Kakinada port by acting as a natural breakwater against severe cyclones.",
+      "history": "Formed relatively recently over the past 200 years from the colossal sand deposition caused by the Godavari river waters meeting the Bay of Bengal currents.",
+      "famousFor": "Acting as a vital natural shield against tsunamis and cyclones, incredible ferry rides, and untouched sandy trails.",
+      "bestTime": "November to February",
+      "timings": "9:00 AM – 4:00 PM (Ferry timings)",
+      "slug": "hope-island",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/hope-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Coringa Wildlife Sanctuary",
+          "city": "Kakinada",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "coringa-wildlife",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/coringa-wildlife.webp"
+          }
+        }
+      ],
+      "id": "hope-island",
+      "heroImage": "assets/images/states/andhra-pradesh/hope-island.webp"
+    },
+    {
+      "name": "Timmamma Marrimanu",
+      "city": "Kadiri",
+      "category": "nature",
+      "distance": "25 km from Kadiri",
+      "entryFee": "Free",
+      "rating": 4.7,
+      "description": "Holding an awe-inspiring Guinness World Record, this is the single largest Banyan tree canopy in the world. Its massive labyrinth of roots covers over 5 acres of land.",
+      "history": "Believed to have sprouted precisely in 1433 AD. It was named after a dutiful local woman, Thimmamma, who died on her husband’s funeral pyre (Sati) exactly at this spot.",
+      "famousFor": "Guinness World Record for the largest tree canopy, immensely sacred local Temple under the roots, and its mind-blowing root architecture.",
+      "bestTime": "Throughout the year",
+      "timings": "Open 24/7",
+      "slug": "timmamma-marrimanu",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/timmamma-marrimanu.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "timmamma-marrimanu",
+      "heroImage": "assets/images/states/andhra-pradesh/timmamma-marrimanu.webp"
+    },
+    {
+      "name": "Vijayawada City",
+      "city": "Vijayawada",
+      "category": "cities",
+      "distance": "270 km from Vizag",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "description": "The commercial capital and second-largest city of Andhra Pradesh, dramatically situated on the banks of the Krishna River. Known for its Kanaka Durga Temple, vibrant markets, and the spectacular Prakasam Barrage.",
+      "history": "One of the oldest continuously inhabited cities in South India. Its history spans the Satavahana, Vijayanagara, and British colonial eras.",
+      "famousFor": "Kanaka Durga Temple, Prakasam Barrage, Bhavani Island",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "slug": "vijayawada-city",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/vijayawada-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kanaka Durga Temple",
+          "city": "Vijayawada",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "kanaka-durga-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kanaka-durga-temple.webp"
+          }
+        },
+        {
+          "name": "Bhavani Island",
+          "city": "Vijayawada",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "bhavani-island",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/bhavani-island.webp"
+          }
+        },
+        {
+          "name": "Undavalli Caves",
+          "city": "Vijayawada",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "undavalli-caves",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/undavalli-caves.webp"
+          }
+        }
+      ],
+      "id": "vijayawada-city",
+      "heroImage": "assets/images/states/andhra-pradesh/vijayawada-city.webp"
+    },
+    {
+      "name": "Visakhapatnam (Vizag)",
+      "city": "Visakhapatnam",
+      "category": "cities",
+      "distance": "Northeastern AP coast",
+      "entryFee": "Free",
+      "rating": 4.7,
+      "description": "The jewel of the eastern coast, Visakhapatnam is AP's largest city and fastest-growing metropolitan area. It uniquely blends beautiful beaches, industrial heritage, hills, and ancient temples into a single dynamic destination.",
+      "history": "One of India's oldest port cities with maritime roots dating back 2,300 years. Named after Lord Vishnu (Visaka) by the Vengi Chalukyas.",
+      "famousFor": "India's submarine museum, Blue Flag Rushikonda Beach, Kailasagiri ropeway",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "slug": "visakhapatnam-city",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "R K Beach",
+          "city": "Vizag",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "rk-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rk-beach.webp"
+          }
+        },
+        {
+          "name": "Kailasagiri Hill",
+          "city": "Vizag",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "kailasagiri",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/kailasagiri.webp"
+          }
+        },
+        {
+          "name": "Rushikonda Beach",
+          "city": "Vizag",
+          "distance": "14 km away",
+          "category": "beaches",
+          "slug": "rushikonda-beach",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rushikonda-beach.webp"
+          }
+        },
+        {
+          "name": "Simhachalam Temple",
+          "city": "Vizag",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "simhachalam-temple",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/simhachalam-temple.webp"
+          }
+        }
+      ],
+      "id": "visakhapatnam-city",
+      "heroImage": "assets/images/states/andhra-pradesh/visakhapatnam-city.webp"
+    },
+    {
+      "name": "Konaseema (Venice of India)",
+      "city": "East Godavari",
+      "category": "nature",
+      "distance": "Godavari Delta",
+      "entryFee": "Free (Boat rides extra)",
+      "rating": 4.6,
+      "description": "A stunning river delta labyrinth of over 70 lush green islands and coconut palm-fringed waterways in the Godavari delta. Often called the 'Venice of India', it offers houseboat stays and motor boat tours through serene coconut groves.",
+      "history": "Formed over millennia by the Godavari River delta. The rich alluvial land has supported one of the most productive agricultural regions in Asia for centuries.",
+      "famousFor": "Backwater houseboats, coconut grove ferry rides, pristine island villages",
+      "bestTime": "October to March",
+      "timings": "Open 24/7 (Best 6:00 AM - 6:00 PM)",
+      "slug": "konaseema",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/konaseema.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Papikondalu Gorge",
+          "city": "Rajahmundry",
+          "distance": "14 km away",
+          "category": "nature",
+          "slug": "papikondalu",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/papikondalu.webp"
+          }
+        },
+        {
+          "name": "Draksharamam Temple",
+          "city": "Rajahmundry",
+          "distance": "13 km away",
+          "category": "temples",
+          "slug": "draksharamam",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/draksharamam.webp"
+          }
+        },
+        {
+          "name": "Coringa Wildlife Sanctuary",
+          "city": "Kakinada",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "coringa-wildlife",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/coringa-wildlife.webp"
+          }
+        },
+        {
+          "name": "Rajahmundry (Rajamahendravaram)",
+          "city": "East Godavari",
+          "distance": "18 km away",
+          "category": "cities",
+          "slug": "rajahmundry-city",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/rajahmundry-city.webp"
+          }
+        }
+      ],
+      "id": "konaseema",
+      "heroImage": "assets/images/states/andhra-pradesh/konaseema.webp"
+    },
+    {
+      "name": "Sri Venkateswara National Park",
+      "city": "Tirupati",
+      "category": "wildlife",
+      "distance": "20 km from Tirupati",
+      "entryFee": "₹60 (Indians), ₹600 (Foreigners)",
+      "rating": 4.6,
+      "description": "A critically important UNESCO-recognized biosphere reserve encompassing 353 sq km of dense Eastern Ghats forest, home to tigers, leopards, sloth bears, and over 1000 plant species.",
+      "history": "The Tirumala Hills are part of this ancient forest zone, which has been ecologically significant since the time of the Vijayanagara kings.",
+      "famousFor": "Talakona Waterfalls, Gunupur trekking, rare Red Sanders (Red Sandalwood) trees",
+      "bestTime": "October to April",
+      "timings": "6:00 AM - 5:00 PM",
+      "slug": "sv-national-park",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/sv-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Talakona Waterfalls",
+          "city": "Chittoor",
+          "distance": "10 km away",
+          "category": "waterfalls",
+          "slug": "talakona-waterfalls",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/talakona-waterfalls.webp"
+          }
+        },
+        {
+          "name": "Tirupati Balaji",
+          "city": "Tirumala",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "tirupati-balaji",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/tirupati-balaji.webp"
+          }
+        },
+        {
+          "name": "Chandragiri Fort",
+          "city": "Tirupati",
+          "distance": "19 km away",
+          "category": "heritage",
+          "slug": "chandragiri-fort",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/chandragiri-fort.webp"
+          }
+        }
+      ],
+      "id": "sv-national-park",
+      "heroImage": "assets/images/states/andhra-pradesh/sv-national-park.webp"
+    },
+    {
+      "name": "Rajahmundry (Rajamahendravaram)",
+      "city": "East Godavari",
+      "category": "cities",
+      "distance": "Godavari River Banks",
+      "entryFee": "Free",
+      "rating": 4.5,
+      "description": "Often called the cultural capital of Andhra Pradesh. Situated on the banks of the Godavari River, this ancient city is considered the birthplace of Telugu literature.",
+      "history": "One of India's oldest cities. It was the seat of the Eastern Chalukyas of Vengi. The first Telugu scripture Mahabharata was translated here in the 11th century by poet Nannaya.",
+      "famousFor": "Godavari Pushkaram festival, Pattisam Temple, the iconic Godavari road-rail bridge",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "slug": "rajahmundry-city",
+      "state": "Andhra Pradesh",
+      "images": {
+        "main": "assets/images/states/andhra-pradesh/rajahmundry-city.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Papikondalu",
+          "city": "Rajahmundry",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "papikondalu",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/papikondalu.webp"
+          }
+        },
+        {
+          "name": "Konaseema",
+          "city": "East Godavari",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "konaseema",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/konaseema.webp"
+          }
+        },
+        {
+          "name": "Draksharamam Temple",
+          "city": "Rajahmundry",
+          "distance": "11 km away",
+          "category": "temples",
+          "slug": "draksharamam",
+          "state": "Andhra Pradesh",
+          "images": {
+            "main": "assets/images/states/andhra-pradesh/draksharamam.webp"
+          }
+        }
+      ],
+      "id": "rajahmundry-city",
+      "heroImage": "assets/images/states/andhra-pradesh/rajahmundry-city.webp"
+    }
+  ]
+}

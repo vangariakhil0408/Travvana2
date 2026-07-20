@@ -1,0 +1,25 @@
+{
+  "id": "mansar-lake",
+  "name": "Mansar Lake",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "description": "A deeply holy lake fringed by forest-covered hills. It shares a legend similar to Lake Mansarovar and is bordered by several ancient temples dedicated to the serpent god.",
+  "history": "Mentions of this lake go back to the Mahabharata. It is traditionally believed that taking a dip in this lake destroys sins.",
+  "famousFor": "Holy dip, boating, Sheshnag temple",
+  "bestTime": "April to October",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/mansar-lake.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/mansar-lake.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/mansar-lake.webp"
+  ],
+  "nearbyPlaces": [
+    "bahu-fort",
+    "akhnoor-fort",
+    "purmandal",
+    "mubarak-mandi",
+    "raghunath-temple",
+    "surinsar-lake"
+  ]
+}

@@ -1,0 +1,3521 @@
+{
+  "state": "Andaman and Nicobar Islands",
+  "slug": "andaman-and-nicobar-islands",
+  "capital": "Port Blair",
+  "heroImage": "assets/images/states/andaman-and-nicobar-islands/banner.webp",
+  "bestTime": "October to May",
+  "language": "Hindi, Bengali, Tamil, Telugu, Malayalam, English",
+  "places": [
+    {
+      "name": "Cellular Jail",
+      "city": "Port Blair",
+      "category": "heritage",
+      "distance": "2 km from Port Blair city center",
+      "rating": 4.8,
+      "description": "A colonial-era prison used by the British to exile Indian freedom fighters, Cellular Jail is one of India's most important national monuments. The jail's radial wings of solitary cells tell the harrowing story of India's struggle for independence.",
+      "history": "Built between 1896 and 1906, the jail was nicknamed 'Kala Pani' (Black Waters). Freedom fighters like Veer Savarkar, Batukeshwar Dutt, and countless others endured extreme hardship here. The nightly Sound and Light Show recounts their sacrifices.",
+      "famousFor": "Freedom struggle history, Sound and Light Show, solitary cells, Veer Savarkar memorial, national monument.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 12:30 PM, 1:30 PM – 5:00 PM",
+      "entryFee": "₹30 (Indians), ₹200 (Foreigners)",
+      "slug": "cellular-jail",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Samudrika Naval Marine Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "samudrika-naval-marine-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+        },
+        {
+          "name": "Anthropological Museum",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "museums",
+          "slug": "anthropological-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+        },
+        {
+          "name": "Aberdeen Clock Tower",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "aberdeen-clock-tower",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+        },
+        {
+          "name": "Marina Park",
+          "city": "Port Blair",
+          "distance": "0.5 km away",
+          "category": "nature",
+          "slug": "marina-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+        },
+        {
+          "name": "Netaji Subhas Chandra Bose Dweep",
+          "city": "Port Blair",
+          "distance": "2 km away (by boat)",
+          "category": "heritage",
+          "slug": "netaji-subhas-chandra-bose-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+        },
+        {
+          "name": "North Bay Island",
+          "city": "Port Blair",
+          "distance": "4 km away (by boat)",
+          "category": "nature",
+          "slug": "north-bay-island",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+        },
+        {
+          "name": "Chatham Saw Mill",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "chatham-saw-mill",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+        },
+        {
+          "name": "Jogger's Park",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "joggers-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+        },
+        {
+          "name": "Corbyn's Cove Beach",
+          "city": "Port Blair",
+          "distance": "7 km away",
+          "category": "beaches",
+          "slug": "corbyns-cove-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+        },
+        {
+          "name": "Mount Harriet National Park",
+          "city": "Port Blair",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "mount-harriet-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mount-manipur-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/mount-manipur-national-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "cellular-jail",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+    },
+    {
+      "name": "Netaji Subhas Chandra Bose Dweep",
+      "city": "Port Blair",
+      "category": "heritage",
+      "distance": "2 km from Port Blair (by boat)",
+      "rating": 4.6,
+      "description": "Formerly known as Ross Island, this island served as the administrative headquarters of the British during their rule over the Andaman Islands. The ruins of the colonial-era church, hospital, bakery, and officers' quarters are now reclaimed by massive banyan trees, creating an eerie yet beautiful landscape.",
+      "history": "The British established their headquarters here in 1858. The island was devastated by an earthquake in 1941 and later occupied by the Japanese during WWII. Renamed in 2018 to honour Netaji Subhas Chandra Bose.",
+      "famousFor": "British colonial ruins, banyan tree-covered buildings, WWII history, deer population, harbour views.",
+      "bestTime": "October to May",
+      "timings": "8:30 AM – 4:30 PM (Closed Wednesday)",
+      "entryFee": "₹30 (Indians), ₹100 (Foreigners)",
+      "slug": "netaji-subhas-chandra-bose-dweep",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "North Bay Island",
+          "city": "Port Blair",
+          "distance": "3 km away (by boat)",
+          "category": "nature",
+          "slug": "north-bay-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+        },
+        {
+          "name": "Viper Island",
+          "city": "Port Blair",
+          "distance": "4 km away (by boat)",
+          "category": "heritage",
+          "slug": "viper-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+        },
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "2 km away (by boat)",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "netaji-subhas-chandra-bose-dweep",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+    },
+    {
+      "name": "North Bay Island",
+      "city": "Port Blair",
+      "category": "nature",
+      "distance": "4 km from Port Blair (by boat)",
+      "rating": 4.5,
+      "description": "A popular coral island near Port Blair known for its vibrant coral reefs visible through glass-bottom boats. North Bay is the primary snorkeling and sea-walking destination for visitors arriving in Port Blair.",
+      "history": "The island has been developed as Port Blair's most accessible marine tourism destination. It features the historic Lighthouse that has guided ships into Port Blair harbour since 1968.",
+      "famousFor": "Coral reefs, glass-bottom boat rides, snorkeling, sea walking, scuba diving, lighthouse.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 3:30 PM",
+      "entryFee": "₹50 (boat charges separate)",
+      "slug": "north-bay-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Netaji Subhas Chandra Bose Dweep",
+          "city": "Port Blair",
+          "distance": "3 km away (by boat)",
+          "category": "heritage",
+          "slug": "netaji-subhas-chandra-bose-dweep",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+        },
+        {
+          "name": "Viper Island",
+          "city": "Port Blair",
+          "distance": "5 km away (by boat)",
+          "category": "heritage",
+          "slug": "viper-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+        },
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "4 km away (by boat)",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "north-bay-island",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+    },
+    {
+      "name": "Corbyn's Cove Beach",
+      "city": "Port Blair",
+      "category": "beaches",
+      "distance": "7 km from Port Blair city center",
+      "rating": 4.4,
+      "description": "The nearest beach to Port Blair, Corbyn's Cove is a scenic coconut palm-lined crescent beach with calm waters. It is the most popular beach in the capital city for swimming and jet skiing.",
+      "history": "Named after a British-era officer, the beach has been Port Blair's primary recreation beach since colonial times. It also has Japanese bunkers from WWII visible nearby.",
+      "famousFor": "Palm-fringed crescent beach, jet skiing, swimming, sunset views, WWII Japanese bunkers.",
+      "bestTime": "October to May",
+      "timings": "Open all day (water sports 8 AM – 4 PM)",
+      "entryFee": "Free",
+      "slug": "corbyns-cove-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "7 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Chidiya Tapu",
+          "city": "Port Blair",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "chidiya-tapu",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+        },
+        {
+          "name": "Jogger's Park",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "joggers-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+        },
+        {
+          "name": "Water Sports Complex",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "adventure",
+          "slug": "water-sports-complex",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "corbyns-cove-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+    },
+    {
+      "name": "Samudrika Naval Marine Museum",
+      "city": "Port Blair",
+      "category": "museums",
+      "distance": "2 km from Port Blair city center",
+      "rating": 4.3,
+      "description": "Run by the Indian Navy, the Samudrika Museum showcases the marine biodiversity, tribal heritage, and geological history of the Andaman and Nicobar Islands through well-curated exhibits.",
+      "history": "Established by the Indian Navy as an educational institution to document the natural and cultural heritage of the islands.",
+      "famousFor": "Marine life exhibits, coral displays, tribal culture gallery, island geology, naval heritage.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 1:00 PM, 2:00 PM – 5:00 PM (Closed Monday)",
+      "entryFee": "₹50 (Indians), ₹100 (Foreigners)",
+      "slug": "samudrika-naval-marine-museum",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Anthropological Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "anthropological-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+        },
+        {
+          "name": "Aberdeen Clock Tower",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "aberdeen-clock-tower",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+        },
+        {
+          "name": "Chatham Saw Mill",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "chatham-saw-mill",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "samudrika-naval-marine-museum",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+    },
+    {
+      "name": "Anthropological Museum",
+      "city": "Port Blair",
+      "category": "museums",
+      "distance": "3 km from Port Blair city center",
+      "rating": 4.3,
+      "description": "A fascinating museum dedicated to the indigenous tribal groups of the Andaman and Nicobar Islands — the Great Andamanese, Onge, Jarawa, Sentinelese, Nicobarese, and Shompen. It features tools, photographs, and replicas of tribal life.",
+      "history": "Established by the Anthropological Survey of India to document and preserve knowledge about the islands' ancient tribal communities, some of which are among the world's most isolated peoples.",
+      "famousFor": "Tribal heritage exhibits, indigenous tools, photographs of isolated tribes, cultural documentation.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 1:00 PM, 1:30 PM – 4:30 PM (Closed Monday)",
+      "entryFee": "₹20",
+      "slug": "anthropological-museum",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Samudrika Naval Marine Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "samudrika-naval-marine-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+        },
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Fisheries Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "fisheries-museum",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+        },
+        {
+          "name": "Science Centre",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "museums",
+          "slug": "science-centre",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "anthropological-museum",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+    },
+    {
+      "name": "Chatham Saw Mill",
+      "city": "Port Blair",
+      "category": "heritage",
+      "distance": "3 km from Port Blair city center",
+      "rating": 4.1,
+      "description": "One of the oldest and largest saw mills in Asia, located on Chatham Island connected to Port Blair by a bridge. The mill processes timber and has a small museum showcasing wood samples and the island's forestry heritage.",
+      "history": "Established in 1883 by the British, the saw mill was integral to the colonial exploitation of Andaman's forests. It still operates as a timber processing facility.",
+      "famousFor": "Asia's oldest saw mill, wood museum, WWII Japanese bunkers, bridge to Chatham Island.",
+      "bestTime": "October to May",
+      "timings": "8:30 AM – 2:30 PM (Closed Monday & Sunday afternoon)",
+      "entryFee": "Free",
+      "slug": "chatham-saw-mill",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Samudrika Naval Marine Museum",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "museums",
+          "slug": "samudrika-naval-marine-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+        },
+        {
+          "name": "Forest Museum",
+          "city": "Port Blair",
+          "distance": "Inside complex",
+          "category": "museums",
+          "slug": "forest-museum",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/forest-museum.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/forest-museum.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "chatham-saw-mill",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+    },
+    {
+      "name": "Viper Island",
+      "city": "Port Blair",
+      "category": "heritage",
+      "distance": "3 km from Port Blair (by boat)",
+      "rating": 4.2,
+      "description": "A small island in Port Blair harbour with the ruins of a British-era jail and gallows that predates the Cellular Jail. The island offers a sombre glimpse into pre-Cellular Jail penal history.",
+      "history": "Named after the vessel HMS Viper, the island held the first jail for Indian prisoners before Cellular Jail was built. The gallows and jail ruins still stand amidst overgrown vegetation.",
+      "famousFor": "British-era jail ruins, gallows, pre-Cellular Jail history, harbour views.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 2:00 PM",
+      "entryFee": "₹25",
+      "slug": "viper-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Netaji Subhas Chandra Bose Dweep",
+          "city": "Port Blair",
+          "distance": "4 km away (by boat)",
+          "category": "heritage",
+          "slug": "netaji-subhas-chandra-bose-dweep",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/netaji-subhas-chandra-bose-dweep.webp"
+        },
+        {
+          "name": "North Bay Island",
+          "city": "Port Blair",
+          "distance": "5 km away (by boat)",
+          "category": "nature",
+          "slug": "north-bay-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/north-bay-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "viper-island",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/viper-island.webp"
+    },
+    {
+      "name": "Marina Park",
+      "city": "Port Blair",
+      "category": "nature",
+      "distance": "1 km from Port Blair city center",
+      "rating": 4.1,
+      "description": "A waterfront park along the Port Blair harbour, Marina Park offers pleasant evening walks, a children's play area, and views of the harbour with boats heading to nearby islands.",
+      "history": "Developed as a public recreation space along the Port Blair waterfront, Marina Park serves as the embarkation point for harbour cruise tours.",
+      "famousFor": "Harbour views, waterfront walks, evening recreation, harbour cruise departure point.",
+      "bestTime": "October to May",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "₹10",
+      "slug": "marina-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Aberdeen Clock Tower",
+          "city": "Port Blair",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "aberdeen-clock-tower",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+        },
+        {
+          "name": "Gandhi Park",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "gandhi-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "marina-park",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+    },
+    {
+      "name": "Aberdeen Clock Tower",
+      "city": "Port Blair",
+      "category": "heritage",
+      "distance": "1 km from Port Blair city center",
+      "rating": 4,
+      "description": "A prominent landmark in the heart of Port Blair, the Aberdeen Clock Tower stands near the bustling Aberdeen Bazaar. It serves as a central reference point for the city.",
+      "history": "Built during the British colonial era, the clock tower marks the centre of Port Blair's commercial district and is named after the Aberdeen area of the city.",
+      "famousFor": "City landmark, Aberdeen Bazaar, colonial-era structure, central meeting point.",
+      "bestTime": "October to May",
+      "timings": "Open all day (exterior)",
+      "entryFee": "Free",
+      "slug": "aberdeen-clock-tower",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Samudrika Naval Marine Museum",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "museums",
+          "slug": "samudrika-naval-marine-museum",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/samudrika-naval-marine-museum.webp"
+        },
+        {
+          "name": "Marina Park",
+          "city": "Port Blair",
+          "distance": "0.5 km away",
+          "category": "nature",
+          "slug": "marina-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+        },
+        {
+          "name": "Gandhi Park",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "gandhi-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "aberdeen-clock-tower",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+    },
+    {
+      "name": "Chidiya Tapu",
+      "city": "Port Blair",
+      "category": "nature",
+      "distance": "25 km from Port Blair",
+      "rating": 4.5,
+      "description": "Known as the 'Bird Island', Chidiya Tapu is the southernmost tip of South Andaman. It features lush mangrove forests, a biological park with crocodile enclosures, and what is widely considered the best sunset viewpoint in Port Blair.",
+      "history": "The area has been developed as a biological park and eco-tourism destination. Its rich mangrove ecosystem supports diverse bird species and saltwater crocodiles.",
+      "famousFor": "Best sunset point in Andaman, birdwatching, biological park, mangrove trekking, crocodiles.",
+      "bestTime": "October to May",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "chidiya-tapu",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Munda Pahad Beach",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "munda-pahad-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+        },
+        {
+          "name": "Corbyn's Cove Beach",
+          "city": "Port Blair",
+          "distance": "18 km away",
+          "category": "beaches",
+          "slug": "corbyns-cove-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+        },
+        {
+          "name": "Baludera Beach",
+          "city": "Port Blair",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "baludera-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "chidiya-tapu",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+    },
+    {
+      "name": "Munda Pahad Beach",
+      "city": "Port Blair",
+      "category": "beaches",
+      "distance": "24 km from Port Blair",
+      "rating": 4.3,
+      "description": "A secluded rocky beach near Chidiya Tapu, Munda Pahad Beach is famous for its dramatic rock formations, tidal pools, and spectacular sunset views over the open ocean.",
+      "history": "The beach has gained popularity as a quieter alternative to mainstream beaches, known for its raw natural beauty and geological formations.",
+      "famousFor": "Rock formations, tidal pools, sunset views, secluded atmosphere, photography.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "munda-pahad-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chidiya Tapu",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "chidiya-tapu",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+        },
+        {
+          "name": "Baludera Beach",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "beaches",
+          "slug": "baludera-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "munda-pahad-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+    },
+    {
+      "name": "Wandoor Beach",
+      "city": "Wandoor",
+      "category": "beaches",
+      "distance": "30 km from Port Blair",
+      "rating": 4.4,
+      "description": "A serene beach on the southwest coast of South Andaman, Wandoor Beach is the gateway to the Mahatma Gandhi Marine National Park. The beach features dark volcanic sand bordered by dense tropical forest.",
+      "history": "The beach serves as the entry point for boats heading to the marine national park islands of Jolly Buoy and Red Skin.",
+      "famousFor": "Gateway to Marine National Park, volcanic sand, calm waters, forest backdrop, boat embarkation.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "wandoor-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahatma Gandhi Marine National Park",
+          "city": "Wandoor",
+          "distance": "1 km away",
+          "category": "wildlife",
+          "slug": "mahatma-gandhi-marine-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+        },
+        {
+          "name": "Jolly Buoy Island",
+          "city": "Wandoor",
+          "distance": "20 km away (by boat)",
+          "category": "nature",
+          "slug": "jolly-buoy-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "wandoor-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+    },
+    {
+      "name": "Mahatma Gandhi Marine National Park",
+      "city": "Wandoor",
+      "category": "wildlife",
+      "distance": "29 km from Port Blair",
+      "rating": 4.7,
+      "description": "Spread across 281.5 sq km encompassing 15 islands, this marine national park protects some of the richest coral reef ecosystems in India. Access is through Wandoor Beach to Jolly Buoy or Red Skin islands.",
+      "history": "Established in 1983 to protect the coral reef ecosystem, mangroves, and tropical rainforests of the southwestern Andaman Islands.",
+      "famousFor": "Coral reefs, marine biodiversity, Jolly Buoy Island, Red Skin Island, snorkeling, glass-bottom boats.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹50 (Indians), ₹500 (Foreigners)",
+      "slug": "mahatma-gandhi-marine-national-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Wandoor Beach",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "beaches",
+          "slug": "wandoor-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+        },
+        {
+          "name": "Jolly Buoy Island",
+          "city": "Wandoor",
+          "distance": "20 km away (by boat)",
+          "category": "nature",
+          "slug": "jolly-buoy-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+        },
+        {
+          "name": "Red Skin Island",
+          "city": "Wandoor",
+          "distance": "18 km away (by boat)",
+          "category": "nature",
+          "slug": "red-skin-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+        },
+        {
+          "name": "Cinque Island",
+          "city": "Wandoor",
+          "distance": "15 km away (by boat)",
+          "category": "nature",
+          "slug": "cinque-island",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "mahatma-gandhi-marine-national-park",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+    },
+    {
+      "name": "Jolly Buoy Island",
+      "city": "Wandoor",
+      "category": "nature",
+      "distance": "30 km from Wandoor (by boat)",
+      "rating": 4.8,
+      "description": "An uninhabited coral island within the Mahatma Gandhi Marine National Park, Jolly Buoy offers the clearest waters and most vibrant coral reefs in South Andaman. It is open to tourists on a rotational basis with Red Skin Island.",
+      "history": "The island is kept in near-pristine condition through strict visitor limits and rotational opening (alternating with Red Skin Island each season) to protect the fragile coral ecosystem.",
+      "famousFor": "Crystal-clear water, pristine coral reefs, snorkeling, glass-bottom boats, uninhabited island.",
+      "bestTime": "October to May (check rotational opening)",
+      "timings": "9:00 AM – 3:00 PM",
+      "entryFee": "Included in Marine National Park entry",
+      "slug": "jolly-buoy-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Red Skin Island",
+          "city": "Wandoor",
+          "distance": "5 km away (by boat)",
+          "category": "nature",
+          "slug": "red-skin-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+        },
+        {
+          "name": "Mahatma Gandhi Marine National Park",
+          "city": "Wandoor",
+          "distance": "20 km away (by boat)",
+          "category": "wildlife",
+          "slug": "mahatma-gandhi-marine-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+        },
+        {
+          "name": "Wandoor Beach",
+          "city": "Port Blair",
+          "distance": "20 km away (by boat)",
+          "category": "beaches",
+          "slug": "wandoor-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/wandoor-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "jolly-buoy-island",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+    },
+    {
+      "name": "Red Skin Island",
+      "city": "Wandoor",
+      "category": "nature",
+      "distance": "25 km from Wandoor (by boat)",
+      "rating": 4.5,
+      "description": "An uninhabited island within the Marine National Park, Red Skin Island features coral reefs, mangrove vegetation, and beautiful beaches. It opens to tourists alternately with Jolly Buoy Island.",
+      "history": "Named for the reddish hue of its coral sand at certain tides, Red Skin is part of the Mahatma Gandhi Marine National Park's rotational conservation system.",
+      "famousFor": "Coral reefs, mangroves, snorkeling, red-tinted sand, marine biodiversity.",
+      "bestTime": "October to May (check rotational opening)",
+      "timings": "9:00 AM – 3:00 PM",
+      "entryFee": "Included in Marine National Park entry",
+      "slug": "red-skin-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jolly Buoy Island",
+          "city": "Wandoor",
+          "distance": "5 km away (by boat)",
+          "category": "nature",
+          "slug": "jolly-buoy-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/jolly-buoy-island.webp"
+        },
+        {
+          "name": "Mahatma Gandhi Marine National Park",
+          "city": "Wandoor",
+          "distance": "18 km away (by boat)",
+          "category": "wildlife",
+          "slug": "mahatma-gandhi-marine-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "red-skin-island",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/red-skin-island.webp"
+    },
+    {
+      "name": "Radhanagar Beach",
+      "city": "Swaraj Dweep",
+      "category": "beaches",
+      "distance": "12 km from Swaraj Dweep jetty",
+      "rating": 4.9,
+      "description": "Ranked among Asia's best beaches by TIME Magazine, Radhanagar Beach on Swaraj Dweep is a breathtaking 2 km stretch of powdery white sand backed by tropical forest, with crystal-clear turquoise waters.",
+      "history": "Voted 'Best Beach in Asia' by TIME Magazine in 2004, Radhanagar has become the most iconic beach in all of Andaman and one of the finest in the world.",
+      "famousFor": "Asia's best beach, white sand, turquoise water, forest backdrop, sunset views, swimming.",
+      "bestTime": "October to May",
+      "timings": "Open all day (swimming till 5 PM)",
+      "entryFee": "Free",
+      "slug": "radhanagar-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Elephant Beach",
+          "city": "Swaraj Dweep",
+          "distance": "6 km away",
+          "category": "beaches",
+          "slug": "elephant-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+        },
+        {
+          "name": "Kala Pathar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kala-pathar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+        },
+        {
+          "name": "Swaraj Dweep",
+          "city": "Swaraj Dweep",
+          "distance": "12 km away",
+          "category": "islands",
+          "slug": "swaraj-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "radhanagar-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+    },
+    {
+      "name": "Elephant Beach",
+      "city": "Swaraj Dweep",
+      "category": "beaches",
+      "distance": "7 km from Swaraj Dweep jetty",
+      "rating": 4.7,
+      "description": "A coral-rich beach on Swaraj Dweep accessible by a forest trek or speedboat. Elephant Beach is the island's premier snorkeling and water sports destination with vibrant shallow coral reefs just off the shore.",
+      "history": "Named after elephants that were once used for logging on the island, the beach has become the top water sports location on Swaraj Dweep.",
+      "famousFor": "Snorkeling, scuba diving, coral reefs, kayaking, jet skiing, forest trek access.",
+      "bestTime": "October to May",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "Free (water sport charges apply)",
+      "slug": "elephant-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Radhanagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "6 km away",
+          "category": "beaches",
+          "slug": "radhanagar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+        },
+        {
+          "name": "Kala Pathar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "kala-pathar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+        },
+        {
+          "name": "Swaraj Dweep",
+          "city": "Swaraj Dweep",
+          "distance": "7 km away",
+          "category": "islands",
+          "slug": "swaraj-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "elephant-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+    },
+    {
+      "name": "Kala Pathar Beach",
+      "city": "Swaraj Dweep",
+      "category": "beaches",
+      "distance": "5 km from Swaraj Dweep jetty",
+      "rating": 4.5,
+      "description": "A serene, less-crowded beach on the eastern coast of Swaraj Dweep, known for its striking black rocks along the shoreline contrasting with turquoise water and white sand.",
+      "history": "Named after the black (kala) rocks (pathar) that line the shore, the beach offers a more peaceful alternative to the busier Radhanagar and Elephant beaches.",
+      "famousFor": "Black rock formations, turquoise waters, sunrise views, peaceful atmosphere, photography.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kala-pathar-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Radhanagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "radhanagar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+        },
+        {
+          "name": "Elephant Beach",
+          "city": "Swaraj Dweep",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "elephant-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+        },
+        {
+          "name": "Swaraj Dweep",
+          "city": "Swaraj Dweep",
+          "distance": "5 km away",
+          "category": "islands",
+          "slug": "swaraj-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+        },
+        {
+          "name": "Vijaynagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "vijaynagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "kala-pathar-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+    },
+    {
+      "name": "Bharatpur Beach",
+      "city": "Shaheed Dweep",
+      "category": "beaches",
+      "distance": "0.5 km from Shaheed Dweep jetty",
+      "rating": 4.6,
+      "description": "The most accessible beach on Shaheed Dweep, located right near the jetty. Bharatpur Beach features shallow turquoise waters, coral reefs, and a wide sandy shore ideal for water sports.",
+      "history": "The beach has been the primary landing area for Shaheed Dweep and is now the island's main water sports hub offering glass-bottom boats, snorkeling, and kayaking.",
+      "famousFor": "Shallow turquoise waters, coral reefs, glass-bottom boats, water sports, easy accessibility.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "bharatpur-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Laxmanpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "laxmanpur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+        },
+        {
+          "name": "Natural Bridge",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "natural-bridge",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+        },
+        {
+          "name": "Sitapur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "sitapur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+        },
+        {
+          "name": "Shaheed Dweep",
+          "city": "Shaheed Dweep",
+          "distance": "0.5 km away",
+          "category": "islands",
+          "slug": "shaheed-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "bharatpur-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+    },
+    {
+      "name": "Laxmanpur Beach",
+      "city": "Shaheed Dweep",
+      "category": "beaches",
+      "distance": "2 km from Shaheed Dweep jetty",
+      "rating": 4.6,
+      "description": "A stunning sunset beach on Shaheed Dweep with unique coral rock formations, tide pools, and wide stretches of white sand. The beach is divided into Laxmanpur 1 (sunset point) and Laxmanpur 2 (coral rocks).",
+      "history": "The beach is famous for its naturally formed coral rock archway and has been the primary sunset-viewing location on Shaheed Dweep.",
+      "famousFor": "Spectacular sunsets, coral rock formations, tide pools, natural coral archway, swimming.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "laxmanpur-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bharatpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "bharatpur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+        },
+        {
+          "name": "Natural Bridge",
+          "city": "Shaheed Dweep",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "natural-bridge",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+        },
+        {
+          "name": "Shaheed Dweep",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "islands",
+          "slug": "shaheed-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "laxmanpur-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+    },
+    {
+      "name": "Natural Bridge",
+      "city": "Shaheed Dweep",
+      "category": "nature",
+      "distance": "5 km from Shaheed Dweep jetty",
+      "rating": 4.5,
+      "description": "A remarkable natural rock formation shaped like a bridge by years of erosion. Also called Howrah Bridge locally, this coral limestone arch is one of the most photographed natural landmarks in the Andaman Islands.",
+      "history": "Formed over millions of years by coral growth and ocean erosion, the bridge is a geological marvel and has become a must-visit landmark on Shaheed Dweep.",
+      "famousFor": "Natural rock arch, geological formation, photography, tidal exploration, unique landscape.",
+      "bestTime": "October to May (visit at low tide)",
+      "timings": "Open all day (best at low tide)",
+      "entryFee": "Free",
+      "slug": "natural-bridge",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Laxmanpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "laxmanpur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+        },
+        {
+          "name": "Bharatpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "bharatpur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+        },
+        {
+          "name": "Sitapur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "sitapur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+        },
+        {
+          "name": "Shaheed Dweep",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "islands",
+          "slug": "shaheed-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "natural-bridge",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+    },
+    {
+      "name": "Sitapur Beach",
+      "city": "Shaheed Dweep",
+      "category": "beaches",
+      "distance": "5 km from Shaheed Dweep jetty",
+      "rating": 4.4,
+      "description": "A serene sunrise beach on the eastern tip of Shaheed Dweep. Sitapur features a mix of sand and limestone rocks with clear shallow waters and is far less crowded than other island beaches.",
+      "history": "The beach has gained popularity for its dramatic sunrise views over the Bay of Bengal and its unique limestone formations.",
+      "famousFor": "Sunrise views, limestone formations, secluded beach, clear waters, morning walks.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "sitapur-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Natural Bridge",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "natural-bridge",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+        },
+        {
+          "name": "Bharatpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "bharatpur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+        },
+        {
+          "name": "Shaheed Dweep",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "islands",
+          "slug": "shaheed-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "sitapur-beach",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+    },
+    {
+      "name": "Baratang Island",
+      "city": "Baratang",
+      "category": "islands",
+      "distance": "100 km from Port Blair",
+      "rating": 4.5,
+      "description": "A fascinating island between South and Middle Andaman, Baratang is known for its limestone caves, mud volcanoes, and dense mangrove creeks. The journey itself through mangrove-lined waterways is an adventure.",
+      "history": "Baratang is geologically significant with active mud volcanoes and ancient limestone cave formations. The island is accessed through a convoy system along the Andaman Trunk Road.",
+      "famousFor": "Limestone caves, mud volcano, mangrove creeks, speedboat ride, geological wonders.",
+      "bestTime": "October to May",
+      "timings": "Convoy at 6:30 AM and 2:30 PM",
+      "entryFee": "₹50 + boat charges",
+      "slug": "baratang-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Limestone Caves Baratang",
+          "city": "Baratang",
+          "distance": "3 km away (by speedboat)",
+          "category": "nature",
+          "slug": "limestone-caves-baratang",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+        },
+        {
+          "name": "Mud Volcano Baratang",
+          "city": "Baratang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "mud-volcano-baratang",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+        },
+        {
+          "name": "Parrot Island Baratang",
+          "city": "Baratang",
+          "distance": "4 km away (by boat)",
+          "category": "wildlife",
+          "slug": "parrot-island-baratang",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "baratang-island",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+    },
+    {
+      "name": "Limestone Caves Baratang",
+      "city": "Baratang",
+      "category": "nature",
+      "distance": "3 km from Baratang jetty (by speedboat)",
+      "rating": 4.5,
+      "description": "Ancient limestone caves with stunning stalactite and stalagmite formations, accessed through a thrilling speedboat ride through dense mangrove creeks followed by a forest trek.",
+      "history": "Formed over millions of years through the dissolution and re-deposition of limestone, these caves are among the most impressive geological formations in the Andaman Islands.",
+      "famousFor": "Stalactite formations, speedboat mangrove ride, forest trek, geological marvel.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 2:00 PM",
+      "entryFee": "₹50 + boat charges",
+      "slug": "limestone-caves-baratang",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baratang Island",
+          "city": "Baratang",
+          "distance": "3 km away (by speedboat)",
+          "category": "islands",
+          "slug": "baratang-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+        },
+        {
+          "name": "Mud Volcano Baratang",
+          "city": "Baratang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "mud-volcano-baratang",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+        },
+        {
+          "name": "Parrot Island Baratang",
+          "city": "Baratang",
+          "distance": "6 km away",
+          "category": "wildlife",
+          "slug": "parrot-island-baratang",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "limestone-caves-baratang",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+    },
+    {
+      "name": "Mud Volcano Baratang",
+      "city": "Baratang",
+      "category": "nature",
+      "distance": "5 km from Baratang jetty",
+      "rating": 4.3,
+      "description": "One of the few active mud volcanoes in India, this geological wonder on Baratang Island features bubbling mud craters that intermittently erupt with gases and grey mud.",
+      "history": "The mud volcano is one of only two accessible sites of active mud volcanism in India. It draws geologists and tourists alike to witness this rare geological phenomenon.",
+      "famousFor": "Active mud volcano, geological rarity, bubbling mud craters, unique natural phenomenon.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 3:00 PM",
+      "entryFee": "₹25",
+      "slug": "mud-volcano-baratang",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baratang Island",
+          "city": "Baratang",
+          "distance": "5 km away",
+          "category": "islands",
+          "slug": "baratang-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+        },
+        {
+          "name": "Limestone Caves Baratang",
+          "city": "Baratang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "limestone-caves-baratang",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "mud-volcano-baratang",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/mud-volcano.webp"
+    },
+    {
+      "name": "Parrot Island Baratang",
+      "city": "Baratang",
+      "category": "wildlife",
+      "distance": "4 km from Baratang jetty (by boat)",
+      "rating": 4.4,
+      "description": "An uninhabited island where thousands of parrots return to roost at sunset, creating a spectacular green-and-red cloud over the mangrove canopy. The boat ride through mangrove creeks at dusk is magical.",
+      "history": "The island has been a natural roosting site for parakeets for generations. The evening spectacle of parrots returning is now a protected eco-tourism attraction.",
+      "famousFor": "Sunset parrot spectacle, thousands of parakeets, mangrove boat ride, birdwatching.",
+      "bestTime": "October to May (sunset viewing)",
+      "timings": "4:00 PM – 6:00 PM (sunset boat trip)",
+      "entryFee": "Boat charges apply",
+      "slug": "parrot-island-baratang",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baratang Island",
+          "city": "Baratang",
+          "distance": "4 km away (by boat)",
+          "category": "islands",
+          "slug": "baratang-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/baratang-island.webp"
+        },
+        {
+          "name": "Limestone Caves Baratang",
+          "city": "Baratang",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "limestone-caves-baratang",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/limestone-caves.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "parrot-island-baratang",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/parrot-island.webp"
+    },
+    {
+      "name": "Ross and Smith Islands",
+      "city": "Diglipur",
+      "category": "nature",
+      "distance": "350 km from Port Blair",
+      "rating": 4.7,
+      "description": "Twin islands connected by a stunning natural sandbar that appears at low tide, Ross and Smith Islands in North Andaman offer pristine white sand beaches, bioluminescent plankton, and untouched tropical forests.",
+      "history": "Part of the North Andaman administrative area near Diglipur, these twin islands have gained fame for their dramatic sandbar connection and bioluminescence phenomenon.",
+      "famousFor": "Natural sandbar, twin island connection, bioluminescence, pristine beaches, turtle nesting.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 3:30 PM",
+      "entryFee": "₹50 + boat charges",
+      "slug": "ross-and-smith-islands",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diglipur Town",
+          "city": "Diglipur",
+          "distance": "12 km away",
+          "category": "cultural",
+          "slug": "diglipur-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+        },
+        {
+          "name": "Saddle Peak National Park",
+          "city": "Diglipur",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "saddle-peak-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+        },
+        {
+          "name": "Kalipur Beach",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kalipur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "ross-and-smith-islands",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+    },
+    {
+      "name": "Diglipur Town",
+      "city": "Diglipur",
+      "category": "cultural",
+      "distance": "325 km from Port Blair",
+      "rating": 4.2,
+      "description": "The northernmost town in the Andaman Islands, Diglipur is the gateway to North Andaman's pristine attractions including Ross and Smith Islands, Saddle Peak, and Kalipur Beach.",
+      "history": "Diglipur has developed as the administrative and tourism hub for North Andaman, offering access to some of the most remote and beautiful destinations in the archipelago.",
+      "famousFor": "Gateway to North Andaman, oranges, paddy fields, access to Ross and Smith Islands.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "diglipur-town",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ross and Smith Islands",
+          "city": "Diglipur",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "ross-and-smith-islands",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+        },
+        {
+          "name": "Saddle Peak National Park",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "saddle-peak-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+        },
+        {
+          "name": "Kalipur Beach",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "kalipur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+        },
+        {
+          "name": "Ramnagar Beach",
+          "city": "Diglipur",
+          "distance": "12 km away",
+          "category": "beaches",
+          "slug": "ramnagar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+        },
+        {
+          "name": "Alfred Caves",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "alfred-caves",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "diglipur-town",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+    },
+    {
+      "name": "Saddle Peak National Park",
+      "city": "Diglipur",
+      "category": "wildlife",
+      "distance": "333 km from Port Blair",
+      "rating": 4.4,
+      "description": "Home to the highest point in the Andaman Islands — Saddle Peak at 732 metres — this national park protects tropical evergreen and moist deciduous forests teeming with endemic bird species and wildlife.",
+      "history": "Established in 1979, the park encompasses 32.54 sq km of pristine forest. The trek to the summit offers panoramic views of North Andaman.",
+      "famousFor": "Highest point in Andaman (732m), trekking, endemic birds, Andaman wild pig, tropical forest.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 4:00 PM",
+      "entryFee": "₹25",
+      "slug": "saddle-peak-national-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diglipur Town",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "cultural",
+          "slug": "diglipur-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+        },
+        {
+          "name": "Ross and Smith Islands",
+          "city": "Diglipur",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "ross-and-smith-islands",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+        },
+        {
+          "name": "Kalipur Beach",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kalipur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+        },
+        {
+          "name": "Alfred Caves",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "alfred-caves",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "saddle-peak-national-park",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+    },
+    {
+      "name": "Kalipur Beach",
+      "city": "Diglipur",
+      "category": "beaches",
+      "distance": "333 km from Port Blair",
+      "rating": 4.5,
+      "description": "One of the most important turtle nesting beaches in the Andaman Islands, Kalipur Beach is a secluded stretch of sand on the northeastern coast of North Andaman where leatherback and green sea turtles nest.",
+      "history": "The beach has been identified as a critical nesting site for endangered sea turtles and is monitored by the Forest Department during nesting season.",
+      "famousFor": "Sea turtle nesting (Dec-Feb), secluded beach, sunrise views, turtle hatchery, pristine sand.",
+      "bestTime": "December to February (turtle nesting), October to May (general)",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kalipur-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diglipur Town",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "cultural",
+          "slug": "diglipur-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+        },
+        {
+          "name": "Saddle Peak National Park",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "saddle-peak-national-park",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+        },
+        {
+          "name": "Ross and Smith Islands",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "ross-and-smith-islands",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/ross-and-smith-island.webp"
+        },
+        {
+          "name": "Ramnagar Beach",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "ramnagar-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "kalipur-beach",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+    },
+    {
+      "name": "Ramnagar Beach",
+      "city": "Diglipur",
+      "category": "beaches",
+      "distance": "340 km from Port Blair",
+      "rating": 4.3,
+      "description": "A serene, less-visited beach near Diglipur with a long stretch of golden sand backed by tropical vegetation. The beach offers a peaceful retreat away from the more popular tourist beaches.",
+      "history": "Part of the North Andaman coastline, Ramnagar Beach has been identified as a potential eco-tourism site by the local administration.",
+      "famousFor": "Secluded beach, golden sand, peaceful atmosphere, off-the-beaten-path destination.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "ramnagar-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diglipur Town",
+          "city": "Diglipur",
+          "distance": "12 km away",
+          "category": "cultural",
+          "slug": "diglipur-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+        },
+        {
+          "name": "Kalipur Beach",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "beaches",
+          "slug": "kalipur-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalipur-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "ramnagar-beach",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/ramnagar-beach.webp"
+    },
+    {
+      "name": "Long Island",
+      "city": "Long Island",
+      "category": "islands",
+      "distance": "80 km from Port Blair (by ferry)",
+      "rating": 4.5,
+      "description": "A tranquil, less-visited island between South and Middle Andaman, Long Island offers pristine beaches, mangrove forests, and the stunning crescent-shaped Lalaji Bay Beach accessible only by boat.",
+      "history": "Long Island has been a small settlement island with limited development, making it an attractive off-the-beaten-path destination for travelers seeking solitude.",
+      "famousFor": "Lalaji Bay Beach, solitude, mangrove forests, off-beat island tourism, trekking.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "long-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lalaji Bay Beach",
+          "city": "Long Island",
+          "distance": "4 km away (by boat)",
+          "category": "beaches",
+          "slug": "lalaji-bay-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+        },
+        {
+          "name": "Guitar Island",
+          "city": "Long Island",
+          "distance": "5 km away (by boat)",
+          "category": "nature",
+          "slug": "guitar-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "long-island",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/long-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+    },
+    {
+      "name": "Lalaji Bay Beach",
+      "city": "Long Island",
+      "category": "beaches",
+      "distance": "4 km from Long Island jetty (by boat)",
+      "rating": 4.7,
+      "description": "A pristine crescent-shaped beach on Long Island, accessible only by boat or a forest trek. Lalaji Bay is considered one of the most beautiful and untouched beaches in the Andaman Islands.",
+      "history": "The beach remains largely undeveloped and is accessible only by a 30-minute boat ride or a 2-hour forest trek, preserving its pristine character.",
+      "famousFor": "Pristine crescent beach, bioluminescent plankton, forest trek access, untouched beauty.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free (boat charges apply)",
+      "slug": "lalaji-bay-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Long Island",
+          "city": "Long Island",
+          "distance": "4 km away (by boat)",
+          "category": "islands",
+          "slug": "long-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+        },
+        {
+          "name": "Guitar Island",
+          "city": "Long Island",
+          "distance": "3 km away (by boat)",
+          "category": "nature",
+          "slug": "guitar-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "lalaji-bay-beach",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+    },
+    {
+      "name": "Guitar Island",
+      "city": "Long Island",
+      "category": "nature",
+      "distance": "5 km from Long Island jetty (by boat)",
+      "rating": 4.4,
+      "description": "A small, uninhabited island near Long Island shaped like a guitar when viewed from above. The island offers a tiny secluded beach, clear waters, and coral formations.",
+      "history": "Named for its distinctive guitar-like shape visible from the air, the island has become a popular boat excursion from Long Island for its novelty and beauty.",
+      "famousFor": "Guitar-shaped island, unique geography, secluded beach, snorkeling, boat excursion.",
+      "bestTime": "October to May",
+      "timings": "Open all day (boat excursion)",
+      "entryFee": "Boat charges apply",
+      "slug": "guitar-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Long Island",
+          "city": "Long Island",
+          "distance": "5 km away (by boat)",
+          "category": "islands",
+          "slug": "long-island",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/long-island.webp"
+        },
+        {
+          "name": "Lalaji Bay Beach",
+          "city": "Long Island",
+          "distance": "3 km away (by boat)",
+          "category": "beaches",
+          "slug": "lalaji-bay-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/lalaji-bay-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "guitar-island",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/guitar-island.webp"
+    },
+    {
+      "name": "Rangat Town",
+      "city": "Rangat",
+      "category": "cultural",
+      "distance": "170 km from Port Blair",
+      "rating": 4.1,
+      "description": "The headquarters of North and Middle Andaman district, Rangat serves as a transit point for travelers heading to Diglipur. The town offers access to mangrove walkways, beaches, and Cuthbert Bay turtle nesting site.",
+      "history": "Rangat developed as a key settlement along the Andaman Trunk Road and serves as the administrative center for the Middle Andaman region.",
+      "famousFor": "Transit hub, Amkunj Beach, mangrove walkways, Cuthbert Bay turtle nesting.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "rangat-town",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Amkunj Beach",
+          "city": "Rangat",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "amkunj-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+        },
+        {
+          "name": "Dhaninallah Mangrove Walkway",
+          "city": "Rangat",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "dhaninallah-mangrove-walkway",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+        },
+        {
+          "name": "Yerrata Mangrove Park",
+          "city": "Rangat",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "yerrata-mangrove-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+        },
+        {
+          "name": "Panchavati Falls",
+          "city": "Rangat",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "panchavati-falls",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "rangat-town",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/rangat.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+    },
+    {
+      "name": "Amkunj Beach",
+      "city": "Rangat",
+      "category": "beaches",
+      "distance": "178 km from Port Blair",
+      "rating": 4.3,
+      "description": "A scenic beach near Rangat with a mangrove nature walkway, eco-huts, and calm waters. Amkunj combines beach and mangrove tourism in one location.",
+      "history": "Developed as an eco-tourism beach with nature trails and mangrove boardwalks by the Forest Department.",
+      "famousFor": "Mangrove nature trail, eco-huts, calm waters, birdwatching, eco-tourism.",
+      "bestTime": "October to May",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "amkunj-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rangat Town",
+          "city": "Rangat",
+          "distance": "8 km away",
+          "category": "cultural",
+          "slug": "rangat-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+        },
+        {
+          "name": "Dhaninallah Mangrove Walkway",
+          "city": "Rangat",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "dhaninallah-mangrove-walkway",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+        },
+        {
+          "name": "Yerrata Mangrove Park",
+          "city": "Rangat",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "yerrata-mangrove-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "amkunj-beach",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+    },
+    {
+      "name": "Dhaninallah Mangrove Walkway",
+      "city": "Rangat",
+      "category": "nature",
+      "distance": "180 km from Port Blair",
+      "rating": 4.3,
+      "description": "A beautiful boardwalk through dense mangrove forest along a tidal creek near Rangat. The walkway offers close-up views of the mangrove ecosystem and its wildlife.",
+      "history": "Developed as an eco-tourism initiative to showcase the rich mangrove ecosystems of Middle Andaman without disturbing the habitat.",
+      "famousFor": "Mangrove boardwalk, tidal creek, birdwatching, eco-tourism, nature photography.",
+      "bestTime": "October to May",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹25",
+      "slug": "dhaninallah-mangrove-walkway",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rangat Town",
+          "city": "Rangat",
+          "distance": "10 km away",
+          "category": "cultural",
+          "slug": "rangat-town",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+        },
+        {
+          "name": "Amkunj Beach",
+          "city": "Rangat",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "amkunj-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+        },
+        {
+          "name": "Yerrata Mangrove Park",
+          "city": "Rangat",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "yerrata-mangrove-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "dhaninallah-mangrove-walkway",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+    },
+    {
+      "name": "Mount Harriet National Park",
+      "city": "Port Blair",
+      "category": "wildlife",
+      "distance": "15 km from Port Blair",
+      "rating": 4.3,
+      "description": "The highest point in South Andaman at 365 metres, Mount Harriet National Park offers trekking through tropical forests with panoramic views of Port Blair, the sea, and surrounding islands.",
+      "history": "Named after Harriet Tytler who lived here during the British era. The park was established in 1979 and covers 46.62 sq km of tropical forest. Renamed to Mount Manipur National Park in 2020.",
+      "famousFor": "Highest point in South Andaman, trekking, panoramic views, endemic butterflies, birdwatching.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "mount-harriet-national-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/mount-manipur-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "mount-harriet-national-park",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/mount-manipur-national-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/mount-manipur-national-park.webp"
+    },
+    {
+      "name": "Jogger's Park",
+      "city": "Port Blair",
+      "category": "nature",
+      "distance": "4 km from Port Blair city center",
+      "rating": 4,
+      "description": "A well-maintained recreational park near the coast offering jogging tracks, children's play area, and sea views. It's a popular morning recreation spot for locals and tourists.",
+      "history": "Developed by the Andaman administration as an urban recreation facility with coastal views.",
+      "famousFor": "Jogging tracks, sea views, morning recreation, children's play area.",
+      "bestTime": "October to May",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "₹10",
+      "slug": "joggers-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Corbyn's Cove Beach",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "corbyns-cove-beach",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+        },
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "state": "Andaman and Nicobar Islands",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        },
+        {
+          "name": "Water Sports Complex",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "adventure",
+          "slug": "water-sports-complex",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "joggers-park",
+      "district": "South Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+    },
+    {
+      "name": "Interview Island Wildlife Sanctuary",
+      "city": "Middle Andaman",
+      "category": "wildlife",
+      "distance": "230 km from Port Blair",
+      "rating": 4.3,
+      "description": "The largest wildlife sanctuary in the Andaman Islands, Interview Island is home to a population of feral elephants, saltwater crocodiles, and diverse marine life. The uninhabited island is a unique eco-tourism destination.",
+      "history": "Elephants were brought to the island for timber logging in the early 20th century. When logging operations ceased, the elephants were left behind and now roam wild. The sanctuary was established in 1985.",
+      "famousFor": "Feral elephants, saltwater crocodiles, mangroves, uninhabited island, eco-tourism.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 4:00 PM (permission required)",
+      "entryFee": "₹50 (Forest Department permit required)",
+      "slug": "interview-island-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/interview-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Andaman and Nicobar Islands",
+      "id": "interview-island-wildlife-sanctuary",
+      "district": "North and Middle Andaman",
+      "image": "assets/images/states/andaman-and-nicobar-islands/interview-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/interview-island.webp"
+    },
+    {
+      "name": "Swaraj Dweep",
+      "city": "Swaraj Dweep",
+      "district": "South Andaman",
+      "category": "islands",
+      "distance": "54 km from Port Blair (by ferry)",
+      "rating": 4.9,
+      "description": "Formerly known as Havelock Island, Swaraj Dweep is the crown jewel of Andaman tourism. This lush tropical island is home to Asia's best beach — Radhanagar — along with world-class diving, pristine coral reefs, and dense tropical forests that meet turquoise waters.",
+      "history": "Named Havelock by the British after Sir Henry Havelock, the island was renamed Swaraj Dweep (Island of Self-Rule) in 2018. It has grown from a quiet settlement to India's premier island tourism destination.",
+      "famousFor": "Radhanagar Beach (Asia's best), scuba diving, snorkeling, Elephant Beach, tropical forest, coral reefs.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "swaraj-dweep",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Radhanagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "12 km away",
+          "category": "beaches",
+          "slug": "radhanagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/radhanagar-beach.webp"
+        },
+        {
+          "name": "Elephant Beach",
+          "city": "Swaraj Dweep",
+          "distance": "7 km away",
+          "category": "beaches",
+          "slug": "elephant-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/elephant-beach.webp"
+        },
+        {
+          "name": "Kala Pathar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "kala-pathar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+        },
+        {
+          "name": "Vijaynagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "vijaynagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+        },
+        {
+          "name": "Govind Nagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "1 km away",
+          "category": "beaches",
+          "slug": "govind-nagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "swaraj-dweep",
+      "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+    },
+    {
+      "name": "Shaheed Dweep",
+      "city": "Shaheed Dweep",
+      "district": "South Andaman",
+      "category": "islands",
+      "distance": "36 km from Port Blair (by ferry)",
+      "rating": 4.7,
+      "description": "Formerly known as Neil Island, Shaheed Dweep is a small, charming island known for its laid-back atmosphere, spectacular sunset beaches, and the iconic Natural Bridge — a stunning coral rock formation shaped by the sea over millennia.",
+      "history": "Renamed from Neil Island to Shaheed Dweep (Martyr's Island) in 2018 to honour Indian freedom fighters. The island is primarily inhabited by Bengali settler families engaged in agriculture and fishing.",
+      "famousFor": "Natural Bridge, Bharatpur Beach, Laxmanpur sunset, laid-back island life, cycling around the island.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "shaheed-dweep",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bharatpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "0.5 km away",
+          "category": "beaches",
+          "slug": "bharatpur-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/bharatpur-beach.webp"
+        },
+        {
+          "name": "Laxmanpur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "laxmanpur-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/laxmanpur-beach.webp"
+        },
+        {
+          "name": "Sitapur Beach",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "beaches",
+          "slug": "sitapur-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+        },
+        {
+          "name": "Natural Bridge",
+          "city": "Shaheed Dweep",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "natural-bridge",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/natural-bridge.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "shaheed-dweep",
+      "image": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/shaheed-dweep.webp"
+    },
+    {
+      "name": "Vijaynagar Beach",
+      "city": "Swaraj Dweep",
+      "district": "South Andaman",
+      "category": "beaches",
+      "distance": "3 km from Swaraj Dweep jetty",
+      "rating": 4.5,
+      "description": "A serene beach on the eastern coast of Swaraj Dweep, Vijaynagar Beach offers calm waters, soft white sand, and a peaceful atmosphere away from the busier tourist beaches. It is ideal for swimming and watching the sunrise.",
+      "history": "Named after the Vijaynagar settlement on the island, this beach has been a favourite among travellers seeking quieter shores on Swaraj Dweep.",
+      "famousFor": "Calm swimming waters, sunrise views, secluded atmosphere, beachside cottages.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "vijaynagar-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Swaraj Dweep",
+          "city": "Swaraj Dweep",
+          "distance": "3 km away",
+          "category": "islands",
+          "slug": "swaraj-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+        },
+        {
+          "name": "Kala Pathar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "kala-pathar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/kalapathar-beach.webp"
+        },
+        {
+          "name": "Govind Nagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "govind-nagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "vijaynagar-beach",
+      "image": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+    },
+    {
+      "name": "Govind Nagar Beach",
+      "city": "Swaraj Dweep",
+      "district": "South Andaman",
+      "category": "beaches",
+      "distance": "1 km from Swaraj Dweep jetty",
+      "rating": 4.3,
+      "description": "Located near the main settlement on Swaraj Dweep, Govind Nagar Beach is a quiet stretch of sand convenient for evening walks and relaxation after a day of island exploration.",
+      "history": "The beach sits adjacent to Govind Nagar, the primary settlement and commercial area on Swaraj Dweep.",
+      "famousFor": "Evening walks, local ambiance, jetty proximity, convenient beach access.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "govind-nagar-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Swaraj Dweep",
+          "city": "Swaraj Dweep",
+          "distance": "1 km away",
+          "category": "islands",
+          "slug": "swaraj-dweep",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+        },
+        {
+          "name": "Vijaynagar Beach",
+          "city": "Swaraj Dweep",
+          "distance": "2 km away",
+          "category": "beaches",
+          "slug": "vijaynagar-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/vijaynagar-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "govind-nagar-beach",
+      "image": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/govind-nagar-beach.webp"
+    },
+    {
+      "name": "Fisheries Museum",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "museums",
+      "distance": "3 km from Port Blair city center",
+      "rating": 4.1,
+      "description": "A specialised museum in Port Blair showcasing the marine fisheries resources of the Andaman and Nicobar Islands. It features aquariums with live fish, coral displays, and exhibits on traditional and modern fishing techniques used by islanders.",
+      "history": "Established by the Department of Fisheries to document the rich marine biodiversity and fishing heritage of the islands.",
+      "famousFor": "Live aquariums, marine species displays, fishing techniques, coral exhibits.",
+      "bestTime": "October to May",
+      "timings": "9:00 AM – 4:30 PM (Closed Monday)",
+      "entryFee": "₹10",
+      "slug": "fisheries-museum",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Anthropological Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "anthropological-museum",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+        },
+        {
+          "name": "Science Centre",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "science-centre",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "fisheries-museum",
+      "image": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+    },
+    {
+      "name": "Forest Museum",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "museums",
+      "distance": "3 km from Port Blair city center (at Chatham)",
+      "rating": 4,
+      "description": "Located within the Chatham Saw Mill complex, the Forest Museum displays specimens of rare timber species found in the Andaman forests, along with exhibits on the islands' forestry history and ecological significance.",
+      "history": "Created as part of the Chatham Saw Mill heritage to preserve knowledge about the unique timber species and forest ecosystems of the Andaman archipelago.",
+      "famousFor": "Rare timber specimens, wood cross-sections, forestry heritage, Chatham Saw Mill complex.",
+      "bestTime": "October to May",
+      "timings": "8:30 AM – 2:30 PM (Closed Monday & Sunday)",
+      "entryFee": "Free (included with Chatham Saw Mill)",
+      "slug": "forest-museum",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/forest-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chatham Saw Mill",
+          "city": "Port Blair",
+          "distance": "Inside complex",
+          "category": "heritage",
+          "slug": "chatham-saw-mill",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "forest-museum",
+      "image": "assets/images/states/andaman-and-nicobar-islands/forest-museum.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/forest-museum.webp"
+    },
+    {
+      "name": "Science Centre",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "museums",
+      "distance": "5 km from Port Blair city center",
+      "rating": 4,
+      "description": "An interactive science museum with exhibits on marine biology, oceanography, and the unique geology of the Andaman and Nicobar Islands. It features hands-on displays designed for both education and entertainment.",
+      "history": "Established to promote scientific awareness and education among the island community and visitors.",
+      "famousFor": "Interactive science exhibits, marine biology displays, educational programs, planetarium.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Monday)",
+      "entryFee": "₹20",
+      "slug": "science-centre",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Anthropological Museum",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "museums",
+          "slug": "anthropological-museum",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/anthropological-museum.webp"
+        },
+        {
+          "name": "Fisheries Museum",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "fisheries-museum",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/fisheries-museum.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "science-centre",
+      "image": "assets/images/states/andaman-and-nicobar-islands/science-center.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/science-center.webp"
+    },
+    {
+      "name": "Gandhi Park",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "nature",
+      "distance": "2 km from Port Blair city center",
+      "rating": 4,
+      "description": "A well-maintained public park in Port Blair featuring gardens, children's play areas, and a statue of Mahatma Gandhi. It serves as a popular recreational spot for families and a peaceful green space in the city.",
+      "history": "Named in honour of Mahatma Gandhi, the park was developed as an urban green space in Port Blair's residential area.",
+      "famousFor": "Gandhi statue, family recreation, gardens, children's play area, city greenery.",
+      "bestTime": "October to May",
+      "timings": "5:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "gandhi-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Marina Park",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "marina-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+        },
+        {
+          "name": "Aberdeen Clock Tower",
+          "city": "Port Blair",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "aberdeen-clock-tower",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/aberdeen-clock-tower.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "gandhi-park",
+      "image": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/marina-park.webp"
+    },
+    {
+      "name": "Cinque Island",
+      "city": "Wandoor",
+      "district": "South Andaman",
+      "category": "nature",
+      "distance": "38 km from Port Blair (by boat)",
+      "rating": 4.7,
+      "description": "A pair of islands (North and South Cinque) connected by a shallow sandbar, Cinque Island is considered the finest diving destination in the Andaman Islands. The surrounding waters harbour some of the richest coral formations in Asia.",
+      "history": "Part of the Mahatma Gandhi Marine National Park, Cinque Island has been a protected diving destination. Access requires special permits from the Forest Department.",
+      "famousFor": "Pristine diving, coral reefs, sandbar connection, marine biodiversity, protected ecosystem.",
+      "bestTime": "November to April",
+      "timings": "By Forest Department permit only",
+      "entryFee": "Permit required",
+      "slug": "cinque-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahatma Gandhi Marine National Park",
+          "city": "Wandoor",
+          "distance": "15 km away (by boat)",
+          "category": "wildlife",
+          "slug": "mahatma-gandhi-marine-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/mahatma-gandhi-marine-national-park.webp"
+        },
+        {
+          "name": "Rutland Island",
+          "city": "Port Blair",
+          "distance": "10 km away (by boat)",
+          "category": "nature",
+          "slug": "rutland-island",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/great-nicobar-island.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/great-nicobar-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "cinque-island",
+      "image": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+    },
+    {
+      "name": "Rutland Island",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "nature",
+      "distance": "25 km from Port Blair (by boat)",
+      "rating": 4.3,
+      "description": "A large, mostly uninhabited island south of Port Blair with pristine beaches, dense tropical forests, and rich coral reefs. Rutland Island offers an off-the-beaten-path experience for adventurous travellers.",
+      "history": "Named by the British, Rutland Island has remained largely undeveloped. It is home to a small settlement and surrounded by protected coral reefs.",
+      "famousFor": "Pristine beaches, untouched forests, coral reefs, off-beat destination, turtle nesting.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "rutland-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/great-nicobar-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Cinque Island",
+          "city": "Wandoor",
+          "distance": "10 km away (by boat)",
+          "category": "nature",
+          "slug": "cinque-island",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/cinque-island.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "rutland-island",
+      "image": "assets/images/states/andaman-and-nicobar-islands/great-nicobar-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/great-nicobar-island.webp"
+    },
+    {
+      "name": "Baludera Beach",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "beaches",
+      "distance": "22 km from Port Blair",
+      "rating": 4.2,
+      "description": "A secluded beach in South Andaman known for its tranquil setting, dark sand, and lush forest backdrop. Baludera Beach offers a peaceful escape from the more commercialised beach destinations.",
+      "history": "A lesser-known beach in the South Andaman coastline that has gained attention among off-beat travellers seeking solitude.",
+      "famousFor": "Secluded atmosphere, dark sand, forest backdrop, peaceful retreat.",
+      "bestTime": "October to May",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "baludera-beach",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chidiya Tapu",
+          "city": "Port Blair",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "chidiya-tapu",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+        },
+        {
+          "name": "Munda Pahad Beach",
+          "city": "Port Blair",
+          "distance": "4 km away",
+          "category": "beaches",
+          "slug": "munda-pahad-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/munda-pahad-beach.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "baludera-beach",
+      "image": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/baludera-beach.webp"
+    },
+    {
+      "name": "Yerrata Mangrove Park",
+      "city": "Rangat",
+      "district": "North and Middle Andaman",
+      "category": "nature",
+      "distance": "185 km from Port Blair",
+      "rating": 4.2,
+      "description": "A mangrove interpretation centre and nature park near Rangat, Yerrata offers a guided experience through the rich mangrove ecosystem of Middle Andaman with an elevated boardwalk and informational displays.",
+      "history": "Developed by the Forest Department as an interpretation centre to educate visitors about the ecological importance of mangrove forests in the Andaman Islands.",
+      "famousFor": "Mangrove interpretation, boardwalk, eco-education, birdwatching, nature photography.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹25",
+      "slug": "yerrata-mangrove-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rangat Town",
+          "city": "Rangat",
+          "distance": "12 km away",
+          "category": "cultural",
+          "slug": "rangat-town",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+        },
+        {
+          "name": "Amkunj Beach",
+          "city": "Rangat",
+          "distance": "8 km away",
+          "category": "beaches",
+          "slug": "amkunj-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/amkunj-beach.webp"
+        },
+        {
+          "name": "Dhaninallah Mangrove Walkway",
+          "city": "Rangat",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "dhaninallah-mangrove-walkway",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/dhani-nallah-mangrove-walkway.webp"
+        },
+        {
+          "name": "Panchavati Falls",
+          "city": "Rangat",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "panchavati-falls",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "yerrata-mangrove-park",
+      "image": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+    },
+    {
+      "name": "Panchavati Falls",
+      "city": "Rangat",
+      "district": "North and Middle Andaman",
+      "category": "nature",
+      "distance": "190 km from Port Blair",
+      "rating": 4.2,
+      "description": "One of the few named waterfalls in the Andaman Islands, Panchavati Falls is a forest waterfall near Rangat accessible via a short trek through tropical forest. The falls cascade into a natural pool surrounded by lush vegetation.",
+      "history": "Identified and developed as a nature tourism site by the Andaman Forest Department. The waterfall is one of the very few accessible waterfalls in the archipelago.",
+      "famousFor": "Waterfall, forest trek, natural pool, monsoon season beauty, eco-tourism.",
+      "bestTime": "June to September (peak flow), October to May (accessible)",
+      "timings": "7:00 AM – 4:00 PM",
+      "entryFee": "₹20",
+      "slug": "panchavati-falls",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rangat Town",
+          "city": "Rangat",
+          "distance": "15 km away",
+          "category": "cultural",
+          "slug": "rangat-town",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/rangat.webp"
+        },
+        {
+          "name": "Yerrata Mangrove Park",
+          "city": "Rangat",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "yerrata-mangrove-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/yerrata-mangrove-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "panchavati-falls",
+      "image": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/panchavati-falls.webp"
+    },
+    {
+      "name": "Alfred Caves",
+      "city": "Diglipur",
+      "district": "North and Middle Andaman",
+      "category": "nature",
+      "distance": "340 km from Port Blair",
+      "rating": 4.1,
+      "description": "Natural limestone caves near Diglipur in North Andaman, Alfred Caves are a lesser-known geological site featuring stalactite and stalagmite formations within a dense forest setting.",
+      "history": "Named during the British era, these caves were explored as part of the geological survey of the Andaman Islands.",
+      "famousFor": "Limestone formations, stalactites, geological exploration, forest setting, off-beat destination.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 3:00 PM",
+      "entryFee": "₹25",
+      "slug": "alfred-caves",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diglipur Town",
+          "city": "Diglipur",
+          "distance": "10 km away",
+          "category": "cultural",
+          "slug": "diglipur-town",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/diglipur.webp"
+        },
+        {
+          "name": "Saddle Peak National Park",
+          "city": "Diglipur",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "saddle-peak-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/saddle-peak-national-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "alfred-caves",
+      "image": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/alfred-caves.webp"
+    },
+    {
+      "name": "Campbell Bay National Park",
+      "city": "Campbell Bay",
+      "district": "Nicobar",
+      "category": "wildlife",
+      "distance": "Accessible by ship/flight from Port Blair",
+      "rating": 4.4,
+      "description": "Located on Great Nicobar Island, Campbell Bay National Park protects 426 sq km of tropical evergreen forests, mangroves, and coastline. It is home to the critically endangered Nicobar megapode, saltwater crocodiles, and leatherback turtles.",
+      "history": "Established in 1992, the park is part of the Great Nicobar Biosphere Reserve — a UNESCO site. It protects one of the most biodiverse and least disturbed ecosystems in India.",
+      "famousFor": "Nicobar megapode, leatherback turtles, pristine rainforest, Great Nicobar Biosphere Reserve.",
+      "bestTime": "November to April",
+      "timings": "6:00 AM – 4:00 PM (special permit required)",
+      "entryFee": "Permit required from Forest Department",
+      "slug": "campbell-bay-national-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Galathea National Park",
+          "city": "Campbell Bay",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "galathea-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+        },
+        {
+          "name": "Indira Point",
+          "city": "Great Nicobar",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "indira-point",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "campbell-bay-national-park",
+      "image": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+    },
+    {
+      "name": "Galathea National Park",
+      "city": "Campbell Bay",
+      "district": "Nicobar",
+      "category": "wildlife",
+      "distance": "Accessible by ship/flight from Port Blair",
+      "rating": 4.3,
+      "description": "Situated on the southern tip of Great Nicobar Island, Galathea National Park encompasses 110 sq km of tropical rainforest, mangroves, and turtle nesting beaches. It is one of the remotest national parks in India.",
+      "history": "Established in 1992, the park is named after the Galathea River. It is part of the Great Nicobar Biosphere Reserve and protects unique endemic species.",
+      "famousFor": "Remote national park, turtle nesting, endemic wildlife, Galathea River, pristine ecosystem.",
+      "bestTime": "November to April",
+      "timings": "6:00 AM – 4:00 PM (special permit required)",
+      "entryFee": "Permit required from Forest Department",
+      "slug": "galathea-national-park",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Campbell Bay National Park",
+          "city": "Campbell Bay",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "campbell-bay-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+        },
+        {
+          "name": "Indira Point",
+          "city": "Great Nicobar",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "indira-point",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "galathea-national-park",
+      "image": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+    },
+    {
+      "name": "Indira Point",
+      "city": "Great Nicobar",
+      "district": "Nicobar",
+      "category": "heritage",
+      "distance": "Southernmost tip of India",
+      "rating": 4.5,
+      "description": "The southernmost point of the Republic of India, Indira Point on Great Nicobar Island is marked by a lighthouse. It is geographically closer to Indonesia than to mainland India, lying just 150 km from Sumatra.",
+      "history": "Named after Prime Minister Indira Gandhi, this point was severely damaged by the 2004 tsunami. The original lighthouse was submerged and a new one was built. The area has been restored as a landmark.",
+      "famousFor": "Southernmost point of India, lighthouse, 2004 tsunami history, proximity to Indonesia.",
+      "bestTime": "November to April",
+      "timings": "Open all day (restricted access — permit required)",
+      "entryFee": "Permit required",
+      "slug": "indira-point",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Campbell Bay National Park",
+          "city": "Campbell Bay",
+          "distance": "20 km away",
+          "category": "wildlife",
+          "slug": "campbell-bay-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/campbell-bay-national-park.webp"
+        },
+        {
+          "name": "Galathea National Park",
+          "city": "Campbell Bay",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "galathea-national-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/galathea-national-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "indira-point",
+      "image": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/indira-point.webp"
+    },
+    {
+      "name": "Water Sports Complex",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "adventure",
+      "distance": "4 km from Port Blair city center",
+      "rating": 4.2,
+      "description": "The official water sports facility in Port Blair offering jet skiing, parasailing, banana boat rides, speed boat trips, and kayaking. It is the primary hub for aquatic adventures near the capital city.",
+      "history": "Developed by the Andaman and Nicobar Administration's Directorate of Tourism to promote water-based recreational activities in Port Blair.",
+      "famousFor": "Jet skiing, parasailing, banana boats, speed boats, kayaking, family water sports.",
+      "bestTime": "October to May",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "Activity-based pricing",
+      "slug": "water-sports-complex",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Corbyn's Cove Beach",
+          "city": "Port Blair",
+          "distance": "3 km away",
+          "category": "beaches",
+          "slug": "corbyns-cove-beach",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+        },
+        {
+          "name": "Jogger's Park",
+          "city": "Port Blair",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "joggers-park",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+          },
+          "state": "Andaman and Nicobar Islands",
+          "image": "assets/images/states/andaman-and-nicobar-islands/joggers-park.webp"
+        }
+      ],
+      "state": "Andaman and Nicobar Islands",
+      "id": "water-sports-complex",
+      "image": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/water-sports.webp"
+    },
+    {
+      "name": "Barren Island",
+      "city": "Port Blair",
+      "district": "South Andaman",
+      "category": "nature",
+      "distance": "135 km from Port Blair (by boat)",
+      "rating": 4.5,
+      "description": "Home to the only confirmed active volcano in South Asia, Barren Island is an uninhabited volcanic island in the Andaman Sea. Visitors can view the volcano from the sea but landing is prohibited.",
+      "history": "The volcano has been active since recorded history, with major eruptions in 1787, 1991, and periodic activity since. It is monitored by the Geological Survey of India.",
+      "famousFor": "Only active volcano in South Asia, volcanic landscape, boat excursion, geological significance.",
+      "bestTime": "January to March",
+      "timings": "Viewing from boat only (no landing permitted)",
+      "entryFee": "Boat charter charges",
+      "slug": "barren-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/barren-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Andaman and Nicobar Islands",
+      "id": "barren-island",
+      "image": "assets/images/states/andaman-and-nicobar-islands/barren-island.webp",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/barren-island.webp"
+    },
+    {
+      "name": "Havelock Island",
+      "city": "Swaraj Dweep",
+      "distance": "54 km from Port Blair (by ferry)",
+      "category": "beaches",
+      "slug": "havelock-island",
+      "images": {
+        "main": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+      },
+      "image": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp",
+      "description": "Havelock Island (officially Swaraj Dweep) is the most popular tourist destination in the Andaman Islands, renowned for its pristine white-sand beaches, crystal-clear turquoise waters, and spectacular coral reefs. Radhanagar Beach here has been voted Asia's best beach multiple times.",
+      "history": "Named after Sir Henry Havelock, a British general, the island was officially renamed Swaraj Dweep in 2018. It has been inhabited by the indigenous people of the Andaman Islands for thousands of years before British colonization.",
+      "famousFor": "Radhanagar Beach, Scuba Diving, Snorkeling, Coral Reefs, Elephant Beach",
+      "bestTime": "October to May (avoid monsoon season June–September)",
+      "timings": "Open 24 hours (beaches accessible sunrise to sunset)",
+      "entryFee": "Free (water sports charged separately)",
+      "nearbyAttractions": [
+        {
+          "name": "Cellular Jail",
+          "city": "Port Blair",
+          "distance": "54 km (ferry)",
+          "category": "heritage",
+          "slug": "cellular-jail",
+          "images": {
+            "main": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+          },
+          "image": "assets/images/states/andaman-and-nicobar-islands/cellular-jail.webp"
+        }
+      ],
+      "state": "Andaman And Nicobar Islands",
+      "heroImage": "assets/images/states/andaman-and-nicobar-islands/swaraj-dweep.webp"
+    }
+  ],
+  "tagline": "The Emerald Jewels of the Bay of Bengal"
+}

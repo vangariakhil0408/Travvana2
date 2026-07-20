@@ -1,0 +1,71 @@
+{
+  "id": "badami-cave-temples",
+  "slug": "badami-cave-temples",
+  "name": "Badami Cave Temples",
+  "location": "Karnataka, India",
+  "district": "Badami",
+  "stateId": "karnataka",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "image": "./assets/images/popular/badami-cave-temples.webp",
+  "heroImage": "./assets/images/popular/badami-cave-temples.webp",
+  "gallery": [
+    "./assets/images/popular/badami-cave-temples.webp"
+  ],
+  "overview": "Experience the beauty of Badami Cave Temples, a top destination in Karnataka, India.",
+  "description": "Carved between the 6th and 8th centuries by the Chalukyas, these rock-cut cave temples are dedicated to Hindu and Jain traditions.",
+  "rating": "4.8",
+  "reviewCount": 44228,
+  "popularityScore": 5,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "9:00 AM - 5:30 PM",
+  "entryFee": {
+    "indian": "₹25",
+    "foreigner": "₹300"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Hubli / Belgaum Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Badami Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "1 km from Badami town"
+  },
+  "tags": [
+    "heritage",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3902
+    },
+    {
+      "views": 524
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "hampi",
+    "jog-falls"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "kanyakumari-sunset",
+  "slug": "kanyakumari-sunset",
+  "name": "Kanyakumari Sunset Point",
+  "location": "Tamil Nadu, India",
+  "district": "Kanyakumari",
+  "stateId": "tamil-nadu",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/kanyakumari-sunset.webp",
+  "heroImage": "./assets/images/popular/kanyakumari-sunset.webp",
+  "gallery": [
+    "./assets/images/popular/kanyakumari-sunset.webp"
+  ],
+  "overview": "Experience the beauty of Kanyakumari Sunset Point, a top destination in Tamil Nadu, India.",
+  "description": "Located exactly at the southernmost edge of the Indian peninsula, it is widely acclaimed for spectacular sunrise and sunset vistas converging along three major oceans.",
+  "rating": "4.8",
+  "reviewCount": 4861,
+  "popularityScore": 82,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "Sunrise to Sunset",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Trivandrum International Airport",
+      "distance": "90 km"
+    },
+    "nearestRailway": {
+      "name": "Kanyakumari Railway Station",
+      "distance": "2 km"
+    },
+    "byRoad": "Seamlessly connected to Kerala and broader Tamil Nadu."
+  },
+  "tags": [
+    "nature",
+    "tamil-nadu",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3654
+    },
+    {
+      "views": 2141
+    }
+  ],
+  "nearbyPlaces": [
+    "meenakshi-amman-temple",
+    "ramanathaswamy-temple",
+    "ooty"
+  ]
+}

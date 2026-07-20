@@ -1,0 +1,23 @@
+{
+  "id": "hirwa-van-garden",
+  "name": "Hirwa Van Garden",
+  "city": "Silvassa",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A beautifully maintained man-made forest garden featuring cascading waterfalls, colorful flowerbeds, stone walls, and winding pathways perfect for family picnics.",
+  "history": "The name translates to 'Green Forest'. It was developed as a recreational space for locals and tourists, showcasing local flora in a structured yet natural-feeling environment.",
+  "famousFor": "Artificial waterfalls, manicured lawns, and picnic spots.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 8:00 PM",
+  "entryFee": "\u20b920",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+  ],
+  "nearbyPlaces": [
+    "vasona-lion-safari",
+    "vanganga-lake-garden",
+    "dudhni-lake",
+    "tribal-cultural-museum"
+  ]
+}

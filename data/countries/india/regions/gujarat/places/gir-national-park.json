@@ -1,0 +1,69 @@
+{
+  "id": "gir-national-park",
+  "slug": "gir-national-park",
+  "name": "Gir National Park",
+  "location": "Gujarat, India",
+  "district": "Sasan Gir",
+  "stateId": "gujarat",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/gir-national-park.webp",
+  "heroImage": "./assets/images/popular/gir-national-park.webp",
+  "gallery": [
+    "./assets/images/popular/gir-national-park.webp"
+  ],
+  "overview": "Experience the beauty of Gir National Park, a top destination in Gujarat, India.",
+  "description": "Established in 1965, Gir National Park is the only natural habitat of the Asiatic lion in the world.",
+  "rating": "4.8",
+  "reviewCount": 22775,
+  "popularityScore": 29,
+  "priceLevel": 1,
+  "bestTimeToVisit": "December to March",
+  "timings": "6:30 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "₹800-₹2000 (Safari dependent)",
+    "foreigner": "₹800-₹2000 (Safari dependent)"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Ahmedabad / Rajkot / Vadodara Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Sasan Gir Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "65 km from Junagadh"
+  },
+  "tags": [
+    "nature",
+    "gujarat",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1952
+    },
+    {
+      "views": 2819
+    }
+  ],
+  "nearbyPlaces": [
+    "somnath-temple"
+  ]
+}

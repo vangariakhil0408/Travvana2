@@ -1,0 +1,70 @@
+{
+  "id": "chilika-lake",
+  "slug": "chilika-lake",
+  "name": "Chilika Lake",
+  "location": "Odisha, India",
+  "district": "Puri",
+  "stateId": "odisha",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/chilika-lake.webp",
+  "heroImage": "./assets/images/popular/chilika-lake.webp",
+  "gallery": [
+    "./assets/images/popular/chilika-lake.webp"
+  ],
+  "overview": "Experience the beauty of Chilika Lake, a top destination in Odisha, India.",
+  "description": "Chilika Lake is Asia's largest brackish water lagoon and a paradise for birdwatchers. It is home to a number of threatened species of plants and animals, including the Irrawaddy dolphins.",
+  "rating": "4.4",
+  "reviewCount": 23727,
+  "popularityScore": 48,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to February",
+  "timings": "6:00 AM - 7:00 PM",
+  "entryFee": {
+    "indian": "Free (Boating extra)",
+    "foreigner": "Free (Boating extra)"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Biju Patnaik International Airport",
+      "distance": "100 km"
+    },
+    "nearestRailway": {
+      "name": "Balugaon Railway Station",
+      "distance": "5 km"
+    },
+    "byRoad": "Connected via NH16 from Bhubaneswar."
+  },
+  "tags": [
+    "nature",
+    "odisha",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3406
+    },
+    {
+      "views": 4779
+    }
+  ],
+  "nearbyPlaces": [
+    "jagannath-temple",
+    "konark-sun-temple"
+  ]
+}

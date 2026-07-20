@@ -1,0 +1,30 @@
+{
+  "id": "shanti-stupa",
+  "name": "Shanti Stupa",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A magnificent white-domed Buddhist stupa perched on a steep hilltop, famous for offering the most spectacular sunrise and sunset views over Leh.",
+  "history": "Built in 1991 by Japanese Buddhist Bhikshu Gyomyo Nakamura to promote world peace.",
+  "famousFor": "Sunset views, meditation, relics of the Buddha.",
+  "bestTime": "May to September",
+  "timings": "5:00 AM \u2013 9:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000003647208b60021e9c8dfe68e.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000003647208b60021e9c8dfe68e.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000003647208b60021e9c8dfe68e.webp"
+  ],
+  "nearbyPlaces": [
+    "kargil-town",
+    "hall-of-fame",
+    "leh-palace",
+    "stok-palace",
+    "pathar-sahib",
+    "khardung-la",
+    "magnetic-hill",
+    "chang-la-pass",
+    "thiksey-monastery",
+    "tso-kar",
+    "leh-city"
+  ]
+}

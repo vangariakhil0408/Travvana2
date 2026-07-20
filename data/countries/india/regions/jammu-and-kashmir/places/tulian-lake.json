@@ -1,0 +1,24 @@
+{
+  "id": "tulian-lake",
+  "name": "Tulian Lake",
+  "city": "Pahalgam",
+  "state": "Jammu and Kashmir",
+  "description": "A stunning, pristine alpine lake situated at an altitude of 3,684 meters, surrounded on three sides by imposing, snow-covered mountains that rise directly from the water.",
+  "history": "It is a hidden gem often only visited by dedicated trekkers, maintaining its extremely raw and untouched ecological state.",
+  "famousFor": "Challenging trek, crystal clear high-altitude lake, ice blocks.",
+  "bestTime": "July to September",
+  "timings": "Open 24/7 (Trek recommended)",
+  "entryFee": "Free (Trek guide/ponies extra)",
+  "image": "./assets/images/states/jammu-and-kashmir/tulian-lake.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/tulian-lake.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/tulian-lake.webp"
+  ],
+  "nearbyPlaces": [
+    "aru-valley",
+    "betaab-valley",
+    "amarnath-cave",
+    "baisaran-valley",
+    "chandanwari"
+  ]
+}

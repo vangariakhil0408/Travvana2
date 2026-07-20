@@ -1,0 +1,57 @@
+{
+  "id": "jaunpur-atala-masjid",
+  "slug": "jaunpur-atala-masjid",
+  "name": "Atala Masjid",
+  "location": "Uttar Pradesh, India",
+  "district": "Jaunpur",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A monumental 15th-century mosque showcasing the unique Sharqi architectural style \u2014 a blend of Hindu temple and Islamic dome designs. Its massive, towering entrance gateway is an engineering marvel.",
+  "description": "Built by Sultan Ibrahim Shah Sharqi in 1408. Jaunpur was known as the 'Shiraz of India' under the Sharqi Sultanate.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [],
+  "image": "./assets/images/states/uttar-pradesh/Atala-Masjid.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Atala-Masjid.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Atala-Masjid.webp"
+  ]
+}

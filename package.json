@@ -1,0 +1,16 @@
+{
+  "name": "travvana",
+  "version": "1.0.0",
+  "description": "Discover India, Your Way — AI-powered travel discovery platform",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["travel", "india", "AI", "planner"],
+  "author": "Travvana",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.35.3"
+  }
+}

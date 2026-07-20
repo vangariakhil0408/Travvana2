@@ -1,0 +1,71 @@
+{
+  "id": "dashashwamedh-ghat",
+  "slug": "dashashwamedh-ghat",
+  "name": "Dashashwamedh Ghat",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/dashashwamedh-ghat.webp",
+  "heroImage": "./assets/images/popular/dashashwamedh-ghat.webp",
+  "gallery": [
+    "./assets/images/popular/dashashwamedh-ghat.webp"
+  ],
+  "overview": "Experience the beauty of Dashashwamedh Ghat, a top destination in Uttar Pradesh, India.",
+  "description": "One of the oldest and most sacred ghats of Varanasi, associated with ancient Vedic rituals and daily Ganga worship.",
+  "rating": "4.6",
+  "reviewCount": 21336,
+  "popularityScore": 23,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open 24 hours",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Lal Bahadur Shastri Airport (Varanasi)",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Varanasi Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Central Varanasi riverfront"
+  },
+  "tags": [
+    "spiritual",
+    "uttar-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 4026
+    },
+    {
+      "views": 920
+    }
+  ],
+  "nearbyPlaces": [
+    "taj-mahal",
+    "varanasi-ghats",
+    "fatehpur-sikri"
+  ]
+}

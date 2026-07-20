@@ -1,0 +1,29 @@
+{
+  "id": "garden-of-silence",
+  "name": "Garden of Silence",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A serene meditation garden centered around a majestic seated Buddha statue, where silence and tranquility reign \u2014 designed as a retreat from the bustle of modern city life.",
+  "history": "Created as a contemplation space within Chandigarh's green belt, featuring a large Buddha statue and landscaped areas designed for quiet reflection.",
+  "famousFor": "Buddha statue, meditation space, and peaceful ambiance.",
+  "bestTime": "October to March",
+  "timings": "6:00 AM \u2013 8:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/chandigarh/garden-of-silence.webp",
+  "heroImage": "./assets/images/states/chandigarh/garden-of-silence.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/garden-of-silence.webp"
+  ],
+  "nearbyPlaces": [
+    "rose-garden",
+    "leisure-valley",
+    "international-dolls-museum",
+    "sukhna-lake",
+    "terraced-garden",
+    "capitol-complex",
+    "govt-museum-art-gallery",
+    "le-corbusier-centre",
+    "japanese-garden",
+    "rock-garden"
+  ]
+}

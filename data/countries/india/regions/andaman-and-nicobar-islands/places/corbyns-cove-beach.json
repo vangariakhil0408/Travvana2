@@ -1,0 +1,39 @@
+{
+  "id": "corbyns-cove-beach",
+  "name": "Corbyn's Cove Beach",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "A crescent-shaped shoreline fringed with coconut palms, where gentle waves meet golden sands in a serene coastal rhythm.",
+  "history": "Named after a British surveyor, it has long served as a recreational beach near Port Blair.",
+  "famousFor": "Jet skiing and seaside relaxation",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/corbyns-cove-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "diglipur-town",
+    "ross-island",
+    "kalipur-beach",
+    "wandoor-beach",
+    "aberdeen-bazaar",
+    "marina-park",
+    "jolly-buoy-island",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "anthropological-museum",
+    "chidiya-tapu",
+    "chatham-saw-mill",
+    "barren-island",
+    "mundapahad",
+    "long-island",
+    "north-bay-island",
+    "mount-harriet-national-park",
+    "saddle-peak",
+    "samudrika-naval-marine-museum",
+    "viper-island"
+  ]
+}

@@ -1,0 +1,2371 @@
+{
+  "state": "Karnataka",
+  "slug": "karnataka",
+  "capital": "Bengaluru",
+  "bestTime": "October to March",
+  "language": "Kannada",
+  "description": "A land of diverse landscapes ranging from the tech-hubs of Bengaluru to the ancient ruins of Hampi and the pristine beaches of Gokarna.",
+  "places": [
+    {
+      "name": "Hampi Group of Monuments",
+      "city": "Hospet",
+      "category": "heritage",
+      "distance": "12 km from Hospet Junction",
+      "rating": 4.9,
+      "description": "A sprawling open-air museum of boulders and ancient masonry, Hampi serves as a hauntingly beautiful ghost city on the banks of the Tungabhadra. The site is a surreal landscape of sun-drenched ruins that whisper tales of the once-mighty Vijayanagara Empire.",
+      "history": "Hampi was the capital of the Vijayanagara Empire in the 14th century. It was one of the largest and richest cities in the world before being pillaged and abandoned in 1565 after the Battle of Talikota.",
+      "famousFor": "UNESCO World Heritage site, stone chariot, and the Virupaksha Temple.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40 (Indians), ₹600 (Foreigners)",
+      "slug": "hampi-ruins",
+      "images": {
+        "main": "assets/images/states/karnataka/hampi.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Virupaksha Temple",
+          "city": "Hampi",
+          "distance": "1 km",
+          "slug": "virupaksha-temple",
+          "image": "assets/images/states/karnataka/virupaksha-temple.webp"
+        },
+        {
+          "name": "Vittala Temple",
+          "city": "Hampi",
+          "distance": "3 km",
+          "slug": "vittala-temple",
+          "image": "assets/images/states/karnataka/vittala-temple-and-stone-chariot.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "hampi-ruins",
+      "image": "assets/images/states/karnataka/hampi.webp",
+      "heroImage": "assets/images/states/karnataka/hampi.webp"
+    },
+    {
+      "name": "Mysuru Palace",
+      "city": "Mysuru",
+      "category": "heritage",
+      "distance": "2 km from Mysuru City Center",
+      "rating": 4.8,
+      "description": "An Indo-Saracenic masterpiece, the palace is an explosion of stained glass, mirrors, and carved mahogany. At night, it transforms into a golden spectacle illuminated by nearly 100,000 light bulbs.",
+      "history": "Designed by British architect Henry Irwin and completed in 1912, it served as the official residence of the Wadiyar dynasty, who ruled the Kingdom of Mysore.",
+      "famousFor": "Dasara celebrations and its spectacular Sunday night illumination.",
+      "bestTime": "October to February",
+      "timings": "10:00 AM – 5:30 PM",
+      "entryFee": "₹70 (Indians), ₹200 (Foreigners)",
+      "slug": "mysore-palace",
+      "images": {
+        "main": "assets/images/popular/mysore-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chamundi Hills",
+          "city": "Mysore",
+          "distance": "13 km",
+          "slug": "chamundi-hills",
+          "image": "assets/images/states/karnataka/chamundi-hills-and-chamundeshwari-temple.webp"
+        },
+        {
+          "name": "Brindavan Gardens",
+          "city": "Mysore",
+          "distance": "21 km",
+          "slug": "brindavan-gardens",
+          "image": "assets/images/states/karnataka/mysore-palace.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "mysore-palace",
+      "image": "assets/images/popular/mysore-palace.webp",
+      "heroImage": "assets/images/popular/mysore-palace.webp"
+    },
+    {
+      "name": "Gokarna Main Beach",
+      "city": "Gokarna",
+      "category": "beaches",
+      "distance": "1 km from Gokarna Bus Stand",
+      "rating": 4.6,
+      "description": "A long stretch of white sand where spirituality meets the sea, popular with both pilgrims and backpackers. The sound of temple bells often mingles with the crashing waves of the Arabian Sea.",
+      "history": "Historically a prominent pilgrimage center for Shiva devotees, Gokarna has transitioned into a world-famous beach destination while maintaining its Vedic roots.",
+      "famousFor": "Mahabaleshwar Temple and its distinctive Om-shaped coastline.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gokarna-main-beach",
+      "images": {
+        "main": "assets/images/states/karnataka/malpe-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mirjan Fort",
+          "city": "Kumta",
+          "distance": "11.0 km away",
+          "category": "heritage",
+          "slug": "mirjan-fort-kumta",
+          "images": {
+            "main": "assets/images/states/karnataka/mirjan-fort.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/mirjan-fort.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "gokarna-main-beach",
+      "image": "assets/images/states/karnataka/malpe-beach.webp",
+      "heroImage": "assets/images/states/karnataka/malpe-beach.webp"
+    },
+    {
+      "name": "Badami Cave Temples",
+      "city": "Badami",
+      "category": "heritage",
+      "distance": "1 km from Badami Bus Stand",
+      "rating": 4.7,
+      "description": "Four magnificent rock-cut temples carved into the face of a red sandstone cliff overlooking the Agastya Lake. These caves represent the earliest known examples of Hindu temples in the Deccan region.",
+      "history": "Carved in the 6th century by the Badami Chalukyas, these temples showcase a transition from the rock-cut style to structural temple architecture.",
+      "famousFor": "Red sandstone architecture and detailed carvings of Nataraja and Vishnu.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "slug": "badami-caves",
+      "images": {
+        "main": "assets/images/states/karnataka/badami-cave-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pattadakal Group of Monuments",
+          "city": "Pattadakal",
+          "distance": "14.0 km away",
+          "category": "heritage",
+          "slug": "pattadakal-heritage-site",
+          "images": {
+            "main": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+        },
+        {
+          "name": "Bhutanatha Temple Group",
+          "city": "Badami",
+          "distance": "0.8 km away",
+          "category": "temples",
+          "slug": "badami-bhutanatha",
+          "images": {
+            "main": "assets/images/states/karnataka/bhutanatha-temple-group.webp"
+          },
+          "image": "assets/images/states/karnataka/bhutanatha-temple-group.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "badami-caves",
+      "image": "assets/images/states/karnataka/badami-cave-temple.webp",
+      "heroImage": "assets/images/states/karnataka/badami-cave-temple.webp"
+    },
+    {
+      "name": "Abbey Falls",
+      "city": "Madikeri",
+      "category": "waterfalls",
+      "distance": "8 km from Madikeri",
+      "rating": 4.5,
+      "description": "Tucked away inside private coffee plantations, the Kaveri River cascades down a 70-foot rock face into a calm pool. A hanging bridge opposite the falls offers a perfect vantage point for the mist-shrouded view.",
+      "history": "Originally called Abbi Falls (meaning 'waterfall' in Kodava), it was later named Jesse Falls by the first British chaplain of Madikeri in memory of his daughter.",
+      "famousFor": "Coffee and spice plantation views and the iconic hanging bridge.",
+      "bestTime": "July to October",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "abbey-falls",
+      "images": {
+        "main": "assets/images/states/karnataka/abbey-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Madikeri Fort",
+          "city": "Madikeri",
+          "distance": "8 km",
+          "slug": "madikeri-fort",
+          "image": "assets/images/states/karnataka/madikeri-fort.webp"
+        },
+        {
+          "name": "Namdroling Monastery",
+          "city": "Bylakuppe",
+          "distance": "34 km",
+          "slug": "namdroling-monastery",
+          "image": "assets/images/states/karnataka/namdroling-monastery.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "abbey-falls",
+      "image": "assets/images/states/karnataka/abbey-falls.webp",
+      "heroImage": "assets/images/states/karnataka/abbey-falls.webp"
+    },
+    {
+      "name": "Belur Chennakeshava Temple",
+      "city": "Belur",
+      "category": "temples",
+      "distance": "38 km from Hassan",
+      "rating": 4.9,
+      "description": "A masterpiece of Hoysala architecture, this temple is renowned for its intricate soapstone carvings that cover every inch of the exterior walls. The craftsmanship is so fine it often resembles work done in ivory or sandalwood.",
+      "history": "Commissioned by King Vishnuvardhana in 1117 AD to celebrate a military victory, it took over 103 years to complete.",
+      "famousFor": "The bracket figures known as Madanikas and the gravity-defying stone pillar.",
+      "bestTime": "October to March",
+      "timings": "7:30 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "chennakeshava-temple-belur",
+      "images": {
+        "main": "assets/images/states/karnataka/chennakeshava-temple-belur.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Halebidu Hoysaleswara Temple",
+          "city": "Halebidu",
+          "distance": "16 km",
+          "slug": "belur-halebidu-halebid",
+          "image": "assets/images/states/karnataka/belur-halebidu-halebid.webp"
+        },
+        {
+          "name": "Shravanabelagola",
+          "city": "Hassan",
+          "distance": "72 km",
+          "slug": "shravanabelagola",
+          "image": "assets/images/states/karnataka/shravanabelagola.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "chennakeshava-temple-belur",
+      "image": "assets/images/states/karnataka/chennakeshava-temple-belur.webp",
+      "heroImage": "assets/images/states/karnataka/chennakeshava-temple-belur.webp"
+    },
+    {
+      "name": "Mullayanagiri Peak",
+      "city": "Chikmagalur",
+      "category": "hills",
+      "distance": "20 km from Chikmagalur Town",
+      "rating": 4.7,
+      "description": "Standing at 1,930 meters, this is the highest point in Karnataka, offering sweeping views of the Western Ghats. The trail to the summit is a mix of road and stone steps leading to a small temple at the peak.",
+      "history": "Named after Saint Mullappa Swamy, who is said to have meditated in the caves at the summit for centuries.",
+      "famousFor": "Being the highest peak in Karnataka and its trekking trails.",
+      "bestTime": "September to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "mullayanagiri-peak",
+      "images": {
+        "main": "assets/images/states/karnataka/kadachadri-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baba Budangiri (Dattagiri)",
+          "city": "Chikmagalur",
+          "distance": "12.0 km away",
+          "category": "hills",
+          "slug": "baba-budangiri-hills",
+          "images": {
+            "main": "assets/images/states/karnataka/baba-budangiri-dattagiri.webp"
+          },
+          "image": "assets/images/states/karnataka/baba-budangiri-dattagiri.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "mullayanagiri-peak",
+      "image": "assets/images/states/karnataka/kadachadri-peak.webp",
+      "heroImage": "assets/images/states/karnataka/kadachadri-peak.webp"
+    },
+    {
+      "name": "Bandipur National Park",
+      "city": "Gundlupet",
+      "category": "wildlife",
+      "distance": "80 km from Mysuru",
+      "rating": 4.6,
+      "description": "Part of the Nilgiri Biosphere Reserve, this dry deciduous forest is a haven for tigers, elephants, and Indian gaurs. The park is characterized by its open canopy, which makes wildlife spotting relatively easier during safaris.",
+      "history": "Established in 1931 by the Maharaja of Mysore as a sanctuary and later designated as a Tiger Reserve in 1973 under Project Tiger.",
+      "famousFor": "Tiger sightings and its status as a premier wildlife sanctuary in South India.",
+      "bestTime": "October to May",
+      "timings": "6:30 AM – 9:00 AM, 3:30 PM – 6:30 PM",
+      "entryFee": "₹300 (Indians), ₹1500 (Foreigners)",
+      "slug": "bandipur-national-park",
+      "images": {
+        "main": "assets/images/states/karnataka/bandipur-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "bandipur-national-park",
+      "image": "assets/images/states/karnataka/bandipur-national-park.webp",
+      "heroImage": "assets/images/states/karnataka/bandipur-national-park.webp"
+    },
+    {
+      "name": "Gol Gumbaz",
+      "city": "Vijayapura",
+      "category": "heritage",
+      "distance": "2 km from Vijayapura Railway Station",
+      "rating": 4.8,
+      "description": "The mausoleum of King Mohammed Adil Shah, this structure boasts the second largest dome in the world that is unsupported by pillars. It is famed for its 'Whispering Gallery' where even the softest sound echoes multiple times across the vast dome.",
+      "history": "Built in 1656 by the architect Yaqut of Dabul, it follows the Deccan Indo-Islamic architectural style and took 30 years to complete.",
+      "famousFor": "Whispering Gallery and the second largest dome in the world.",
+      "bestTime": "October to February",
+      "timings": "10:00 AM – 5:00 PM",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "slug": "gol-gumbaz",
+      "images": {
+        "main": "assets/images/states/karnataka/gol-gumbaz.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ibrahim Rauza",
+          "city": "Vijayapura",
+          "distance": "3.0 km away",
+          "category": "heritage",
+          "slug": "ibrahim-rauza-tomb",
+          "images": {
+            "main": "assets/images/states/karnataka/ibrahim-rauza.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/ibrahim-rauza.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "gol-gumbaz",
+      "image": "assets/images/states/karnataka/gol-gumbaz.webp",
+      "heroImage": "assets/images/states/karnataka/gol-gumbaz.webp"
+    },
+    {
+      "name": "Gommateshwara Statue",
+      "city": "Shravanabelagola",
+      "category": "temples",
+      "distance": "12 km from Channarayapatna",
+      "rating": 4.9,
+      "description": "A colossal 57-foot monolith of Lord Bahubali, standing atop Vindhyagiri Hill. It is one of the most important Jain pilgrimage centers in the world, symbolizing peace, non-violence, and self-sacrifice.",
+      "history": "The statue was commissioned by Chavundaraya, a minister of the Western Ganga Dynasty, around 981 AD. It was carved out of a single block of granite.",
+      "famousFor": "World's tallest monolithic stone statue and Mahamastakabhisheka festival.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "shravanabelagola",
+      "images": {
+        "main": "assets/images/states/karnataka/gommateshwara-statue.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "shravanabelagola",
+      "image": "assets/images/states/karnataka/gommateshwara-statue.webp",
+      "heroImage": "assets/images/states/karnataka/gommateshwara-statue.webp"
+    },
+    {
+      "name": "Murudeshwar Temple & Statue",
+      "city": "Murudeshwar",
+      "category": "temples",
+      "distance": "1 km from Murudeshwar Railway Station",
+      "rating": 4.7,
+      "description": "Home to the world's second-tallest Shiva statue, situated on the Kanduka Hill surrounded by the Arabian Sea on three sides. The 20-storied Raja Gopura offers a breathtaking bird's-eye view of the statue and the coast.",
+      "history": "The site is linked to the Ramayana; the Atma-Linga that Ravana was carrying is said to have been placed here. The modern towering statue and Gopura were completed in the early 2000s.",
+      "famousFor": "123-foot Shiva statue and the massive Raja Gopura.",
+      "bestTime": "October to May",
+      "timings": "3:00 AM – 1:00 PM, 3:00 PM – 8:00 PM",
+      "entryFee": "Free (₹10 for lift to Gopura top)",
+      "slug": "murudeshwar-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/murudeshwar-temple-and-statue.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "murudeshwar-temple",
+      "image": "assets/images/states/karnataka/murudeshwar-temple-and-statue.webp",
+      "heroImage": "assets/images/states/karnataka/murudeshwar-temple-and-statue.webp"
+    },
+    {
+      "name": "Jog Falls",
+      "city": "Sagara",
+      "category": "waterfalls",
+      "distance": "30 km from Sagara",
+      "rating": 4.8,
+      "description": "The second-highest plunge waterfall in India, where the Sharavathi River drops 830 feet in four distinct cascades: Raja, Rani, Rocket, and Rover. During monsoon, it creates a thunderous, mist-filled chasm of white water.",
+      "history": "The falls are associated with the Linganamakki Dam, which controls the water flow for hydroelectric power. It has been a major tourist attraction since the British era.",
+      "famousFor": "Being the highest untiered waterfall in India.",
+      "bestTime": "July to October",
+      "timings": "7:30 AM – 6:30 PM",
+      "entryFee": "₹10",
+      "slug": "jog-falls",
+      "images": {
+        "main": "assets/images/popular/jog-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Linganamakki Dam",
+          "city": "Shimoga",
+          "distance": "8 km",
+          "slug": "linganamakki-dam",
+          "image": "assets/images/states/karnataka/jog-falls.webp"
+        },
+        {
+          "name": "Tunga Anicut Dam",
+          "city": "Shimoga",
+          "distance": "45 km",
+          "slug": "tunga-anicut",
+          "image": "assets/images/states/karnataka/jog-falls.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "jog-falls",
+      "image": "assets/images/popular/jog-falls.webp",
+      "heroImage": "assets/images/popular/jog-falls.webp"
+    },
+    {
+      "name": "Bangalore Palace",
+      "city": "Bengaluru",
+      "category": "heritage",
+      "distance": "4 km from City Center",
+      "rating": 4.5,
+      "description": "Inspired by Windsor Castle in England, this palace is a marvel of Tudor-style architecture with fortified towers, battlements, and turrets. The interiors feature elegant wood carvings and floral motifs.",
+      "history": "Built in 1887 by King Chamarajendra Wadiyar X, the palace grounds were originally owned by Reverend J. Garrett, the first principal of Central High School.",
+      "famousFor": "Tudor-style architecture and being a major venue for international concerts.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:30 PM",
+      "entryFee": "₹230 (Indians), ₹480 (Foreigners)",
+      "slug": "bangalore-palace",
+      "images": {
+        "main": "assets/images/states/karnataka/bangalore-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "bangalore-palace",
+      "image": "assets/images/states/karnataka/bangalore-palace.webp",
+      "heroImage": "assets/images/states/karnataka/bangalore-palace.webp"
+    },
+    {
+      "name": "Pattadakal Group of Monuments",
+      "city": "Badami",
+      "category": "heritage",
+      "distance": "22 km from Badami",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage site featuring a harmonious blend of North Indian (Nagara) and South Indian (Dravidian) architectural styles. The complex stands as a testament to the peak of Chalukyan art, set against the backdrop of the Malaprabha River.",
+      "history": "Built during the 7th and 8th centuries, Pattadakal was the holy site where the Chalukya kings were crowned and commemorated their military victories.",
+      "famousFor": "Virupaksha Temple and being a fusion of diverse Indian architectural styles.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40 (Indians), ₹600 (Foreigners)",
+      "slug": "pattadakal-heritage-site",
+      "images": {
+        "main": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahakuta Group of Temples",
+          "city": "Mahakuta",
+          "distance": "11.0 km away",
+          "category": "temples",
+          "slug": "mahakuta-temples-badami",
+          "images": {
+            "main": "assets/images/states/karnataka/mahakuta-group-of-temples.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/mahakuta-group-of-temples.webp"
+        },
+        {
+          "name": "Badami Cave Temples",
+          "city": "Badami",
+          "distance": "14.0 km away",
+          "category": "heritage",
+          "slug": "badami-caves",
+          "images": {
+            "main": "assets/images/states/karnataka/badami-cave-temple.webp"
+          },
+          "image": "assets/images/states/karnataka/badami-cave-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "pattadakal-heritage-site",
+      "image": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp",
+      "heroImage": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+    },
+    {
+      "name": "Namdroling Monastery (Golden Temple)",
+      "city": "Bylakuppe",
+      "category": "heritage",
+      "distance": "5 km from Kushalnagar",
+      "rating": 4.8,
+      "description": "One of the largest Tibetan Buddhist settlements in India, featuring the magnificent Golden Temple adorned with intricate paintings and three 40-foot high gilded statues. The air is often filled with the rhythmic chanting of thousands of monks.",
+      "history": "Established in 1963 by His Holiness Pema Norbu Rinpoche, it serves as a major center for the Nyingma lineage of Tibetan Buddhism.",
+      "famousFor": "The three massive gold-plated Buddha statues and Tibetan murals.",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "namdroling-monastery",
+      "images": {
+        "main": "assets/images/states/karnataka/namdroling-monastery.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dubare Elephant Camp",
+          "city": "Kushalnagar",
+          "distance": "12.0 km away",
+          "category": "wildlife",
+          "slug": "bylakuppe-dubare",
+          "images": {
+            "main": "assets/images/states/karnataka/dubare-elephant-camp.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/dubare-elephant-camp.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "namdroling-monastery",
+      "image": "assets/images/states/karnataka/namdroling-monastery.webp",
+      "heroImage": "assets/images/states/karnataka/namdroling-monastery.webp"
+    },
+    {
+      "name": "Kudremukh Peak",
+      "city": "Kalasa",
+      "category": "nature",
+      "distance": "20 km from Kalasa",
+      "rating": 4.7,
+      "description": "A trekking paradise known for its rolling green hills that resemble the face of a horse. The landscape is a vibrant tapestry of Shola forests and grasslands, often shrouded in heavy monsoon clouds.",
+      "history": "Named 'Kudremukh' (Horse-face) due to the specific shape of the peak; the region was formerly a major iron-ore mining hub before being declared a protected National Park.",
+      "famousFor": "Its horse-shaped peak and biodiversity-rich Shola grasslands.",
+      "bestTime": "October to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹600 (Permit included)",
+      "slug": "kudremukh-national-park",
+      "images": {
+        "main": "assets/images/states/karnataka/kudremukh-peak.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kudremukh-national-park",
+      "image": "assets/images/states/karnataka/kudremukh-peak.webp",
+      "heroImage": "assets/images/states/karnataka/kudremukh-peak.webp"
+    },
+    {
+      "name": "Srirangapatna Fort",
+      "city": "Srirangapatna",
+      "category": "heritage",
+      "distance": "15 km from Mysuru",
+      "rating": 4.6,
+      "description": "An island town enclosed by the Cauvery River, famous for its historic fort and the spot where Tipu Sultan breathed his last. The architecture is a somber mix of Islamic and French styles, reflecting the geopolitical alliances of the 18th century.",
+      "history": "It was the capital of the Mysore Kingdom under Hyder Ali and Tipu Sultan, serving as a major stronghold against the British East India Company.",
+      "famousFor": "Tipu Sultan's Summer Palace (Daria Daulat Bagh) and the Ranganathaswamy Temple.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "slug": "srirangapatna-island",
+      "images": {
+        "main": "assets/images/states/karnataka/srirangapatna-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "srirangapatna-island",
+      "image": "assets/images/states/karnataka/srirangapatna-fort.webp",
+      "heroImage": "assets/images/states/karnataka/srirangapatna-fort.webp"
+    },
+    {
+      "name": "Hoysaleswara Temple, Halebidu",
+      "city": "Halebidu",
+      "category": "temples",
+      "distance": "31 km from Hassan",
+      "rating": 4.9,
+      "description": "A twin-temple dedicated to Lord Shiva, renowned for its soapstone friezes that depict thousands of figures from Hindu mythology. The walls are so intricately carved that they are often described as 'poetry in stone'.",
+      "history": "Constructed in the 12th century during the reign of King Vishnuvardhana, it was the capital of the Hoysala Empire before being sacked by the Delhi Sultanate.",
+      "famousFor": "Its star-shaped base and highly detailed outdoor wall sculptures.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "belur-halebidu-halebid",
+      "images": {
+        "main": "assets/images/states/karnataka/hoysaleswara-temple-halebidu.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chennakeshava Temple, Belur",
+          "city": "Belur",
+          "distance": "16 km",
+          "slug": "chennakeshava-temple-belur",
+          "image": "assets/images/states/karnataka/chennakeshava-temple-belur.webp"
+        },
+        {
+          "name": "Shravanabelagola",
+          "city": "Hassan",
+          "distance": "60 km",
+          "slug": "shravanabelagola",
+          "image": "assets/images/states/karnataka/shravanabelagola.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "belur-halebidu-halebid",
+      "image": "assets/images/states/karnataka/hoysaleswara-temple-halebidu.webp",
+      "heroImage": "assets/images/states/karnataka/hoysaleswara-temple-halebidu.webp"
+    },
+    {
+      "name": "Lakkundi Temple Complex",
+      "city": "Gadag",
+      "category": "heritage",
+      "distance": "12 km from Gadag",
+      "rating": 4.5,
+      "description": "A hidden gem of Kalyani Chalukyan architecture, housing over 50 ancient temples and 29 stepped wells (Kalyanis). The fine filigree work on the temple doors is a distinct hallmark of this region's craftsmanship.",
+      "history": "Lakkundi, known as Lokkigundi in ancient times, was a major city during the 11th and 12th centuries and served as a mint for the Chalukya and Hoysala dynasties.",
+      "famousFor": "The Brahma Jinalaya and intricately carved temple doorways.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "lakkundi-heritage",
+      "images": {
+        "main": "assets/images/states/karnataka/lakkundi-temple-complex.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Trikuteshwara Temple",
+          "city": "Gadag",
+          "distance": "12.5 km away",
+          "category": "temples",
+          "slug": "gadag-trikuteshwara",
+          "images": {
+            "main": "assets/images/states/karnataka/trikuteshwara-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/trikuteshwara-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "lakkundi-heritage",
+      "image": "assets/images/states/karnataka/lakkundi-temple-complex.webp",
+      "heroImage": "assets/images/states/karnataka/lakkundi-temple-complex.webp"
+    },
+    {
+      "name": "Bidar Fort",
+      "city": "Bidar",
+      "category": "heritage",
+      "distance": "3 km from Bidar Railway Station",
+      "rating": 4.6,
+      "description": "One of the most formidable forts in the Deccan, featuring distinct Persian architectural influences and a unique 'Karez' water harness system. The fort complex contains over 30 monuments, including palaces with sandalwood carvings and colorful tile work.",
+      "history": "Built by Sultan Ahmad Shah Wali of the Bahmani Dynasty in 1427 when he shifted his capital from Gulbarga to Bidar.",
+      "famousFor": "Solah Khamba Mosque and its world-renowned Bidriware metal handicraft heritage.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "bidar-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/bidar-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mahmud Gawan Madrasa",
+          "city": "Bidar",
+          "distance": "1.5 km away",
+          "category": "heritage",
+          "slug": "madrassa-mahmud-gawan",
+          "images": {
+            "main": "assets/images/states/karnataka/mahmud-gawan-madrasa.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/mahmud-gawan-madrasa.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "bidar-fort",
+      "image": "assets/images/states/karnataka/bidar-fort.webp",
+      "heroImage": "assets/images/states/karnataka/bidar-fort.webp"
+    },
+    {
+      "name": "Madhukeshwara Temple",
+      "city": "Banavasi",
+      "category": "temples",
+      "distance": "24 km from Sirsi",
+      "rating": 4.5,
+      "description": "Located in one of the oldest towns in India, this temple features a unique honey-colored Shiva Linga. The architecture showcases a timeline of various dynasties, from the early Kadambas to the later Vijayanagara kings.",
+      "history": "Banavasi was the capital of the Kadamba Dynasty, the first indigenous empire to use Kannada for administrative purposes in the 4th century.",
+      "famousFor": "Being the oldest town in Karnataka and its monolithic stone couch.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "banavasi-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/madhukeshwara-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "banavasi-temple",
+      "image": "assets/images/states/karnataka/madhukeshwara-temple.webp",
+      "heroImage": "assets/images/states/karnataka/madhukeshwara-temple.webp"
+    },
+    {
+      "name": "Dandeli Wildlife Sanctuary",
+      "city": "Dandeli",
+      "category": "wildlife",
+      "distance": "1 km from Dandeli Town",
+      "rating": 4.7,
+      "description": "A dense deciduous forest on the banks of the Kali River, home to the rare Black Panther and Malabar Giant Squirrels. It is the premier destination for river rafting and bird watching in North Karnataka.",
+      "history": "Declared a National Park in 1956, it later became a part of the Anshi Dandeli Tiger Reserve in 2007.",
+      "famousFor": "White water rafting on the Kali River and Black Panther sightings.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40 (Entry), Safari extra",
+      "slug": "dandeli-wildlife",
+      "images": {
+        "main": "assets/images/states/karnataka/dandeli-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "dandeli-wildlife",
+      "image": "assets/images/states/karnataka/dandeli-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/karnataka/dandeli-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Cheluvanarayana Swamy Temple",
+      "city": "Melukote",
+      "category": "temples",
+      "distance": "50 km from Mysuru",
+      "rating": 4.6,
+      "description": "Perched on the rocky Yadugiri hills, this sacred town is a center of Sri Vaishnavism. The temple is famous for its intricate carvings and the crown jewel 'Vairamudi', which is brought out only once a year.",
+      "history": "The great philosopher Ramanujacharya lived here for 12 years in the 12th century, reviving the town's spiritual importance under Hoysala patronage.",
+      "famousFor": "Vairamudi Brahmotsava festival and the Akka-Tangi Kola (twin ponds).",
+      "bestTime": "October to March",
+      "timings": "7:30 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "melukote-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/cheluvanarayana-swamy-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "melukote-temple",
+      "image": "assets/images/states/karnataka/cheluvanarayana-swamy-temple.webp",
+      "heroImage": "assets/images/states/karnataka/cheluvanarayana-swamy-temple.webp"
+    },
+    {
+      "name": "Yagachi Dam",
+      "city": "Belur",
+      "category": "nature",
+      "distance": "3 km from Belur",
+      "rating": 4.4,
+      "description": "Constructed across the Yagachi River, this dam has evolved into a popular water sports hub. The calm reservoir backwaters are ideal for jet skiing, banana boat rides, and kayaking against a scenic backdrop.",
+      "history": "Built in 2001 to harness water for irrigation and drinking purposes for the Hassan district.",
+      "famousFor": "Water sports and its proximity to the Belur temple complex.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:30 PM",
+      "entryFee": "Free (Activity costs vary)",
+      "slug": "agrahara-belur-yagachi",
+      "images": {
+        "main": "assets/images/states/karnataka/yagachi-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "agrahara-belur-yagachi",
+      "image": "assets/images/states/karnataka/yagachi-dam.webp",
+      "heroImage": "assets/images/states/karnataka/yagachi-dam.webp"
+    },
+    {
+      "name": "Talakadu Sand Dunes",
+      "city": "Talakadu",
+      "category": "heritage",
+      "distance": "45 km from Mysuru",
+      "rating": 4.5,
+      "description": "A desert-like landscape on the banks of the Kaveri River, buried under massive mounds of sand. It is home to several ancient Shiva temples that are periodically excavated from the shifting dunes.",
+      "history": "According to local legend, the town was cursed by Alamelamma, the wife of a defeated viceroy, leading to the town being consumed by sand and the river turning into a whirlpool.",
+      "famousFor": "The Curse of Talakadu and the Panchalinga Darshana festival.",
+      "bestTime": "November to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "talakadu-dunes",
+      "images": {
+        "main": "assets/images/states/karnataka/talakadu-sand-dunes.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "talakadu-dunes",
+      "image": "assets/images/states/karnataka/talakadu-sand-dunes.webp",
+      "heroImage": "assets/images/states/karnataka/talakadu-sand-dunes.webp"
+    },
+    {
+      "name": "Saavira Kambada Basadi",
+      "city": "Moodbidri",
+      "category": "temples",
+      "distance": "35 km from Mangaluru",
+      "rating": 4.7,
+      "description": "Also known as the 'Thousand Pillars Temple', this Jain shrine is famous for the fact that no two pillars are identical. The architecture is a unique blend of indigenous styles with influences from as far as Nepal.",
+      "history": "Built in 1430 AD by the local chieftain Devaraya Wodeyar, the temple took 31 years to complete and is dedicated to Chandraprabha, the 8th Tirthankara.",
+      "famousFor": "Having exactly 1000 uniquely carved granite pillars.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "moodbidri-thousand-pillars",
+      "images": {
+        "main": "assets/images/states/karnataka/saavira-kambada-basadi.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "moodbidri-thousand-pillars",
+      "image": "assets/images/states/karnataka/saavira-kambada-basadi.webp",
+      "heroImage": "assets/images/states/karnataka/saavira-kambada-basadi.webp"
+    },
+    {
+      "name": "Bannerghatta Biological Park",
+      "city": "Bengaluru",
+      "category": "wildlife",
+      "distance": "22 km from Bengaluru City",
+      "rating": 4.6,
+      "description": "A sprawling biological recreation center featuring a lion and tiger safari, a butterfly park, and a fenced elephant sanctuary. It is one of the few places in the world where wilderness is preserved so close to a major metropolis.",
+      "history": "Established in 1971 and declared a national park in 1974, it was later carved out as a separate biological park to promote eco-tourism and conservation.",
+      "famousFor": "India's first butterfly park and the grand safari.",
+      "bestTime": "September to March",
+      "timings": "9:30 AM – 5:00 PM (Closed on Tuesdays)",
+      "entryFee": "₹80 (Park), ₹260 (Safari for adults)",
+      "slug": "bannerghatta-biological-park",
+      "images": {
+        "main": "assets/images/states/karnataka/bannerghatta-biological-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "bannerghatta-biological-park",
+      "image": "assets/images/states/karnataka/bannerghatta-biological-park.webp",
+      "heroImage": "assets/images/states/karnataka/bannerghatta-biological-park.webp"
+    },
+    {
+      "name": "Someshwara Temple",
+      "city": "Lakshmeshwara",
+      "category": "temples",
+      "distance": "40 km from Gadag",
+      "rating": 4.4,
+      "description": "An exquisite example of Western Chalukya architecture, this temple complex is known for its many inscriptions and a massive Nandi statue. The town itself is a historic center of learning and Kannada literature.",
+      "history": "Dating back to the 10th century, the temple was a significant center for the Kalamukha sect of Shaivism during the Chalukyan reign.",
+      "famousFor": "Intricate Chalukyan stone carvings and the historic Adil Shahi mosque located nearby.",
+      "bestTime": "October to February",
+      "timings": "7:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "lakshmeshwara-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/someshwara-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Magadi Bird Sanctuary",
+          "city": "Gadag",
+          "distance": "19.5 km away",
+          "category": "wildlife",
+          "slug": "magadi-bird-sanctuary",
+          "images": {
+            "main": "assets/images/states/karnataka/magadi-bird-sanctuary.webp"
+          },
+          "image": "assets/images/states/karnataka/magadi-bird-sanctuary.webp"
+        },
+        {
+          "name": "Antargange Caves & Temple",
+          "city": "Kolar",
+          "distance": "4.8 km away",
+          "category": "nature",
+          "slug": "antargange-caves",
+          "images": {
+            "main": "assets/images/states/karnataka/antargange-caves.webp"
+          },
+          "image": "assets/images/states/karnataka/antargange-caves.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "lakshmeshwara-temple",
+      "image": "assets/images/states/karnataka/someshwara-temple.webp",
+      "heroImage": "assets/images/states/karnataka/someshwara-temple.webp"
+    },
+    {
+      "name": "Kudala Sangama",
+      "city": "Hungund",
+      "category": "heritage",
+      "distance": "15 km from Almatti Dam",
+      "rating": 4.7,
+      "description": "The holy confluence of the Krishna and Malaprabha rivers, housing the Aikya Mantapa of the great social reformer Basavanna. The site features a unique cylindrical temple structure rising from the riverbed.",
+      "history": "This was the place where Basavanna, the founder of the Lingayat faith, spent his early years and attained Aikya (merger with the divine) in the 12th century.",
+      "famousFor": "Aikya Mantapa of Basavanna and the confluence of holy rivers.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kudala-sangama",
+      "images": {
+        "main": "assets/images/states/karnataka/kudala-sangama.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kudala-sangama",
+      "image": "assets/images/states/karnataka/kudala-sangama.webp",
+      "heroImage": "assets/images/states/karnataka/kudala-sangama.webp"
+    },
+    {
+      "name": "Baba Budangiri (Dattagiri)",
+      "city": "Chikmagalur",
+      "category": "hills",
+      "distance": "35 km from Chikmagalur",
+      "rating": 4.6,
+      "description": "A sacred mountain range in the Western Ghats known for its distinct peaks and the shrine of Sufi saint Baba Budan. The region is the birthplace of coffee in India, characterized by rolling mist and high-altitude grasslands.",
+      "history": "Named after the saint who allegedly smuggled seven coffee beans from Yemen in the 17th century. It is a site of pilgrimage for both Hindus and Muslims.",
+      "famousFor": "The first coffee plantations in India and the Manikyadhara Falls.",
+      "bestTime": "September to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "baba-budangiri-hills",
+      "images": {
+        "main": "assets/images/states/karnataka/baba-budangiri-dattagiri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mullayanagiri Peak",
+          "city": "Chikmagalur",
+          "distance": "12.0 km away",
+          "category": "hills",
+          "slug": "mullayanagiri-peak",
+          "images": {
+            "main": "assets/images/states/karnataka/kadachadri-peak.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/kadachadri-peak.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "baba-budangiri-hills",
+      "image": "assets/images/states/karnataka/baba-budangiri-dattagiri.webp",
+      "heroImage": "assets/images/states/karnataka/baba-budangiri-dattagiri.webp"
+    },
+    {
+      "name": "St. Lawrence Basilica",
+      "city": "Attur",
+      "category": "heritage",
+      "distance": "5 km from Karkala",
+      "rating": 4.8,
+      "description": "A magnificent Roman Catholic church featuring a stunning façade and peaceful surroundings. It is a major center of faith in the coastal region, known for its miraculous history and neo-Gothic architecture.",
+      "history": "Established in 1759, the current structure was expanded over centuries and was elevated to the status of a Minor Basilica in 2016.",
+      "famousFor": "The Attur Jatre (annual feast) and its reputation as a place of healing.",
+      "bestTime": "October to January",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "anganagudi-basilica",
+      "images": {
+        "main": "assets/images/states/karnataka/anganagudi-basilica.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "anganagudi-basilica",
+      "image": "assets/images/states/karnataka/anganagudi-basilica.webp",
+      "heroImage": "assets/images/states/karnataka/anganagudi-basilica.webp"
+    },
+    {
+      "name": "Savandurga Monolith",
+      "city": "Magadi",
+      "category": "hills",
+      "distance": "60 km from Bengaluru",
+      "rating": 4.5,
+      "description": "One of the largest monolithic hills in Asia, rising 1,226 meters above sea level. It consists of two hills, Karigudda (Black Hill) and Biligudda (White Hill), offering challenging trekking trails through scrub forest.",
+      "history": "The hill served as a secondary capital for the Magadi rulers and later became a prominent fort for Kempe Gowda and Tipu Sultan.",
+      "famousFor": "Being the largest monolith in Asia and a premier rock-climbing destination.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "savandurga-hill",
+      "images": {
+        "main": "assets/images/states/karnataka/savandurga-monolith.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "savandurga-hill",
+      "image": "assets/images/states/karnataka/savandurga-monolith.webp",
+      "heroImage": "assets/images/states/karnataka/savandurga-monolith.webp"
+    },
+    {
+      "name": "Devarayanadurga Hill Station",
+      "city": "Tumakuru",
+      "category": "hills",
+      "distance": "15 km from Tumakuru",
+      "rating": 4.4,
+      "description": "A fortified hill station surrounded by lush forests and rocky outcrops. It houses the Bhoga Narasimha temple at the base and the Yoga Narasimha temple at the summit, offering a spiritual climb with panoramic views.",
+      "history": "Originally known as Anebiddasari, it was captured by the Mysore King Chikkadevaraja Wodeyar in 1696 and renamed after him.",
+      "famousFor": "The Namada Chilume (natural spring) and its Dravidian-style hilltop temples.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "niyath-devarayanadurga",
+      "images": {
+        "main": "assets/images/states/karnataka/devarayanadurga-hill-station.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "niyath-devarayanadurga",
+      "image": "assets/images/states/karnataka/devarayanadurga-hill-station.webp",
+      "heroImage": "assets/images/states/karnataka/devarayanadurga-hill-station.webp"
+    },
+    {
+      "name": "Dubare Elephant Camp",
+      "city": "Kushalnagar",
+      "category": "wildlife",
+      "distance": "15 km from Kushalnagar",
+      "rating": 4.5,
+      "description": "A training camp for elephants located on the banks of the Cauvery River. Visitors can participate in elephant grooming, feeding, and enjoy a coracle ride across the river to reach the island camp.",
+      "history": "Formerly a training site for elephants used in the world-famous Mysore Dasara procession, now an eco-tourism project managed by the forest department.",
+      "famousFor": "Interactive elephant experiences and river rafting.",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 11:00 AM, 4:30 PM – 5:30 PM",
+      "entryFee": "₹100 (Indians), Activity charges extra",
+      "slug": "bylakuppe-dubare",
+      "images": {
+        "main": "assets/images/states/karnataka/dubare-elephant-camp.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Namdroling Monastery (Golden Temple)",
+          "city": "Bylakuppe",
+          "distance": "12.0 km away",
+          "category": "heritage",
+          "slug": "namdroling-monastery",
+          "images": {
+            "main": "assets/images/states/karnataka/namdroling-monastery.webp"
+          },
+          "image": "assets/images/states/karnataka/namdroling-monastery.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "bylakuppe-dubare",
+      "image": "assets/images/states/karnataka/dubare-elephant-camp.webp",
+      "heroImage": "assets/images/states/karnataka/dubare-elephant-camp.webp"
+    },
+    {
+      "name": "Bhutanatha Temple Group",
+      "city": "Badami",
+      "category": "temples",
+      "distance": "1 km from Badami Center",
+      "rating": 4.8,
+      "description": "A cluster of sandstone shrines dedicated to Lord Shiva, appearing to float on the edge of the Agastya Lake. The temples are especially striking during the monsoon when water cascades from the cliffs behind them.",
+      "history": "The main temple dates back to the 7th century (Early Chalukyas), while the outer shrines were added by the Kalyani Chalukyas in the 11th century.",
+      "famousFor": "Its picturesque setting by Agastya Lake and Chalukyan architecture.",
+      "bestTime": "August to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free (Part of Archaeological site fee)",
+      "slug": "badami-bhutanatha",
+      "images": {
+        "main": "assets/images/states/karnataka/bhutanatha-temple-group.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Badami Cave Temples",
+          "city": "Badami",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "badami-caves",
+          "images": {
+            "main": "assets/images/states/karnataka/badami-cave-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/badami-cave-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "badami-bhutanatha",
+      "image": "assets/images/states/karnataka/bhutanatha-temple-group.webp",
+      "heroImage": "assets/images/states/karnataka/bhutanatha-temple-group.webp"
+    },
+    {
+      "name": "Ibrahim Rauza",
+      "city": "Vijayapura",
+      "category": "heritage",
+      "distance": "4 km from Gol Gumbaz",
+      "rating": 4.8,
+      "description": "Often referred to as the 'Taj Mahal of the South', this palatial tomb is noted for its exceptional symmetry and delicate stone filigree. The complex consists of a mosque and a tomb built on a single elevated stone slab.",
+      "history": "Built by Ibrahim Adil Shah II in the early 17th century, it is said that the architect Malik Sandal designed it to be so beautiful it would rival the greatest structures of the Mughal era.",
+      "famousFor": "Intricate stone carvings and being the inspiration for the Taj Mahal's architecture.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹25 (Indians), ₹300 (Foreigners)",
+      "slug": "ibrahim-rauza-tomb",
+      "images": {
+        "main": "assets/images/states/karnataka/ibrahim-rauza.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gol Gumbaz",
+          "city": "Vijayapura",
+          "distance": "3.8 km away",
+          "category": "heritage",
+          "slug": "gol-gumbaz",
+          "images": {
+            "main": "assets/images/states/karnataka/gol-gumbaz.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/gol-gumbaz.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "ibrahim-rauza-tomb",
+      "image": "assets/images/states/karnataka/ibrahim-rauza.webp",
+      "heroImage": "assets/images/states/karnataka/ibrahim-rauza.webp"
+    },
+    {
+      "name": "Mahakuta Group of Temples",
+      "city": "Badami",
+      "category": "temples",
+      "distance": "14 km from Badami",
+      "rating": 4.7,
+      "description": "A serene complex of Shiva temples clustered around a natural spring-fed tank called Vishnu Pushkarni. The site is a living heritage spot where ancient Chalukyan art meets a peaceful, forested religious retreat.",
+      "history": "Dating back to the 6th and 7th centuries, these temples were built by the early kings of the Chalukya dynasty and feature both Nagara and Dravidian styles.",
+      "famousFor": "The natural spring pool and the rare Shivalinga with four faces (Udhava-linga).",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "mahakuta-temples-badami",
+      "images": {
+        "main": "assets/images/states/karnataka/mahakuta-group-of-temples.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pattadakal Group of Monuments",
+          "city": "Badami",
+          "distance": "11.0 km away",
+          "category": "heritage",
+          "slug": "pattadakal-heritage-site",
+          "images": {
+            "main": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+          },
+          "image": "assets/images/states/karnataka/pattadakal-group-of-monuments.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "mahakuta-temples-badami",
+      "image": "assets/images/states/karnataka/mahakuta-group-of-temples.webp",
+      "heroImage": "assets/images/states/karnataka/mahakuta-group-of-temples.webp"
+    },
+    {
+      "name": "Basavakalyan Fort",
+      "city": "Basavakalyan",
+      "category": "heritage",
+      "distance": "80 km from Bidar",
+      "rating": 4.5,
+      "description": "An strategically built fort known for its camouflaged entrances and robust defenses. The site is historically significant as the center of a major social and religious revolution in the 12th century.",
+      "history": "Originally the capital of the Kalyani Chalukyas, it later became famous as the workplace of Basavanna, the pioneer of the Lingayat movement.",
+      "famousFor": "Its association with the 'Anubhava Mantapa' and the 108-foot statue of Lord Basaveshwara.",
+      "bestTime": "October to February",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "basavakalyan-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/basavakalyan-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "basavakalyan-fort",
+      "image": "assets/images/states/karnataka/basavakalyan-fort.webp",
+      "heroImage": "assets/images/states/karnataka/basavakalyan-fort.webp"
+    },
+    {
+      "name": "Kemmangundi",
+      "city": "Chikmagalur",
+      "category": "nature",
+      "distance": "60 km from Chikmagalur",
+      "rating": 4.6,
+      "description": "A deeply stunning hill station known as the 'Ooty of Karnataka'. It features beautifully laid out ornamental gardens, thick mountain streams, and sweeping views of the Baba Budangiri range.",
+      "history": "Established as the summer retreat for Krishnaraja Wodeyar IV, the legendary King of Mysore. He later donated this pristine resort to the government.",
+      "famousFor": "Z Point sunset views, Royal Horticultural Society gardens, cool climate.",
+      "bestTime": "September to February",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kemmangundi",
+      "images": {
+        "main": "assets/images/states/karnataka/kemmangundi.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kemmangundi",
+      "image": "assets/images/states/karnataka/kemmangundi.webp",
+      "heroImage": "assets/images/states/karnataka/kemmangundi.webp"
+    },
+    {
+      "name": "Magadi Bird Sanctuary",
+      "city": "Gadag",
+      "category": "wildlife",
+      "distance": "26 km from Gadag",
+      "rating": 4.3,
+      "description": "A quiet lake sanctuary that serves as a vital wintering ground for the Bar-headed Goose, which flies over the Himalayas to reach these waters. It is a premier location for bird enthusiasts in North Karnataka.",
+      "history": "The sanctuary is centered around the Magadi tank, which has been a traditional refuge for migratory birds for decades, officially protected by the forest department.",
+      "famousFor": "The Bar-headed Goose and various migratory waterfowl.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "magadi-bird-sanctuary",
+      "images": {
+        "main": "assets/images/states/karnataka/magadi-bird-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Someshwara Temple",
+          "city": "Lakshmeshwara",
+          "distance": "19.5 km away",
+          "category": "temples",
+          "slug": "lakshmeshwara-temple",
+          "images": {
+            "main": "assets/images/states/karnataka/someshwara-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/someshwara-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "magadi-bird-sanctuary",
+      "image": "assets/images/states/karnataka/magadi-bird-sanctuary.webp",
+      "heroImage": "assets/images/states/karnataka/magadi-bird-sanctuary.webp"
+    },
+    {
+      "name": "Kalaburagi Fort",
+      "city": "Kalaburagi",
+      "category": "heritage",
+      "distance": "2 km from Kalaburagi Railway Station",
+      "rating": 4.4,
+      "description": "A massive stone fortress featuring an incredible fusion of West Asian and Indian military architecture. It houses the Jami Masjid, which is unique in India as it has no open courtyard and is covered by a sprawling roof of 68 domes.",
+      "history": "Originally built by Raja Gulchand and later expanded by the Bahmani Sultanate in the 14th century when Gulbarga was their capital.",
+      "famousFor": "The courtyard-less Jami Masjid and its 15-foot long medieval cannons.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:30 PM",
+      "entryFee": "Free",
+      "slug": "gulbarga-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/kalaburagi-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "gulbarga-fort",
+      "image": "assets/images/states/karnataka/kalaburagi-fort.webp",
+      "heroImage": "assets/images/states/karnataka/kalaburagi-fort.webp"
+    },
+    {
+      "name": "Kavala Caves",
+      "city": "Dandeli",
+      "category": "nature",
+      "distance": "25 km from Dandeli",
+      "rating": 4.3,
+      "description": "Ancient limestone caves hidden deep within the Dandeli Wildlife Sanctuary, accessible via a steep descent of over 300 steps. The cave contains a naturally formed stalagmite Shivalinga that is a site of local pilgrimage.",
+      "history": "These prehistoric caves are volcanic in origin and have been a site of worship for centuries, particularly during the Shivaratri festival.",
+      "famousFor": "Natural stalagmite formations and its adventure trekking trail.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹25 (Excluding Jeep Safari cost)",
+      "slug": "kavala-caves",
+      "images": {
+        "main": "assets/images/states/karnataka/kavala-caves.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kavala-caves",
+      "image": "assets/images/states/karnataka/kavala-caves.webp",
+      "heroImage": "assets/images/states/karnataka/kavala-caves.webp"
+    },
+    {
+      "name": "Mahmud Gawan Madrasa",
+      "city": "Bidar",
+      "category": "heritage",
+      "distance": "1 km from Bidar Fort",
+      "rating": 4.7,
+      "description": "An imposing three-story structure that once served as a residential university for Islamic studies, featuring Persian-style blue tile work and a massive minaret. It stands as one of the finest examples of Indo-Saracenic architecture in the Deccan.",
+      "history": "Built in 1472 by Mahmud Gawan, the Prime Minister of the Bahmani Sultanate, it housed a library of over 3,000 rare manuscripts before being damaged by lightning in 1695.",
+      "famousFor": "Its Persian architectural influence and historic significance as a 15th-century university.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "madrassa-mahmud-gawan",
+      "images": {
+        "main": "assets/images/states/karnataka/mahmud-gawan-madrasa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bidar Fort",
+          "city": "Bidar",
+          "distance": "0.8 km away",
+          "category": "heritage",
+          "slug": "bidar-fort",
+          "images": {
+            "main": "assets/images/states/karnataka/bidar-fort.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/bidar-fort.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "madrassa-mahmud-gawan",
+      "image": "assets/images/states/karnataka/mahmud-gawan-madrasa.webp",
+      "heroImage": "assets/images/states/karnataka/mahmud-gawan-madrasa.webp"
+    },
+    {
+      "name": "Nandi Hills (Nandydurg)",
+      "city": "Chikkaballapur",
+      "category": "hills",
+      "distance": "60 km from Bengaluru",
+      "rating": 4.6,
+      "description": "A famous ancient hill fortress that offers stunning sunrise views above a blanket of clouds. The summit features Tipu's Drop, a cliff edge with a 600-meter drop, and the serene Amrita Sarovar lake.",
+      "history": "Developed by the Ganga Dynasty and later fortified by Tipu Sultan, it served as a summer retreat for British officials due to its cool climate.",
+      "famousFor": "Sunrise views and Tipu Sultan’s summer residence.",
+      "bestTime": "September to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "nandi-hills-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/nandi-hills-nandydurg.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bhoga Nandeeshwara Temple",
+          "city": "Nandi Village",
+          "distance": "12.5 km away",
+          "category": "temples",
+          "slug": "bhoga-nandeeshwara-temple",
+          "images": {
+            "main": "assets/images/states/karnataka/bhoga-nandeeshwara-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/bhoga-nandeeshwara-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "nandi-hills-fort",
+      "image": "assets/images/states/karnataka/nandi-hills-nandydurg.webp",
+      "heroImage": "assets/images/states/karnataka/nandi-hills-nandydurg.webp"
+    },
+    {
+      "name": "Brahmagiri Wildlife Sanctuary",
+      "city": "Virajpet",
+      "category": "wildlife",
+      "distance": "60 km from Madikeri",
+      "rating": 4.5,
+      "description": "A biodiversity hotspot in the Western Ghats, dominated by evergreen forests and high-altitude grasslands. The sanctuary is the gateway to the Iruppu Falls and provides a habitat for the Malabar Giant Squirrel and Nilgiri Langur.",
+      "history": "Established in 1974, it is named after the Brahmagiri Peak (1608m) which is part of the legendary landscape associated with the origin of the Kaveri River.",
+      "famousFor": "Trekking to Brahmagiri Peak and Iruppu Falls.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹50",
+      "slug": "brahmagiri-wildlife",
+      "images": {
+        "main": "assets/images/states/karnataka/brahmagiri-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "brahmagiri-wildlife",
+      "image": "assets/images/states/karnataka/brahmagiri-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/karnataka/brahmagiri-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Aghoreshwara Temple, Ikkeri",
+      "city": "Sagara",
+      "category": "temples",
+      "distance": "6 km from Sagara",
+      "rating": 4.6,
+      "description": "A magnificent granite temple that showcases the unique Keladi Nayaka style, combining Hoysala-Dravidian and Vijayanagara architecture. The temple is dedicated to Lord Shiva and is known for its soaring ceilings and a massive stone Nandi.",
+      "history": "Ikkeri was the capital of the Keladi Nayakas for over a century (1560–1640), and this temple was their architectural crowning achievement.",
+      "famousFor": "Large monolithic Nandi and Keladi Nayaka architecture.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "ikkeri-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/aghoreshwara-temple-ikkeri.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "ikkeri-temple",
+      "image": "assets/images/states/karnataka/aghoreshwara-temple-ikkeri.webp",
+      "heroImage": "assets/images/states/karnataka/aghoreshwara-temple-ikkeri.webp"
+    },
+    {
+      "name": "Belgaum Fort",
+      "city": "Belagavi",
+      "category": "heritage",
+      "distance": "1.5 km from Belagavi Bus Stand",
+      "rating": 4.4,
+      "description": "An oval-shaped fortress featuring a massive moat and thick ramparts. Inside, the architecture is a rare blend of Chalukyan, Jain, and Islamic styles, most notably seen in the exquisitely carved Kamala Basadi.",
+      "history": "Originally built by Jaya Raya of the Ratta dynasty in 1204 AD, it later underwent numerous renovations under the Vijayanagara Empire and the Bijapur Sultans.",
+      "famousFor": "Kamala Basadi and being the site where Mahatma Gandhi presided over the 1924 Congress session.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "belgaum-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/belgaum-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "belgaum-fort",
+      "image": "assets/images/states/karnataka/belgaum-fort.webp",
+      "heroImage": "assets/images/states/karnataka/belgaum-fort.webp"
+    },
+    {
+      "name": "Antargange Caves & Temple",
+      "city": "Kolar",
+      "category": "nature",
+      "distance": "4 km from Kolar Town",
+      "rating": 4.5,
+      "description": "A unique mountain terrain formed by volcanic rocks and giant boulders, creating natural caves and tunnels. It is famous for its perennial underground spring that flows through a bull's mouth in the temple.",
+      "history": "The name Antargange translates to 'Inner Ganges' in Kannada, referring to the mysterious water source that remains active even during peak summers.",
+      "famousFor": "Night trekking, cave exploration, and the perennial spring.",
+      "bestTime": "September to February",
+      "timings": "Open 24/7 (Trekking best at dawn)",
+      "entryFee": "Free",
+      "slug": "antargange-caves",
+      "images": {
+        "main": "assets/images/states/karnataka/antargange-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Someshwara Temple",
+          "city": "Kolar",
+          "distance": "4.8 km away",
+          "category": "temples",
+          "slug": "lakshmeshwara-temple",
+          "images": {
+            "main": "assets/images/states/karnataka/someshwara-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/someshwara-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "antargange-caves",
+      "image": "assets/images/states/karnataka/antargange-caves.webp",
+      "heroImage": "assets/images/states/karnataka/antargange-caves.webp"
+    },
+    {
+      "name": "Madhugiri Monolith",
+      "city": "Madhugiri",
+      "category": "hills",
+      "distance": "43 km from Tumakuru",
+      "rating": 4.6,
+      "description": "A massive single hill of rock that is the second-largest monolith in Asia. A series of steep stone steps and several layers of fort walls lead to the ruined Gopalakrishna Temple at the summit.",
+      "history": "The hill fort was originally built in the 17th century by Raja Heera Gowda and was later fortified with circular granaries and bastions by Hyder Ali.",
+      "famousFor": "Being Asia's second largest monolith and its challenging vertical trek.",
+      "bestTime": "October to March",
+      "timings": "8:30 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "madhugiri-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/madhugiri-monolith.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "madhugiri-fort",
+      "image": "assets/images/states/karnataka/madhugiri-monolith.webp",
+      "heroImage": "assets/images/states/karnataka/madhugiri-monolith.webp"
+    },
+    {
+      "name": "Sathodi Falls",
+      "city": "Yellapur",
+      "category": "waterfalls",
+      "distance": "32 km from Yellapur",
+      "rating": 4.7,
+      "description": "Formed by several unnamed streams converging near Kallaramane Ghat, this waterfall drops 50 feet into a pristine rectangular pool. It is often called the 'Mini Niagara of Uttara Kannada' for its beautiful width.",
+      "history": "Tucked deep in the dense forests of the Western Ghats, it remained a well-kept local secret until the development of roads connecting the Kodasalli Dam backwaters.",
+      "famousFor": "Its picturesque rectangular pool and secluded forest setting.",
+      "bestTime": "October to February",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "yellapur-waterfalls",
+      "images": {
+        "main": "assets/images/states/karnataka/sathodi-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Magod Falls",
+          "city": "Yellapur",
+          "distance": "17.0 km away",
+          "category": "waterfalls",
+          "slug": "magod-falls-valley",
+          "images": {
+            "main": "assets/images/states/karnataka/magod-falls.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/magod-falls.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "yellapur-waterfalls",
+      "image": "assets/images/states/karnataka/sathodi-falls.webp",
+      "heroImage": "assets/images/states/karnataka/sathodi-falls.webp"
+    },
+    {
+      "name": "Malpe Beach",
+      "city": "Udupi",
+      "category": "beaches",
+      "distance": "6 km from Udupi Town",
+      "rating": 4.5,
+      "description": "A vibrant fishing harbor and beach destination known for its golden sands and clear waters. It is the primary jumping-off point for ferries to the basaltic St. Mary’s Islands.",
+      "history": "Historically a major trading port in the Tulu Nadu region, it is now an official 'blue flag' category candidate beach for its cleanliness and safety.",
+      "famousFor": "Ferry rides to St. Mary's Island and adventurous water sports.",
+      "bestTime": "October to May",
+      "timings": "Open 24/7 (Activities 9 AM – 6 PM)",
+      "entryFee": "Free",
+      "slug": "udupi-st-marys-beach",
+      "images": {
+        "main": "assets/images/states/karnataka/malpe-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "St. Mary's Islands",
+          "city": "Malpe",
+          "distance": "4.0 km away (ferry return)",
+          "category": "nature",
+          "slug": "st-marys-island-udupi",
+          "images": {
+            "main": "assets/images/states/karnataka/st-marys-islands.webp"
+          },
+          "image": "assets/images/states/karnataka/st-marys-islands.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "udupi-st-marys-beach",
+      "image": "assets/images/states/karnataka/malpe-beach.webp",
+      "heroImage": "assets/images/states/karnataka/malpe-beach.webp"
+    },
+    {
+      "name": "Jhari Waterfalls (Buttermilk Falls)",
+      "city": "Chikmagalur",
+      "category": "waterfalls",
+      "distance": "23 km from Chikmagalur",
+      "rating": 4.6,
+      "description": "Hidden within coffee plantations, this waterfall cascades in multiple tiers over rocky outcrops, resembling a white lace curtain or thick buttermilk. It is accessible only via a steep jeep ride through the rugged hills.",
+      "history": "Part of the private estate lands of the Baba Budan range, it became popular as a stop-over for trekkers heading toward Mullayanagiri.",
+      "famousFor": "The off-road jeep safari and its layered milky-white appearance.",
+      "bestTime": "August to December",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20 (Jeep ride extra)",
+      "slug": "mullayanagiri-jhari",
+      "images": {
+        "main": "assets/images/states/karnataka/jhari-waterfalls-buttermilk-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "mullayanagiri-jhari",
+      "image": "assets/images/states/karnataka/jhari-waterfalls-buttermilk-falls.webp",
+      "heroImage": "assets/images/states/karnataka/jhari-waterfalls-buttermilk-falls.webp"
+    },
+    {
+      "name": "Manjarabad Fort",
+      "city": "Sakleshpur",
+      "category": "heritage",
+      "distance": "6 km from Sakleshpur",
+      "rating": 4.6,
+      "description": "A unique star-shaped fort built at an elevation of 3,240 feet, offering a bird's-eye view of the Western Ghats. On clear days, one can even see the Arabian Sea from its ramparts amidst the swirling mist.",
+      "history": "Constructed in 1792 by Tipu Sultan, the fort was built to protect the plateau from the British and the Kodagus. Its design was inspired by the Vauban style of French military architecture.",
+      "famousFor": "Its rare eight-pointed star layout and panoramic views of the 'Manju' (mist).",
+      "bestTime": "June to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "manjarabad-fort",
+      "images": {
+        "main": "assets/images/states/karnataka/manjarabad-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "manjarabad-fort",
+      "image": "assets/images/states/karnataka/manjarabad-fort.webp",
+      "heroImage": "assets/images/states/karnataka/manjarabad-fort.webp"
+    },
+    {
+      "name": "Kalaseshwara Temple",
+      "city": "Kalasa",
+      "category": "temples",
+      "distance": "90 km from Chikmagalur",
+      "rating": 4.5,
+      "description": "A beautiful temple dedicated to Lord Shiva, situated on the banks of the Bhadra River in the sacred town of Kalasa. The temple is surrounded by lush coffee estates and serves as a major spiritual hub in the Western Ghats.",
+      "history": "Local legends state that the town of Kalasa was created during the wedding of Lord Shiva and Parvati when the sage Agastya was asked to travel south to balance the Earth's weight.",
+      "famousFor": "Its location in the temple town of Kalasa and the Girija Kalyana festival.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 1:00 PM, 3:30 PM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kudremukh-kalasa-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/kalaseshwara-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": " Sri Adhishakthyathmaka Annapoorneshwari Temple",
+          "city": "Horanadu",
+          "distance": "7.2 km away",
+          "category": "temples",
+          "slug": "horanadu-annapoorneshwari",
+          "images": {
+            "main": "assets/images/states/karnataka/sri-adhishakthyathmaka-annapoorneshwari-temple.webp"
+          },
+          "image": "assets/images/states/karnataka/sri-adhishakthyathmaka-annapoorneshwari-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "kudremukh-kalasa-temple",
+      "image": "assets/images/states/karnataka/kalaseshwara-temple.webp",
+      "heroImage": "assets/images/states/karnataka/kalaseshwara-temple.webp"
+    },
+    {
+      "name": "Unchalli Falls (Lushington Falls)",
+      "city": "Siddapur",
+      "category": "waterfalls",
+      "distance": "35 km from Sirsi",
+      "rating": 4.7,
+      "description": "A magnificent 116-meter drop created by the Aghanashini River as it plunges into a deep rocky valley. The falls are known for the thunderous sound they make and the permanent rainbows often visible in the mist.",
+      "history": "Discovered in 1845 by J.D. Lushington, a British collector, the falls are also called 'Keppa Joga' (Deafening Falls) by locals due to their immense volume.",
+      "famousFor": "Its high-volume vertical drop and the 'rainbow mist' phenomenon.",
+      "bestTime": "July to January",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "unchalli-falls",
+      "images": {
+        "main": "assets/images/states/karnataka/unchalli-falls-lushington-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Yana Rocks",
+          "city": "Sirsi",
+          "distance": "19.5 km away",
+          "category": "nature",
+          "slug": "yana-rocks-forest",
+          "images": {
+            "main": "assets/images/states/karnataka/yana-rocks.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/yana-rocks.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "unchalli-falls",
+      "image": "assets/images/states/karnataka/unchalli-falls-lushington-falls.webp",
+      "heroImage": "assets/images/states/karnataka/unchalli-falls-lushington-falls.webp"
+    },
+    {
+      "name": "Kurudumale Ganesha Temple",
+      "city": "Mulbagal",
+      "category": "temples",
+      "distance": "12 km from Mulbagal",
+      "rating": 4.6,
+      "description": "A historic temple housing a massive 13.5-foot monolithic idol of Lord Ganesha. The site is considered highly auspicious, where people come to seek blessings before starting new ventures.",
+      "history": "The temple was built during the Vijayanagara period, though legends suggest the idol was installed by the Trimurthis (Brahma, Vishnu, and Mahesh) in the Krita Yuga.",
+      "famousFor": "The giant monolithic Ganesha idol and the nearby Someshwara temple.",
+      "bestTime": "September to February",
+      "timings": "6:30 AM – 1:00 PM, 3:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "kurudumale-ganesha",
+      "images": {
+        "main": "assets/images/states/karnataka/kurudumale-ganesha-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kurudumale-ganesha",
+      "image": "assets/images/states/karnataka/kurudumale-ganesha-temple.webp",
+      "heroImage": "assets/images/states/karnataka/kurudumale-ganesha-temple.webp"
+    },
+    {
+      "name": "Gokak Falls",
+      "city": "Gokak",
+      "category": "waterfalls",
+      "distance": "6 km from Gokak Town",
+      "rating": 4.5,
+      "description": "The Ghataprabha River takes a leap of 170 feet over a sandstone cliff in a horseshoe shape, closely resembling Niagara Falls. A 200-meter long hanging bridge spans the river, offering a thrilling view of the gorge.",
+      "history": "In 1887, this became the site of the first hydroelectric power station in India outside of a metropolitan area, established to power the local cotton mills.",
+      "famousFor": "The 170-foot drop and the century-old hanging bridge.",
+      "bestTime": "July to October",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "gokak-falls-historic",
+      "images": {
+        "main": "assets/images/states/karnataka/gokak-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "gokak-falls-historic",
+      "image": "assets/images/states/karnataka/gokak-falls.webp",
+      "heroImage": "assets/images/states/karnataka/gokak-falls.webp"
+    },
+    {
+      "name": "Yana Rocks",
+      "city": "Sirsi",
+      "category": "nature",
+      "distance": "40 km from Sirsi",
+      "rating": 4.8,
+      "description": "Two massive jagged monoliths of black crystalline karst limestone, known as Bhairaveshwara Shikhara and Mohini Shikhara, tower over the Sahyadri forest. A natural cave temple lies at the base of the larger peak.",
+      "history": "According to Hindu mythology, this is where the demon Bhasmasura was turned to ashes by Mohini, the female avatar of Lord Vishnu.",
+      "famousFor": "Gigantic black crystalline limestone monoliths and a self-manifested Shiva Linga.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "yana-rocks-forest",
+      "images": {
+        "main": "assets/images/states/karnataka/yana-rocks.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Unchalli Falls (Lushington Falls)",
+          "city": "Siddapur",
+          "distance": "19.5 km away",
+          "category": "waterfalls",
+          "slug": "unchalli-falls",
+          "images": {
+            "main": "assets/images/states/karnataka/unchalli-falls-lushington-falls.webp"
+          },
+          "image": "assets/images/states/karnataka/unchalli-falls-lushington-falls.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "yana-rocks-forest",
+      "image": "assets/images/states/karnataka/yana-rocks.webp",
+      "heroImage": "assets/images/states/karnataka/yana-rocks.webp"
+    },
+    {
+      "name": "Trikuteshwara Temple",
+      "city": "Gadag",
+      "category": "temples",
+      "distance": "1 km from Gadag Railway Station",
+      "rating": 4.6,
+      "description": "A magnificent Chalukyan temple dedicated to Lord Shiva, featuring three lingas mounted on a single pedestal. The temple is renowned for its intricately carved pillars and the shrine of Saraswathi, which boasts some of the finest stone filigree in the world.",
+      "history": "Built between the 10th and 12th centuries by the Western Chalukyas, it served as a major educational and religious hub during the medieval period.",
+      "famousFor": "The triple-shrine architecture and the stunning Saraswathi temple carvings.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "gadag-trikuteshwara",
+      "images": {
+        "main": "assets/images/states/karnataka/trikuteshwara-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Lakkundi Temple Complex",
+          "city": "Gadag",
+          "distance": "12.5 km away",
+          "category": "heritage",
+          "slug": "lakkundi-heritage",
+          "images": {
+            "main": "assets/images/states/karnataka/lakkundi-temple-complex.webp"
+          },
+          "image": "assets/images/states/karnataka/lakkundi-temple-complex.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "gadag-trikuteshwara",
+      "image": "assets/images/states/karnataka/trikuteshwara-temple.webp",
+      "heroImage": "assets/images/states/karnataka/trikuteshwara-temple.webp"
+    },
+    {
+      "name": "Agumbe Sunset Point",
+      "city": "Agumbe",
+      "category": "nature",
+      "distance": "55 km from Udupi",
+      "rating": 4.7,
+      "description": "Located in the 'Cherrapunji of the South', this viewpoint offers a majestic vista of the sun dipping into the Arabian Sea across the Western Ghats. The region is a pristine rainforest known for its high rainfall and biodiversity.",
+      "history": "Agumbe was the filming location for the famous television series 'Malgudi Days'. It also houses the oldest weather station in South India.",
+      "famousFor": "Spectacular sunsets, King Cobra research, and being one of the wettest places in India.",
+      "bestTime": "November to January (for sunset visibility)",
+      "timings": "6:00 AM – 6:30 PM",
+      "entryFee": "Free",
+      "slug": "agumbe-rainforest",
+      "images": {
+        "main": "assets/images/states/karnataka/agumbe-sunset-point.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "agumbe-rainforest",
+      "image": "assets/images/states/karnataka/agumbe-sunset-point.webp",
+      "heroImage": "assets/images/states/karnataka/agumbe-sunset-point.webp"
+    },
+    {
+      "name": "Vindhyagiri Hill",
+      "city": "Shravanabelagola",
+      "category": "heritage",
+      "distance": "50 km from Hassan",
+      "rating": 4.9,
+      "description": "A massive granite hill accessible via 600-plus rock-cut steps, home to the 57-foot tall statue of Gommateshwara. The hilltop provides a bird's eye view of the town and the neighboring Chandragiri hill.",
+      "history": "The hill has been a Jain spiritual center for over 2,000 years; Chandragupta Maurya, the great emperor, is said to have spent his final days in meditation on the opposite hill.",
+      "famousFor": "The Gommateshwara monolith and ancient Kannada rock inscriptions.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "shravanabelagola-hills",
+      "images": {
+        "main": "assets/images/states/karnataka/vindhyagiri-hill.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "shravanabelagola-hills",
+      "image": "assets/images/states/karnataka/vindhyagiri-hill.webp",
+      "heroImage": "assets/images/states/karnataka/vindhyagiri-hill.webp"
+    },
+    {
+      "name": "Sangamanatha Temple",
+      "city": "Kudalasangama",
+      "category": "temples",
+      "distance": "50 km from Bagalkote",
+      "rating": 4.6,
+      "description": "An ancient temple located at the confluence of the Krishna and Malaprabha rivers. The temple features a classic Chalukyan style with a grand hall and a porch facing the river currents.",
+      "history": "It is an 800-year-old temple that became the epicenter of the Lingayat faith in the 12th century, where Basavanna was enlightened.",
+      "famousFor": "Its location at the 'Sangama' (confluence) and its 12th-century historical weight.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kudalasangama-sangamanatha",
+      "images": {
+        "main": "assets/images/states/karnataka/sangamanatha-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kudalasangama-sangamanatha",
+      "image": "assets/images/states/karnataka/sangamanatha-temple.webp",
+      "heroImage": "assets/images/states/karnataka/sangamanatha-temple.webp"
+    },
+    {
+      "name": "Mahabaleshwar Temple",
+      "city": "Gokarna",
+      "category": "temples",
+      "distance": "1 km from Gokarna Bus Stand",
+      "rating": 4.8,
+      "description": "A revered Shaiva pilgrimage site on the coast, housing the 'Atmalinga' of Lord Shiva. The temple is built in the Dravidian style using granite and is located right next to the Gokarna main beach.",
+      "history": "Mentioned in the Ramayana, it is believed to be the place where Ravana was tricked into dropping the Atmalinga, which then became rooted into the earth.",
+      "famousFor": "Atmalinga and being considered as the 'Kashi of the South'.",
+      "bestTime": "October to February",
+      "timings": "6:00 AM – 12:30 PM, 5:00 PM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "gokarna-mahabaleshwar",
+      "images": {
+        "main": "assets/images/states/karnataka/mahabaleshwar-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "gokarna-mahabaleshwar",
+      "image": "assets/images/states/karnataka/mahabaleshwar-temple.webp",
+      "heroImage": "assets/images/states/karnataka/mahabaleshwar-temple.webp"
+    },
+    {
+      "name": "Mookambika Devi Temple",
+      "city": "Kollur",
+      "category": "temples",
+      "distance": "130 km from Mangaluru",
+      "rating": 4.8,
+      "description": "A renowned temple situated in the foothills of the Kodachadri peaks. Dedicated to Shakti, it features a Jyotirlinga divided by a golden line representing the Trimurthis and Tridevis.",
+      "history": "Believed to have been established by Adi Shankaracharya, who installed the metal image of the Goddess.",
+      "famousFor": "Vidyarambha ceremony and being one of the seven Mukti Sthalas of Karnataka.",
+      "bestTime": "September to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "kollur-mookambika-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/mookambika-devi-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kollur-mookambika-temple",
+      "image": "assets/images/states/karnataka/mookambika-devi-temple.webp",
+      "heroImage": "assets/images/states/karnataka/mookambika-devi-temple.webp"
+    },
+    {
+      "name": " Sri Adhishakthyathmaka Annapoorneshwari Temple",
+      "city": "Horanadu",
+      "category": "temples",
+      "distance": "125 km from Chikmagalur",
+      "rating": 4.8,
+      "description": "A sacred temple tucked away in the dense forests of the Western Ghats on the banks of the Bhadra River. The deity is depicted in a standing posture with four hands, crafted from pure gold.",
+      "history": "The temple follows the tradition that no one who visits goes hungry, providing free meals (Annadhana) to all devotees daily.",
+      "famousFor": "The golden idol of Goddess Annapoorneshwari and its serene Malnad setting.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "horanadu-annapoorneshwari",
+      "images": {
+        "main": "assets/images/states/karnataka/sri-adhishakthyathmaka-annapoorneshwari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalaseshwara Temple",
+          "city": "Kalasa",
+          "distance": "7.2 km away",
+          "category": "temples",
+          "slug": "kudremukh-kalasa-temple",
+          "images": {
+            "main": "assets/images/states/karnataka/kalaseshwara-temple.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/kalaseshwara-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "horanadu-annapoorneshwari",
+      "image": "assets/images/states/karnataka/sri-adhishakthyathmaka-annapoorneshwari-temple.webp",
+      "heroImage": "assets/images/states/karnataka/sri-adhishakthyathmaka-annapoorneshwari-temple.webp"
+    },
+    {
+      "name": "Sahasralinga",
+      "city": "Sirsi",
+      "category": "heritage",
+      "distance": "14 km from Sirsi",
+      "rating": 4.6,
+      "description": "A unique pilgrimage site where a thousand Shiva Lingas with accompanying Nandi statues are carved directly onto the rocks in the bed of the Shalmala River.",
+      "history": "Carved under the patronage of Sadashiva Raya, the king of Sirsi, between 1678 and 1718.",
+      "famousFor": "1000 stone carvings in a flowing river and Maha Shivaratri celebrations.",
+      "bestTime": "November to March (when water levels are lower)",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "sahasralinga-sirsi",
+      "images": {
+        "main": "assets/images/states/karnataka/sahasralinga.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "sahasralinga-sirsi",
+      "image": "assets/images/states/karnataka/sahasralinga.webp",
+      "heroImage": "assets/images/states/karnataka/sahasralinga.webp"
+    },
+    {
+      "name": "Kukke Subramanya Temple",
+      "city": "Subramanya",
+      "category": "temples",
+      "distance": "105 km from Mangaluru",
+      "rating": 4.7,
+      "description": "Surrounded by hills and the Kumara Parvatha peak, this temple is dedicated to Lord Subramanya, who is worshipped here as the lord of all serpents.",
+      "history": "Historically significant as the place where the divine serpent Vasuki sought refuge under Lord Subramanya.",
+      "famousFor": "Sarpa Samskara and Ashlesha Bali poojas for Naga Dosha.",
+      "bestTime": "September to March",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kukke-subramanya-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/kukke-subramanya-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kukke-subramanya-temple",
+      "image": "assets/images/states/karnataka/kukke-subramanya-temple.webp",
+      "heroImage": "assets/images/states/karnataka/kukke-subramanya-temple.webp"
+    },
+    {
+      "name": "Sri Manjunatha Swamy Temple",
+      "city": "Dharmasthala",
+      "category": "temples",
+      "distance": "75 km from Mangaluru",
+      "rating": 4.9,
+      "description": "An 800-year-old institution that represents religious harmony, where the priests are Madhwa Brahmins, the administration is by a Jain Heggade, and the deity is Lord Shiva.",
+      "history": "Known for 'Chaturdana' or the four gifts: food, medicine, education, and protection.",
+      "famousFor": "Bahubali Monolith and the historic car museum.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "dharmasthala-manjunatha",
+      "images": {
+        "main": "assets/images/states/karnataka/sri-manjunatha-swamy-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "dharmasthala-manjunatha",
+      "image": "assets/images/states/karnataka/sri-manjunatha-swamy-temple.webp",
+      "heroImage": "assets/images/states/karnataka/sri-manjunatha-swamy-temple.webp"
+    },
+    {
+      "name": "Sringeri Sharada Peetham",
+      "city": "Sringeri",
+      "category": "temples",
+      "distance": "95 km from Chikmagalur",
+      "rating": 4.9,
+      "description": "The first of the four pithas established by Adi Shankara, located on the banks of the Tunga River. The complex is famous for the Vidyashankara Temple, which features 12 zodiac pillars designed so the sun's rays fall on them according to the solar months.",
+      "history": "Founded in the 8th century by Adi Shankaracharya to propagate the philosophy of Advaita Vedanta.",
+      "famousFor": "Vidyashankara Temple’s astronomical pillars and the peaceful riverbank where fish are traditionally fed by pilgrims.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 2:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "sringeri-sharada-peetham",
+      "images": {
+        "main": "assets/images/states/karnataka/sringeri-sharada-peetham.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "sringeri-sharada-peetham",
+      "image": "assets/images/states/karnataka/sringeri-sharada-peetham.webp",
+      "heroImage": "assets/images/states/karnataka/sringeri-sharada-peetham.webp"
+    },
+    {
+      "name": "Magod Falls",
+      "city": "Yellapur",
+      "category": "waterfalls",
+      "distance": "17 km from Yellapur",
+      "rating": 4.6,
+      "description": "A spectacular two-tiered waterfall where the Bedti River plunges 650 feet into a narrow, rocky valley. The site is surrounded by dense evergreen forests and offers a stunning sunset viewpoint nearby.",
+      "history": "Deeply embedded in the Western Ghats, this waterfall is part of the Uttara Kannada wilderness that remains largely untouched.",
+      "famousFor": "The 650-foot double-tiered drop and the Jenu Kallu Gudda sunset point.",
+      "bestTime": "October to January",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "₹10",
+      "slug": "magod-falls-valley",
+      "images": {
+        "main": "assets/images/states/karnataka/magod-falls.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sathodi Falls",
+          "city": "Yellapur",
+          "distance": "17.0 km away",
+          "category": "waterfalls",
+          "slug": "yellapur-waterfalls",
+          "images": {
+            "main": "assets/images/states/karnataka/sathodi-falls.webp"
+          },
+          "image": "assets/images/states/karnataka/sathodi-falls.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "magod-falls-valley",
+      "image": "assets/images/states/karnataka/magod-falls.webp",
+      "heroImage": "assets/images/states/karnataka/magod-falls.webp"
+    },
+    {
+      "name": "Bhoga Nandeeshwara Temple",
+      "city": "Nandi Village",
+      "category": "temples",
+      "distance": "55 km from Bengaluru",
+      "rating": 4.8,
+      "description": "One of the oldest temples in Karnataka, dating back to the 9th century. It is an architectural masterpiece featuring a massive temple tank (Kalyani) and intricate carvings that represent the various stages of Lord Shiva's life.",
+      "history": "Originally built by the Bana Queen Ratnavali, the temple saw significant expansions by the Cholas, Hoysalas, and Vijayanagara rulers.",
+      "famousFor": "The stunning Shringi Teertha (temple tank) and the annual Karaga festival.",
+      "bestTime": "September to February",
+      "timings": "7:30 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "bhoga-nandeeshwara-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/bhoga-nandeeshwara-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nandi Hills (Nandydurg)",
+          "city": "Chikkaballapur",
+          "distance": "12.5 km away",
+          "category": "hills",
+          "slug": "nandi-hills-fort",
+          "images": {
+            "main": "assets/images/states/karnataka/nandi-hills-nandydurg.webp"
+          },
+          "image": "assets/images/states/karnataka/nandi-hills-nandydurg.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "bhoga-nandeeshwara-temple",
+      "image": "assets/images/states/karnataka/bhoga-nandeeshwara-temple.webp",
+      "heroImage": "assets/images/states/karnataka/bhoga-nandeeshwara-temple.webp"
+    },
+    {
+      "name": "Mallikarjuna Temple, Basaralu",
+      "city": "Basaralu",
+      "category": "temples",
+      "distance": "25 km from Mandya",
+      "rating": 4.4,
+      "description": "A lesser-known but highly detailed Hoysala temple known for its ornate friezes. The exterior walls are decorated with rows of elephants, horses, and mythical creatures, along with detailed depictions of the Ramayana and Mahabharata.",
+      "history": "Built in 1234 AD during the reign of Hoysala King Vira Narasimha II by his commander Harihara Dhanyaka.",
+      "famousFor": "Intricate Hoysala wall panels and the sixteen-pointed star base.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "basaralu-temple",
+      "images": {
+        "main": "assets/images/states/karnataka/mallikarjuna-temple-basaralu.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "basaralu-temple",
+      "image": "assets/images/states/karnataka/mallikarjuna-temple-basaralu.webp",
+      "heroImage": "assets/images/states/karnataka/mallikarjuna-temple-basaralu.webp"
+    },
+    {
+      "name": "Maravanthe Beach",
+      "city": "Kundapura",
+      "category": "beaches",
+      "distance": "12 km from Kundapura",
+      "rating": 4.7,
+      "description": "A unique geographic wonder where National Highway 66 runs between the Arabian Sea on one side and the Souparnika River on the other. It offers one of the most scenic coastal drives in India.",
+      "history": "The beach is famous for its proximity to the Maraswamy Temple and its importance as a turtle nesting site during specific seasons.",
+      "famousFor": "The parallel view of the sea and river along the highway.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "maravanthe-beach-road",
+      "images": {
+        "main": "assets/images/states/karnataka/maravanthe-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Anegudde Sri Vinayaka Temple",
+          "city": "Kumbhashi",
+          "distance": "18.0 km away",
+          "category": "temples",
+          "slug": "anegudde-vinayaka",
+          "images": {
+            "main": "assets/images/states/karnataka/anegudde-sri-vinayaka-temple.webp"
+          },
+          "image": "assets/images/states/karnataka/anegudde-sri-vinayaka-temple.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "maravanthe-beach-road",
+      "image": "assets/images/states/karnataka/maravanthe-beach.webp",
+      "heroImage": "assets/images/states/karnataka/maravanthe-beach.webp"
+    },
+    {
+      "name": "Shivanasamudra Falls (Gaganachukki & Bharachukki)",
+      "city": "Mandya",
+      "category": "waterfalls",
+      "distance": "135 km from Bengaluru",
+      "rating": 4.7,
+      "description": "A segmented waterfall where the Kaveri river splits to form two distinct drops. Gaganachukki features a powerful, vertical plunge, while Bharachukki offers a wider, more picturesque cascade. It is the site of one of Asia's first hydroelectric power stations.",
+      "history": "The hydroelectric project was commissioned in 1902 by the Diwan of Mysore to power the Kolar Gold Fields.",
+      "famousFor": "Twin waterfalls and India's pioneering hydroelectric history.",
+      "bestTime": "July to October",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "shivanasamudra-falls-twin",
+      "images": {
+        "main": "assets/images/states/karnataka/shivanasamudra-falls-gaganachukki-and-bharachukki.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "shivanasamudra-falls-twin",
+      "image": "assets/images/states/karnataka/shivanasamudra-falls-gaganachukki-and-bharachukki.webp",
+      "heroImage": "assets/images/states/karnataka/shivanasamudra-falls-gaganachukki-and-bharachukki.webp"
+    },
+    {
+      "name": "Mirjan Fort",
+      "city": "Kumta",
+      "category": "heritage",
+      "distance": "11 km from Kumta",
+      "rating": 4.5,
+      "description": "A majestic structure built with laterite stones on the banks of the Aghanashini River. Known for its high ceilings, interconnected wells, and circular bastions, the fort looks particularly emerald-green during the monsoon season.",
+      "history": "Attributed to Queen Chennabhairadevi, the 'Pepper Queen' of Gersoppa, who ruled for 54 years in the 16th century.",
+      "famousFor": "Its lush moss-covered walls in monsoon and the legacy of the Pepper Queen.",
+      "bestTime": "September to February",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "mirjan-fort-kumta",
+      "images": {
+        "main": "assets/images/states/karnataka/mirjan-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gokarna Main Beach",
+          "city": "Gokarna",
+          "distance": "11.0 km away",
+          "category": "beaches",
+          "slug": "gokarna-main-beach",
+          "images": {
+            "main": "assets/images/states/karnataka/malpe-beach.webp"
+          },
+          "image": "assets/images/states/karnataka/malpe-beach.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "mirjan-fort-kumta",
+      "image": "assets/images/states/karnataka/mirjan-fort.webp",
+      "heroImage": "assets/images/states/karnataka/mirjan-fort.webp"
+    },
+    {
+      "name": "Anegudde Sri Vinayaka Temple",
+      "city": "Kumbhashi",
+      "category": "temples",
+      "distance": "9 km from Kundapura",
+      "rating": 4.8,
+      "description": "One of the seven 'Mukti Sthalas' of coastal Karnataka. The temple is dedicated to Ganesha, and the name 'Anegudde' translates to 'Elephant Hill'. The presiding deity is a silver-covered monolith standing in a majestic posture.",
+      "history": "According to legend, the sage Agastya performed penance here to please Lord Ganesha and defeat the demon Kumbhasura.",
+      "famousFor": "The 12-foot silver-clad Ganesha and being a major pilgrimage site in Udupi district.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "anegudde-vinayaka",
+      "images": {
+        "main": "assets/images/states/karnataka/anegudde-sri-vinayaka-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Maravanthe Beach",
+          "city": "Kundapura",
+          "distance": "18.0 km away",
+          "category": "beaches",
+          "slug": "maravanthe-beach-road",
+          "images": {
+            "main": "assets/images/states/karnataka/maravanthe-beach.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/maravanthe-beach.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "anegudde-vinayaka",
+      "image": "assets/images/states/karnataka/anegudde-sri-vinayaka-temple.webp",
+      "heroImage": "assets/images/states/karnataka/anegudde-sri-vinayaka-temple.webp"
+    },
+    {
+      "name": "Koodli Sangama",
+      "city": "Shivamogga",
+      "category": "heritage",
+      "distance": "16 km from Shivamogga",
+      "rating": 4.4,
+      "description": "The holy confluence of the Tunga and Bhadra rivers, which merge here to form the Tungabhadra river. The site houses ancient temples including the Rameshwara temple and the Sharadamba temple, with structures dating back to the Hoysala period.",
+      "history": "The site has historical remnants from the 12th century and is home to an ancient Advaita Matha.",
+      "famousFor": "The birth of the Tungabhadra river and the ancient Rameshwara temple.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "koodli-confluence",
+      "images": {
+        "main": "assets/images/states/karnataka/koodli-sangama.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "koodli-confluence",
+      "image": "assets/images/states/karnataka/koodli-sangama.webp",
+      "heroImage": "assets/images/states/karnataka/koodli-sangama.webp"
+    },
+    {
+      "name": "St. Mary's Islands",
+      "city": "Malpe",
+      "category": "nature",
+      "distance": "4 km from Malpe Beach (via ferry)",
+      "rating": 4.7,
+      "description": "A set of four small islands known for their distinctive geological formation of columnar basaltic lava. The hexagonal rock columns are rare and create a unique, crystalline landscape amidst the white sands and blue waters.",
+      "history": "Vasco da Gama is said to have landed here in 1498 and named one of the islands 'El Padrao de Santa Maria'.",
+      "famousFor": "Hexagonal basaltic rock columns and being a National Geological Monument.",
+      "bestTime": "October to May (ferries close in monsoon)",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹300 (Ferry charge)",
+      "slug": "st-marys-island-udupi",
+      "images": {
+        "main": "assets/images/states/karnataka/st-marys-islands.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Malpe Beach",
+          "city": "Malpe",
+          "distance": "4.0 km away (ferry return)",
+          "category": "beaches",
+          "slug": "udupi-st-marys-beach",
+          "images": {
+            "main": "assets/images/states/karnataka/malpe-beach.webp"
+          },
+          "state": "Karnataka",
+          "image": "assets/images/states/karnataka/malpe-beach.webp"
+        }
+      ],
+      "state": "Karnataka",
+      "id": "st-marys-island-udupi",
+      "image": "assets/images/states/karnataka/st-marys-islands.webp",
+      "heroImage": "assets/images/states/karnataka/st-marys-islands.webp"
+    },
+    {
+      "name": "Kodachadri Peak",
+      "city": "Hosanagara",
+      "category": "hills",
+      "distance": "21 km from Kollur",
+      "rating": 4.7,
+      "description": "A natural heritage site in the Western Ghats, this peak is covered in dense shola forests. It is famous for the Sarvajna Peetha, a small stone structure where Adi Shankaracharya is said to have meditated.",
+      "history": "Part of the Mookambika Wildlife Sanctuary, it is a significant spiritual site associated with the establishment of the Kollur Mookambika Temple.",
+      "famousFor": "Sunset views over the Arabian Sea and the Hidlumane Falls trek.",
+      "bestTime": "October to February",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free (Jeep rentals extra)",
+      "slug": "kodachadri-hills",
+      "images": {
+        "main": "assets/images/states/karnataka/kadachadri-peak.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "kodachadri-hills",
+      "image": "assets/images/states/karnataka/kadachadri-peak.webp",
+      "heroImage": "assets/images/states/karnataka/kadachadri-peak.webp"
+    },
+    {
+      "name": "BR Hills (Biligirirangana Betta)",
+      "city": "Yelandur",
+      "category": "wildlife",
+      "distance": "85 km from Mysuru",
+      "rating": 4.6,
+      "description": "A unique mountain range that acts as a bridge between the Western and Eastern Ghats. It is home to a tiger reserve and a famous hilltop temple dedicated to Lord Ranganatha (Vishu) situated on a white rock cliff.",
+      "history": "The area is traditionally inhabited by the Soliga tribe and was declared a Tiger Reserve in 2011.",
+      "famousFor": "The Dodda Sampige Mara (2000-year-old tree) and its diverse wildlife.",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 6:00 PM (Forest checkposts close early)",
+      "entryFee": "Free (Safari extra)",
+      "slug": "biligiriranga-hills",
+      "images": {
+        "main": "assets/images/states/karnataka/br-hills-biligirirangana-betta.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "biligiriranga-hills",
+      "image": "assets/images/states/karnataka/br-hills-biligirirangana-betta.webp",
+      "heroImage": "assets/images/states/karnataka/br-hills-biligirirangana-betta.webp"
+    },
+    {
+      "name": "Sharavathi Backwaters & Boardwalk",
+      "city": "Honnavar",
+      "category": "nature",
+      "distance": "2 km from Honnavar Town",
+      "rating": 4.7,
+      "description": "A tranquil eco-tourism spot where the Sharavathi River meets the sea. The area features a long wooden mangrove boardwalk that winds through thick mangrove forests, offering views of migratory birds and calm waters.",
+      "history": "Recently developed as an eco-tourism initiative to protect the coastal mangrove ecosystem while promoting local tourism.",
+      "famousFor": "Mangrove boardwalk and scenic boating at Kandla Vana.",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 7:00 PM",
+      "entryFee": "₹10",
+      "slug": "honnavar-backwaters",
+      "images": {
+        "main": "assets/images/states/karnataka/sharavathi-backwaters-and-boardwalk.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "honnavar-backwaters",
+      "image": "assets/images/states/karnataka/sharavathi-backwaters-and-boardwalk.webp",
+      "heroImage": "assets/images/states/karnataka/sharavathi-backwaters-and-boardwalk.webp"
+    },
+    {
+      "name": "Deval Ganagapura (Dattatreya Peeta)",
+      "city": "Afzalpur",
+      "category": "temples",
+      "distance": "40 km from Kalaburagi",
+      "rating": 4.8,
+      "description": "A deeply revered pilgrimage site associated with Sri Narasimha Saraswati Swami, the second incarnation of Lord Dattatreya. The temple is located at the holy confluence (Sangama) of the Bhima and Amarja rivers, where devotees take a ritual dip before visiting the 'Nirguna Padukas'.",
+      "history": "It is the main seat of the Dattatreya tradition (Datta Sampradaya). Sri Narasimha Saraswati lived here for over 20 years, as detailed in the sacred text 'Shri Guru Charitra'.",
+      "famousFor": "The Sangama of Bhima and Amarja rivers, the Nirguna Padukas, and the Madhukari ritual (alms seeking).",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "gangapur-dattatreya-peeta",
+      "images": {
+        "main": "assets/images/states/karnataka/deval-ganagapura-dattatreya-peeta.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "gangapur-dattatreya-peeta",
+      "image": "assets/images/states/karnataka/deval-ganagapura-dattatreya-peeta.webp",
+      "heroImage": "assets/images/states/karnataka/deval-ganagapura-dattatreya-peeta.webp"
+    },
+    {
+      "name": "Yoga Narasimha Swamy Temple (Water Temple)",
+      "city": "Saligrama",
+      "category": "temples",
+      "distance": "22 km from K.R. Nagar, Mysore",
+      "rating": 4.7,
+      "description": "A unique and ancient temple where the deity, Lord Yoga Narasimha, is partially submerged in water. This 'Water Narasimha' is located in a specialized sanctum where natural spring water or a perennial source keeps the deity's feet or base continually cooled, creating a serene and mystical atmosphere.",
+      "history": "Historical records link this temple to the Hoysala era. Legend says the local environment was cooled by the deity's presence, and the water symbolizes his 'Shanta' (peaceful) form after the destruction of Hiranyakashipu.",
+      "famousFor": "The idol being partially submerged in water and its historical Hoysala architecture.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 1:00 PM, 5:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "saligrama-yoga-narasimha",
+      "images": {
+        "main": "assets/images/states/karnataka/yoga-narasimha-swamy-temple-water-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "id": "saligrama-yoga-narasimha",
+      "image": "assets/images/states/karnataka/yoga-narasimha-swamy-temple-water-temple.webp",
+      "heroImage": "assets/images/states/karnataka/yoga-narasimha-swamy-temple-water-temple.webp"
+    },
+    {
+      "name": "Coorg",
+      "city": "Madikeri",
+      "distance": "265 km from Bangalore",
+      "category": "nature",
+      "slug": "coorg",
+      "images": {
+        "main": "assets/images/popular/coorg.webp"
+      },
+      "image": "assets/images/popular/coorg.webp",
+      "description": "Coorg (Kodagu) is the \"Scotland of India,\" a lush hill district in the Western Ghats known for its misty mountains, vast coffee plantations, and rich Kodava culture. The region produces some of India's finest coffee and spices amidst dense tropical rainforests.",
+      "history": "The Kodava people have inhabited Coorg for over a millennium, maintaining a distinct martial and cultural identity. The region was ruled by the Haleri dynasty (1633–1834) before being annexed by the British. The Kodavas are one of the few communities in India permitted to carry firearms without a license.",
+      "famousFor": "Coffee plantations, Abbey Falls, Raja's Seat, Dubare Elephant Camp, Namdroling Monastery, Kodava cuisine",
+      "bestTime": "October to March (monsoon June–September for waterfalls)",
+      "timings": "Open throughout the day",
+      "entryFee": "Free (Abbey Falls: ₹15, Raja's Seat: ₹10)",
+      "nearbyAttractions": [],
+      "state": "Karnataka",
+      "heroImage": "assets/images/popular/coorg.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/karnataka/banner.webp"
+}

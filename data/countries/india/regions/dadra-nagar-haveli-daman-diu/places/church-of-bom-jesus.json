@@ -1,0 +1,22 @@
+{
+  "id": "church-of-bom-jesus",
+  "name": "Church of Bom Jesus",
+  "city": "Daman",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "An exquisite 16th-century church inside Moti Daman Fort, renowned for its stunning wooden altarpieces, intricately carved portals, and exceptional Portuguese colonial architecture.",
+  "history": "Constructed in 1559 and consecrated in 1603, it stands as one of the most prominent monuments of Portuguese heritage in Daman, surviving centuries in remarkable condition.",
+  "famousFor": "Portuguese architecture, intricately carved wooden altars.",
+  "bestTime": "October to March",
+  "timings": "7:00 AM \u2013 9:00 PM",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+  ],
+  "nearbyPlaces": [
+    "devka-beach",
+    "jampore-beach",
+    "moti-daman-fort"
+  ]
+}

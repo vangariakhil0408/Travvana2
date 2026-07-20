@@ -1,0 +1,21 @@
+{
+  "id": "zojila-pass",
+  "name": "Zoji La Pass",
+  "city": "Sonamarg",
+  "state": "Jammu and Kashmir",
+  "description": "A perilous, extremely scenic high mountain pass situated at an elevation of 3,528 meters. It forms the crucial link connecting the Kashmir Valley to its cold desert region, Ladakh.",
+  "history": "Captured by Pakistani raiders in 1948 and later famously recaptured by the Indian Army in a daring tank assault (Operation Bison).",
+  "famousFor": "Thrilling drive, snow walls, gateway to Ladakh.",
+  "bestTime": "June to September (Closed in Winter)",
+  "timings": "Unknown",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/zojila-pass.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/zojila-pass.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/zojila-pass.webp"
+  ],
+  "nearbyPlaces": [
+    "sonamarg-town",
+    "thajiwas-glacier"
+  ]
+}

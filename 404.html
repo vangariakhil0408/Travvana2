@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0A0A0F">
+  <meta name="robots" content="noindex, follow">
+  <meta name="description" content="Page not found — Travvana. Discover India's best travel destinations.">
+  <title>Page Not Found — Travvana</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+
+  <link rel="stylesheet" href="styles/base/reset.css?v=15">
+  <link rel="stylesheet" href="styles/base/variables.css?v=15">
+  <link rel="stylesheet" href="styles/base/typography.css?v=15">
+  <link rel="stylesheet" href="styles/base/theme.css?v=15">
+  <link rel="stylesheet" href="styles/main.css?v=15">
+  <link rel="icon" type="image/png" href="assets/images/logo.webp">
+
+  <style>
+    .error-page {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 70vh;
+      text-align: center;
+      padding: 40px 24px;
+    }
+    .error-code {
+      font-size: 6rem;
+      font-weight: 800;
+      color: var(--clr-accent, #FF6B2C);
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+    .error-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: var(--clr-text-primary, #fff);
+    }
+    .error-text {
+      color: var(--clr-text-secondary, rgba(255,255,255,0.6));
+      margin-bottom: 32px;
+      max-width: 480px;
+      line-height: 1.6;
+    }
+    .error-links {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .error-links a {
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: all 0.2s;
+    }
+    .error-links a.primary {
+      background: var(--clr-accent, #FF6B2C);
+      color: #fff;
+    }
+    .error-links a.secondary {
+      border: 1px solid var(--clr-border, rgba(255,255,255,0.12));
+      color: var(--clr-text-primary, #fff);
+    }
+    .error-links a:hover {
+      opacity: 0.85;
+      transform: translateY(-1px);
+    }
+  </style>
+</head>
+<body>
+  <div class="error-page">
+    <div class="error-code">404</div>
+    <h1 class="error-title">Page Not Found</h1>
+    <p class="error-text">
+      The page you're looking for doesn't exist or may have moved.
+      Don't worry — there are thousands of amazing destinations waiting for you.
+    </p>
+    <nav class="error-links" aria-label="Navigation">
+      <a href="index.html" class="primary">← Back to Home</a>
+      <a href="discovery.html" class="secondary">Explore States</a>
+      <a href="destinations.html" class="secondary">All Destinations</a>
+    </nav>
+  </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "id": "jampore-beach",
+  "name": "Jampore Beach",
+  "city": "Daman",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "A tranquil, wide beach lined with casuarina trees offering dark sands, gentle waves, and activities like camel rides and parasailing \u2014 perfect for a relaxing sunset.",
+  "history": "One of Daman's primary beaches, it has long been a favored weekend getaway for residents of neighboring Gujarat and Maharashtra.",
+  "famousFor": "Black sand, casuarina trees, water sports",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "church-of-bom-jesus",
+    "moti-daman-fort",
+    "devka-beach"
+  ]
+}

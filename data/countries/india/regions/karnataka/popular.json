@@ -1,0 +1,44 @@
+{
+  "stateId": "karnataka",
+  "places": [
+    {
+      "id": "hampi-ruins",
+      "name": "Hampi Ruins",
+      "slug": "hampi-ruins",
+      "district": "ballari",
+      "thumbnail": "",
+      "rating": 4.8,
+      "reviewCount": 11000,
+      "category": "heritage",
+      "shortDescription": "UNESCO World Heritage Site — ruins of the Vijayanagara Empire",
+      "popularityScore": 95,
+      "priceLevel": 1
+    },
+    {
+      "id": "coorg-abbey-falls",
+      "name": "Abbey Falls",
+      "slug": "coorg-abbey-falls",
+      "district": "kodagu",
+      "thumbnail": "",
+      "rating": 4.4,
+      "reviewCount": 5500,
+      "category": "nature",
+      "shortDescription": "A beautiful waterfall surrounded by coffee and spice plantations",
+      "popularityScore": 85,
+      "priceLevel": 1
+    },
+    {
+      "id": "gokarna-beach",
+      "name": "Gokarna Beach",
+      "slug": "gokarna-beach",
+      "district": "uttara-kannada",
+      "thumbnail": "",
+      "rating": 4.5,
+      "reviewCount": 4500,
+      "category": "beaches",
+      "shortDescription": "A peaceful alternative to Goa with pristine crescent beaches",
+      "popularityScore": 82,
+      "priceLevel": 1
+    }
+  ]
+}

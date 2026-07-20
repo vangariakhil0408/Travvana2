@@ -1,0 +1,20 @@
+{
+  "id": "zanskar-valley",
+  "name": "Zanskar Valley",
+  "city": "Zanskar",
+  "state": "Ladakh",
+  "description": "One of the most remote and wildly beautiful regions in Ladakh, famous for its rugged terrain, deep gorges, and the extreme Chadar frozen river trek.",
+  "history": "Historically an isolated Tibetan Buddhist kingdom.",
+  "famousFor": "Chadar Trek, river rafting, Phugtal Monastery.",
+  "bestTime": "June to September (Summer), January to February (Chadar Trek)",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_0000000054e872089e063dad12def784.webp",
+  "heroImage": "./assets/images/states/ladakh/file_0000000054e872089e063dad12def784.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_0000000054e872089e063dad12def784.webp"
+  ],
+  "nearbyPlaces": [
+    "sangam-point"
+  ]
+}

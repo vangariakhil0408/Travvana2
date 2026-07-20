@@ -1,0 +1,27 @@
+{
+  "id": "sitapur-beach",
+  "name": "Sitapur Beach",
+  "city": "Neil Island",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Widely known as the 'Sunrise Beach' of Neil Island, it boasts spectacular limestone rock formations, golden sand, and vibrant turquoise waters perfectly positioned for dawn views.",
+  "history": "A completely natural, unspoiled beach maintained largely untouched by commercial tourism.",
+  "famousFor": "Incredible sunrises, limestone formations, raw natural beauty.",
+  "bestTime": "October to May",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/sitapur-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "natural-bridge",
+    "bharatpur-beach",
+    "laxmanpur-beach",
+    "radhanagar-beach",
+    "vijaynagar-beach",
+    "havelock-island-diving",
+    "elephant-beach",
+    "kalapathar-beach"
+  ]
+}

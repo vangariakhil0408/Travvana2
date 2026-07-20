@@ -1,0 +1,71 @@
+{
+  "id": "gokarna-beaches",
+  "slug": "gokarna-beaches",
+  "name": "Gokarna Beaches",
+  "location": "Karnataka, India",
+  "district": "Gokarna",
+  "stateId": "karnataka",
+  "category": "beach",
+  "uiCategory": "beach",
+  "image": "./assets/images/popular/gokarna-beaches.webp",
+  "heroImage": "./assets/images/popular/gokarna-beaches.webp",
+  "gallery": [
+    "./assets/images/popular/gokarna-beaches.webp"
+  ],
+  "overview": "Experience the beauty of Gokarna Beaches, a top destination in Karnataka, India.",
+  "description": "Once a quiet pilgrimage town, Gokarna later gained fame for its serene beaches and laid-back coastal culture.",
+  "rating": "4.8",
+  "reviewCount": 16306,
+  "popularityScore": 1,
+  "priceLevel": 1,
+  "bestTimeToVisit": "October to March",
+  "timings": "Open all day",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Hubli / Belgaum Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Gokarna Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "2 km from Gokarna town"
+  },
+  "tags": [
+    "beach",
+    "karnataka",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 3683
+    },
+    {
+      "views": 1326
+    }
+  ],
+  "nearbyPlaces": [
+    "mysore-palace",
+    "hampi",
+    "jog-falls"
+  ]
+}

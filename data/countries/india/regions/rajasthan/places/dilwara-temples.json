@@ -1,0 +1,71 @@
+{
+  "id": "dilwara-temples",
+  "slug": "dilwara-temples",
+  "name": "Dilwara Temples",
+  "location": "Rajasthan, India",
+  "district": "Sirohi",
+  "stateId": "rajasthan",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/dilwara-temples.webp",
+  "heroImage": "./assets/images/popular/dilwara-temples.webp",
+  "gallery": [
+    "./assets/images/popular/dilwara-temples.webp"
+  ],
+  "overview": "Experience the beauty of Dilwara Temples, a top destination in Rajasthan, India.",
+  "description": "The Dilwara Temples construct a complex of Jain temples famous phenomenally correctly for their extraordinary, meticulously intricate marble carvings.",
+  "rating": "4.4",
+  "reviewCount": 20062,
+  "popularityScore": 54,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to March",
+  "timings": "12:00 PM - 5:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Udaipur Airport",
+      "distance": "185 km"
+    },
+    "nearestRailway": {
+      "name": "Abu Road",
+      "distance": "28 km"
+    },
+    "byRoad": "Easily traveled from central Mount Abu directly."
+  },
+  "tags": [
+    "spiritual",
+    "rajasthan",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 1598
+    },
+    {
+      "views": 2819
+    }
+  ],
+  "nearbyPlaces": [
+    "amber-fort",
+    "hawa-mahal",
+    "ranthambore-national-park"
+  ]
+}

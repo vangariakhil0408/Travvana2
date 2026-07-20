@@ -1,0 +1,36 @@
+{
+  "id": "puducherry-museum",
+  "name": "Puducherry Museum",
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "description": "Housed in a beautiful heritage building, this museum boasts an incredible collection of ancient artifacts from the Arikamedu Roman settlement, Chola bronzes, and French colonial furniture.",
+  "history": "It serves as the definitive guardian of the region's diverse history, from prehistoric times through to the French colonial period.",
+  "famousFor": "Roman artifacts, ancient bronze sculptures.",
+  "bestTime": "Year-round",
+  "timings": "10:00 AM \u2013 5:00 PM (Closed Mondays)",
+  "entryFee": "\u20b915",
+  "image": "./assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp",
+  "heroImage": "./assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+  ],
+  "nearbyPlaces": [
+    "sri-aurobindo-ashram",
+    "manakula-vinayagar",
+    "sacred-heart-basilica",
+    "immaculate-conception",
+    "arikamedu",
+    "promenade-beach",
+    "notre-dame-des-anges",
+    "thirunallar-temple",
+    "sri-karneshwar-nataraja",
+    "bharathi-park",
+    "french-war-memorial",
+    "serenity-beach",
+    "paradise-beach",
+    "chunnambar-boat-house",
+    "matrimandir",
+    "ousteri-lake",
+    "auroville"
+  ]
+}

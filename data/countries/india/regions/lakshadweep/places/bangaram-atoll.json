@@ -1,0 +1,20 @@
+{
+  "id": "bangaram-atoll",
+  "name": "Bangaram Atoll",
+  "city": "Bangaram",
+  "state": "Lakshadweep",
+  "description": "An uninhabited teardrop-shaped island famous for its turquoise lagoons, coral reefs, and bioluminescent plankton at night.",
+  "history": "A former residence of the King of Cannanore, now an international tourism hub.",
+  "famousFor": "Scuba diving, snorkeling, bioluminescence.",
+  "bestTime": "Year-round",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000001a0872099311fa7d44edb628.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000001a0872099311fa7d44edb628.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000001a0872099311fa7d44edb628.webp"
+  ],
+  "nearbyPlaces": [
+    "agatti-island"
+  ]
+}

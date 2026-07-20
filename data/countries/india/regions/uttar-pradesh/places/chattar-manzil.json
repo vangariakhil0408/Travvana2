@@ -1,0 +1,84 @@
+{
+  "id": "chattar-manzil",
+  "slug": "chattar-manzil",
+  "name": "Chattar Manzil (Umbrella Palace)",
+  "location": "Uttar Pradesh, India",
+  "district": "Lucknow",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "A strikingly unique Nawabi palace topped with a gilded umbrella-shaped dome overlooking the Gomti River. Its European-inspired interiors mixed with Awadhi ornamentation make it one of Lucknow's most photographed buildings.",
+  "description": "Built by Nawab Ghazi-ud-din Haider (1814-1827) as a royal residence. Later used by the British as the United Services Club.",
+  "rating": "4.6",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "Unknown",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "lucknow-bara-imambara",
+    "lucknow-residency",
+    "rumi-darwaza",
+    "dudhwa-national-park",
+    "shravasti",
+    "vindhyachal-devi",
+    "lucknow-ambedkar-park",
+    "kapilvastu",
+    "chandraprabha-wildlife",
+    "nawabganj-bird-sanctuary",
+    "sankisa",
+    "hastinapur",
+    "naimisharanya",
+    "kalinjar-fort",
+    "deogarh-dashavatara",
+    "gorakhpur-gorakhnath",
+    "kannauj-perfume",
+    "kaushambi",
+    "pilibhit-tiger-reserve",
+    "etawah-safari-park",
+    "dilkusha-kothi",
+    "sardhana-basilica",
+    "kukrail-reserve",
+    "salkhan-fossil-park",
+    "deva-sharif",
+    "katarniaghat-wildlife"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Chattar-Manzil.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Chattar-Manzil.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Chattar-Manzil.webp"
+  ]
+}

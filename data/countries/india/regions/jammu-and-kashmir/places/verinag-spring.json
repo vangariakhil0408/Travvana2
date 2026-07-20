@@ -1,0 +1,25 @@
+{
+  "id": "verinag-spring",
+  "name": "Verinag Spring & Garden",
+  "city": "Anantnag",
+  "state": "Jammu and Kashmir",
+  "description": "A magnificent octagonal stone basin filled with crystal clear, emerald-green water, officially recognized as the primary source of the mighty Jhelum River.",
+  "history": "The basin and the surrounding arcade were built by Emperor Jahangir in 1620, while the beautiful garden was laid out by Emperor Shah Jahan.",
+  "famousFor": "Source of Jhelum river, Mughal architecture, crystal clear water.",
+  "bestTime": "April to October",
+  "timings": "8:00 AM \u2013 7:00 PM",
+  "entryFee": "\u20b924",
+  "image": "./assets/images/states/jammu-and-kashmir/verinag-spring.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/verinag-spring.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/verinag-spring.webp"
+  ],
+  "nearbyPlaces": [
+    "sinthan-top",
+    "martand-sun-temple",
+    "kokernag",
+    "chatpal",
+    "daksum",
+    "achabal"
+  ]
+}

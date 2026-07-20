@@ -1,0 +1,71 @@
+{
+  "id": "leh-ladakh",
+  "slug": "leh-ladakh",
+  "name": "Leh Ladakh",
+  "location": "Ladakh, India",
+  "district": "Leh",
+  "stateId": "ladakh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/leh-ladakh.webp",
+  "heroImage": "./assets/images/popular/leh-ladakh.webp",
+  "gallery": [
+    "./assets/images/popular/leh-ladakh.webp"
+  ],
+  "overview": "Experience the beauty of Leh Ladakh, a top destination in Ladakh, India.",
+  "description": "Ladakh is famous worldwide for its stark mountainous landscapes, pristine lakes, thrilling high-altitude passes, and quiet, mesmerizing Buddhist monasteries.",
+  "rating": "4.9",
+  "reviewCount": 18070,
+  "popularityScore": 85,
+  "priceLevel": 1,
+  "bestTimeToVisit": "May to September",
+  "timings": "24 Hours Open",
+  "entryFee": {
+    "indian": "Varies significantly by spot",
+    "foreigner": "Varies"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Kushok Bakula Rimpochee Airport",
+      "distance": "3 km"
+    },
+    "nearestRailway": {
+      "name": "Jammu Tawi",
+      "distance": "700 km"
+    },
+    "byRoad": "Accessible via scenic routes on the Srinagar-Leh highway."
+  },
+  "tags": [
+    "nature",
+    "ladakh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 658
+    },
+    {
+      "views": 5159
+    }
+  ],
+  "nearbyPlaces": [
+    "pangong-lake",
+    "nubra-valley",
+    "hemis-monastery"
+  ]
+}

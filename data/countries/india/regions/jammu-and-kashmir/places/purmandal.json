@@ -1,0 +1,25 @@
+{
+  "id": "purmandal",
+  "name": "Purmandal (Chhota Kashi)",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "description": "A deeply holy temple complex situated on the banks of the sacred Devika river. It is often referred to as 'Chhota Kashi' due to its immense spiritual significance.",
+  "history": "The Devika river is believed to be the elder sister of the Ganges. The temples here were built by various Dogra rulers over centuries.",
+  "famousFor": "Sacred Devika river, ancient Shiva temples, Chhota Kashi.",
+  "bestTime": "Year-round (Busy during Shivratri and Chaitra Chaudash)",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/purmandal.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/purmandal.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/purmandal.webp"
+  ],
+  "nearbyPlaces": [
+    "bahu-fort",
+    "mansar-lake",
+    "raghunath-temple",
+    "akhnoor-fort",
+    "mubarak-mandi",
+    "surinsar-lake"
+  ]
+}

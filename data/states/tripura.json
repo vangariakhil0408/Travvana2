@@ -1,0 +1,2388 @@
+{
+  "state": "Tripura",
+  "capital": "Agartala",
+  "description": "The third smallest state in India, Tripura is a hidden jewel of the Northeast, steeped in royal Manikya dynasty heritage, ancient Hindu temples, and lush bamboo forests.",
+  "image": "assets/images/states/tripura/tripura-banner.webp",
+  "places": [
+    {
+      "name": "Ujjayanta Palace",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Center of Agartala",
+      "rating": 4.8,
+      "description": "A magnificent Mughal-style palace built by Maharaja Radha Kishore Manikya in 1901. It features stunning tiled floors, carved wooden ceilings, and beautifully manicured Mughal gardens with musical fountains.",
+      "history": "Served as the official residence of the Manikya kings until Tripura merged with India in 1949. Now houses the Tripura State Museum.",
+      "famousFor": "Mughal gardens, State Museum, throne room",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "ujjayanta-palace",
+      "images": {
+        "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tripura State Museum",
+          "city": "Agartala",
+          "distance": "Inside palace",
+          "category": "heritage",
+          "slug": "tripura-state-museum",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-state-museum.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-state-museum.webp"
+        },
+        {
+          "name": "Chaturdash Devata Temple",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "chaturdash-devata-temple",
+          "images": {
+            "main": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+        },
+        {
+          "name": "Heritage Park",
+          "city": "Agartala",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "heritage-park-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/heritage-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/heritage-park.webp"
+        },
+        {
+          "name": "Jagannath Temple Agartala",
+          "city": "Agartala",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+        },
+        {
+          "name": "Nehru Park",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nehru-park-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/nehru-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/nehru-park.webp"
+        },
+        {
+          "name": "Laxmi Narayan Temple",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "laxmi-narayan-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "ujjayanta-palace",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/ujjayanta-palace.webp",
+      "heroImage": "assets/images/states/tripura/ujjayanta-palace.webp"
+    },
+    {
+      "name": "Neermahal",
+      "city": "Melaghar",
+      "category": "heritage",
+      "distance": "53 km from Agartala",
+      "rating": 4.9,
+      "description": "India's largest and only royal water palace, built in the middle of the vast Rudrasagar Lake. It combines Hindu and Mughal architectural styles and is illuminated beautifully at night.",
+      "history": "Built in 1930 by Maharaja Bir Bikram Kishore Manikya as a summer retreat. Inspired by the Lake Palace of Udaipur.",
+      "famousFor": "Only water palace in India, boat rides, illuminated night views.",
+      "bestTime": "September to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "neermahal",
+      "images": {
+        "main": "assets/images/states/tripura/neermahal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rudrasagar Lake",
+          "city": "Melaghar",
+          "distance": "On the lake",
+          "category": "nature",
+          "slug": "rudrasagar-lake",
+          "images": {
+            "main": "assets/images/states/tripura/rudrasagar-lake.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/rudrasagar-lake.webp"
+        },
+        {
+          "name": "Narkel Kunja Island",
+          "city": "Melaghar",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "narkel-kunja-island",
+          "images": {
+            "main": "assets/images/states/tripura/narkel-kunja-island.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/narkel-kunja-island.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "neermahal",
+      "district": "Sepahijala",
+      "image": "assets/images/states/tripura/neermahal.webp",
+      "heroImage": "assets/images/states/tripura/neermahal.webp"
+    },
+    {
+      "name": "Unakoti",
+      "city": "Kailashahar",
+      "category": "heritage",
+      "distance": "178 km from Agartala",
+      "rating": 4.8,
+      "description": "A stunning 7th-century archaeological site featuring enormous bas-relief rock carvings of Hindu deities carved directly into a massive hillside. The largest Shiva head (Unakotiswara Kal Bhairava) stands 30 feet tall.",
+      "history": "The name means 'one less than a crore (10 million)'. Legend says Lord Shiva carved 9,999,999 images here on his journey to Kashi.",
+      "famousFor": "30-foot Shiva head, ancient rock carvings, waterfall backdrop.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "unakoti",
+      "images": {
+        "main": "assets/images/states/tripura/unakoti.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rowa Wildlife Sanctuary",
+          "city": "Dharmanagar",
+          "distance": "Tourism circuit",
+          "category": "wildlife",
+          "slug": "rowa-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/rowa-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/rowa-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Unakoti Heritage",
+          "city": "Kailashahar",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "unakoti-heritage",
+          "images": {
+            "main": "assets/images/states/tripura/unakoti.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/unakoti.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "unakoti",
+      "district": "Unakoti",
+      "image": "assets/images/states/tripura/unakoti.webp",
+      "heroImage": "assets/images/states/tripura/unakoti.webp"
+    },
+    {
+      "name": "Tripura Sundari Temple",
+      "city": "Udaipur",
+      "category": "temples",
+      "distance": "55 km from Agartala",
+      "rating": 4.9,
+      "description": "One of the 51 Shakti Peethas of India, this deeply sacred temple is dedicated to Goddess Tripura Sundari (Shoroshi). The temple sits on a hillock beside the beautiful Kalyan Sagar lake filled with giant turtles.",
+      "history": "Built by Maharaja Dhanya Manikya in 1501 AD. It is the most important pilgrimage site in all of Tripura.",
+      "famousFor": "Shakti Peetha, Kalyan Sagar turtle lake, ancient rituals.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "tripura-sundari-temple",
+      "images": {
+        "main": "assets/images/states/tripura/tripura-sundari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalyan Sagar",
+          "city": "Udaipur",
+          "distance": "Adjacent",
+          "category": "nature",
+          "slug": "kalyan-sagar",
+          "images": {
+            "main": "assets/images/states/tripura/kalyan-sagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kalyan-sagar.webp"
+        },
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        },
+        {
+          "name": "Bhuvaneswari Temple",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "bhuvaneswari-temple",
+          "images": {
+            "main": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "tripura-sundari-temple",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/tripura-sundari-temple.webp",
+      "heroImage": "assets/images/states/tripura/tripura-sundari-temple.webp"
+    },
+    {
+      "name": "Jampui Hills",
+      "city": "Jampui",
+      "category": "hills",
+      "distance": "220 km from Agartala",
+      "rating": 4.7,
+      "description": "Known as the 'Permanent Spring Land' of Tripura, these incredibly scenic hills feature rolling orange orchards, misty peaks, and the vibrant culture of the Mizo and Lushai tribes.",
+      "history": "Home to the Lushai and Mizo tribes who migrated here centuries ago. The annual Orange Festival draws visitors from across the Northeast.",
+      "famousFor": "Orange orchards, Orange Festival (November), year-round spring climate.",
+      "bestTime": "November (Orange Festival) or October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jampui-hills",
+      "images": {
+        "main": "assets/images/states/tripura/jampui-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vanghmun Village",
+          "city": "Jampui Hills",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "vanghmun-village",
+          "images": {
+            "main": "assets/images/states/tripura/vanghmun-village.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/vanghmun-village.webp"
+        },
+        {
+          "name": "Betlingchhip",
+          "city": "Jampui Hills",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "betlingchhip",
+          "images": {
+            "main": "assets/images/states/tripura/betlingchhip.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/betlingchhip.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "jampui-hills",
+      "district": "North Tripura",
+      "image": "assets/images/states/tripura/jampui-hills.webp",
+      "heroImage": "assets/images/states/tripura/jampui-hills.webp"
+    },
+    {
+      "name": "Sepahijala Wildlife Sanctuary",
+      "city": "Bishalgarh",
+      "category": "wildlife",
+      "distance": "25 km from Agartala",
+      "rating": 4.6,
+      "description": "A beautiful 18.5 sq km sanctuary famous for its primate population, particularly the extremely rare spectacled langur (Phayre's leaf monkey) — one of only a handful of habitats in the world.",
+      "history": "Established in 1972 to protect the endangered Capped Langur and Spectacled Monkey species native to this region.",
+      "famousFor": "Spectacled langur, capped langur, botanical garden",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹15",
+      "slug": "sepahijala-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Clouded Leopard National Park",
+          "city": "Sipahijala",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "clouded-leopard-national-park",
+          "images": {
+            "main": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+        },
+        {
+          "name": "Sipahijala Lake",
+          "city": "Bishalgarh",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "sipahijala-lake",
+          "images": {
+            "main": "assets/images/states/tripura/sipahijala-lake.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sipahijala-lake.webp"
+        },
+        {
+          "name": "Boxanagar",
+          "city": "Sonamura",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "boxanagar",
+          "images": {
+            "main": "assets/images/states/tripura/boxanagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/boxanagar.webp"
+        },
+        {
+          "name": "Kamalasagar Kali Temple",
+          "city": "Kamalasagar",
+          "distance": "Tourism circuit",
+          "category": "temples",
+          "slug": "kamalasagar-kali-temple",
+          "images": {
+            "main": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "sepahijala-wildlife-sanctuary",
+      "district": "Sepahijala",
+      "image": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Pilak",
+      "city": "Jolaibari",
+      "category": "heritage",
+      "distance": "110 km from Agartala",
+      "rating": 4.7,
+      "description": "A remarkable ancient archaeological site featuring rare coexisting Hindu and Buddhist sculptures dating from the 8th to 12th centuries — an extremely rare example of religious harmony in stone.",
+      "history": "Discovered by archaeologists in the 1920s, the site reveals that both Hinduism and Buddhism flourished side by side in ancient Tripura.",
+      "famousFor": "Hindu-Buddhist coexisting sculptures, Avalokiteshvara statue, ancient terracotta.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "pilak",
+      "images": {
+        "main": "assets/images/states/tripura/pilak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Benuban Vihar",
+          "city": "Sabroom",
+          "distance": "15 km away",
+          "category": "temples",
+          "slug": "benuban-vihar",
+          "images": {
+            "main": "assets/images/states/tripura/benuban-vihar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/benuban-vihar.webp"
+        },
+        {
+          "name": "Manu Bankul Eco Park",
+          "city": "Sabroom",
+          "distance": "Tourism circuit",
+          "category": "nature",
+          "slug": "manu-bankul-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "pilak",
+      "district": "South Tripura",
+      "image": "assets/images/states/tripura/pilak.webp",
+      "heroImage": "assets/images/states/tripura/pilak.webp"
+    },
+    {
+      "name": "Chabimura (Devtamura)",
+      "city": "Amarpur",
+      "category": "heritage",
+      "distance": "80 km from Agartala",
+      "rating": 4.7,
+      "description": "Spectacular ancient rock carvings etched directly into a massive cliff face overlooking the Gomati River. The panel features over 50 carvings of Hindu deities including Shiva, Vishnu, Kartik, and Mahishasuramardini.",
+      "history": "Carved between the 15th and 16th centuries during the reign of the Manikya kings of Tripura.",
+      "famousFor": "Riverside cliff carvings, boat ride to reach, 50+ deity panels.",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10 (Boat ₹50)",
+      "slug": "chabimura",
+      "images": {
+        "main": "assets/images/states/tripura/chabimura.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gomati River Cruise",
+          "city": "Amarpur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "gomati-river-cruise",
+          "images": {
+            "main": "assets/images/states/tripura/gomati-river-cruise.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/gomati-river-cruise.webp"
+        },
+        {
+          "name": "Trishna Wildlife Sanctuary",
+          "city": "Belonia",
+          "distance": "Tourism circuit",
+          "category": "wildlife",
+          "slug": "trishna-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/trishna-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/trishna-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "chabimura",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/chabimura.webp",
+      "heroImage": "assets/images/states/tripura/chabimura.webp"
+    },
+    {
+      "name": "Heritage Park",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "5 km from Agartala center",
+      "rating": 4.5,
+      "description": "A beautifully landscaped park featuring replicas of all the major monuments and architectural wonders of Tripura, offering visitors a quick visual tour of the state's rich heritage in one location.",
+      "history": "Developed by the state tourism department to showcase Tripura's architectural diversity in a single, accessible space.",
+      "famousFor": "Replica monuments, landscaped gardens, cultural overview.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 6:00 PM",
+      "entryFee": "₹20",
+      "slug": "heritage-park-agartala",
+      "images": {
+        "main": "assets/images/states/tripura/heritage-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Kunjaban Palace",
+          "city": "Agartala",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "kunjaban-palace",
+          "images": {
+            "main": "assets/images/states/tripura/kunjaban-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kunjaban-palace.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "heritage-park-agartala",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/heritage-park.webp",
+      "heroImage": "assets/images/states/tripura/heritage-park.webp"
+    },
+    {
+      "name": "Dumboor Lake",
+      "city": "Gandacherra",
+      "category": "nature",
+      "distance": "120 km from Agartala",
+      "rating": 4.7,
+      "description": "A stunning natural lake spread across 41 sq km, dotted with 48 small islands. Surrounded by dense bamboo forests, it is a paradise for migratory birds and fishing enthusiasts.",
+      "history": "Known locally as 'Raima Sagar'. The Tirthamukh waterfall nearby marks where the Raima River enters the lake.",
+      "famousFor": "48 islands, migratory birds, Tirthamukh waterfall",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating extra)",
+      "slug": "dumboor-lake",
+      "images": {
+        "main": "assets/images/states/tripura/dumboor-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gumti Wildlife Sanctuary",
+          "city": "Gandacherra",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "gumti-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "dumboor-lake",
+      "district": "Dhalai",
+      "image": "assets/images/states/tripura/dumboor-lake.webp",
+      "heroImage": "assets/images/states/tripura/dumboor-lake.webp"
+    },
+    {
+      "name": "Chaturdash Devata Temple",
+      "city": "Agartala",
+      "category": "temples",
+      "distance": "Center of Agartala",
+      "rating": 4.7,
+      "description": "The most important temple of the Manikya dynasty, dedicated to fourteen deities worshipped by the royal family. During the Kharchi Puja festival, the city comes alive with a massive week-long celebration.",
+      "history": "Built during the reign of Maharaja Krishna Manikya in the 15th century. The fourteen gods represent the entire Tripuri tribal cosmology.",
+      "famousFor": "Kharchi Puja festival, 14 deities, Manikya royal worship.",
+      "bestTime": "July (Kharchi Puja) or October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "chaturdash-devata-temple",
+      "images": {
+        "main": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Jagannath Temple Agartala",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+        },
+        {
+          "name": "Kunjaban Palace",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "kunjaban-palace",
+          "images": {
+            "main": "assets/images/states/tripura/kunjaban-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kunjaban-palace.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "chaturdash-devata-temple",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/chaturdash-devata-temple.webp",
+      "heroImage": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+    },
+    {
+      "name": "Bhuvaneswari Temple",
+      "city": "Udaipur",
+      "category": "temples",
+      "distance": "55 km from Agartala",
+      "rating": 4.7,
+      "description": "A highly revered temple dedicated to Goddess Bhuvaneswari, situated on a hilltop offering sweeping views of the Gomati River valley. It is considered the tutelary deity of the Tripura royal family.",
+      "history": "Established during the Manikya dynasty era. The temple gained prominence as the main deity worshipped by the royal family of Tripura.",
+      "famousFor": "Hilltop location, Gomati Valley views, Manikya royal patronage.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "bhuvaneswari-temple",
+      "images": {
+        "main": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tripura Sundari Temple",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "tripura-sundari-temple",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-sundari-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-sundari-temple.webp"
+        },
+        {
+          "name": "Kasba Devi Temple",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "kasba-devi-temple",
+          "images": {
+            "main": "assets/images/states/tripura/kasba-devi-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kasba-devi-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "bhuvaneswari-temple",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/bhuvaneswari-temple.webp",
+      "heroImage": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+    },
+    {
+      "name": "Kamalasagar Kali Temple",
+      "city": "Kamalasagar",
+      "category": "temples",
+      "distance": "27 km from Agartala",
+      "rating": 4.6,
+      "description": "A 500-year-old temple dedicated to Goddess Kali situated on the Indo-Bangladesh border. The temple overlooks the beautiful Kamalasagar Lake — visitors can see Bangladesh directly across the water.",
+      "history": "Built by Maharaja Dhannya Manikya in the 15th century on the banks of a large artificial lake.",
+      "famousFor": "Indo-Bangladesh border views, Kamalasagar Lake, Diwali celebrations.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "kamalasagar-kali-temple",
+      "images": {
+        "main": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Puran Rajbari",
+          "city": "Old Agartala",
+          "distance": "20 km away",
+          "category": "heritage",
+          "slug": "puran-rajbari",
+          "images": {
+            "main": "assets/images/states/tripura/puran-rajbari.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/puran-rajbari.webp"
+        },
+        {
+          "name": "Sepahijala Wildlife Sanctuary",
+          "city": "Bishalgarh",
+          "distance": "Tourism circuit",
+          "category": "wildlife",
+          "slug": "sepahijala-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "kamalasagar-kali-temple",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/kamalasagar-kali-temple.webp",
+      "heroImage": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+    },
+    {
+      "name": "Tepania Eco Park",
+      "city": "Udaipur",
+      "category": "nature",
+      "distance": "60 km from Agartala",
+      "rating": 4.5,
+      "description": "A beautifully designed eco-park featuring lush green bamboo groves, a serene lake with boating facilities, and nature trails through rubber plantations.",
+      "history": "Developed by the Tripura Forest Department to promote ecotourism in the Gomati district.",
+      "famousFor": "Bamboo groves, lake boating, nature trails.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "tepania-eco-park",
+      "images": {
+        "main": "assets/images/states/tripura/tepania-eco-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "5 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        },
+        {
+          "name": "Gunabati Temples",
+          "city": "Udaipur",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "gunabati-temples",
+          "images": {
+            "main": "assets/images/states/tripura/gunabati-temples.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/gunabati-temples.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "tepania-eco-park",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/tepania-eco-park.webp",
+      "heroImage": "assets/images/states/tripura/tepania-eco-park.webp"
+    },
+    {
+      "name": "Clouded Leopard National Park",
+      "city": "Sipahijala",
+      "category": "wildlife",
+      "distance": "20 km from Agartala",
+      "rating": 4.7,
+      "description": "A unique national park specifically dedicated to the conservation of the incredibly rare and elusive clouded leopard — the state animal of Tripura. It also houses hoolock gibbons and capped langurs.",
+      "history": "Established as a dedicated breeding and conservation center for the endangered clouded leopard, one of the rarest big cats in the world.",
+      "famousFor": "Clouded leopard conservation, hoolock gibbons, rare primate species.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:30 PM",
+      "entryFee": "₹20",
+      "slug": "clouded-leopard-national-park",
+      "images": {
+        "main": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sepahijala Wildlife Sanctuary",
+          "city": "Bishalgarh",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "sepahijala-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Sipahijala Lake",
+          "city": "Bishalgarh",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "sipahijala-lake",
+          "images": {
+            "main": "assets/images/states/tripura/sipahijala-lake.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sipahijala-lake.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "clouded-leopard-national-park",
+      "district": "Sepahijala",
+      "image": "assets/images/states/tripura/clouded-leopard-national-park.webp",
+      "heroImage": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+    },
+    {
+      "name": "Udaipur Heritage Town",
+      "city": "Udaipur",
+      "category": "heritage",
+      "distance": "55 km from Agartala",
+      "rating": 4.6,
+      "description": "The ancient capital of the Manikya dynasty, often called the 'Heritage City of Tripura'. It features a remarkable concentration of ancient temples, lakes, and palace ruins within a compact area.",
+      "history": "Served as the capital of the Tripura kingdom from the 15th century until the capital was shifted to Agartala in 1760.",
+      "famousFor": "Ancient capital, temple cluster, Manikya dynasty ruins.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "udaipur-tripura",
+      "images": {
+        "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tripura Sundari Temple",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "tripura-sundari-temple",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-sundari-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-sundari-temple.webp"
+        },
+        {
+          "name": "Kalyan Sagar",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "kalyan-sagar",
+          "images": {
+            "main": "assets/images/states/tripura/kalyan-sagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kalyan-sagar.webp"
+        },
+        {
+          "name": "Gunabati Temples",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "gunabati-temples",
+          "images": {
+            "main": "assets/images/states/tripura/gunabati-temples.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/gunabati-temples.webp"
+        },
+        {
+          "name": "Tepania Eco Park",
+          "city": "Udaipur",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "tepania-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/tepania-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tepania-eco-park.webp"
+        },
+        {
+          "name": "Kasba Devi Temple",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "kasba-devi-temple",
+          "images": {
+            "main": "assets/images/states/tripura/kasba-devi-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kasba-devi-temple.webp"
+        },
+        {
+          "name": "Amar Sagar",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "amar-sagar",
+          "images": {
+            "main": "assets/images/states/tripura/amar-sagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/amar-sagar.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "udaipur-tripura",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/udaipur-heritage-town.webp",
+      "heroImage": "assets/images/states/tripura/udaipur-heritage-town.webp"
+    },
+    {
+      "name": "Rowa Wildlife Sanctuary",
+      "city": "Dharmanagar",
+      "category": "wildlife",
+      "distance": "190 km from Agartala",
+      "rating": 4.5,
+      "description": "The smallest wildlife sanctuary in India at just 0.86 sq km, yet incredibly biodiverse. It houses rare species like the hoolock gibbon, spectacled monkey, and capped langur in a dense tropical setting.",
+      "history": "Established in 1988 to protect the unique primate and bird population of this tiny but critical patch of forest on the Indo-Bangladesh border.",
+      "famousFor": "Smallest sanctuary in India, hoolock gibbons, rich birdlife.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "rowa-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/tripura/rowa-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Unakoti",
+          "city": "Kailashahar",
+          "distance": "Tourism circuit",
+          "category": "heritage",
+          "slug": "unakoti",
+          "images": {
+            "main": "assets/images/states/tripura/unakoti.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/unakoti.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "rowa-wildlife-sanctuary",
+      "district": "North Tripura",
+      "image": "assets/images/states/tripura/rowa-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/tripura/rowa-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Gunabati Temples",
+      "city": "Udaipur",
+      "category": "heritage",
+      "distance": "58 km from Agartala",
+      "rating": 4.6,
+      "description": "A cluster of ancient 15th-16th century brick temples featuring exquisitely detailed terracotta panels depicting scenes from Hindu mythology, particularly from the Ramayana and Mahabharata.",
+      "history": "Built during the golden age of the Manikya dynasty. The terracotta work shows a unique blend of Bengali and Tripuri artistic traditions.",
+      "famousFor": "Terracotta panels, Ramayana scenes, Manikya dynasty architecture.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "gunabati-temples",
+      "images": {
+        "main": "assets/images/states/tripura/gunabati-temples.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        },
+        {
+          "name": "Tepania Eco Park",
+          "city": "Udaipur",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "tepania-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/tepania-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tepania-eco-park.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "gunabati-temples",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/gunabati-temples.webp",
+      "heroImage": "assets/images/states/tripura/gunabati-temples.webp"
+    },
+    {
+      "name": "Boxanagar",
+      "city": "Sonamura",
+      "category": "heritage",
+      "distance": "45 km from Agartala",
+      "rating": 4.5,
+      "description": "An important archaeological excavation site that unearthed a 9th-century Buddhist monastery (vihara) along with stunning bronze and terracotta Buddha images.",
+      "history": "Excavated in the 2000s, the site proves the deep-rooted presence of Buddhism in ancient Tripura alongside Hinduism.",
+      "famousFor": "Buddhist monastery ruins, terracotta artifacts, archaeological significance.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "boxanagar",
+      "images": {
+        "main": "assets/images/states/tripura/boxanagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sepahijala Wildlife Sanctuary",
+          "city": "Bishalgarh",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "sepahijala-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "boxanagar",
+      "district": "Sepahijala",
+      "image": "assets/images/states/tripura/boxanagar.webp",
+      "heroImage": "assets/images/states/tripura/boxanagar.webp"
+    },
+    {
+      "name": "Trishna Wildlife Sanctuary",
+      "city": "Belonia",
+      "category": "wildlife",
+      "distance": "95 km from Agartala",
+      "rating": 4.7,
+      "description": "A sprawling 194 sq km sanctuary famous for being one of the last remaining habitats of the Indian bison (gaur) in the Northeast. It also shelters elephants, hoolock gibbons, and sambar deer in dense semi-evergreen forests.",
+      "history": "Established in 1988 to protect the dwindling gaur population in Tripura. The sanctuary is part of the larger Indo-Burma biodiversity hotspot.",
+      "famousFor": "Indian bison (gaur), elephants, hoolock gibbons",
+      "bestTime": "November to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "trishna-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/tripura/trishna-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chabimura (Devtamura)",
+          "city": "Amarpur",
+          "distance": "Tourism circuit",
+          "category": "heritage",
+          "slug": "chabimura",
+          "images": {
+            "main": "assets/images/states/tripura/chabimura.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/chabimura.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "trishna-wildlife-sanctuary",
+      "district": "South Tripura",
+      "image": "assets/images/states/tripura/trishna-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/tripura/trishna-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Gumti Wildlife Sanctuary",
+      "city": "Gandacherra",
+      "category": "wildlife",
+      "distance": "140 km from Agartala",
+      "rating": 4.6,
+      "description": "A 389 sq km sanctuary surrounding the massive Dumboor Lake, protecting a rich ecosystem of tropical evergreen and semi-evergreen forests. It is home to leopards, elephants, and the extremely rare hoolock gibbon.",
+      "history": "Established in 1988, the sanctuary's forests are critical for maintaining the watershed of the Gumti River that supplies water to southern Tripura.",
+      "famousFor": "Hoolock gibbons, leopards, Dumboor Lake integration",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹15",
+      "slug": "gumti-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dumboor Lake",
+          "city": "Gandacherra",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "dumboor-lake",
+          "images": {
+            "main": "assets/images/states/tripura/dumboor-lake.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/dumboor-lake.webp"
+        },
+        {
+          "name": "Longtharai Wildlife Sanctuary",
+          "city": "Longtharai Valley",
+          "distance": "Tourism circuit",
+          "category": "wildlife",
+          "slug": "longtharai-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/longtharai-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/longtharai-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "gumti-wildlife-sanctuary",
+      "district": "Dhalai",
+      "image": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Baramura Eco Park",
+      "city": "Khowai",
+      "category": "nature",
+      "distance": "45 km from Agartala",
+      "rating": 4.6,
+      "description": "A stunning hilltop eco-park offering panoramic views of the surrounding green valleys and bamboo-covered hills. The winding road up to the summit is an adventure in itself.",
+      "history": "Developed by the Tripura Forest Department as an eco-tourism initiative to showcase the natural beauty of the Baramura Hills.",
+      "famousFor": "Hilltop panoramic views, trekking trails, bamboo forests.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "baramura-eco-park",
+      "images": {
+        "main": "assets/images/states/tripura/baramura-eco-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Atharamura Hills",
+          "city": "Khowai",
+          "distance": "15 km away",
+          "category": "hills",
+          "slug": "atharamura-hills",
+          "images": {
+            "main": "assets/images/states/tripura/atharamura-hills.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/atharamura-hills.webp"
+        },
+        {
+          "name": "Khowai River View",
+          "city": "Khowai",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "khowai-river-view",
+          "images": {
+            "main": "assets/images/states/tripura/khowai-river-view.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/khowai-river-view.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "baramura-eco-park",
+      "district": "Khowai",
+      "image": "assets/images/states/tripura/baramura-eco-park.webp",
+      "heroImage": "assets/images/states/tripura/baramura-eco-park.webp"
+    },
+    {
+      "name": "Kunjaban Palace",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "2 km from Agartala center",
+      "rating": 4.5,
+      "description": "A grand hilltop palace that serves as the official residence of the Governor of Tripura. Set amidst beautifully landscaped gardens, the palace offers commanding views of the entire city of Agartala.",
+      "history": "Built by Maharaja Bir Bikram Kishore Manikya in the 1930s as a replacement for the Ujjayanta Palace. After merger with India, it became the Raj Bhavan.",
+      "famousFor": "Governor's residence, hilltop views, colonial architecture",
+      "bestTime": "Year-round",
+      "timings": "Sunrise to Sunset",
+      "entryFee": "Free (Exterior only)",
+      "slug": "kunjaban-palace",
+      "images": {
+        "main": "assets/images/states/tripura/kunjaban-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chaturdash Devata Temple",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "chaturdash-devata-temple",
+          "images": {
+            "main": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+        },
+        {
+          "name": "Heritage Park",
+          "city": "Agartala",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "heritage-park-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/heritage-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/heritage-park.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "kunjaban-palace",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/kunjaban-palace.webp",
+      "heroImage": "assets/images/states/tripura/kunjaban-palace.webp"
+    },
+    {
+      "name": "Narkel Kunja Island",
+      "city": "Melaghar",
+      "category": "nature",
+      "distance": "55 km from Agartala",
+      "rating": 4.5,
+      "description": "A small, scenic island in Rudrasagar Lake, surrounded by coconut palm groves. It offers stunning close-up views of the Neermahal Water Palace and serves as a peaceful picnic destination.",
+      "history": "The island was used as a recreational spot by the Manikya royal family during their stays at Neermahal.",
+      "famousFor": "Neermahal views, coconut groves, peaceful picnic spot.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹10 (Boat included)",
+      "slug": "narkel-kunja-island",
+      "images": {
+        "main": "assets/images/states/tripura/narkel-kunja-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Neermahal",
+          "city": "Melaghar",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "neermahal",
+          "images": {
+            "main": "assets/images/states/tripura/neermahal.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/neermahal.webp"
+        },
+        {
+          "name": "Rudrasagar Lake",
+          "city": "Melaghar",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "rudrasagar-lake",
+          "images": {
+            "main": "assets/images/states/tripura/rudrasagar-lake.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/rudrasagar-lake.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "narkel-kunja-island",
+      "district": "Sepahijala",
+      "image": "assets/images/states/tripura/narkel-kunja-island.webp",
+      "heroImage": "assets/images/states/tripura/narkel-kunja-island.webp"
+    },
+    {
+      "name": "Gomati River Cruise",
+      "city": "Amarpur",
+      "category": "nature",
+      "distance": "78 km from Agartala",
+      "rating": 4.6,
+      "description": "A deeply scenic river cruise along the Gomati River that passes through lush jungle corridors, revealing hidden rock carvings, cliff faces, and serene sandbanks along the way.",
+      "history": "The Gomati River has been the lifeline of southern Tripura since the Manikya dynasty era, serving as the primary trade and transport route.",
+      "famousFor": "Scenic river cruise, hidden rock carvings, jungle corridors.",
+      "bestTime": "October to April",
+      "timings": "8:00 AM – 3:00 PM",
+      "entryFee": "₹100 (Cruise ticket)",
+      "slug": "gomati-river-cruise",
+      "images": {
+        "main": "assets/images/states/tripura/gomati-river-cruise.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chabimura (Devtamura)",
+          "city": "Amarpur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "chabimura",
+          "images": {
+            "main": "assets/images/states/tripura/chabimura.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/chabimura.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "gomati-river-cruise",
+      "district": "Gomati",
+      "image": "assets/images/states/tripura/gomati-river-cruise.webp",
+      "heroImage": "assets/images/states/tripura/gomati-river-cruise.webp"
+    },
+    {
+      "name": "Longtharai Wildlife Sanctuary",
+      "city": "Longtharai Valley",
+      "category": "wildlife",
+      "distance": "150 km from Agartala",
+      "rating": 4.5,
+      "description": "A remote and incredibly dense 170 sq km sanctuary in the northern hills of Tripura. It protects rare species including the capped langur, slow loris, and Malayan giant squirrel.",
+      "history": "Established in 1988, the sanctuary spans the Longtharai Valley which has been home to the Reang and Jamatia tribal communities for centuries.",
+      "famousFor": "Capped langur, slow loris, tribal culture",
+      "bestTime": "November to March",
+      "timings": "8:00 AM – 4:00 PM",
+      "entryFee": "₹10",
+      "slug": "longtharai-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/tripura/longtharai-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Gumti Wildlife Sanctuary",
+          "city": "Gandacherra",
+          "distance": "Tourism circuit",
+          "category": "wildlife",
+          "slug": "gumti-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/gumti-wildlife-sanctuary.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "longtharai-wildlife-sanctuary",
+      "district": "Dhalai",
+      "image": "assets/images/states/tripura/longtharai-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/tripura/longtharai-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Benuban Vihar",
+      "city": "Sabroom",
+      "category": "temples",
+      "distance": "110 km from Agartala",
+      "rating": 4.5,
+      "description": "A tranquil Buddhist monastery featuring a magnificent golden Buddha statue surrounded by lush gardens. It showcases the strong Buddhist heritage of southern Tripura near the Bangladesh border.",
+      "history": "Built to preserve the Buddhist traditions of the Chakma and Mog tribal communities of Tripura who have practiced Theravada Buddhism for centuries.",
+      "famousFor": "Golden Buddha statue, Theravada traditions, Chakma-Mog tribal culture.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "benuban-vihar",
+      "images": {
+        "main": "assets/images/states/tripura/benuban-vihar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pilak",
+          "city": "Jolaibari",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "pilak",
+          "images": {
+            "main": "assets/images/states/tripura/pilak.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/pilak.webp"
+        },
+        {
+          "name": "Manu Bankul Eco Park",
+          "city": "Sabroom",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "manu-bankul-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "benuban-vihar",
+      "district": "South Tripura",
+      "image": "assets/images/states/tripura/benuban-vihar.webp",
+      "heroImage": "assets/images/states/tripura/benuban-vihar.webp"
+    },
+    {
+      "name": "Puran Rajbari",
+      "city": "Old Agartala",
+      "category": "heritage",
+      "distance": "8 km from Agartala",
+      "rating": 4.5,
+      "description": "The atmospheric ruins of the original Manikya dynasty royal palace complex in Old Agartala. The crumbling walls and overgrown courtyards evoke the grandeur of the pre-British era.",
+      "history": "This was the seat of the Manikya kings before they shifted the capital to the current Agartala and built the Ujjayanta Palace.",
+      "famousFor": "Royal ruins, Manikya dynasty history, atmospheric photography.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "puran-rajbari",
+      "images": {
+        "main": "assets/images/states/tripura/puran-rajbari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kamalasagar Kali Temple",
+          "city": "Kamalasagar",
+          "distance": "20 km away",
+          "category": "temples",
+          "slug": "kamalasagar-kali-temple",
+          "images": {
+            "main": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kamalasagar-kali-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "puran-rajbari",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/puran-rajbari.webp",
+      "heroImage": "assets/images/states/tripura/puran-rajbari.webp"
+    },
+    {
+      "name": "Nehru Park",
+      "city": "Agartala",
+      "category": "nature",
+      "distance": "Center of Agartala",
+      "rating": 4.4,
+      "description": "The most popular recreational green space in the heart of Agartala, featuring a musical fountain, a children's amusement area, and the iconic MBB lake adjacent to it.",
+      "history": "Developed during the post-independence era as a public park. The adjacent MBB (Maharaja Bir Bikram) Airport Lake adds scenic beauty.",
+      "famousFor": "Musical fountain, lakeside walks, evening crowds.",
+      "bestTime": "Year-round",
+      "timings": "3:00 PM – 8:00 PM",
+      "entryFee": "₹5",
+      "slug": "nehru-park-agartala",
+      "images": {
+        "main": "assets/images/states/tripura/nehru-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Jagannath Temple Agartala",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "nehru-park-agartala",
+      "district": "West Tripura",
+      "image": "assets/images/states/tripura/nehru-park.webp",
+      "heroImage": "assets/images/states/tripura/nehru-park.webp"
+    },
+    {
+      "name": "Tripura State Museum",
+      "city": "Agartala",
+      "district": "West Tripura",
+      "category": "heritage",
+      "distance": "Inside Ujjayanta Palace",
+      "rating": 4.7,
+      "description": "Housed within the magnificent Ujjayanta Palace, this museum showcases an extraordinary collection of tribal artifacts, royal costumes, ancient manuscripts, and archaeological finds spanning the entire history of Tripura.",
+      "history": "Established after the Ujjayanta Palace was converted into a museum. The collection preserves the cultural heritage of 19 indigenous tribes of Tripura.",
+      "famousFor": "Tribal artifacts, royal Manikya dynasty collection, archaeological exhibits",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹20",
+      "slug": "tripura-state-museum",
+      "images": {
+        "main": "assets/images/states/tripura/tripura-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "Inside palace",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Tripura Tribal Museum",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "tripura-tribal-museum",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-tribal-museum.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-tribal-museum.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "tripura-state-museum",
+      "image": "assets/images/states/tripura/tripura-state-museum.webp",
+      "heroImage": "assets/images/states/tripura/tripura-state-museum.webp"
+    },
+    {
+      "name": "Jagannath Temple Agartala",
+      "city": "Agartala",
+      "district": "West Tripura",
+      "category": "temples",
+      "distance": "1 km from Ujjayanta Palace",
+      "rating": 4.6,
+      "description": "A prominent Hindu temple in the heart of Agartala dedicated to Lord Jagannath. Modeled on the famous Puri Jagannath Temple, it hosts a grand Rath Yatra festival that draws thousands of devotees.",
+      "history": "Built by the Manikya dynasty to bring the Jagannath tradition to Tripura. The annual Rath Yatra is one of the biggest festivals in Agartala.",
+      "famousFor": "Rath Yatra festival, Puri-style architecture, city center temple",
+      "bestTime": "June-July (Rath Yatra) or October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "jagannath-temple-agartala",
+      "images": {
+        "main": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Chaturdash Devata Temple",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "chaturdash-devata-temple",
+          "images": {
+            "main": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/chaturdash-devata-temple.webp"
+        },
+        {
+          "name": "Nehru Park",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nehru-park-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/nehru-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/nehru-park.webp"
+        },
+        {
+          "name": "Laxmi Narayan Temple",
+          "city": "Agartala",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "laxmi-narayan-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "jagannath-temple-agartala",
+      "image": "assets/images/states/tripura/jagannath-temple-agartala.webp",
+      "heroImage": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+    },
+    {
+      "name": "Rudrasagar Lake",
+      "city": "Melaghar",
+      "district": "Sepahijala",
+      "category": "nature",
+      "distance": "53 km from Agartala",
+      "rating": 4.8,
+      "description": "A serene and vast freshwater lake that cradles the iconic Neermahal Water Palace at its center. The lake is a designated Ramsar Wetland and a paradise for migratory birds including bar-headed geese, ferruginous pochards, and Baer's pochards.",
+      "history": "An ancient lake mentioned in historical texts of the Manikya dynasty. Maharaja Bir Bikram Kishore chose its center to build Neermahal in 1930. Designated a Ramsar Site (wetland of international importance).",
+      "famousFor": "Neermahal views, Ramsar wetland, migratory birds, boat rides",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating ₹50)",
+      "slug": "rudrasagar-lake",
+      "images": {
+        "main": "assets/images/states/tripura/rudrasagar-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Neermahal",
+          "city": "Melaghar",
+          "distance": "On the lake",
+          "category": "heritage",
+          "slug": "neermahal",
+          "images": {
+            "main": "assets/images/states/tripura/neermahal.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/neermahal.webp"
+        },
+        {
+          "name": "Narkel Kunja Island",
+          "city": "Melaghar",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "narkel-kunja-island",
+          "images": {
+            "main": "assets/images/states/tripura/narkel-kunja-island.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/narkel-kunja-island.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "rudrasagar-lake",
+      "image": "assets/images/states/tripura/rudrasagar-lake.webp",
+      "heroImage": "assets/images/states/tripura/rudrasagar-lake.webp"
+    },
+    {
+      "name": "Kalyan Sagar",
+      "city": "Udaipur",
+      "district": "Gomati",
+      "category": "nature",
+      "distance": "55 km from Agartala",
+      "rating": 4.7,
+      "description": "A sacred lake adjoining the Tripura Sundari Temple, famous for its hundreds of giant sacred turtles that come to the surface to be fed by devotees. The setting sun turning the lake golden is an unforgettable sight.",
+      "history": "The lake was excavated alongside the construction of the Tripura Sundari Temple in 1501 AD by Maharaja Dhanya Manikya. The turtles have been sacred residents for centuries.",
+      "famousFor": "Sacred turtles, Tripura Sundari Temple views, sunset panorama",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kalyan-sagar",
+      "images": {
+        "main": "assets/images/states/tripura/kalyan-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tripura Sundari Temple",
+          "city": "Udaipur",
+          "distance": "Adjacent",
+          "category": "temples",
+          "slug": "tripura-sundari-temple",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-sundari-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-sundari-temple.webp"
+        },
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        },
+        {
+          "name": "Amar Sagar",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "amar-sagar",
+          "images": {
+            "main": "assets/images/states/tripura/amar-sagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/amar-sagar.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "kalyan-sagar",
+      "image": "assets/images/states/tripura/kalyan-sagar.webp",
+      "heroImage": "assets/images/states/tripura/kalyan-sagar.webp"
+    },
+    {
+      "name": "Amar Sagar",
+      "city": "Udaipur",
+      "district": "Gomati",
+      "category": "nature",
+      "distance": "56 km from Agartala",
+      "rating": 4.5,
+      "description": "A picturesque lake near Udaipur, surrounded by ancient temple ruins and lush greenery. The calm waters reflect the surrounding hills, creating a serene atmosphere perfect for meditation and reflection.",
+      "history": "Built by the Manikya dynasty rulers as a water reservoir and ritual bathing site for the nearby temple complex. Named 'Amar Sagar' (Immortal Lake).",
+      "famousFor": "Serene lake, ancient temple surrounds, peaceful atmosphere",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "amar-sagar",
+      "images": {
+        "main": "assets/images/states/tripura/amar-sagar.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalyan Sagar",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "kalyan-sagar",
+          "images": {
+            "main": "assets/images/states/tripura/kalyan-sagar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/kalyan-sagar.webp"
+        },
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "amar-sagar",
+      "image": "assets/images/states/tripura/amar-sagar.webp",
+      "heroImage": "assets/images/states/tripura/amar-sagar.webp"
+    },
+    {
+      "name": "Kasba Devi Temple",
+      "city": "Udaipur",
+      "district": "Gomati",
+      "category": "temples",
+      "distance": "55 km from Agartala",
+      "rating": 4.5,
+      "description": "An ancient temple dedicated to Goddess Kasbeswari, one of the most important pilgrimage sites in the Udaipur heritage circuit. The temple features beautiful terracotta work and sits beside a serene lake.",
+      "history": "Built during the Manikya dynasty period when Udaipur was the capital of Tripura. The temple is closely associated with the royal family's religious traditions.",
+      "famousFor": "Kasbeswari deity, Manikya heritage, terracotta architecture",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "kasba-devi-temple",
+      "images": {
+        "main": "assets/images/states/tripura/kasba-devi-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Udaipur Heritage Town",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "udaipur-tripura",
+          "images": {
+            "main": "assets/images/states/tripura/udaipur-heritage-town.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/udaipur-heritage-town.webp"
+        },
+        {
+          "name": "Bhuvaneswari Temple",
+          "city": "Udaipur",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "bhuvaneswari-temple",
+          "images": {
+            "main": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/bhuvaneswari-temple.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "kasba-devi-temple",
+      "image": "assets/images/states/tripura/kasba-devi-temple.webp",
+      "heroImage": "assets/images/states/tripura/kasba-devi-temple.webp"
+    },
+    {
+      "name": "Atharamura Hills",
+      "city": "Khowai",
+      "district": "Khowai",
+      "category": "hills",
+      "distance": "50 km from Agartala",
+      "rating": 4.5,
+      "description": "A scenic hill range with eighteen peaks (athar = eighteen, mura = peaks) offering breathtaking views of the Tripura countryside. Home to ancient Shiva caves and tribal villages nestled in the hillside.",
+      "history": "The hills have been sacred to local tribes for centuries. Ancient Shiva temples and meditation caves dot the hillsides. The area is home to the Reang and Halam tribal communities.",
+      "famousFor": "Eighteen peaks, ancient Shiva caves, tribal villages, panoramic views",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "atharamura-hills",
+      "images": {
+        "main": "assets/images/states/tripura/atharamura-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baramura Eco Park",
+          "city": "Khowai",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "baramura-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/baramura-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/baramura-eco-park.webp"
+        },
+        {
+          "name": "Khowai River View",
+          "city": "Khowai",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "khowai-river-view",
+          "images": {
+            "main": "assets/images/states/tripura/khowai-river-view.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/khowai-river-view.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "atharamura-hills",
+      "image": "assets/images/states/tripura/atharamura-hills.webp",
+      "heroImage": "assets/images/states/tripura/atharamura-hills.webp"
+    },
+    {
+      "name": "Vanghmun Village",
+      "city": "Jampui Hills",
+      "district": "North Tripura",
+      "category": "heritage",
+      "distance": "230 km from Agartala",
+      "rating": 4.4,
+      "description": "A picturesque Mizo tribal village perched on the Jampui Hills, offering immersive cultural experiences, traditional bamboo stilt houses, and stunning views of the surrounding valleys. It is one of the most well-preserved tribal villages in Tripura.",
+      "history": "Settled by the Mizo (Lushai) people who migrated to the Jampui Hills. The village preserves traditional Mizo customs, cuisine, and festivals amidst the misty hills.",
+      "famousFor": "Mizo tribal culture, bamboo stilt houses, misty mountain views, orange orchards",
+      "bestTime": "November (Orange Festival) or October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "vanghmun-village",
+      "images": {
+        "main": "assets/images/states/tripura/vanghmun-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jampui Hills",
+          "city": "Jampui",
+          "distance": "5 km away",
+          "category": "hills",
+          "slug": "jampui-hills",
+          "images": {
+            "main": "assets/images/states/tripura/jampui-hills.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jampui-hills.webp"
+        },
+        {
+          "name": "Betlingchhip",
+          "city": "Jampui Hills",
+          "distance": "6 km away",
+          "category": "hills",
+          "slug": "betlingchhip",
+          "images": {
+            "main": "assets/images/states/tripura/betlingchhip.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/betlingchhip.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "vanghmun-village",
+      "image": "assets/images/states/tripura/vanghmun-village.webp",
+      "heroImage": "assets/images/states/tripura/vanghmun-village.webp"
+    },
+    {
+      "name": "Sipahijala Lake",
+      "city": "Bishalgarh",
+      "district": "Sepahijala",
+      "category": "nature",
+      "distance": "25 km from Agartala",
+      "rating": 4.5,
+      "description": "A beautiful lake within the Sepahijala Wildlife Sanctuary area, surrounded by dense tropical forests. The lake is a gathering spot for numerous bird species and offers peaceful boating amidst nature.",
+      "history": "Part of the historical Sipahijala forest area. The lake ecosystem supports the wildlife sanctuary's biodiversity, particularly its famous primate populations.",
+      "famousFor": "Birdwatching, boating, adjacent wildlife sanctuary, pristine nature",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "sipahijala-lake",
+      "images": {
+        "main": "assets/images/states/tripura/sipahijala-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sepahijala Wildlife Sanctuary",
+          "city": "Bishalgarh",
+          "distance": "2 km away",
+          "category": "wildlife",
+          "slug": "sepahijala-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/sepahijala-wildlife-sanctuary.webp"
+        },
+        {
+          "name": "Clouded Leopard National Park",
+          "city": "Sipahijala",
+          "distance": "4 km away",
+          "category": "wildlife",
+          "slug": "clouded-leopard-national-park",
+          "images": {
+            "main": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/clouded-leopard-national-park.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "sipahijala-lake",
+      "image": "assets/images/states/tripura/sipahijala-lake.webp",
+      "heroImage": "assets/images/states/tripura/sipahijala-lake.webp"
+    },
+    {
+      "name": "Betlingchhip",
+      "city": "Jampui Hills",
+      "district": "North Tripura",
+      "category": "hills",
+      "distance": "225 km from Agartala",
+      "rating": 4.4,
+      "description": "The highest peak in the Jampui Hill range at 3,084 feet, offering sweeping panoramic views of Tripura and Mizoram. On clear days, the views extend to the plains of Bangladesh. The trek to the summit passes through dense bamboo forests and orange orchards.",
+      "history": "Sacred to the Mizo and Reang tribal communities who consider the peak a spiritual landmark. The name derives from the local tribal language.",
+      "famousFor": "Highest Jampui peak, panoramic views, bamboo forest trek, sunrise point",
+      "bestTime": "November to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "betlingchhip",
+      "images": {
+        "main": "assets/images/states/tripura/betlingchhip.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jampui Hills",
+          "city": "Jampui",
+          "distance": "8 km away",
+          "category": "hills",
+          "slug": "jampui-hills",
+          "images": {
+            "main": "assets/images/states/tripura/jampui-hills.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jampui-hills.webp"
+        },
+        {
+          "name": "Vanghmun Village",
+          "city": "Jampui Hills",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "vanghmun-village",
+          "images": {
+            "main": "assets/images/states/tripura/vanghmun-village.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/vanghmun-village.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "betlingchhip",
+      "image": "assets/images/states/tripura/betlingchhip.webp",
+      "heroImage": "assets/images/states/tripura/betlingchhip.webp"
+    },
+    {
+      "name": "Tripura Tribal Museum",
+      "city": "Agartala",
+      "district": "West Tripura",
+      "category": "heritage",
+      "distance": "3 km from Agartala center",
+      "rating": 4.5,
+      "description": "A fascinating museum dedicated entirely to the 19 indigenous tribes of Tripura. It showcases traditional costumes, musical instruments, weapons, agricultural tools, and stunning handloom textiles of each tribe.",
+      "history": "Established by the Tripura Tribal Areas Autonomous District Council (TTAADC) to preserve and display the rich cultural heritage of the tribal communities of Tripura.",
+      "famousFor": "19 tribes showcased, tribal textiles, musical instruments, cultural immersion",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Sundays)",
+      "entryFee": "₹10",
+      "slug": "tripura-tribal-museum",
+      "images": {
+        "main": "assets/images/states/tripura/tripura-tribal-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tripura State Museum",
+          "city": "Agartala",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "tripura-state-museum",
+          "images": {
+            "main": "assets/images/states/tripura/tripura-state-museum.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/tripura-state-museum.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "tripura-tribal-museum",
+      "image": "assets/images/states/tripura/tripura-tribal-museum.webp",
+      "heroImage": "assets/images/states/tripura/tripura-tribal-museum.webp"
+    },
+    {
+      "name": "Manu Bankul Eco Park",
+      "city": "Sabroom",
+      "district": "South Tripura",
+      "category": "nature",
+      "distance": "115 km from Agartala",
+      "rating": 4.4,
+      "description": "A scenic eco-tourism park on the banks of the Manu River in southern Tripura, featuring dense bamboo forests, riverside trails, and picnic areas. The park offers a peaceful retreat near the Bangladesh border.",
+      "history": "Developed by the Tripura Forest Department to promote eco-tourism along the Manu River basin, one of the major rivers of southern Tripura.",
+      "famousFor": "Manu River banks, bamboo forests, eco-tourism, border proximity",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "manu-bankul-eco-park",
+      "images": {
+        "main": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pilak",
+          "city": "Jolaibari",
+          "distance": "Tourism circuit",
+          "category": "heritage",
+          "slug": "pilak",
+          "images": {
+            "main": "assets/images/states/tripura/pilak.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/pilak.webp"
+        },
+        {
+          "name": "Benuban Vihar",
+          "city": "Sabroom",
+          "distance": "10 km away",
+          "category": "temples",
+          "slug": "benuban-vihar",
+          "images": {
+            "main": "assets/images/states/tripura/benuban-vihar.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/benuban-vihar.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "manu-bankul-eco-park",
+      "image": "assets/images/states/tripura/manu-bankul-eco-park.webp",
+      "heroImage": "assets/images/states/tripura/manu-bankul-eco-park.webp"
+    },
+    {
+      "name": "Laxmi Narayan Temple",
+      "city": "Agartala",
+      "district": "West Tripura",
+      "category": "temples",
+      "distance": "2 km from Ujjayanta Palace",
+      "rating": 4.5,
+      "description": "A grand temple dedicated to Lord Vishnu and Goddess Laxmi, featuring ornate Bengali terracotta architecture. The temple complex is an important pilgrimage destination during Dol Purnima and Janmashtami festivals.",
+      "history": "Built during the Manikya dynasty era. The temple reflects the Bengali architectural influence on Tripura's temple-building traditions.",
+      "famousFor": "Bengali terracotta style, Janmashtami festival, city landmark",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "laxmi-narayan-temple-agartala",
+      "images": {
+        "main": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ujjayanta Palace",
+          "city": "Agartala",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "ujjayanta-palace",
+          "images": {
+            "main": "assets/images/states/tripura/ujjayanta-palace.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/ujjayanta-palace.webp"
+        },
+        {
+          "name": "Jagannath Temple Agartala",
+          "city": "Agartala",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "jagannath-temple-agartala",
+          "images": {
+            "main": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/jagannath-temple-agartala.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "laxmi-narayan-temple-agartala",
+      "image": "assets/images/states/tripura/laxmi-narayan-temple.webp",
+      "heroImage": "assets/images/states/tripura/laxmi-narayan-temple.webp"
+    },
+    {
+      "name": "Khowai River View",
+      "city": "Khowai",
+      "district": "Khowai",
+      "category": "nature",
+      "distance": "60 km from Agartala",
+      "rating": 4.3,
+      "description": "A scenic stretch of the Khowai River offering beautiful views of the surrounding hills and forests. The area is popular for picnics, fishing, and enjoying the riverside landscape near Khowai town.",
+      "history": "The Khowai River has been the lifeline of the region for centuries, supporting the communities and agriculture of western Tripura.",
+      "famousFor": "Riverside scenery, fishing, picnic spot, Khowai town gateway",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "khowai-river-view",
+      "images": {
+        "main": "assets/images/states/tripura/khowai-river-view.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Baramura Eco Park",
+          "city": "Khowai",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "baramura-eco-park",
+          "images": {
+            "main": "assets/images/states/tripura/baramura-eco-park.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/baramura-eco-park.webp"
+        },
+        {
+          "name": "Atharamura Hills",
+          "city": "Khowai",
+          "distance": "12 km away",
+          "category": "hills",
+          "slug": "atharamura-hills",
+          "images": {
+            "main": "assets/images/states/tripura/atharamura-hills.webp"
+          },
+          "state": "Tripura",
+          "image": "assets/images/states/tripura/atharamura-hills.webp"
+        }
+      ],
+      "state": "Tripura",
+      "id": "khowai-river-view",
+      "image": "assets/images/states/tripura/khowai-river-view.webp",
+      "heroImage": "assets/images/states/tripura/khowai-river-view.webp"
+    },
+    {
+      "id": "pushpabanta-palace",
+      "slug": "pushpabanta-palace",
+      "name": "Pushpabanta Palace",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/pushpabanta-palace.webp"
+      },
+      "image": "assets/images/states/tripura/pushpabanta-palace.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/pushpabanta-palace.webp"
+    },
+    {
+      "id": "malancha-niwas",
+      "slug": "malancha-niwas",
+      "name": "Malancha Niwas",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/malancha-niwas.webp"
+      },
+      "image": "assets/images/states/tripura/malancha-niwas.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/malancha-niwas.webp"
+    },
+    {
+      "id": "rabindra-kanan",
+      "slug": "rabindra-kanan",
+      "name": "Rabindra Kanan",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/rabindra-kanan.webp"
+      },
+      "image": "assets/images/states/tripura/rabindra-kanan.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/rabindra-kanan.webp"
+    },
+    {
+      "id": "nazrul-kalakshetra",
+      "slug": "nazrul-kalakshetra",
+      "name": "Nazrul Kalakshetra",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/nazrul-kalakshetra.webp"
+      },
+      "image": "assets/images/states/tripura/nazrul-kalakshetra.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/nazrul-kalakshetra.webp"
+    },
+    {
+      "id": "jagannath-dighi",
+      "slug": "jagannath-dighi",
+      "name": "Jagannath Dighi",
+      "state": "Tripura",
+      "district": "Gomati",
+      "city": "Udaipur",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/jagannath-dighi.webp"
+      },
+      "image": "assets/images/states/tripura/jagannath-dighi.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/jagannath-dighi.webp"
+    },
+    {
+      "id": "dumbur-waterfalls",
+      "slug": "dumbur-waterfalls",
+      "name": "Dumbur Waterfalls",
+      "state": "Tripura",
+      "district": "Dhalai",
+      "city": "Gandacherra",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/dumbur-waterfalls.webp"
+      },
+      "image": "assets/images/states/tripura/dumbur-waterfalls.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/dumbur-waterfalls.webp"
+    },
+    {
+      "id": "baramura-eco-tourism-complex",
+      "slug": "baramura-eco-tourism-complex",
+      "name": "Baramura Eco Tourism Complex",
+      "state": "Tripura",
+      "district": "Khowai",
+      "city": "Khowai",
+      "category": "nature",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/baramura-eco-tourism-complex.webp"
+      },
+      "image": "assets/images/states/tripura/baramura-eco-tourism-complex.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/baramura-eco-tourism-complex.webp"
+    },
+    {
+      "id": "akhaura-integrated-check-post",
+      "slug": "akhaura-integrated-check-post",
+      "name": "Akhaura Integrated Check Post",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/akhaura-integrated-check-post.webp"
+      },
+      "image": "assets/images/states/tripura/akhaura-integrated-check-post.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/akhaura-integrated-check-post.webp"
+    },
+    {
+      "id": "science-centre-agartala",
+      "slug": "science-centre-agartala",
+      "name": "Science Centre Agartala",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "city": "Agartala",
+      "category": "heritage",
+      "distance": "Various",
+      "rating": 4.5,
+      "description": "Added per the Tripura Master Destination Discovery List v4.0.",
+      "history": "An important historical or natural site in Tripura.",
+      "famousFor": "Tourism and local heritage.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "images": {
+        "main": "assets/images/states/tripura/science-centre-agartala.webp"
+      },
+      "image": "assets/images/states/tripura/science-centre-agartala.webp",
+      "nearbyAttractions": [],
+      "heroImage": "assets/images/states/tripura/science-centre-agartala.webp"
+    },
+    {
+      "id": "kamalasagar-lake",
+      "name": "Kamalasagar Lake",
+      "city": "Sepahijala",
+      "image": "assets/images/states/tripura/kamalasagar-lake.webp",
+      "rating": 4.3,
+      "category": "lakes",
+      "description": "Kamalasagar Lake (also known as Kamalasagar Kali Temple Lake) is a scenic water body on the Indo-Bangladesh border in Tripura, with the famous Kamalasagar Kali Temple perched on its banks. The serene lake, surrounded by lush greenery and gentle hills, offers a uniquely tranquil experience with views stretching across the international border.",
+      "history": "The temple and lake date back to the 15th century reign of Maharaja Dhanya Manikya of the Tripura kingdom. The Kali Temple was built to commemorate a military victory, and the lake has been an integral part of the temple complex ever since.",
+      "famousFor": "Border-side Kali Temple, serene lake views, Indo-Bangladesh border location, and annual Kali Puja fair.",
+      "bestTime": "October to March",
+      "timings": "Temple: 6:00 AM – 8:00 PM; Lake: Open 24/7",
+      "entryFee": "Free",
+      "slug": "kamalasagar-lake",
+      "images": {
+        "main": "assets/images/states/tripura/kamalasagar-lake.webp"
+      },
+      "state": "Tripura",
+      "heroImage": "assets/images/states/tripura/kamalasagar-lake.webp"
+    }
+  ],
+  "slug": "tripura",
+  "tagline": "The Land of Fourteen Gods",
+  "bestTime": "October to March",
+  "language": "Bengali, Kokborok",
+  "heroImage": "assets/images/states/tripura/banner.webp"
+}

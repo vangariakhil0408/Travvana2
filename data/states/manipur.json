@@ -1,0 +1,2495 @@
+{
+  "state": "Manipur",
+  "slug": "manipur",
+  "capital": "Imphal",
+  "bestTime": "October to March",
+  "language": "Meiteilon (Manipuri), English, Hindi",
+  "places": [
+    {
+      "name": "Kangla Fort",
+      "city": "Imphal",
+      "category": "heritage",
+      "distance": "1 km from Imphal city center",
+      "rating": 4.7,
+      "description": "The ancient seat of Manipur's rulers for nearly 2000 years, Kangla Fort is the most sacred and historically significant site in Manipur. The fortified citadel sits at the heart of Imphal and houses temples, royal ruins, and the iconic Kangla Sha (dragon guardians).",
+      "history": "Kangla served as the palace and fortress of Manipur's kings from 33 AD until 1891 when it fell to British forces. It was used as an Assam Rifles camp until 2004 when it was handed back to the people of Manipur.",
+      "famousFor": "Kangla Sha dragons, ancient royal citadel, Manipur history, sacred Govindajee Temple nearby.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 4:30 PM (Closed Monday)",
+      "entryFee": "₹10 (Indians), ₹100 (Foreigners)",
+      "slug": "kangla-fort",
+      "images": {
+        "main": "assets/images/states/manipur/kangla-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shree Govindajee Temple",
+          "city": "Imphal",
+          "distance": "0.5 km away",
+          "category": "temples",
+          "slug": "shree-govindajee-temple",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/shree-govindajee-temple.webp",
+          "images": {
+            "main": "assets/images/states/manipur/shree-govindajee-temple.webp"
+          }
+        },
+        {
+          "name": "Ima Keithel",
+          "city": "Imphal",
+          "distance": "1 km away",
+          "category": "cultural",
+          "slug": "ima-keithel",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ima-keithel.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ima-keithel.webp"
+          }
+        },
+        {
+          "name": "Manipur State Museum",
+          "city": "Imphal",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "manipur-state-museum",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-state-museum.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-state-museum.webp"
+          }
+        },
+        {
+          "name": "War Cemetery Imphal",
+          "city": "Imphal",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "war-cemetery-imphal",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+          "images": {
+            "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+          }
+        },
+        {
+          "name": "Red Hill Lokpaching",
+          "slug": "red-hill-lokpaching",
+          "id": "red-hill-lokpaching",
+          "image": "assets/images/states/manipur/red-hill-lokpaching.webp",
+          "bidirectional_verified": true,
+          "distance": "16 km away",
+          "images": {
+            "main": "assets/images/states/manipur/red-hill-lokpaching.webp"
+          }
+        },
+        {
+          "name": "Manipur Zoological Garden",
+          "slug": "manipur-zoological-garden",
+          "id": "manipur-zoological-garden",
+          "image": "assets/images/states/manipur/manipur-zoological-garden.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-zoological-garden.webp"
+          }
+        },
+        {
+          "name": "Singda Dam",
+          "slug": "singda-dam",
+          "id": "singda-dam",
+          "image": "assets/images/states/manipur/singda-dam.webp",
+          "bidirectional_verified": true,
+          "distance": "16 km away",
+          "images": {
+            "main": "assets/images/states/manipur/singda-dam.webp"
+          }
+        },
+        {
+          "name": "Loukoipat Ecological Park",
+          "slug": "loukoipat-ecological-park",
+          "id": "loukoipat-ecological-park",
+          "image": "assets/images/states/manipur/loukoipat-ecological-park.webp",
+          "bidirectional_verified": true,
+          "distance": "10 km away",
+          "images": {
+            "main": "assets/images/states/manipur/loukoipat-ecological-park.webp"
+          }
+        },
+        {
+          "name": "Langol Hills",
+          "slug": "langol-hills",
+          "id": "langol-hills",
+          "image": "assets/images/states/manipur/langol-hills.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away",
+          "images": {
+            "main": "assets/images/states/manipur/langol-hills.webp"
+          }
+        },
+        {
+          "name": "Imphal Peace Museum",
+          "slug": "imphal-peace-museum",
+          "id": "imphal-peace-museum",
+          "image": "assets/images/states/manipur/imphal-peace-museum.webp",
+          "bidirectional_verified": true,
+          "distance": "3 km away",
+          "images": {
+            "main": "assets/images/states/manipur/imphal-peace-museum.webp"
+          }
+        },
+        {
+          "name": "Phubala",
+          "slug": "phubala",
+          "id": "phubala",
+          "image": "assets/images/states/manipur/phubala.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away",
+          "images": {
+            "main": "assets/images/states/manipur/phubala.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "kangla-fort",
+      "image": "assets/images/states/manipur/kangla-fort.webp",
+      "heroImage": "assets/images/states/manipur/kangla-fort.webp"
+    },
+    {
+      "name": "Loktak Lake",
+      "city": "Moirang",
+      "category": "nature",
+      "distance": "48 km from Imphal",
+      "rating": 4.8,
+      "description": "The largest freshwater lake in Northeast India, Loktak Lake is famous for its unique floating islands called phumdis — masses of vegetation, soil, and organic matter. The lake sustains the livelihoods of local fishermen and is home to the endangered Sangai deer.",
+      "history": "Loktak Lake has been central to Manipur's ecology and culture for centuries. It was designated a Ramsar Wetland of International Importance in 1990. The lake's phumdis support the only floating national park in the world — Keibul Lamjao.",
+      "famousFor": "Phumdis (floating islands), Sangai deer habitat, sunrise views, houseboat rides, Sendra Island.",
+      "bestTime": "October to February",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "loktak-lake",
+      "images": {
+        "main": "assets/images/states/manipur/loktak-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Keibul Lamjao National Park",
+          "city": "Moirang",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "keibul-lamjao-national-park",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/keibul-lamjao-national-park.webp",
+          "images": {
+            "main": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+          }
+        },
+        {
+          "name": "Sendra Island",
+          "city": "Moirang",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "sendra-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sendra-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sendra-island.webp"
+          }
+        },
+        {
+          "name": "Thanga Island",
+          "city": "Moirang",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "thanga-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/thanga-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/thanga-island.webp"
+          }
+        },
+        {
+          "name": "INA Memorial Complex",
+          "city": "Moirang",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "ina-memorial-complex",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ina-memorial-complex.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ina-memorial-complex.webp"
+          }
+        },
+        {
+          "name": "Kaina Temple",
+          "slug": "kaina-temple",
+          "id": "kaina-temple",
+          "image": "assets/images/states/manipur/kaina-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "10 km away",
+          "images": {
+            "main": "assets/images/states/manipur/kaina-temple.webp"
+          }
+        },
+        {
+          "name": "Bishnupur Town",
+          "slug": "bishnupur-town",
+          "id": "bishnupur-town",
+          "image": "assets/images/states/manipur/bishnupur-town.webp",
+          "bidirectional_verified": true,
+          "distance": "20 km away",
+          "images": {
+            "main": "assets/images/states/manipur/bishnupur-town.webp"
+          }
+        },
+        {
+          "name": "Leimaram Waterfall",
+          "slug": "leimaram-waterfall",
+          "id": "leimaram-waterfall",
+          "image": "assets/images/states/manipur/leimaram-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "15 km away",
+          "images": {
+            "main": "assets/images/states/manipur/leimaram-waterfall.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "loktak-lake",
+      "image": "assets/images/states/manipur/loktak-lake.webp",
+      "heroImage": "assets/images/states/manipur/loktak-lake.webp"
+    },
+    {
+      "name": "Keibul Lamjao National Park",
+      "city": "Moirang",
+      "category": "wildlife",
+      "distance": "53 km from Imphal",
+      "rating": 4.7,
+      "description": "The only floating national park in the world, Keibul Lamjao sits on the phumdis of Loktak Lake. It is the last natural refuge of the endangered Sangai (Manipur brow-antlered deer), the state animal of Manipur.",
+      "history": "Initially a sanctuary since 1966, it was upgraded to a National Park in 1977 to protect the Sangai deer, which was once believed to be extinct until its rediscovery in 1953.",
+      "famousFor": "World's only floating national park, Sangai deer, unique wetland ecosystem.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 4:00 PM",
+      "entryFee": "₹30 (Indians), ₹200 (Foreigners)",
+      "slug": "keibul-lamjao-national-park",
+      "images": {
+        "main": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Sendra Island",
+          "city": "Moirang",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "sendra-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sendra-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sendra-island.webp"
+          }
+        },
+        {
+          "name": "INA Memorial Complex",
+          "city": "Moirang",
+          "distance": "15 km away",
+          "category": "heritage",
+          "slug": "ina-memorial-complex",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ina-memorial-complex.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ina-memorial-complex.webp"
+          }
+        },
+        {
+          "name": "Thanga Island",
+          "slug": "thanga-island",
+          "id": "thanga-island",
+          "image": "assets/images/states/manipur/thanga-island.webp",
+          "bidirectional_verified": true,
+          "distance": "10 km away",
+          "images": {
+            "main": "assets/images/states/manipur/thanga-island.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "keibul-lamjao-national-park",
+      "image": "assets/images/states/manipur/keibul-lamjao-national-park.webp",
+      "heroImage": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+    },
+    {
+      "name": "INA Memorial Complex",
+      "city": "Moirang",
+      "category": "heritage",
+      "distance": "45 km from Imphal",
+      "rating": 4.6,
+      "description": "The INA Memorial at Moirang marks the site where the Indian National Army under Netaji Subhas Chandra Bose first hoisted the Indian flag on Indian soil on April 14, 1944, during the Battle of Imphal.",
+      "history": "The memorial complex was established to commemorate the INA's march to liberate India during World War II. Moirang was the first Indian town where the INA flag was unfurled.",
+      "famousFor": "INA flag hoisting site, World War II history, Netaji Bose legacy, museum with war artifacts.",
+      "bestTime": "October to March",
+      "timings": "9:30 AM – 4:00 PM (Closed Monday)",
+      "entryFee": "₹5",
+      "slug": "ina-memorial-complex",
+      "images": {
+        "main": "assets/images/states/manipur/ina-memorial-complex.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Keibul Lamjao National Park",
+          "city": "Moirang",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "keibul-lamjao-national-park",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/keibul-lamjao-national-park.webp",
+          "images": {
+            "main": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+          }
+        },
+        {
+          "name": "Sendra Island",
+          "city": "Moirang",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "sendra-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sendra-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sendra-island.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "ina-memorial-complex",
+      "image": "assets/images/states/manipur/ina-memorial-complex.webp",
+      "heroImage": "assets/images/states/manipur/ina-memorial-complex.webp"
+    },
+    {
+      "name": "Shree Govindajee Temple",
+      "city": "Imphal",
+      "category": "temples",
+      "distance": "1 km from Imphal city center",
+      "rating": 4.6,
+      "description": "A prominent Vaishnavite temple located adjacent to Kangla Fort, Shree Govindajee Temple is one of the most important Hindu shrines in Manipur. Its twin golden domes and classical Manipuri architectural style make it a landmark.",
+      "history": "Built during the reign of Maharaj Nara Singh in 1846, the temple reflects the deep influence of Vaishnavism in Manipuri culture. It hosts the famous Raas Leela dance performances.",
+      "famousFor": "Golden domes, Raas Leela performances, Vaishnavite worship, Manipuri classical dance.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "shree-govindajee-temple",
+      "images": {
+        "main": "assets/images/states/manipur/shree-govindajee-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "0.5 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Ima Keithel",
+          "city": "Imphal",
+          "distance": "1.5 km away",
+          "category": "cultural",
+          "slug": "ima-keithel",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ima-keithel.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ima-keithel.webp"
+          }
+        },
+        {
+          "name": "Manipur State Museum",
+          "city": "Imphal",
+          "distance": "2.5 km away",
+          "category": "museums",
+          "slug": "manipur-state-museum",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-state-museum.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-state-museum.webp"
+          }
+        },
+        {
+          "name": "War Cemetery Imphal",
+          "slug": "war-cemetery-imphal",
+          "id": "war-cemetery-imphal",
+          "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+          "bidirectional_verified": true,
+          "distance": "3.5 km away",
+          "images": {
+            "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "shree-govindajee-temple",
+      "image": "assets/images/states/manipur/shree-govindajee-temple.webp",
+      "heroImage": "assets/images/states/manipur/shree-govindajee-temple.webp"
+    },
+    {
+      "name": "Ima Keithel",
+      "city": "Imphal",
+      "category": "cultural",
+      "distance": "1 km from Imphal city center",
+      "rating": 4.5,
+      "description": "Ima Keithel (Mothers' Market) is the largest all-women market in Asia. Run entirely by Manipuri women (Imas), the market has over 5000 women vendors selling vegetables, fish, handloom textiles, traditional garments, and household goods.",
+      "history": "The market traces its origins to the Lallup-Kaba system of Manipur's ancient governance. It has been continuously run by women for over 500 years and is a powerful symbol of Manipuri women's empowerment.",
+      "famousFor": "World's largest all-women market, traditional Manipuri textiles, local handicrafts, cultural experience.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "ima-keithel",
+      "images": {
+        "main": "assets/images/states/manipur/ima-keithel.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Shree Govindajee Temple",
+          "city": "Imphal",
+          "distance": "1.5 km away",
+          "category": "temples",
+          "slug": "shree-govindajee-temple",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/shree-govindajee-temple.webp",
+          "images": {
+            "main": "assets/images/states/manipur/shree-govindajee-temple.webp"
+          }
+        },
+        {
+          "name": "Manipur State Museum",
+          "city": "Imphal",
+          "distance": "1.5 km away",
+          "category": "museums",
+          "slug": "manipur-state-museum",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-state-museum.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-state-museum.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "ima-keithel",
+      "image": "assets/images/states/manipur/ima-keithel.webp",
+      "heroImage": "assets/images/states/manipur/ima-keithel.webp"
+    },
+    {
+      "name": "Manipur State Museum",
+      "city": "Imphal",
+      "category": "museums",
+      "distance": "2 km from Imphal city center",
+      "rating": 4.3,
+      "description": "The Manipur State Museum houses a comprehensive collection of artifacts, tribal costumes, historical relics, weapons, and natural history exhibits that document Manipur's rich cultural heritage.",
+      "history": "Established in 1969, the museum preserves the archaeological, historical, and ethnological heritage of Manipur's diverse communities.",
+      "famousFor": "Tribal artifacts, historical weapons, traditional costumes, royal relics, cultural exhibitions.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 4:30 PM (Closed Sunday & holidays)",
+      "entryFee": "₹10",
+      "slug": "manipur-state-museum",
+      "images": {
+        "main": "assets/images/states/manipur/manipur-state-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Ima Keithel",
+          "city": "Imphal",
+          "distance": "1.5 km away",
+          "category": "cultural",
+          "slug": "ima-keithel",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ima-keithel.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ima-keithel.webp"
+          }
+        },
+        {
+          "name": "War Cemetery Imphal",
+          "city": "Imphal",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "war-cemetery-imphal",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+          "images": {
+            "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+          }
+        },
+        {
+          "name": "Shree Govindajee Temple",
+          "slug": "shree-govindajee-temple",
+          "id": "shree-govindajee-temple",
+          "image": "assets/images/states/manipur/shree-govindajee-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "2.5 km away",
+          "images": {
+            "main": "assets/images/states/manipur/shree-govindajee-temple.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "manipur-state-museum",
+      "image": "assets/images/states/manipur/manipur-state-museum.webp",
+      "heroImage": "assets/images/states/manipur/manipur-state-museum.webp"
+    },
+    {
+      "name": "War Cemetery Imphal",
+      "city": "Imphal",
+      "category": "heritage",
+      "distance": "3 km from Imphal city center",
+      "rating": 4.6,
+      "description": "The Imphal War Cemetery is a Commonwealth War Graves Commission cemetery that serves as the final resting place of 1,600 soldiers who died during the fierce Battle of Imphal in 1944, one of the turning points of World War II.",
+      "history": "The Battle of Imphal (March–July 1944) was a decisive Allied victory that halted the Japanese invasion of India. The cemetery honours soldiers from Britain, India, and other Allied nations.",
+      "famousFor": "World War II memorial, Battle of Imphal tribute, serene war graves, Commonwealth heritage.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "war-cemetery-imphal",
+      "images": {
+        "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Manipur State Museum",
+          "city": "Imphal",
+          "distance": "2 km away",
+          "category": "museums",
+          "slug": "manipur-state-museum",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-state-museum.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-state-museum.webp"
+          }
+        },
+        {
+          "name": "Shree Govindajee Temple",
+          "city": "Imphal",
+          "distance": "3.5 km away",
+          "category": "temples",
+          "slug": "shree-govindajee-temple",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/shree-govindajee-temple.webp",
+          "images": {
+            "main": "assets/images/states/manipur/shree-govindajee-temple.webp"
+          }
+        },
+        {
+          "name": "Red Hill Lokpaching",
+          "slug": "red-hill-lokpaching",
+          "id": "red-hill-lokpaching",
+          "image": "assets/images/states/manipur/red-hill-lokpaching.webp",
+          "bidirectional_verified": true,
+          "distance": "13 km away",
+          "images": {
+            "main": "assets/images/states/manipur/red-hill-lokpaching.webp"
+          }
+        },
+        {
+          "name": "Imphal Peace Museum",
+          "slug": "imphal-peace-museum",
+          "id": "imphal-peace-museum",
+          "image": "assets/images/states/manipur/imphal-peace-museum.webp",
+          "bidirectional_verified": true,
+          "distance": "2 km away",
+          "images": {
+            "main": "assets/images/states/manipur/imphal-peace-museum.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "war-cemetery-imphal",
+      "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+      "heroImage": "assets/images/states/manipur/war-cemetery-imphal.webp"
+    },
+    {
+      "name": "Sendra Island",
+      "city": "Moirang",
+      "category": "nature",
+      "distance": "50 km from Imphal",
+      "rating": 4.5,
+      "description": "Sendra Island is a small hillock island in Loktak Lake offering panoramic views of the lake and its floating phumdis. It has a tourist resort and serves as the best viewpoint for Loktak Lake's sunset.",
+      "history": "Sendra has been developed by the Manipur Tourism Department as a key vantage point for Loktak Lake tourism. Its elevation offers unobstructed 360-degree views.",
+      "famousFor": "Loktak Lake panoramic views, sunset point, island tourism, photography.",
+      "bestTime": "October to February",
+      "timings": "Open all day",
+      "entryFee": "₹10",
+      "slug": "sendra-island",
+      "images": {
+        "main": "assets/images/states/manipur/sendra-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Keibul Lamjao National Park",
+          "city": "Moirang",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "keibul-lamjao-national-park",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/keibul-lamjao-national-park.webp",
+          "images": {
+            "main": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+          }
+        },
+        {
+          "name": "Thanga Island",
+          "city": "Moirang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "thanga-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/thanga-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/thanga-island.webp"
+          }
+        },
+        {
+          "name": "INA Memorial Complex",
+          "city": "Moirang",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "ina-memorial-complex",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ina-memorial-complex.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ina-memorial-complex.webp"
+          }
+        },
+        {
+          "name": "Kaina Temple",
+          "slug": "kaina-temple",
+          "id": "kaina-temple",
+          "image": "assets/images/states/manipur/kaina-temple.webp",
+          "bidirectional_verified": true,
+          "distance": "15 km away",
+          "images": {
+            "main": "assets/images/states/manipur/kaina-temple.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "sendra-island",
+      "image": "assets/images/states/manipur/sendra-island.webp",
+      "heroImage": "assets/images/states/manipur/sendra-island.webp"
+    },
+    {
+      "name": "Thanga Island",
+      "city": "Moirang",
+      "category": "nature",
+      "distance": "52 km from Imphal",
+      "rating": 4.3,
+      "description": "Thanga is a scenic island village in Loktak Lake known for its tranquil beauty, traditional fishing community, and phumdi landscapes. It offers an authentic experience of lake-life in Manipur.",
+      "history": "Thanga has been inhabited for centuries by the Meitei fishing community who depend on Loktak Lake. The island represents the traditional phumdi-based livelihood of Manipur.",
+      "famousFor": "Traditional fishing village, phumdi views, peaceful island atmosphere, cultural immersion.",
+      "bestTime": "October to February",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "thanga-island",
+      "images": {
+        "main": "assets/images/states/manipur/thanga-island.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "6 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Sendra Island",
+          "city": "Moirang",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "sendra-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sendra-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sendra-island.webp"
+          }
+        },
+        {
+          "name": "Keibul Lamjao National Park",
+          "city": "Moirang",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "keibul-lamjao-national-park",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/keibul-lamjao-national-park.webp",
+          "images": {
+            "main": "assets/images/states/manipur/keibul-lamjao-national-park.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "thanga-island",
+      "image": "assets/images/states/manipur/thanga-island.webp",
+      "heroImage": "assets/images/states/manipur/thanga-island.webp"
+    },
+    {
+      "name": "Red Hill Lokpaching",
+      "city": "Imphal",
+      "category": "heritage",
+      "distance": "16 km from Imphal",
+      "rating": 4.4,
+      "description": "Red Hill (Maibam Lokpa Ching) is the site of one of the fiercest battles during the Japanese invasion of India in 1944. A Peace Memorial built by the Japanese government stands here to honour soldiers from both sides.",
+      "history": "In June 1944, the Battle of Red Hill saw intense fighting between Japanese and Allied forces. The Japanese government built a peace memorial here in 1994 as a gesture of reconciliation.",
+      "famousFor": "World War II battlefield, Japan Peace Memorial, hilltop views, historical significance.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "red-hill-lokpaching",
+      "images": {
+        "main": "assets/images/states/manipur/red-hill-lokpaching.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "War Cemetery Imphal",
+          "city": "Imphal",
+          "distance": "13 km away",
+          "category": "heritage",
+          "slug": "war-cemetery-imphal",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+          "images": {
+            "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "red-hill-lokpaching",
+      "image": "assets/images/states/manipur/red-hill-lokpaching.webp",
+      "heroImage": "assets/images/states/manipur/red-hill-lokpaching.webp"
+    },
+    {
+      "name": "Andro Village",
+      "city": "Imphal East",
+      "category": "cultural",
+      "distance": "27 km from Imphal",
+      "rating": 4.4,
+      "description": "Andro is one of the oldest villages in Manipur, renowned for its pottery traditions and the unique Mutua Museum. The village preserves ancient Manipuri culture pre-dating Vaishnavite influence.",
+      "history": "Andro villagers have maintained their original Sanamahi (indigenous Meitei) faith and pottery-making traditions for centuries. The Mutua Museum was established to preserve these dying art forms.",
+      "famousFor": "Ancient pottery, Mutua Museum, tribal heritage, pre-Hindu Meitei culture.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹10",
+      "slug": "andro-village",
+      "images": {
+        "main": "assets/images/states/manipur/andro-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sekta Archaeological Living Museum",
+          "city": "Imphal East",
+          "distance": "12 km away",
+          "category": "museums",
+          "slug": "sekta-archaeological-museum",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sekta-archaeological-museum.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sekta-archaeological-museum.webp"
+          }
+        },
+        {
+          "name": "Nongmaiching Peak",
+          "slug": "nongmaiching-peak",
+          "id": "nongmaiching-peak",
+          "image": "assets/images/states/manipur/nongmaiching-peak.webp",
+          "bidirectional_verified": true,
+          "distance": "12 km away",
+          "images": {
+            "main": "assets/images/states/manipur/nongmaiching-peak.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "andro-village",
+      "image": "assets/images/states/manipur/andro-village.webp",
+      "heroImage": "assets/images/states/manipur/andro-village.webp"
+    },
+    {
+      "name": "Sekta Archaeological Living Museum",
+      "city": "Imphal East",
+      "category": "museums",
+      "distance": "16 km from Imphal",
+      "rating": 4.2,
+      "description": "An open-air museum showcasing the lifestyle, tools, architecture, and cultural practices of Manipur's various tribes through life-size dioramas and reconstructed traditional houses.",
+      "history": "Established by the Department of Art & Culture, the museum recreates the living conditions and traditions of Manipur's diverse ethnic communities for educational and tourism purposes.",
+      "famousFor": "Open-air tribal exhibits, traditional Manipuri houses, cultural preservation, ethnographic displays.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 4:00 PM (Closed Sunday)",
+      "entryFee": "₹10",
+      "slug": "sekta-archaeological-museum",
+      "images": {
+        "main": "assets/images/states/manipur/sekta-archaeological-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Andro Village",
+          "city": "Imphal East",
+          "distance": "12 km away",
+          "category": "cultural",
+          "slug": "andro-village",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/andro-village.webp",
+          "images": {
+            "main": "assets/images/states/manipur/andro-village.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "sekta-archaeological-museum",
+      "image": "assets/images/states/manipur/sekta-archaeological-museum.webp",
+      "heroImage": "assets/images/states/manipur/sekta-archaeological-museum.webp"
+    },
+    {
+      "name": "Khonghampat Orchidarium",
+      "city": "Imphal",
+      "category": "nature",
+      "distance": "12 km from Imphal",
+      "rating": 4.3,
+      "description": "A sprawling orchid garden housing over 110 rare species of orchids including the famed Shirui Lily (Siroi Lily). It is one of the largest orchid collections in Northeast India.",
+      "history": "Established to conserve Manipur's rich orchid biodiversity, the orchidarium has become a key botanical tourism site in the state.",
+      "famousFor": "Rare orchids, Siroi Lily specimens, botanical tourism, flower photography.",
+      "bestTime": "April to May (blooming season)",
+      "timings": "9:00 AM – 4:00 PM",
+      "entryFee": "₹10",
+      "slug": "khonghampat-orchidarium",
+      "images": {
+        "main": "assets/images/states/manipur/khonghampat-orchidarium.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manipur Zoological Garden",
+          "city": "Imphal",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "manipur-zoological-garden",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-zoological-garden.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-zoological-garden.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "khonghampat-orchidarium",
+      "image": "assets/images/states/manipur/khonghampat-orchidarium.webp",
+      "heroImage": "assets/images/states/manipur/khonghampat-orchidarium.webp"
+    },
+    {
+      "name": "Manipur Zoological Garden",
+      "city": "Imphal",
+      "category": "wildlife",
+      "distance": "8 km from Imphal",
+      "rating": 4.2,
+      "description": "Home to several species of animals and birds native to Northeast India, the Manipur Zoological Garden is set in a forested hillside and includes a breeding program for the endangered Sangai deer.",
+      "history": "Established in 1976 at Iroisemba, the zoo plays a crucial role in ex-situ conservation of the Sangai deer and other endangered Northeast Indian species.",
+      "famousFor": "Sangai deer conservation, Northeast India wildlife, hilltop zoo, nature walks.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 4:30 PM (Closed Monday)",
+      "entryFee": "₹10 (Indians), ₹50 (Foreigners)",
+      "slug": "manipur-zoological-garden",
+      "images": {
+        "main": "assets/images/states/manipur/manipur-zoological-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khonghampat Orchidarium",
+          "city": "Imphal",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "khonghampat-orchidarium",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/khonghampat-orchidarium.webp",
+          "images": {
+            "main": "assets/images/states/manipur/khonghampat-orchidarium.webp"
+          }
+        },
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Loukoipat Ecological Park",
+          "slug": "loukoipat-ecological-park",
+          "id": "loukoipat-ecological-park",
+          "image": "assets/images/states/manipur/loukoipat-ecological-park.webp",
+          "bidirectional_verified": true,
+          "distance": "6 km away",
+          "images": {
+            "main": "assets/images/states/manipur/loukoipat-ecological-park.webp"
+          }
+        },
+        {
+          "name": "Langol Hills",
+          "slug": "langol-hills",
+          "id": "langol-hills",
+          "image": "assets/images/states/manipur/langol-hills.webp",
+          "bidirectional_verified": true,
+          "distance": "5 km away",
+          "images": {
+            "main": "assets/images/states/manipur/langol-hills.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "manipur-zoological-garden",
+      "image": "assets/images/states/manipur/manipur-zoological-garden.webp",
+      "heroImage": "assets/images/states/manipur/manipur-zoological-garden.webp"
+    },
+    {
+      "name": "Dzuko Valley",
+      "city": "Senapati",
+      "category": "nature",
+      "distance": "100 km from Imphal",
+      "rating": 4.8,
+      "description": "Dzuko Valley, known as the 'Valley of Flowers of the Northeast', is a pristine high-altitude valley on the Manipur-Nagaland border. It carpets with wildflowers — especially the rare Dzuko Lily — during the blooming season.",
+      "history": "Dzuko Valley has been a sacred landscape for the Mao Naga and Angami tribes. The valley gained national recognition for its unique biodiversity and trekking potential.",
+      "famousFor": "Dzuko Lily, wildflower meadows, trekking, camping, pristine highland landscapes.",
+      "bestTime": "June to September (flowers), October to December (trekking)",
+      "timings": "Open all day (permit required)",
+      "entryFee": "₹100 (Trekking permit)",
+      "slug": "dzuko-valley",
+      "images": {
+        "main": "assets/images/states/manipur/dzuko-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Makhel Heritage Village",
+          "city": "Senapati",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "makhel-heritage-village",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/makhel-heritage-village.webp",
+          "images": {
+            "main": "assets/images/states/manipur/makhel-heritage-village.webp"
+          }
+        },
+        {
+          "name": "Senapati Town",
+          "slug": "senapati-town",
+          "id": "senapati-town",
+          "image": "assets/images/states/manipur/senapati-town.webp",
+          "bidirectional_verified": true,
+          "distance": "20 km away",
+          "images": {
+            "main": "assets/images/states/manipur/senapati-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "dzuko-valley",
+      "image": "assets/images/states/manipur/dzuko-valley.webp",
+      "heroImage": "assets/images/states/manipur/dzuko-valley.webp"
+    },
+    {
+      "name": "Makhel Heritage Village",
+      "city": "Senapati",
+      "category": "heritage",
+      "distance": "110 km from Imphal",
+      "rating": 4.2,
+      "description": "Makhel is considered the ancestral origin village of several Naga tribes. A sacred ancient banyan tree here marks the mythological point of dispersal of the Naga people.",
+      "history": "According to Naga oral tradition, Makhel is where the Naga ancestors first settled and then dispersed to form different tribes. The site holds immense cultural and spiritual significance.",
+      "famousFor": "Naga ancestral heritage, sacred banyan tree, tribal origin mythology, cultural tourism.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "makhel-heritage-village",
+      "images": {
+        "main": "assets/images/states/manipur/makhel-heritage-village.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dzuko Valley",
+          "city": "Senapati",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "dzuko-valley",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/dzuko-valley.webp",
+          "images": {
+            "main": "assets/images/states/manipur/dzuko-valley.webp"
+          }
+        },
+        {
+          "name": "Senapati Town",
+          "slug": "senapati-town",
+          "id": "senapati-town",
+          "image": "assets/images/states/manipur/senapati-town.webp",
+          "bidirectional_verified": true,
+          "distance": "18 km away",
+          "images": {
+            "main": "assets/images/states/manipur/senapati-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "makhel-heritage-village",
+      "image": "assets/images/states/manipur/makhel-heritage-village.webp",
+      "heroImage": "assets/images/states/manipur/makhel-heritage-village.webp"
+    },
+    {
+      "name": "Yangoupokpi-Lokchao Wildlife Sanctuary",
+      "city": "Tengnoupal",
+      "category": "wildlife",
+      "distance": "100 km from Imphal",
+      "rating": 4.3,
+      "description": "A biodiversity hotspot along the Indo-Myanmar border, this sanctuary is home to hoolock gibbons, clouded leopards, elephants, and diverse bird species in dense tropical forests.",
+      "history": "Established in 1989, the sanctuary protects one of the richest tropical forest ecosystems in Northeast India along the international border.",
+      "famousFor": "Hoolock gibbons, clouded leopard, tropical forest trekking, Indo-Myanmar border wildlife.",
+      "bestTime": "November to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "yangoupokpi-lokchao-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/manipur/yangoupokpi-lokchao-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tengnoupal View Point",
+          "city": "Tengnoupal",
+          "distance": "15 km away",
+          "category": "viewpoints",
+          "slug": "tengnoupal-view-point",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tengnoupal-view-point.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tengnoupal-view-point.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "yangoupokpi-lokchao-wildlife-sanctuary",
+      "image": "assets/images/states/manipur/yangoupokpi-lokchao-wildlife-sanctuary.webp",
+      "heroImage": "assets/images/states/manipur/yangoupokpi-lokchao-wildlife-sanctuary.webp"
+    },
+    {
+      "name": "Tengnoupal View Point",
+      "city": "Tengnoupal",
+      "category": "viewpoints",
+      "distance": "110 km from Imphal",
+      "rating": 4.4,
+      "description": "A stunning viewpoint on the Indo-Myanmar border highway offering panoramic vistas of rolling green hills, deep valleys, and the border mountain ranges. A popular stop for travelers on the Imphal-Moreh road.",
+      "history": "Tengnoupal gained significance during World War II as a strategic location along the Japanese advance route. Today it's a scenic tourist viewpoint.",
+      "famousFor": "Panoramic mountain views, Indo-Myanmar border scenery, sunrise and sunset views.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "tengnoupal-view-point",
+      "images": {
+        "main": "assets/images/states/manipur/tengnoupal-view-point.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Yangoupokpi-Lokchao Wildlife Sanctuary",
+          "city": "Tengnoupal",
+          "distance": "15 km away",
+          "category": "wildlife",
+          "slug": "yangoupokpi-lokchao-wildlife-sanctuary",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/yangoupokpi-lokchao-wildlife-sanctuary.webp",
+          "images": {
+            "main": "assets/images/states/manipur/yangoupokpi-lokchao-wildlife-sanctuary.webp"
+          }
+        },
+        {
+          "name": "Moreh Border Town",
+          "city": "Tengnoupal",
+          "distance": "20 km away",
+          "category": "cultural",
+          "slug": "moreh-border-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/moreh-border-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/moreh-border-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "tengnoupal-view-point",
+      "image": "assets/images/states/manipur/tengnoupal-view-point.webp",
+      "heroImage": "assets/images/states/manipur/tengnoupal-view-point.webp"
+    },
+    {
+      "name": "Moreh Border Town",
+      "city": "Tengnoupal",
+      "category": "cultural",
+      "distance": "110 km from Imphal",
+      "rating": 4.1,
+      "description": "Moreh is a bustling Indo-Myanmar border trade town and the gateway to Southeast Asia via the India-Myanmar-Thailand Trilateral Highway. Its markets feature goods from Myanmar, Thailand, and China.",
+      "history": "Moreh has been a trade gateway between India and Southeast Asia for centuries. It gained renewed significance with the Act East Policy and the planned trilateral highway.",
+      "famousFor": "India-Myanmar border crossing, cross-border shopping, Southeast Asian goods, trade gateway.",
+      "bestTime": "October to March",
+      "timings": "Border open 6:00 AM – 6:00 PM",
+      "entryFee": "Free (Passport/permit needed for border crossing)",
+      "slug": "moreh-border-town",
+      "images": {
+        "main": "assets/images/states/manipur/moreh-border-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tengnoupal View Point",
+          "city": "Tengnoupal",
+          "distance": "20 km away",
+          "category": "viewpoints",
+          "slug": "tengnoupal-view-point",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tengnoupal-view-point.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tengnoupal-view-point.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "moreh-border-town",
+      "image": "assets/images/states/manipur/moreh-border-town.webp",
+      "heroImage": "assets/images/states/manipur/moreh-border-town.webp"
+    },
+    {
+      "name": "Sadu Chiru Waterfall",
+      "city": "Senapati",
+      "category": "waterfalls",
+      "distance": "65 km from Imphal",
+      "rating": 4.4,
+      "description": "A stunning multi-tiered waterfall cascading through lush green forests. Sadu Chiru is one of Manipur's most scenic waterfalls, popular for picnics and nature photography.",
+      "history": "A natural landmark in the Senapati district, the waterfall has been a local pilgrimage and recreation site for the surrounding tribal communities.",
+      "famousFor": "Multi-tiered cascade, forest trekking, picnic spot, nature photography.",
+      "bestTime": "July to November (monsoon flow)",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "sadu-chiru-waterfall",
+      "images": {
+        "main": "assets/images/states/manipur/sadu-chiru-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Manipur",
+      "id": "sadu-chiru-waterfall",
+      "image": "assets/images/states/manipur/sadu-chiru-waterfall.webp",
+      "heroImage": "assets/images/states/manipur/sadu-chiru-waterfall.webp"
+    },
+    {
+      "name": "Kaina Temple",
+      "city": "Bishnupur",
+      "category": "temples",
+      "distance": "29 km from Imphal",
+      "rating": 4.3,
+      "description": "Perched on a hilltop overlooking Loktak Lake, Kaina Temple is a Vaishnavite shrine believed to be where Lord Krishna once rested. It offers breathtaking views of Loktak Lake and surrounding hills.",
+      "history": "The temple is associated with the legend of Lord Krishna's visit to Manipur. King Bhagyachandra is said to have built the original shrine here in the 18th century.",
+      "famousFor": "Hilltop Vaishnavite temple, Loktak Lake views, spiritual significance, scenic location.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "kaina-temple",
+      "images": {
+        "main": "assets/images/states/manipur/kaina-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Sendra Island",
+          "city": "Moirang",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "sendra-island",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/sendra-island.webp",
+          "images": {
+            "main": "assets/images/states/manipur/sendra-island.webp"
+          }
+        },
+        {
+          "name": "Bishnupur Town",
+          "slug": "bishnupur-town",
+          "id": "bishnupur-town",
+          "image": "assets/images/states/manipur/bishnupur-town.webp",
+          "bidirectional_verified": true,
+          "distance": "8 km away",
+          "images": {
+            "main": "assets/images/states/manipur/bishnupur-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "kaina-temple",
+      "image": "assets/images/states/manipur/kaina-temple.webp",
+      "heroImage": "assets/images/states/manipur/kaina-temple.webp"
+    },
+    {
+      "name": "Shirui Peak",
+      "city": "Ukhrul",
+      "category": "nature",
+      "distance": "83 km from Imphal",
+      "rating": 4.6,
+      "description": "Shirui Peak in the Shirui Kashong range is the only place on Earth where the Shirui Lily (Siroi Lily) blooms naturally. The peak offers panoramic views and is a biodiversity treasure.",
+      "history": "The Shirui Lily (Lilium mackliniae) was discovered in 1946 by Frank Kingdon-Ward. It is the state flower of Manipur and grows only on this single hilltop in the world.",
+      "famousFor": "Shirui Lily (world's rarest lily), trekking, panoramic hilltop views, unique biodiversity.",
+      "bestTime": "May to June (Shirui Lily blooming)",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "shirui-peak",
+      "images": {
+        "main": "assets/images/states/manipur/shirui-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ukhrul Town",
+          "city": "Ukhrul",
+          "distance": "15 km away",
+          "category": "cultural",
+          "slug": "ukhrul-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ukhrul-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ukhrul-town.webp"
+          }
+        },
+        {
+          "name": "Kachouphung Lake",
+          "city": "Ukhrul",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "kachouphung-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kachouphung-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kachouphung-lake.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "shirui-peak",
+      "image": "assets/images/states/manipur/shirui-peak.webp",
+      "heroImage": "assets/images/states/manipur/shirui-peak.webp"
+    },
+    {
+      "name": "Ukhrul Town",
+      "city": "Ukhrul",
+      "category": "cultural",
+      "distance": "84 km from Imphal",
+      "rating": 4.2,
+      "description": "The district headquarters of Ukhrul, home to the Tangkhul Naga tribe. The town is surrounded by picturesque hills and serves as a base for exploring Shirui Peak and other hill attractions.",
+      "history": "Ukhrul is the heartland of the Tangkhul Naga tribe and has been a significant cultural and administrative center in eastern Manipur.",
+      "famousFor": "Tangkhul Naga culture, hill town charm, gateway to Shirui Peak, tribal festivals.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "ukhrul-town",
+      "images": {
+        "main": "assets/images/states/manipur/ukhrul-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shirui Peak",
+          "city": "Ukhrul",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "shirui-peak",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/shirui-peak.webp",
+          "images": {
+            "main": "assets/images/states/manipur/shirui-peak.webp"
+          }
+        },
+        {
+          "name": "Kachouphung Lake",
+          "city": "Ukhrul",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "kachouphung-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kachouphung-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kachouphung-lake.webp"
+          }
+        },
+        {
+          "name": "Kangkhui Limestone Cave",
+          "slug": "kangkhui-limestone-cave",
+          "id": "kangkhui-limestone-cave",
+          "image": "assets/images/states/manipur/kangkhui-limestone-cave.webp",
+          "bidirectional_verified": true,
+          "distance": "18 km away",
+          "images": {
+            "main": "assets/images/states/manipur/kangkhui-limestone-cave.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "ukhrul-town",
+      "image": "assets/images/states/manipur/ukhrul-town.webp",
+      "heroImage": "assets/images/states/manipur/ukhrul-town.webp"
+    },
+    {
+      "name": "Kachouphung Lake",
+      "city": "Ukhrul",
+      "category": "nature",
+      "distance": "95 km from Imphal",
+      "rating": 4.2,
+      "description": "A serene natural lake near Ukhrul surrounded by pine forests and rolling hills. The lake is sacred to the local Tangkhul Naga community and offers a peaceful retreat.",
+      "history": "Considered sacred by the Tangkhul Naga people, the lake is associated with local myths and has been a pilgrimage site for the tribal community.",
+      "famousFor": "Sacred lake, pine forest surroundings, peaceful retreat, tribal significance.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kachouphung-lake",
+      "images": {
+        "main": "assets/images/states/manipur/kachouphung-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ukhrul Town",
+          "city": "Ukhrul",
+          "distance": "10 km away",
+          "category": "cultural",
+          "slug": "ukhrul-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ukhrul-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ukhrul-town.webp"
+          }
+        },
+        {
+          "name": "Shirui Peak",
+          "city": "Ukhrul",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "shirui-peak",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/shirui-peak.webp",
+          "images": {
+            "main": "assets/images/states/manipur/shirui-peak.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "kachouphung-lake",
+      "image": "assets/images/states/manipur/kachouphung-lake.webp",
+      "heroImage": "assets/images/states/manipur/kachouphung-lake.webp"
+    },
+    {
+      "name": "Tamenglong Town",
+      "city": "Tamenglong",
+      "category": "nature",
+      "distance": "147 km from Imphal",
+      "rating": 4.3,
+      "description": "The headquarters of Tamenglong district, surrounded by pristine forests, rivers, and the famous Zeilad Lake. The town is emerging as an eco-tourism destination with stunning natural scenery.",
+      "history": "Tamenglong is home to the Rongmei (Kabui) Naga tribe and is one of the most remote and forested districts in Manipur.",
+      "famousFor": "Pristine forests, orange orchards, Zeilad Lake, tribal culture, eco-tourism.",
+      "bestTime": "November to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "tamenglong-town",
+      "images": {
+        "main": "assets/images/states/manipur/tamenglong-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Zeilad Lake",
+          "city": "Tamenglong",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "zeilad-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/zeilad-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/zeilad-lake.webp"
+          }
+        },
+        {
+          "name": "Buning Meadow",
+          "city": "Tamenglong",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "buning-meadow",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/buning-meadow.webp",
+          "images": {
+            "main": "assets/images/states/manipur/buning-meadow.webp"
+          }
+        },
+        {
+          "name": "Khoupum Valley",
+          "slug": "khoupum-valley",
+          "id": "khoupum-valley",
+          "image": "assets/images/states/manipur/khoupum-valley.webp",
+          "bidirectional_verified": true,
+          "distance": "20 km away",
+          "images": {
+            "main": "assets/images/states/manipur/khoupum-valley.webp"
+          }
+        },
+        {
+          "name": "Barak Waterfall",
+          "slug": "barak-waterfall",
+          "id": "barak-waterfall",
+          "image": "assets/images/states/manipur/barak-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "18 km away",
+          "images": {
+            "main": "assets/images/states/manipur/barak-waterfall.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "tamenglong-town",
+      "image": "assets/images/states/manipur/tamenglong-town.webp",
+      "heroImage": "assets/images/states/manipur/tamenglong-town.webp"
+    },
+    {
+      "name": "Zeilad Lake",
+      "city": "Tamenglong",
+      "category": "nature",
+      "distance": "155 km from Imphal",
+      "rating": 4.4,
+      "description": "A stunning natural freshwater lake nestled in the hills of Tamenglong district. Zeilad Lake is known for its crystal-clear water, surrounding forests, and mythological significance.",
+      "history": "According to Rongmei Naga legend, the lake was formed by a landslide that blocked a river. It is considered sacred and is associated with local mythology.",
+      "famousFor": "Crystal-clear water, scenic forests, Naga mythology, pristine natural beauty.",
+      "bestTime": "November to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "zeilad-lake",
+      "images": {
+        "main": "assets/images/states/manipur/zeilad-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tamenglong Town",
+          "city": "Tamenglong",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "tamenglong-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tamenglong-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tamenglong-town.webp"
+          }
+        },
+        {
+          "name": "Buning Meadow",
+          "city": "Tamenglong",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "buning-meadow",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/buning-meadow.webp",
+          "images": {
+            "main": "assets/images/states/manipur/buning-meadow.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "zeilad-lake",
+      "image": "assets/images/states/manipur/zeilad-lake.webp",
+      "heroImage": "assets/images/states/manipur/zeilad-lake.webp"
+    },
+    {
+      "name": "Buning Meadow",
+      "city": "Tamenglong",
+      "category": "nature",
+      "distance": "160 km from Imphal",
+      "rating": 4.3,
+      "description": "A vast rolling grassland plateau in the hills of Tamenglong, Buning Meadow offers sweeping vistas and is often compared to the grasslands of Scotland. It's a hidden gem for trekkers.",
+      "history": "The meadow has been a grazing ground for the Rongmei Naga community and is increasingly recognized as a potential eco-tourism destination.",
+      "famousFor": "Rolling grasslands, panoramic hilltop views, trekking, camping, photography.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "buning-meadow",
+      "images": {
+        "main": "assets/images/states/manipur/buning-meadow.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Zeilad Lake",
+          "city": "Tamenglong",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "zeilad-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/zeilad-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/zeilad-lake.webp"
+          }
+        },
+        {
+          "name": "Tamenglong Town",
+          "city": "Tamenglong",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "tamenglong-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tamenglong-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tamenglong-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "buning-meadow",
+      "image": "assets/images/states/manipur/buning-meadow.webp",
+      "heroImage": "assets/images/states/manipur/buning-meadow.webp"
+    },
+    {
+      "name": "Khoupum Valley",
+      "city": "Tamenglong",
+      "category": "nature",
+      "distance": "130 km from Imphal",
+      "rating": 4.3,
+      "description": "A vast, scenic valley in Tamenglong district known for its lush paddy terraces, orange orchards, and tropical vegetation. It is one of the most fertile and beautiful valleys in Manipur.",
+      "history": "The valley has been the agricultural heartland of the Rongmei Naga tribe for centuries, known especially for its orange cultivation.",
+      "famousFor": "Paddy terraces, orange orchards, scenic valley views, tribal agriculture.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "khoupum-valley",
+      "images": {
+        "main": "assets/images/states/manipur/khoupum-valley.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tamenglong Town",
+          "city": "Tamenglong",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "tamenglong-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tamenglong-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tamenglong-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "khoupum-valley",
+      "image": "assets/images/states/manipur/khoupum-valley.webp",
+      "heroImage": "assets/images/states/manipur/khoupum-valley.webp"
+    },
+    {
+      "name": "Chandel Town",
+      "city": "Chandel",
+      "category": "cultural",
+      "distance": "64 km from Imphal",
+      "rating": 4.1,
+      "description": "The headquarters of Chandel district, home to the Anal Naga tribe. The town is a gateway to the Indo-Myanmar border region and the Khangkhui Cave.",
+      "history": "Chandel district played a significant role during World War II and the Japanese advance towards Imphal. The town serves as a cultural hub for Anal and other Naga tribes.",
+      "famousFor": "Anal Naga tribal culture, gateway to border region, WWII history, Khangkhui Cave access.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "chandel-town",
+      "images": {
+        "main": "assets/images/states/manipur/chandel-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khangkhui Cave",
+          "city": "Chandel",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "khangkhui-cave",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/khangkhui-cave.webp",
+          "images": {
+            "main": "assets/images/states/manipur/khangkhui-cave.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "chandel-town",
+      "image": "assets/images/states/manipur/chandel-town.webp",
+      "heroImage": "assets/images/states/manipur/chandel-town.webp"
+    },
+    {
+      "name": "Khangkhui Cave",
+      "city": "Chandel",
+      "category": "nature",
+      "distance": "78 km from Imphal",
+      "rating": 4.3,
+      "description": "A large limestone cave with impressive stalactite and stalagmite formations. Khangkhui Cave was used as a shelter by locals during World War II bombing raids and holds archaeological significance.",
+      "history": "The cave was used as a refuge during WWII Japanese bombing campaigns. Archaeological finds suggest prehistoric human habitation.",
+      "famousFor": "Limestone formations, WWII shelter history, archaeological significance, cave exploration.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "khangkhui-cave",
+      "images": {
+        "main": "assets/images/states/manipur/khangkhui-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chandel Town",
+          "city": "Chandel",
+          "distance": "15 km away",
+          "category": "cultural",
+          "slug": "chandel-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/chandel-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/chandel-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "khangkhui-cave",
+      "image": "assets/images/states/manipur/khangkhui-cave.webp",
+      "heroImage": "assets/images/states/manipur/khangkhui-cave.webp"
+    },
+    {
+      "name": "Singda Dam",
+      "city": "Imphal West",
+      "category": "nature",
+      "distance": "16 km from Imphal",
+      "rating": 4.2,
+      "description": "A scenic earthen dam built across the Singda River surrounded by forested hills. The reservoir and its surrounding landscape make it a popular picnic and photography destination.",
+      "history": "Built primarily for water supply to Imphal city, Singda Dam has emerged as a recreation destination due to its scenic beauty.",
+      "famousFor": "Scenic reservoir, hillside views, picnic spot, nature photography.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "singda-dam",
+      "images": {
+        "main": "assets/images/states/manipur/singda-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "16 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "singda-dam",
+      "image": "assets/images/states/manipur/singda-dam.webp",
+      "heroImage": "assets/images/states/manipur/singda-dam.webp"
+    },
+    {
+      "name": "Kangkhui Limestone Cave",
+      "city": "Ukhrul",
+      "category": "nature",
+      "distance": "100 km from Imphal",
+      "rating": 4.2,
+      "description": "A fascinating natural limestone cave in the Ukhrul hills with impressive stalactite and stalagmite formations and multiple chambers for exploration.",
+      "history": "The cave has been known to the local Tangkhul Naga community for generations and is increasingly visited by adventure tourists and geologists.",
+      "famousFor": "Limestone formations, cave exploration, geological interest, adventure tourism.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "kangkhui-limestone-cave",
+      "images": {
+        "main": "assets/images/states/manipur/kangkhui-limestone-cave.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ukhrul Town",
+          "city": "Ukhrul",
+          "distance": "18 km away",
+          "category": "cultural",
+          "slug": "ukhrul-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/ukhrul-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/ukhrul-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "kangkhui-limestone-cave",
+      "image": "assets/images/states/manipur/kangkhui-limestone-cave.webp",
+      "heroImage": "assets/images/states/manipur/kangkhui-limestone-cave.webp"
+    },
+    {
+      "name": "Loukoipat Ecological Park",
+      "city": "Imphal",
+      "category": "nature",
+      "distance": "10 km from Imphal",
+      "rating": 4.1,
+      "description": "An ecological park and garden complex on the outskirts of Imphal offering scenic walks, boating, and green spaces amidst the city's expanding urban landscape.",
+      "history": "Developed by the Manipur government as an urban ecological retreat for residents and tourists to enjoy nature within proximity to the capital.",
+      "famousFor": "Urban park, boating lake, nature walks, family recreation.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "loukoipat-ecological-park",
+      "images": {
+        "main": "assets/images/states/manipur/loukoipat-ecological-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manipur Zoological Garden",
+          "city": "Imphal",
+          "distance": "6 km away",
+          "category": "wildlife",
+          "slug": "manipur-zoological-garden",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-zoological-garden.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-zoological-garden.webp"
+          }
+        },
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "10 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "loukoipat-ecological-park",
+      "image": "assets/images/states/manipur/loukoipat-ecological-park.webp",
+      "heroImage": "assets/images/states/manipur/loukoipat-ecological-park.webp"
+    },
+    {
+      "name": "Bishnupur Town",
+      "city": "Bishnupur",
+      "category": "cultural",
+      "distance": "27 km from Imphal",
+      "rating": 4.1,
+      "description": "The headquarters of Bishnupur district, an important cultural center in the Manipur valley. The town is the gateway to Loktak Lake tourism and has historical significance.",
+      "history": "Bishnupur was a key administrative area during the Manipur kingdom era and is closely associated with the development of Vaishnavism in the state.",
+      "famousFor": "Gateway to Loktak Lake, cultural heritage, Vaishnavite traditions.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "bishnupur-town",
+      "images": {
+        "main": "assets/images/states/manipur/bishnupur-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        },
+        {
+          "name": "Kaina Temple",
+          "city": "Bishnupur",
+          "distance": "8 km away",
+          "category": "temples",
+          "slug": "kaina-temple",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kaina-temple.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kaina-temple.webp"
+          }
+        },
+        {
+          "name": "Leimaram Waterfall",
+          "slug": "leimaram-waterfall",
+          "id": "leimaram-waterfall",
+          "image": "assets/images/states/manipur/leimaram-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "10 km away",
+          "images": {
+            "main": "assets/images/states/manipur/leimaram-waterfall.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "bishnupur-town",
+      "image": "assets/images/states/manipur/bishnupur-town.webp",
+      "heroImage": "assets/images/states/manipur/bishnupur-town.webp"
+    },
+    {
+      "name": "Thoubal Town",
+      "city": "Thoubal",
+      "category": "cultural",
+      "distance": "25 km from Imphal",
+      "rating": 4,
+      "description": "The district headquarters of Thoubal, known for its bustling market, scenic Thoubal River, and proximity to historical sites. It serves as a regional hub for eastern Manipur valley.",
+      "history": "Thoubal has been a significant administrative and commercial center since the Manipur kingdom era. The Thoubal River has been central to the area's agriculture.",
+      "famousFor": "Thoubal River, local markets, agricultural landscape, regional cuisine.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "thoubal-town",
+      "images": {
+        "main": "assets/images/states/manipur/thoubal-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Waithou Lake",
+          "city": "Thoubal",
+          "distance": "8 km away",
+          "category": "nature",
+          "slug": "waithou-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/waithou-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/waithou-lake.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "thoubal-town",
+      "image": "assets/images/states/manipur/thoubal-town.webp",
+      "heroImage": "assets/images/states/manipur/thoubal-town.webp"
+    },
+    {
+      "name": "Waithou Lake",
+      "city": "Thoubal",
+      "category": "nature",
+      "distance": "30 km from Imphal",
+      "rating": 4.1,
+      "description": "A natural freshwater lake in Thoubal district surrounded by green hills and farmland. The lake is a popular spot for migratory bird watching and peaceful recreation.",
+      "history": "Waithou Lake has been an important water source and fishing ground for the surrounding Meitei communities for centuries.",
+      "famousFor": "Birdwatching, scenic lake views, peaceful atmosphere, migratory birds.",
+      "bestTime": "November to February (migratory birds)",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "waithou-lake",
+      "images": {
+        "main": "assets/images/states/manipur/waithou-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Thoubal Town",
+          "city": "Thoubal",
+          "distance": "8 km away",
+          "category": "cultural",
+          "slug": "thoubal-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/thoubal-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/thoubal-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "waithou-lake",
+      "image": "assets/images/states/manipur/waithou-lake.webp",
+      "heroImage": "assets/images/states/manipur/waithou-lake.webp"
+    },
+    {
+      "name": "Churachandpur Town",
+      "city": "Churachandpur",
+      "category": "cultural",
+      "distance": "60 km from Imphal",
+      "rating": 4,
+      "description": "The second largest town in Manipur, Churachandpur is the cultural heartland of the Hmar, Paite, and Zo tribes. The town is surrounded by beautiful hills and serves as a gateway to southern Manipur.",
+      "history": "Churachandpur was named after Maharaj Churachand Singh of Manipur. It has been a multi-ethnic hub for the Chin-Kuki-Mizo tribal communities.",
+      "famousFor": "Tribal cultural diversity, hill town atmosphere, gateway to southern Manipur, local festivals.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "churachandpur-town",
+      "images": {
+        "main": "assets/images/states/manipur/churachandpur-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tipaimukh",
+          "city": "Churachandpur",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "tipaimukh",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tipaimukh.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tipaimukh.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "churachandpur-town",
+      "image": "assets/images/states/manipur/churachandpur-town.webp",
+      "heroImage": "assets/images/states/manipur/churachandpur-town.webp"
+    },
+    {
+      "name": "Tipaimukh",
+      "city": "Churachandpur",
+      "category": "nature",
+      "distance": "200 km from Imphal",
+      "rating": 4.4,
+      "description": "Tipaimukh is a remote and breathtaking confluence of the Barak and Tuivai rivers amidst dense forests and dramatic hills. The site is of immense scenic and ecological value.",
+      "history": "Tipaimukh has been the homeland of the Hmar tribe and gained national attention due to proposals for a major hydroelectric dam at the confluence.",
+      "famousFor": "Barak-Tuivai river confluence, dramatic gorges, remote natural beauty, proposed dam site.",
+      "bestTime": "November to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "tipaimukh",
+      "images": {
+        "main": "assets/images/states/manipur/tipaimukh.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Churachandpur Town",
+          "slug": "churachandpur-town",
+          "id": "churachandpur-town",
+          "image": "assets/images/states/manipur/churachandpur-town.webp",
+          "bidirectional_verified": true,
+          "distance": "20 km away",
+          "images": {
+            "main": "assets/images/states/manipur/churachandpur-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "tipaimukh",
+      "image": "assets/images/states/manipur/tipaimukh.webp",
+      "heroImage": "assets/images/states/manipur/tipaimukh.webp"
+    },
+    {
+      "name": "Jiribam Town",
+      "city": "Jiribam",
+      "category": "cultural",
+      "distance": "220 km from Imphal",
+      "rating": 4,
+      "description": "The western gateway to Manipur, Jiribam is a riverine town on the banks of the Barak River. It is the entry point for travelers arriving from Silchar, Assam and is known for its diverse population.",
+      "history": "Historically a trading post on the Manipur-Assam border, Jiribam gained district status in 2016. It serves as a vital connectivity point for Manipur.",
+      "famousFor": "Barak River views, western gateway to Manipur, multi-cultural township, border town charm.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "jiribam-town",
+      "images": {
+        "main": "assets/images/states/manipur/jiribam-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Manipur",
+      "id": "jiribam-town",
+      "image": "assets/images/states/manipur/jiribam-town.webp",
+      "heroImage": "assets/images/states/manipur/jiribam-town.webp"
+    },
+    {
+      "name": "Nongmaiching Peak",
+      "city": "Imphal East",
+      "category": "nature",
+      "distance": "18 km from Imphal",
+      "rating": 4.3,
+      "description": "One of the most prominent hills surrounding the Imphal Valley, Nongmaiching Peak offers spectacular views of the entire valley and is associated with Manipuri mythology.",
+      "history": "In Meitei mythology, Nongmaiching Hill is the abode of the deity Nongmaiching Koubru. The hill is considered sacred and is an important pilgrimage site.",
+      "famousFor": "Valley panoramic views, Meitei mythology, trekking, sacred hilltop.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "nongmaiching-peak",
+      "images": {
+        "main": "assets/images/states/manipur/nongmaiching-peak.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Andro Village",
+          "city": "Imphal East",
+          "distance": "12 km away",
+          "category": "cultural",
+          "slug": "andro-village",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/andro-village.webp",
+          "images": {
+            "main": "assets/images/states/manipur/andro-village.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "nongmaiching-peak",
+      "image": "assets/images/states/manipur/nongmaiching-peak.webp",
+      "heroImage": "assets/images/states/manipur/nongmaiching-peak.webp"
+    },
+    {
+      "name": "Koubru Peak",
+      "city": "Senapati",
+      "category": "nature",
+      "distance": "75 km from Imphal",
+      "rating": 4.5,
+      "description": "The highest peak in the Imphal Valley rim at about 2,560 metres, Koubru Peak is sacred in Meitei tradition and offers challenging trekking with rewarding views of the valley and surrounding ranges.",
+      "history": "Koubru is considered the abode of the supreme Meitei deity. The peak has deep spiritual significance in the indigenous Sanamahi faith of Manipur.",
+      "famousFor": "Highest peak near Imphal, sacred mountain, challenging trek, panoramic views.",
+      "bestTime": "October to February",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "koubru-peak",
+      "images": {
+        "main": "assets/images/states/manipur/koubru-peak.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Manipur",
+      "id": "koubru-peak",
+      "image": "assets/images/states/manipur/koubru-peak.webp",
+      "heroImage": "assets/images/states/manipur/koubru-peak.webp"
+    },
+    {
+      "name": "Langol Hills",
+      "city": "Imphal West",
+      "category": "nature",
+      "distance": "8 km from Imphal",
+      "rating": 4.1,
+      "description": "A scenic hill range west of Imphal, Langol Hills houses a garden, a herbal park, and viewpoints. It is popular for morning walks and offers panoramic views of the valley.",
+      "history": "The hills have been developed as a recreation zone by the Manipur government. They also hold significance in local folklore and are part of the hills surrounding the Imphal Valley.",
+      "famousFor": "Hill garden, viewpoints, morning walks, herbal park.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "langol-hills",
+      "images": {
+        "main": "assets/images/states/manipur/langol-hills.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Manipur Zoological Garden",
+          "city": "Imphal",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "manipur-zoological-garden",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/manipur-zoological-garden.webp",
+          "images": {
+            "main": "assets/images/states/manipur/manipur-zoological-garden.webp"
+          }
+        },
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "8 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Phubala",
+          "slug": "phubala",
+          "id": "phubala",
+          "image": "assets/images/states/manipur/phubala.webp",
+          "bidirectional_verified": true,
+          "distance": "5 km away",
+          "images": {
+            "main": "assets/images/states/manipur/phubala.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "langol-hills",
+      "image": "assets/images/states/manipur/langol-hills.webp",
+      "heroImage": "assets/images/states/manipur/langol-hills.webp"
+    },
+    {
+      "name": "Senapati Town",
+      "city": "Senapati",
+      "category": "cultural",
+      "distance": "60 km from Imphal",
+      "rating": 4,
+      "description": "The district headquarters of Senapati, serving as the gateway to the northern hill districts of Manipur. The town is surrounded by terraced hills and is home to the Mao Naga community.",
+      "history": "Senapati has been a key stop on the Imphal-Dimapur highway and a significant cultural center for the Mao, Maram, and Poumai Naga tribes.",
+      "famousFor": "Mao Naga culture, terraced hills, gateway to Dzuko Valley, Northern Manipur scenery.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "senapati-town",
+      "images": {
+        "main": "assets/images/states/manipur/senapati-town.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dzuko Valley",
+          "city": "Senapati",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "dzuko-valley",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/dzuko-valley.webp",
+          "images": {
+            "main": "assets/images/states/manipur/dzuko-valley.webp"
+          }
+        },
+        {
+          "name": "Makhel Heritage Village",
+          "city": "Senapati",
+          "distance": "18 km away",
+          "category": "heritage",
+          "slug": "makhel-heritage-village",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/makhel-heritage-village.webp",
+          "images": {
+            "main": "assets/images/states/manipur/makhel-heritage-village.webp"
+          }
+        },
+        {
+          "name": "Irong Chiru Waterfall",
+          "slug": "irong-chiru-waterfall",
+          "id": "irong-chiru-waterfall",
+          "image": "assets/images/states/manipur/irong-chiru-waterfall.webp",
+          "bidirectional_verified": true,
+          "distance": "15 km away",
+          "images": {
+            "main": "assets/images/states/manipur/irong-chiru-waterfall.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "senapati-town",
+      "image": "assets/images/states/manipur/senapati-town.webp",
+      "heroImage": "assets/images/states/manipur/senapati-town.webp"
+    },
+    {
+      "name": "Imphal Peace Museum",
+      "city": "Imphal",
+      "category": "museums",
+      "distance": "3 km from Imphal city center",
+      "rating": 4.3,
+      "description": "Also known as the Indian National Army Museum or Netaji Museum, this museum documents the history of the Indian National Army's campaign in Manipur during World War II with photographs, weapons, and personal items.",
+      "history": "The museum commemorates the INA's role in the Battle of Imphal and preserves artifacts from the 1944 campaign led by Netaji Subhas Chandra Bose.",
+      "famousFor": "INA history, WWII artifacts, Netaji Bose memorabilia, freedom struggle documentation.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 4:00 PM (Closed Monday)",
+      "entryFee": "₹5",
+      "slug": "imphal-peace-museum",
+      "images": {
+        "main": "assets/images/states/manipur/imphal-peace-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "War Cemetery Imphal",
+          "city": "Imphal",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "war-cemetery-imphal",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/war-cemetery-imphal.webp",
+          "images": {
+            "main": "assets/images/states/manipur/war-cemetery-imphal.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "imphal-peace-museum",
+      "image": "assets/images/states/manipur/imphal-peace-museum.webp",
+      "heroImage": "assets/images/states/manipur/imphal-peace-museum.webp"
+    },
+    {
+      "name": "Leimaram Waterfall",
+      "city": "Bishnupur",
+      "category": "waterfalls",
+      "distance": "35 km from Imphal",
+      "rating": 4.2,
+      "description": "A beautiful waterfall near Bishnupur set amidst dense forests. The falls are a popular monsoon destination and a refreshing escape from the valley heat.",
+      "history": "A natural landmark that has been a local recreational spot for generations, now gaining wider tourism recognition.",
+      "famousFor": "Scenic waterfall, forest trekking, monsoon beauty, natural swimming pool.",
+      "bestTime": "July to November",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "leimaram-waterfall",
+      "images": {
+        "main": "assets/images/states/manipur/leimaram-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Bishnupur Town",
+          "city": "Bishnupur",
+          "distance": "10 km away",
+          "category": "cultural",
+          "slug": "bishnupur-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/bishnupur-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/bishnupur-town.webp"
+          }
+        },
+        {
+          "name": "Loktak Lake",
+          "city": "Moirang",
+          "distance": "15 km away",
+          "category": "nature",
+          "slug": "loktak-lake",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/loktak-lake.webp",
+          "images": {
+            "main": "assets/images/states/manipur/loktak-lake.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "leimaram-waterfall",
+      "image": "assets/images/states/manipur/leimaram-waterfall.webp",
+      "heroImage": "assets/images/states/manipur/leimaram-waterfall.webp"
+    },
+    {
+      "name": "Barak Waterfall",
+      "city": "Tamenglong",
+      "category": "waterfalls",
+      "distance": "170 km from Imphal",
+      "rating": 4.3,
+      "description": "A striking waterfall on the Barak River in Tamenglong district, surrounded by pristine forests. The falls are accessed through a scenic forest trek.",
+      "history": "The Barak River originates in Manipur's Senapati district and its waterfall in Tamenglong has been a sacred site for the local Rongmei Naga tribe.",
+      "famousFor": "Pristine waterfall, forest trek, Barak River, remote natural beauty.",
+      "bestTime": "July to November",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "barak-waterfall",
+      "images": {
+        "main": "assets/images/states/manipur/barak-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tamenglong Town",
+          "city": "Tamenglong",
+          "distance": "18 km away",
+          "category": "nature",
+          "slug": "tamenglong-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/tamenglong-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/tamenglong-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "barak-waterfall",
+      "image": "assets/images/states/manipur/barak-waterfall.webp",
+      "heroImage": "assets/images/states/manipur/barak-waterfall.webp"
+    },
+    {
+      "name": "Phubala",
+      "city": "Imphal West",
+      "category": "heritage",
+      "distance": "6 km from Imphal",
+      "rating": 4,
+      "description": "A historic area on the southwestern outskirts of Imphal known for the Phubala Garden and its royal connections. The area houses a traditional Meitei cultural site.",
+      "history": "Phubala was historically associated with the Manipur royal family and has been maintained as a heritage garden and cultural area.",
+      "famousFor": "Royal heritage, traditional gardens, historical significance.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "phubala",
+      "images": {
+        "main": "assets/images/states/manipur/phubala.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kangla Fort",
+          "city": "Imphal",
+          "distance": "6 km away",
+          "category": "heritage",
+          "slug": "kangla-fort",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/kangla-fort.webp",
+          "images": {
+            "main": "assets/images/states/manipur/kangla-fort.webp"
+          }
+        },
+        {
+          "name": "Langol Hills",
+          "city": "Imphal West",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "langol-hills",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/langol-hills.webp",
+          "images": {
+            "main": "assets/images/states/manipur/langol-hills.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "phubala",
+      "image": "assets/images/states/manipur/phubala.webp",
+      "heroImage": "assets/images/states/manipur/phubala.webp"
+    },
+    {
+      "name": "Irong Chiru Waterfall",
+      "city": "Senapati",
+      "category": "waterfalls",
+      "distance": "70 km from Imphal",
+      "rating": 4.2,
+      "description": "A picturesque waterfall in the Senapati district surrounded by evergreen forests. The waterfall is popular among trekkers and nature enthusiasts.",
+      "history": "A natural landmark sacred to the local Maram Naga community, increasingly developed for eco-tourism.",
+      "famousFor": "Scenic waterfall, trekking, forest walks, nature photography.",
+      "bestTime": "July to November",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "irong-chiru-waterfall",
+      "images": {
+        "main": "assets/images/states/manipur/irong-chiru-waterfall.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Senapati Town",
+          "city": "Senapati",
+          "distance": "15 km away",
+          "category": "cultural",
+          "slug": "senapati-town",
+          "state": "Manipur",
+          "image": "assets/images/states/manipur/senapati-town.webp",
+          "images": {
+            "main": "assets/images/states/manipur/senapati-town.webp"
+          }
+        }
+      ],
+      "state": "Manipur",
+      "id": "irong-chiru-waterfall",
+      "image": "assets/images/states/manipur/irong-chiru-waterfall.webp",
+      "heroImage": "assets/images/states/manipur/irong-chiru-waterfall.webp"
+    },
+    {
+      "name": "Noney Town",
+      "city": "Noney",
+      "category": "cultural",
+      "distance": "125 km from Imphal",
+      "rating": 4.1,
+      "description": "Home to the world's tallest railway pier bridge (Noney Bridge) on the Jiribam-Imphal railway line. The town sits in a scenic valley surrounded by hills.",
+      "history": "Noney gained national recognition with the construction of the record-breaking Noney railway bridge as part of India's Jiribam-Imphal rail project.",
+      "famousFor": "World's tallest railway pier bridge, scenic valley, railway engineering marvel.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "noney-town",
+      "images": {
+        "main": "assets/images/states/manipur/noney-town.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "Manipur",
+      "id": "noney-town",
+      "image": "assets/images/states/manipur/noney-town.webp",
+      "heroImage": "assets/images/states/manipur/noney-town.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/manipur/banner.webp"
+}

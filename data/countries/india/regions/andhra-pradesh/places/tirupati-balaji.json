@@ -1,0 +1,69 @@
+{
+  "id": "tirupati-balaji",
+  "slug": "tirupati-balaji",
+  "name": "Tirupati Balaji Temple",
+  "location": "Andhra Pradesh, India",
+  "district": "Tirupati",
+  "stateId": "andhra-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/tirupati-balaji.webp",
+  "heroImage": "./assets/images/popular/tirupati-balaji.webp",
+  "gallery": [
+    "./assets/images/popular/tirupati-balaji.webp"
+  ],
+  "overview": "Experience the beauty of Tirupati Balaji Temple, a top destination in Andhra Pradesh, India.",
+  "description": "Sri Venkateswara Swami Temple is a landmark Vaishnavite temple situated in the hill town of Tirumala. It is one of the richest and most widely visited religious centers in the world.",
+  "rating": "5.0",
+  "reviewCount": 10828,
+  "popularityScore": 90,
+  "priceLevel": 1,
+  "bestTimeToVisit": "September to February",
+  "timings": "2:30 AM - 1:30 AM (Varies by day)",
+  "entryFee": {
+    "indian": "Free (Special Entry ₹300)",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Tirupati Airport",
+      "distance": "40 km"
+    },
+    "nearestRailway": {
+      "name": "Tirupati Railway Station",
+      "distance": "22 km"
+    },
+    "byRoad": "Buses frequently operate from Tirupati to Tirumala."
+  },
+  "tags": [
+    "spiritual",
+    "andhra-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2177
+    },
+    {
+      "views": 4240
+    }
+  ],
+  "nearbyPlaces": [
+    "araku-valley"
+  ]
+}

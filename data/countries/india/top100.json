@@ -1,0 +1,3784 @@
+{
+  "destinations": [
+    {
+      "id": "taj-mahal",
+      "slug": "taj-mahal",
+      "name": "Taj Mahal",
+      "location": "Uttar Pradesh, India",
+      "district": "Agra",
+      "stateId": "uttar-pradesh",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/taj-mahal.webp",
+      "heroImage": "./assets/images/popular/taj-mahal.webp",
+      "gallery": [
+        "./assets/images/popular/taj-mahal.webp"
+      ],
+      "overview": "Experience the beauty of Taj Mahal, a top destination in Uttar Pradesh, India.",
+      "rating": "4.9",
+      "reviewCount": 22331,
+      "popularityScore": 100,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:30 PM (Closed Fridays)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "uttar-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "amber-fort",
+      "slug": "amber-fort",
+      "name": "Amber Fort",
+      "location": "Rajasthan, India",
+      "district": "Jaipur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/amber-fort.webp",
+      "heroImage": "./assets/images/popular/amber-fort.webp",
+      "gallery": [
+        "./assets/images/popular/amber-fort.webp"
+      ],
+      "overview": "Experience the beauty of Amber Fort, a top destination in Rajasthan, India.",
+      "rating": "4.7",
+      "reviewCount": 35976,
+      "popularityScore": 99,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "hawa-mahal",
+      "slug": "hawa-mahal",
+      "name": "Hawa Mahal",
+      "location": "Rajasthan, India",
+      "district": "Jaipur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/hawa-mahal.webp",
+      "heroImage": "./assets/images/popular/hawa-mahal.webp",
+      "gallery": [
+        "./assets/images/popular/hawa-mahal.webp"
+      ],
+      "overview": "Experience the beauty of Hawa Mahal, a top destination in Rajasthan, India.",
+      "rating": "4.7",
+      "reviewCount": 26548,
+      "popularityScore": 98,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 4:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "golden-temple",
+      "slug": "golden-temple",
+      "name": "Golden Temple",
+      "location": "Punjab, India",
+      "district": "Amritsar",
+      "stateId": "punjab",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/golden-temple.webp",
+      "heroImage": "./assets/images/popular/golden-temple.webp",
+      "gallery": [
+        "./assets/images/popular/golden-temple.webp"
+      ],
+      "overview": "Experience the beauty of Golden Temple, a top destination in Punjab, India.",
+      "rating": "4.5",
+      "reviewCount": 2231,
+      "popularityScore": 97,
+      "priceLevel": 1,
+      "bestTimeToVisit": "November to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "punjab",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "india-gate",
+      "slug": "india-gate",
+      "name": "India Gate",
+      "location": "New Delhi, India",
+      "district": "New Delhi",
+      "stateId": "delhi",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/india-gate.webp",
+      "heroImage": "./assets/images/popular/india-gate.webp",
+      "gallery": [
+        "./assets/images/popular/india-gate.webp"
+      ],
+      "overview": "Experience the beauty of India Gate, a top destination in New Delhi, India.",
+      "rating": "4.8",
+      "reviewCount": 17546,
+      "popularityScore": 96,
+      "priceLevel": 3,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "gateway-of-india",
+      "slug": "gateway-of-india",
+      "name": "Gateway of India",
+      "location": "Maharashtra, India",
+      "district": "Mumbai",
+      "stateId": "maharashtra",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/gateway-of-india.webp",
+      "heroImage": "./assets/images/popular/gateway-of-india.webp",
+      "gallery": [
+        "./assets/images/popular/gateway-of-india.webp"
+      ],
+      "overview": "Experience the beauty of Gateway of India, a top destination in Maharashtra, India.",
+      "rating": "4.2",
+      "reviewCount": 26826,
+      "popularityScore": 95,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "maharashtra",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "charminar",
+      "slug": "charminar",
+      "name": "Charminar",
+      "location": "Telangana, India",
+      "district": "Hyderabad",
+      "stateId": "telangana",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/charminar.webp",
+      "heroImage": "./assets/images/popular/charminar.webp",
+      "gallery": [
+        "./assets/images/popular/charminar.webp"
+      ],
+      "overview": "Experience the beauty of Charminar, a top destination in Telangana, India.",
+      "rating": "5.0",
+      "reviewCount": 20828,
+      "popularityScore": 94,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:30 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "telangana",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "qutub-minar",
+      "slug": "qutub-minar",
+      "name": "Qutub Minar",
+      "location": "New Delhi, India",
+      "district": "New Delhi",
+      "stateId": "delhi",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/qutub-minar.webp",
+      "heroImage": "./assets/images/popular/qutub-minar.webp",
+      "gallery": [
+        "./assets/images/popular/qutub-minar.webp"
+      ],
+      "overview": "Experience the beauty of Qutub Minar, a top destination in New Delhi, India.",
+      "rating": "4.6",
+      "reviewCount": 2435,
+      "popularityScore": 93,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "7:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "red-fort",
+      "slug": "red-fort",
+      "name": "Red Fort",
+      "location": "New Delhi, India",
+      "district": "New Delhi",
+      "stateId": "delhi",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/red-fort.webp",
+      "heroImage": "./assets/images/popular/red-fort.webp",
+      "gallery": [
+        "./assets/images/popular/red-fort.webp"
+      ],
+      "overview": "Experience the beauty of Red Fort, a top destination in New Delhi, India.",
+      "rating": "4.6",
+      "reviewCount": 19293,
+      "popularityScore": 92,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:30 AM - 4:30 PM (Closed Mondays)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "meenakshi-amman-temple",
+      "slug": "meenakshi-amman-temple",
+      "name": "Meenakshi Amman Temple",
+      "location": "Tamil Nadu, India",
+      "district": "Madurai",
+      "stateId": "tamil-nadu",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/meenakshi-amman-temple.webp",
+      "heroImage": "./assets/images/popular/meenakshi-amman-temple.webp",
+      "gallery": [
+        "./assets/images/popular/meenakshi-amman-temple.webp"
+      ],
+      "overview": "Experience the beauty of Meenakshi Amman Temple, a top destination in Tamil Nadu, India.",
+      "rating": "4.4",
+      "reviewCount": 21276,
+      "popularityScore": 91,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "tirupati-balaji",
+      "slug": "tirupati-balaji",
+      "name": "Tirupati Balaji Temple",
+      "location": "Andhra Pradesh, India",
+      "district": "Tirupati",
+      "stateId": "andhra-pradesh",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/tirupati-balaji.webp",
+      "heroImage": "./assets/images/popular/tirupati-balaji.webp",
+      "gallery": [
+        "./assets/images/popular/tirupati-balaji.webp"
+      ],
+      "overview": "Experience the beauty of Tirupati Balaji Temple, a top destination in Andhra Pradesh, India.",
+      "rating": "5.0",
+      "reviewCount": 10828,
+      "popularityScore": 90,
+      "priceLevel": 1,
+      "bestTimeToVisit": "September to February",
+      "timings": "2:30 AM - 1:30 AM (Varies by day)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "andhra-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "mysore-palace",
+      "slug": "mysore-palace",
+      "name": "Mysore Palace",
+      "location": "Karnataka, India",
+      "district": "Mysore",
+      "stateId": "karnataka",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/mysore-palace.webp",
+      "heroImage": "./assets/images/popular/mysore-palace.webp",
+      "gallery": [
+        "./assets/images/popular/mysore-palace.webp"
+      ],
+      "overview": "Experience the beauty of Mysore Palace, a top destination in Karnataka, India.",
+      "rating": "4.3",
+      "reviewCount": 34655,
+      "popularityScore": 89,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to February",
+      "timings": "10:00 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "varanasi-ghats",
+      "slug": "varanasi-ghats",
+      "name": "Varanasi Ghats",
+      "location": "Uttar Pradesh, India",
+      "district": "Varanasi",
+      "stateId": "uttar-pradesh",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/varanasi-ghats.webp",
+      "heroImage": "./assets/images/popular/varanasi-ghats.webp",
+      "gallery": [
+        "./assets/images/popular/varanasi-ghats.webp"
+      ],
+      "overview": "Experience the beauty of Varanasi Ghats, a top destination in Uttar Pradesh, India.",
+      "rating": "4.3",
+      "reviewCount": 32685,
+      "popularityScore": 88,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "uttar-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "goa-beaches",
+      "slug": "goa-beaches",
+      "name": "Goa Beaches",
+      "location": "Goa, India",
+      "district": "North/South Goa",
+      "stateId": "goa",
+      "category": "beach",
+      "uiCategory": "beach",
+      "image": "./assets/images/popular/goa-beaches.webp",
+      "heroImage": "./assets/images/popular/goa-beaches.webp",
+      "gallery": [
+        "./assets/images/popular/goa-beaches.webp"
+      ],
+      "overview": "Experience the beauty of Goa Beaches, a top destination in Goa, India.",
+      "rating": "4.2",
+      "reviewCount": 5040,
+      "popularityScore": 87,
+      "priceLevel": 1,
+      "bestTimeToVisit": "November to February",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "beach",
+        "goa",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "kerala-backwaters",
+      "slug": "kerala-backwaters",
+      "name": "Kerala Backwaters",
+      "location": "Kerala, India",
+      "district": "Alappuzha",
+      "stateId": "kerala",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/kerala-backwaters.webp",
+      "heroImage": "./assets/images/popular/kerala-backwaters.webp",
+      "gallery": [
+        "./assets/images/popular/kerala-backwaters.webp"
+      ],
+      "overview": "Experience the beauty of Kerala Backwaters, a top destination in Kerala, India.",
+      "rating": "4.9",
+      "reviewCount": 3635,
+      "popularityScore": 86,
+      "priceLevel": 1,
+      "bestTimeToVisit": "September to March",
+      "timings": "Houseboat check-in typically 12:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "leh-ladakh",
+      "slug": "leh-ladakh",
+      "name": "Leh Ladakh",
+      "location": "Ladakh, India",
+      "district": "Leh",
+      "stateId": "ladakh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/leh-ladakh.webp",
+      "heroImage": "./assets/images/popular/leh-ladakh.webp",
+      "gallery": [
+        "./assets/images/popular/leh-ladakh.webp"
+      ],
+      "overview": "Experience the beauty of Leh Ladakh, a top destination in Ladakh, India.",
+      "rating": "4.9",
+      "reviewCount": 18070,
+      "popularityScore": 85,
+      "priceLevel": 1,
+      "bestTimeToVisit": "May to September",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "ladakh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ajanta-ellora",
+      "slug": "ajanta-ellora",
+      "name": "Ajanta and Ellora Caves",
+      "location": "Maharashtra, India",
+      "district": "Aurangabad",
+      "stateId": "maharashtra",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/ajanta-ellora.webp",
+      "heroImage": "./assets/images/popular/ajanta-ellora.webp",
+      "gallery": [
+        "./assets/images/popular/ajanta-ellora.webp"
+      ],
+      "overview": "Experience the beauty of Ajanta and Ellora Caves, a top destination in Maharashtra, India.",
+      "rating": "4.3",
+      "reviewCount": 24176,
+      "popularityScore": 84,
+      "priceLevel": 1,
+      "bestTimeToVisit": "June to March",
+      "timings": "9:00 AM - 5:00 PM (Ajanta cl. Mon, Ellora cl. Tue)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "maharashtra",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "hampi",
+      "slug": "hampi",
+      "name": "Hampi",
+      "location": "Karnataka, India",
+      "district": "Vijayanagara",
+      "stateId": "karnataka",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/hampi.webp",
+      "heroImage": "./assets/images/popular/hampi.webp",
+      "gallery": [
+        "./assets/images/popular/hampi.webp"
+      ],
+      "overview": "Experience the beauty of Hampi, a top destination in Karnataka, India.",
+      "rating": "4.8",
+      "reviewCount": 10408,
+      "popularityScore": 83,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to February",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "kanyakumari-sunset",
+      "slug": "kanyakumari-sunset",
+      "name": "Kanyakumari Sunset Point",
+      "location": "Tamil Nadu, India",
+      "district": "Kanyakumari",
+      "stateId": "tamil-nadu",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/kanyakumari-sunset.webp",
+      "heroImage": "./assets/images/popular/kanyakumari-sunset.webp",
+      "gallery": [
+        "./assets/images/popular/kanyakumari-sunset.webp"
+      ],
+      "overview": "Experience the beauty of Kanyakumari Sunset Point, a top destination in Tamil Nadu, India.",
+      "rating": "4.8",
+      "reviewCount": 4861,
+      "popularityScore": 82,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "Sunrise to Sunset",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "statue-of-unity",
+      "slug": "statue-of-unity",
+      "name": "Statue of Unity",
+      "location": "Gujarat, India",
+      "district": "Narmada",
+      "stateId": "gujarat",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/statue-of-unity.webp",
+      "heroImage": "./assets/images/popular/statue-of-unity.webp",
+      "gallery": [
+        "./assets/images/popular/statue-of-unity.webp"
+      ],
+      "overview": "Experience the beauty of Statue of Unity, a top destination in Gujarat, India.",
+      "rating": "4.3",
+      "reviewCount": 22638,
+      "popularityScore": 81,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 6:00 PM (Closed Mondays)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "gujarat",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "jagannath-temple",
+      "slug": "jagannath-temple",
+      "name": "Jagannath Temple",
+      "location": "Odisha, India",
+      "district": "Puri",
+      "stateId": "odisha",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/jagannath-temple.webp",
+      "heroImage": "./assets/images/popular/jagannath-temple.webp",
+      "gallery": [
+        "./assets/images/popular/jagannath-temple.webp"
+      ],
+      "overview": "Experience the beauty of Jagannath Temple, a top destination in Odisha, India.",
+      "rating": "4.2",
+      "reviewCount": 14042,
+      "popularityScore": 80,
+      "priceLevel": 1,
+      "bestTimeToVisit": "July to March",
+      "timings": "5:00 AM - 11:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "odisha",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ramanathaswamy-temple",
+      "slug": "ramanathaswamy-temple",
+      "name": "Ramanathaswamy Temple",
+      "location": "Tamil Nadu, India",
+      "district": "Ramanathapuram",
+      "stateId": "tamil-nadu",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/ramanathaswamy-temple.webp",
+      "heroImage": "./assets/images/popular/ramanathaswamy-temple.webp",
+      "gallery": [
+        "./assets/images/popular/ramanathaswamy-temple.webp"
+      ],
+      "overview": "Experience the beauty of Ramanathaswamy Temple, a top destination in Tamil Nadu, India.",
+      "rating": "4.7",
+      "reviewCount": 32572,
+      "popularityScore": 79,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to April",
+      "timings": "5:00 AM - 1:00 PM, 3:00 PM - 9:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "darjeeling-tea-gardens",
+      "slug": "darjeeling-tea-gardens",
+      "name": "Darjeeling Tea Gardens",
+      "location": "West Bengal, India",
+      "district": "Darjeeling",
+      "stateId": "west-bengal",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/darjeeling-tea-gardens.webp",
+      "heroImage": "./assets/images/popular/darjeeling-tea-gardens.webp",
+      "gallery": [
+        "./assets/images/popular/darjeeling-tea-gardens.webp"
+      ],
+      "overview": "Experience the beauty of Darjeeling Tea Gardens, a top destination in West Bengal, India.",
+      "rating": "4.9",
+      "reviewCount": 4233,
+      "popularityScore": 78,
+      "priceLevel": 2,
+      "bestTimeToVisit": "April to June, September to December",
+      "timings": "8:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "west-bengal",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "shimla-mall-road",
+      "slug": "shimla-mall-road",
+      "name": "Shimla Mall Road",
+      "location": "Himachal Pradesh, India",
+      "district": "Shimla",
+      "stateId": "himachal-pradesh",
+      "category": "urban",
+      "uiCategory": "urban",
+      "image": "./assets/images/popular/shimla-mall-road.webp",
+      "heroImage": "./assets/images/popular/shimla-mall-road.webp",
+      "gallery": [
+        "./assets/images/popular/shimla-mall-road.webp"
+      ],
+      "overview": "Experience the beauty of Shimla Mall Road, a top destination in Himachal Pradesh, India.",
+      "rating": "4.8",
+      "reviewCount": 7220,
+      "popularityScore": 77,
+      "priceLevel": 1,
+      "bestTimeToVisit": "March to June, November to January",
+      "timings": "24 Hours (Shops close early)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "urban",
+        "himachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "manali",
+      "slug": "manali",
+      "name": "Manali Hill Station",
+      "location": "Himachal Pradesh, India",
+      "district": "Kullu",
+      "stateId": "himachal-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/manali.webp",
+      "heroImage": "./assets/images/popular/manali.webp",
+      "gallery": [
+        "./assets/images/popular/manali.webp"
+      ],
+      "overview": "Experience the beauty of Manali Hill Station, a top destination in Himachal Pradesh, India.",
+      "rating": "4.5",
+      "reviewCount": 29231,
+      "popularityScore": 76,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to June",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "himachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ooty",
+      "slug": "ooty",
+      "name": "Ooty Hill Station",
+      "location": "Tamil Nadu, India",
+      "district": "Nilgiris",
+      "stateId": "tamil-nadu",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/ooty.webp",
+      "heroImage": "./assets/images/popular/ooty.webp",
+      "gallery": [
+        "./assets/images/popular/ooty.webp"
+      ],
+      "overview": "Experience the beauty of Ooty Hill Station, a top destination in Tamil Nadu, India.",
+      "rating": "4.7",
+      "reviewCount": 26560,
+      "popularityScore": 75,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to June",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "victoria-memorial",
+      "slug": "victoria-memorial",
+      "name": "Victoria Memorial",
+      "location": "West Bengal, India",
+      "district": "Kolkata",
+      "stateId": "west-bengal",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/victoria-memorial.webp",
+      "heroImage": "./assets/images/popular/victoria-memorial.webp",
+      "gallery": [
+        "./assets/images/popular/victoria-memorial.webp"
+      ],
+      "overview": "Experience the beauty of Victoria Memorial, a top destination in West Bengal, India.",
+      "rating": "4.3",
+      "reviewCount": 29021,
+      "popularityScore": 74,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "10:00 AM - 6:00 PM (Museum), 5:30 AM - 6:00 PM (Gardens)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "west-bengal",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "humayuns-tomb",
+      "slug": "humayuns-tomb",
+      "name": "Humayuns Tomb",
+      "location": "New Delhi, India",
+      "district": "New Delhi",
+      "stateId": "delhi",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/humayuns-tomb.webp",
+      "heroImage": "./assets/images/popular/humayuns-tomb.webp",
+      "gallery": [
+        "./assets/images/popular/humayuns-tomb.webp"
+      ],
+      "overview": "Experience the beauty of Humayuns Tomb, a top destination in New Delhi, India.",
+      "rating": "4.4",
+      "reviewCount": 10837,
+      "popularityScore": 73,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "lotus-temple",
+      "slug": "lotus-temple",
+      "name": "Lotus Temple",
+      "location": "New Delhi, India",
+      "district": "New Delhi",
+      "stateId": "delhi",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/lotus-temple.webp",
+      "heroImage": "./assets/images/popular/lotus-temple.webp",
+      "gallery": [
+        "./assets/images/popular/lotus-temple.webp"
+      ],
+      "overview": "Experience the beauty of Lotus Temple, a top destination in New Delhi, India.",
+      "rating": "4.8",
+      "reviewCount": 39242,
+      "popularityScore": 72,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:30 AM - 5:00 PM (Closed Mondays)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "marine-drive",
+      "slug": "marine-drive",
+      "name": "Marine Drive",
+      "location": "Maharashtra, India",
+      "district": "Mumbai",
+      "stateId": "maharashtra",
+      "category": "urban",
+      "uiCategory": "urban",
+      "image": "./assets/images/popular/marine-drive.webp",
+      "heroImage": "./assets/images/popular/marine-drive.webp",
+      "gallery": [
+        "./assets/images/popular/marine-drive.webp"
+      ],
+      "overview": "Experience the beauty of Marine Drive, a top destination in Maharashtra, India.",
+      "rating": "4.4",
+      "reviewCount": 29567,
+      "popularityScore": 71,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "urban",
+        "maharashtra",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "brihadeeswarar-temple",
+      "slug": "brihadeeswarar-temple",
+      "name": "Brihadeeswarar Temple",
+      "location": "Tamil Nadu, India",
+      "district": "Thanjavur",
+      "stateId": "tamil-nadu",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/brihadeeswarar-temple.webp",
+      "heroImage": "./assets/images/popular/brihadeeswarar-temple.webp",
+      "gallery": [
+        "./assets/images/popular/brihadeeswarar-temple.webp"
+      ],
+      "overview": "Experience the beauty of Brihadeeswarar Temple, a top destination in Tamil Nadu, India.",
+      "rating": "4.6",
+      "reviewCount": 20901,
+      "popularityScore": 70,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "konark-sun-temple",
+      "slug": "konark-sun-temple",
+      "name": "Konark Sun Temple",
+      "location": "Odisha, India",
+      "district": "Puri",
+      "stateId": "odisha",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/konark-sun-temple.webp",
+      "heroImage": "./assets/images/popular/konark-sun-temple.webp",
+      "gallery": [
+        "./assets/images/popular/konark-sun-temple.webp"
+      ],
+      "overview": "Experience the beauty of Konark Sun Temple, a top destination in Odisha, India.",
+      "rating": "4.5",
+      "reviewCount": 44449,
+      "popularityScore": 69,
+      "priceLevel": 2,
+      "bestTimeToVisit": "September to March",
+      "timings": "6:00 AM - 8:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "odisha",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "khajuraho-temples",
+      "slug": "khajuraho-temples",
+      "name": "Khajuraho Temples",
+      "location": "Madhya Pradesh, India",
+      "district": "Chhatarpur",
+      "stateId": "madhya-pradesh",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/khajuraho-temples.webp",
+      "heroImage": "./assets/images/popular/khajuraho-temples.webp",
+      "gallery": [
+        "./assets/images/popular/khajuraho-temples.webp"
+      ],
+      "overview": "Experience the beauty of Khajuraho Temples, a top destination in Madhya Pradesh, India.",
+      "rating": "4.6",
+      "reviewCount": 50475,
+      "popularityScore": 68,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to February",
+      "timings": "8:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "madhya-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "dal-lake",
+      "slug": "dal-lake",
+      "name": "Dal Lake",
+      "location": "Jammu & Kashmir, India",
+      "district": "Srinagar",
+      "stateId": "jammu-and-kashmir",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/dal-lake.webp",
+      "heroImage": "./assets/images/popular/dal-lake.webp",
+      "gallery": [
+        "./assets/images/popular/dal-lake.webp"
+      ],
+      "overview": "Experience the beauty of Dal Lake, a top destination in Jammu & Kashmir, India.",
+      "rating": "5.0",
+      "reviewCount": 46428,
+      "popularityScore": 67,
+      "priceLevel": 2,
+      "bestTimeToVisit": "May to November",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "jammu-and-kashmir",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "vaishno-devi",
+      "slug": "vaishno-devi",
+      "name": "Vaishno Devi",
+      "location": "Jammu & Kashmir, India",
+      "district": "Katra",
+      "stateId": "jammu-and-kashmir",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/vaishno-devi.webp",
+      "heroImage": "./assets/images/popular/vaishno-devi.webp",
+      "gallery": [
+        "./assets/images/popular/vaishno-devi.webp"
+      ],
+      "overview": "Experience the beauty of Vaishno Devi, a top destination in Jammu & Kashmir, India.",
+      "rating": "4.5",
+      "reviewCount": 30610,
+      "popularityScore": 66,
+      "priceLevel": 1,
+      "bestTimeToVisit": "March to October",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "jammu-and-kashmir",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "somnath-temple",
+      "slug": "somnath-temple",
+      "name": "Somnath Temple",
+      "location": "Gujarat, India",
+      "district": "Gir Somnath",
+      "stateId": "gujarat",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/somnath-temple.webp",
+      "heroImage": "./assets/images/popular/somnath-temple.webp",
+      "gallery": [
+        "./assets/images/popular/somnath-temple.webp"
+      ],
+      "overview": "Experience the beauty of Somnath Temple, a top destination in Gujarat, India.",
+      "rating": "4.4",
+      "reviewCount": 38219,
+      "popularityScore": 65,
+      "priceLevel": 2,
+      "bestTimeToVisit": "September to March",
+      "timings": "6:00 AM - 10:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "gujarat",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "amarnath-cave",
+      "slug": "amarnath-cave",
+      "name": "Amarnath Cave",
+      "location": "Jammu & Kashmir, India",
+      "district": "Anantnag",
+      "stateId": "jammu-and-kashmir",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/amarnath-cave.webp",
+      "heroImage": "./assets/images/popular/amarnath-cave.webp",
+      "gallery": [
+        "./assets/images/popular/amarnath-cave.webp"
+      ],
+      "overview": "Experience the beauty of Amarnath Cave, a top destination in Jammu & Kashmir, India.",
+      "rating": "4.5",
+      "reviewCount": 10412,
+      "popularityScore": 64,
+      "priceLevel": 2,
+      "bestTimeToVisit": "July to August",
+      "timings": "Open specific dates annually",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "jammu-and-kashmir",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "sanchi-stupa",
+      "slug": "sanchi-stupa",
+      "name": "Sanchi Stupa",
+      "location": "Madhya Pradesh, India",
+      "district": "Raisen",
+      "stateId": "madhya-pradesh",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/sanchi-stupa.webp",
+      "heroImage": "./assets/images/popular/sanchi-stupa.webp",
+      "gallery": [
+        "./assets/images/popular/sanchi-stupa.webp"
+      ],
+      "overview": "Experience the beauty of Sanchi Stupa, a top destination in Madhya Pradesh, India.",
+      "rating": "4.4",
+      "reviewCount": 6856,
+      "popularityScore": 63,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:30 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "madhya-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "gulmarg",
+      "slug": "gulmarg",
+      "name": "Gulmarg",
+      "location": "Jammu & Kashmir, India",
+      "district": "Baramulla",
+      "stateId": "jammu-and-kashmir",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/gulmarg.webp",
+      "heroImage": "./assets/images/popular/gulmarg.webp",
+      "gallery": [
+        "./assets/images/popular/gulmarg.webp"
+      ],
+      "overview": "Experience the beauty of Gulmarg, a top destination in Jammu & Kashmir, India.",
+      "rating": "4.6",
+      "reviewCount": 38966,
+      "popularityScore": 62,
+      "priceLevel": 1,
+      "bestTimeToVisit": "December to March (Snow), April to June (Summer)",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "jammu-and-kashmir",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "sonamarg",
+      "slug": "sonamarg",
+      "name": "Sonamarg",
+      "location": "Jammu & Kashmir, India",
+      "district": "Ganderbal",
+      "stateId": "jammu-and-kashmir",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/sonamarg.webp",
+      "heroImage": "./assets/images/popular/sonamarg.webp",
+      "gallery": [
+        "./assets/images/popular/sonamarg.webp"
+      ],
+      "overview": "Experience the beauty of Sonamarg, a top destination in Jammu & Kashmir, India.",
+      "rating": "4.8",
+      "reviewCount": 25437,
+      "popularityScore": 61,
+      "priceLevel": 2,
+      "bestTimeToVisit": "April to October",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "jammu-and-kashmir",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "badrinath-temple",
+      "slug": "badrinath-temple",
+      "name": "Badrinath Temple",
+      "location": "Uttarakhand, India",
+      "district": "Chamoli",
+      "stateId": "uttarakhand",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/badrinath-temple.webp",
+      "heroImage": "./assets/images/popular/badrinath-temple.webp",
+      "gallery": [
+        "./assets/images/popular/badrinath-temple.webp"
+      ],
+      "overview": "Experience the beauty of Badrinath Temple, a top destination in Uttarakhand, India.",
+      "rating": "4.5",
+      "reviewCount": 22459,
+      "popularityScore": 60,
+      "priceLevel": 2,
+      "bestTimeToVisit": "May to June, September to October",
+      "timings": "4:00 AM - 12:00 PM, 3:00 PM - 9:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "kedarnath-temple",
+      "slug": "kedarnath-temple",
+      "name": "Kedarnath Temple",
+      "location": "Uttarakhand, India",
+      "district": "Rudraprayag",
+      "stateId": "uttarakhand",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/kedarnath-temple.webp",
+      "heroImage": "./assets/images/popular/kedarnath-temple.webp",
+      "gallery": [
+        "./assets/images/popular/kedarnath-temple.webp"
+      ],
+      "overview": "Experience the beauty of Kedarnath Temple, a top destination in Uttarakhand, India.",
+      "rating": "4.4",
+      "reviewCount": 28848,
+      "popularityScore": 59,
+      "priceLevel": 3,
+      "bestTimeToVisit": "May to June, September to October",
+      "timings": "4:00 AM - 12:00 PM, 3:00 PM - 9:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "jim-corbett-national-park",
+      "slug": "jim-corbett-national-park",
+      "name": "Jim Corbett National Park",
+      "location": "Uttarakhand, India",
+      "district": "Nainital",
+      "stateId": "uttarakhand",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/jim-corbett-national-park.webp",
+      "heroImage": "./assets/images/popular/jim-corbett-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/jim-corbett-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Jim Corbett National Park, a top destination in Uttarakhand, India.",
+      "rating": "4.4",
+      "reviewCount": 20870,
+      "popularityScore": 58,
+      "priceLevel": 1,
+      "bestTimeToVisit": "November to June",
+      "timings": "6:00 AM - 10:00 AM, 2:00 PM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "kaziranga-national-park",
+      "slug": "kaziranga-national-park",
+      "name": "Kaziranga National Park",
+      "location": "Assam, India",
+      "district": "Golaghat",
+      "stateId": "assam",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/kaziranga-national-park.webp",
+      "heroImage": "./assets/images/popular/kaziranga-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/kaziranga-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Kaziranga National Park, a top destination in Assam, India.",
+      "rating": "4.6",
+      "reviewCount": 33937,
+      "popularityScore": 57,
+      "priceLevel": 1,
+      "bestTimeToVisit": "November to April",
+      "timings": "7:30 AM - 10:00 AM, 1:30 PM - 3:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "assam",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ranthambore-national-park",
+      "slug": "ranthambore-national-park",
+      "name": "Ranthambore National Park",
+      "location": "Rajasthan, India",
+      "district": "Sawai Madhopur",
+      "stateId": "rajasthan",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/ranthambore-national-park.webp",
+      "heroImage": "./assets/images/popular/ranthambore-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/ranthambore-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Ranthambore National Park, a top destination in Rajasthan, India.",
+      "rating": "4.6",
+      "reviewCount": 45663,
+      "popularityScore": 56,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to June",
+      "timings": "6:30 AM - 10:00 AM, 2:30 PM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "mount-abu",
+      "slug": "mount-abu",
+      "name": "Mount Abu",
+      "location": "Rajasthan, India",
+      "district": "Sirohi",
+      "stateId": "rajasthan",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/mount-abu.webp",
+      "heroImage": "./assets/images/popular/mount-abu.webp",
+      "gallery": [
+        "./assets/images/popular/mount-abu.webp"
+      ],
+      "overview": "Experience the beauty of Mount Abu, a top destination in Rajasthan, India.",
+      "rating": "4.8",
+      "reviewCount": 35348,
+      "popularityScore": 55,
+      "priceLevel": 1,
+      "bestTimeToVisit": "November to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "dilwara-temples",
+      "slug": "dilwara-temples",
+      "name": "Dilwara Temples",
+      "location": "Rajasthan, India",
+      "district": "Sirohi",
+      "stateId": "rajasthan",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/dilwara-temples.webp",
+      "heroImage": "./assets/images/popular/dilwara-temples.webp",
+      "gallery": [
+        "./assets/images/popular/dilwara-temples.webp"
+      ],
+      "overview": "Experience the beauty of Dilwara Temples, a top destination in Rajasthan, India.",
+      "rating": "4.4",
+      "reviewCount": 20062,
+      "popularityScore": 54,
+      "priceLevel": 2,
+      "bestTimeToVisit": "November to March",
+      "timings": "12:00 PM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "shore-temple",
+      "slug": "shore-temple",
+      "name": "Shore Temple",
+      "location": "Tamil Nadu, India",
+      "district": "Mahabalipuram",
+      "stateId": "tamil-nadu",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/shore-temple.webp",
+      "heroImage": "./assets/images/popular/shore-temple.webp",
+      "gallery": [
+        "./assets/images/popular/shore-temple.webp"
+      ],
+      "overview": "Experience the beauty of Shore Temple, a top destination in Tamil Nadu, India.",
+      "rating": "4.4",
+      "reviewCount": 11268,
+      "popularityScore": 53,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "varkala-cliff",
+      "slug": "varkala-cliff",
+      "name": "Varkala Cliff",
+      "location": "Kerala, India",
+      "district": "Thiruvananthapuram",
+      "stateId": "kerala",
+      "category": "beach",
+      "uiCategory": "beach",
+      "image": "./assets/images/popular/varkala-cliff.webp",
+      "heroImage": "./assets/images/popular/varkala-cliff.webp",
+      "gallery": [
+        "./assets/images/popular/varkala-cliff.webp"
+      ],
+      "overview": "Experience the beauty of Varkala Cliff, a top destination in Kerala, India.",
+      "rating": "4.7",
+      "reviewCount": 13486,
+      "popularityScore": 52,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours Open",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "beach",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "jog-falls",
+      "slug": "jog-falls",
+      "name": "Jog Falls",
+      "location": "Karnataka, India",
+      "district": "Shivamogga",
+      "stateId": "karnataka",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/jog-falls.webp",
+      "heroImage": "./assets/images/popular/jog-falls.webp",
+      "gallery": [
+        "./assets/images/popular/jog-falls.webp"
+      ],
+      "overview": "Experience the beauty of Jog Falls, a top destination in Karnataka, India.",
+      "rating": "4.4",
+      "reviewCount": 32672,
+      "popularityScore": 51,
+      "priceLevel": 2,
+      "bestTimeToVisit": "August to December",
+      "timings": "7:30 AM - 9:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "athirappilly-waterfalls",
+      "slug": "athirappilly-waterfalls",
+      "name": "Athirappilly Waterfalls",
+      "location": "Kerala, India",
+      "district": "Thrissur",
+      "stateId": "kerala",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/athirappilly-waterfalls.webp",
+      "heroImage": "./assets/images/popular/athirappilly-waterfalls.webp",
+      "gallery": [
+        "./assets/images/popular/athirappilly-waterfalls.webp"
+      ],
+      "overview": "Experience the beauty of Athirappilly Waterfalls, a top destination in Kerala, India.",
+      "rating": "4.7",
+      "reviewCount": 11709,
+      "popularityScore": 50,
+      "priceLevel": 1,
+      "bestTimeToVisit": "June to September",
+      "timings": "8:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "dudhsagar-falls",
+      "slug": "dudhsagar-falls",
+      "name": "Dudhsagar Falls",
+      "location": "Goa, India",
+      "district": "South Goa",
+      "stateId": "goa",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/dudhsagar-falls.webp",
+      "heroImage": "./assets/images/popular/dudhsagar-falls.webp",
+      "gallery": [
+        "./assets/images/popular/dudhsagar-falls.webp"
+      ],
+      "overview": "Experience the beauty of Dudhsagar Falls, a top destination in Goa, India.",
+      "rating": "4.3",
+      "reviewCount": 42820,
+      "popularityScore": 49,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to May",
+      "timings": "9:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "goa",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "chilika-lake",
+      "slug": "chilika-lake",
+      "name": "Chilika Lake",
+      "location": "Odisha, India",
+      "district": "Puri",
+      "stateId": "odisha",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/chilika-lake.webp",
+      "heroImage": "./assets/images/popular/chilika-lake.webp",
+      "gallery": [
+        "./assets/images/popular/chilika-lake.webp"
+      ],
+      "overview": "Experience the beauty of Chilika Lake, a top destination in Odisha, India.",
+      "rating": "4.4",
+      "reviewCount": 23727,
+      "popularityScore": 48,
+      "priceLevel": 2,
+      "bestTimeToVisit": "November to February",
+      "timings": "6:00 AM - 7:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "odisha",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "pangong-lake",
+      "slug": "pangong-lake",
+      "name": "Pangong Lake",
+      "location": "Ladakh, India",
+      "district": "Leh",
+      "stateId": "ladakh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/pangong-lake.webp",
+      "heroImage": "./assets/images/popular/pangong-lake.webp",
+      "gallery": [
+        "./assets/images/popular/pangong-lake.webp"
+      ],
+      "overview": "Experience the beauty of Pangong Lake, a top destination in Ladakh, India.",
+      "rating": "4.3",
+      "reviewCount": 50114,
+      "popularityScore": 47,
+      "priceLevel": 1,
+      "bestTimeToVisit": "May to September",
+      "timings": "24 Hours (Inner Line Permit required)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "ladakh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "lavasa",
+      "slug": "lavasa",
+      "name": "Lavasa",
+      "location": "Maharashtra, India",
+      "district": "Pune",
+      "stateId": "maharashtra",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/lavasa.webp",
+      "heroImage": "./assets/images/popular/lavasa.webp",
+      "gallery": [
+        "./assets/images/popular/lavasa.webp"
+      ],
+      "overview": "Experience the beauty of Lavasa, a top destination in Maharashtra, India.",
+      "rating": "4.4",
+      "reviewCount": 46727,
+      "popularityScore": 46,
+      "priceLevel": 1,
+      "bestTimeToVisit": "September to March",
+      "timings": "24 Hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "maharashtra",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "dzukou-valley",
+      "slug": "dzukou-valley",
+      "name": "Dzukou Valley",
+      "location": "Uttarakhand, India",
+      "district": "",
+      "stateId": "uttarakhand",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/dzukou-valley.webp",
+      "heroImage": "./assets/images/popular/dzukou-valley.webp",
+      "gallery": [
+        "./assets/images/popular/dzukou-valley.webp"
+      ],
+      "overview": "Experience the beauty of Dzukou Valley, a top destination in Uttarakhand, India.",
+      "rating": "4.4",
+      "reviewCount": 25530,
+      "popularityScore": 45,
+      "priceLevel": 2,
+      "bestTimeToVisit": "Oct - Mar",
+      "timings": "09:00 AM - 06:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "loktak-lake",
+      "slug": "loktak-lake",
+      "name": "Loktak Lake",
+      "location": "Manipur, India",
+      "district": "",
+      "stateId": "manipur",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/loktak-lake.webp",
+      "heroImage": "./assets/images/popular/loktak-lake.webp",
+      "gallery": [
+        "./assets/images/popular/loktak-lake.webp"
+      ],
+      "overview": "Experience the beauty of Loktak Lake, a top destination in Manipur, India.",
+      "rating": "4.8",
+      "reviewCount": 7203,
+      "popularityScore": 44,
+      "priceLevel": 3,
+      "bestTimeToVisit": "Oct - Mar",
+      "timings": "09:00 AM - 06:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "manipur",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "majuli-island",
+      "slug": "majuli-island",
+      "name": "Majuli Island",
+      "location": "Assam, India",
+      "district": "",
+      "stateId": "assam",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/majuli-island.webp",
+      "heroImage": "./assets/images/popular/majuli-island.webp",
+      "gallery": [
+        "./assets/images/popular/majuli-island.webp"
+      ],
+      "overview": "Experience the beauty of Majuli Island, a top destination in Assam, India.",
+      "rating": "4.9",
+      "reviewCount": 17709,
+      "popularityScore": 43,
+      "priceLevel": 1,
+      "bestTimeToVisit": "Oct - Mar",
+      "timings": "09:00 AM - 06:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "assam",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "living-root-bridges",
+      "slug": "living-root-bridges",
+      "name": "Living Root Bridges",
+      "location": "Meghalaya, India",
+      "district": "Cherrapunji",
+      "stateId": "meghalaya",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/living-root-bridges.webp",
+      "heroImage": "./assets/images/popular/living-root-bridges.webp",
+      "gallery": [
+        "./assets/images/popular/living-root-bridges.webp"
+      ],
+      "overview": "Experience the beauty of Living Root Bridges, a top destination in Meghalaya, India.",
+      "rating": "4.9",
+      "reviewCount": 8069,
+      "popularityScore": 42,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to April",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "meghalaya",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "elephanta-caves",
+      "slug": "elephanta-caves",
+      "name": "Elephanta Caves",
+      "location": "Maharashtra, India",
+      "district": "Mumbai",
+      "stateId": "maharashtra",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/elephanta-caves.webp",
+      "heroImage": "./assets/images/popular/elephanta-caves.webp",
+      "gallery": [
+        "./assets/images/popular/elephanta-caves.webp"
+      ],
+      "overview": "Experience the beauty of Elephanta Caves, a top destination in Maharashtra, India.",
+      "rating": "4.6",
+      "reviewCount": 4869,
+      "popularityScore": 41,
+      "priceLevel": 2,
+      "bestTimeToVisit": "November to March",
+      "timings": "9:00 AM - 5:30 PM (Closed Monday)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "maharashtra",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "fatehpur-sikri",
+      "slug": "fatehpur-sikri",
+      "name": "Fatehpur Sikri",
+      "location": "Uttar Pradesh, India",
+      "district": "Fatehpur Sikri",
+      "stateId": "uttar-pradesh",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/fatehpur-sikri.webp",
+      "heroImage": "./assets/images/popular/fatehpur-sikri.webp",
+      "gallery": [
+        "./assets/images/popular/fatehpur-sikri.webp"
+      ],
+      "overview": "Experience the beauty of Fatehpur Sikri, a top destination in Uttar Pradesh, India.",
+      "rating": "4.4",
+      "reviewCount": 31834,
+      "popularityScore": 40,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "uttar-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "rani-ki-vav",
+      "slug": "rani-ki-vav",
+      "name": "Rani ki Vav",
+      "location": "Gujarat, India",
+      "district": "Patan",
+      "stateId": "gujarat",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/rani-ki-vav.webp",
+      "heroImage": "./assets/images/popular/rani-ki-vav.webp",
+      "gallery": [
+        "./assets/images/popular/rani-ki-vav.webp"
+      ],
+      "overview": "Experience the beauty of Rani ki Vav, a top destination in Gujarat, India.",
+      "rating": "4.6",
+      "reviewCount": 12899,
+      "popularityScore": 39,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "gujarat",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "valley-of-flowers",
+      "slug": "valley-of-flowers",
+      "name": "Valley of Flowers",
+      "location": "Uttarakhand, India",
+      "district": "Joshimath",
+      "stateId": "uttarakhand",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/valley-of-flowers.webp",
+      "heroImage": "./assets/images/popular/valley-of-flowers.webp",
+      "gallery": [
+        "./assets/images/popular/valley-of-flowers.webp"
+      ],
+      "overview": "Experience the beauty of Valley of Flowers, a top destination in Uttarakhand, India.",
+      "rating": "4.5",
+      "reviewCount": 12515,
+      "popularityScore": 38,
+      "priceLevel": 2,
+      "bestTimeToVisit": "July to September",
+      "timings": "7:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "hemis-monastery",
+      "slug": "hemis-monastery",
+      "name": "Hemis Monastery",
+      "location": "Ladakh, India",
+      "district": "Leh",
+      "stateId": "ladakh",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/hemis-monastery.webp",
+      "heroImage": "./assets/images/popular/hemis-monastery.webp",
+      "gallery": [
+        "./assets/images/popular/hemis-monastery.webp"
+      ],
+      "overview": "Experience the beauty of Hemis Monastery, a top destination in Ladakh, India.",
+      "rating": "4.3",
+      "reviewCount": 11646,
+      "popularityScore": 37,
+      "priceLevel": 2,
+      "bestTimeToVisit": "May to September",
+      "timings": "8:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "ladakh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "sun-temple-modhera",
+      "slug": "sun-temple-modhera",
+      "name": "Sun Temple Modhera",
+      "location": "Gujarat, India",
+      "district": "Modhera",
+      "stateId": "gujarat",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/sun-temple-modhera.webp",
+      "heroImage": "./assets/images/popular/sun-temple-modhera.webp",
+      "gallery": [
+        "./assets/images/popular/sun-temple-modhera.webp"
+      ],
+      "overview": "Experience the beauty of Sun Temple Modhera, a top destination in Gujarat, India.",
+      "rating": "4.9",
+      "reviewCount": 21255,
+      "popularityScore": 36,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "gujarat",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "akshardham-temple",
+      "slug": "akshardham-temple",
+      "name": "Akshardham Temple",
+      "location": "New Delhi, India",
+      "district": "Delhi",
+      "stateId": "delhi",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/akshardham-temple.webp",
+      "heroImage": "./assets/images/popular/akshardham-temple.webp",
+      "gallery": [
+        "./assets/images/popular/akshardham-temple.webp"
+      ],
+      "overview": "Experience the beauty of Akshardham Temple, a top destination in New Delhi, India.",
+      "rating": "4.6",
+      "reviewCount": 43067,
+      "popularityScore": 35,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "10:00 AM - 6:30 PM (Closed Monday)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "delhi",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "patwon-ki-haveli",
+      "slug": "patwon-ki-haveli",
+      "name": "Patwon Ki Haveli",
+      "location": "Rajasthan, India",
+      "district": "Jaisalmer",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/patwon-ki-haveli.webp",
+      "heroImage": "./assets/images/popular/patwon-ki-haveli.webp",
+      "gallery": [
+        "./assets/images/popular/patwon-ki-haveli.webp"
+      ],
+      "overview": "Experience the beauty of Patwon Ki Haveli, a top destination in Rajasthan, India.",
+      "rating": "4.5",
+      "reviewCount": 5342,
+      "popularityScore": 34,
+      "priceLevel": 3,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "jaisalmer-fort",
+      "slug": "jaisalmer-fort",
+      "name": "Jaisalmer Fort",
+      "location": "Rajasthan, India",
+      "district": "Jaisalmer",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/jaisalmer-fort.webp",
+      "heroImage": "./assets/images/popular/jaisalmer-fort.webp",
+      "gallery": [
+        "./assets/images/popular/jaisalmer-fort.webp"
+      ],
+      "overview": "Experience the beauty of Jaisalmer Fort, a top destination in Rajasthan, India.",
+      "rating": "4.3",
+      "reviewCount": 35975,
+      "popularityScore": 33,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "mehrangarh-fort",
+      "slug": "mehrangarh-fort",
+      "name": "Mehrangarh Fort",
+      "location": "Rajasthan, India",
+      "district": "Jodhpur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/mehrangarh-fort.webp",
+      "heroImage": "./assets/images/popular/mehrangarh-fort.webp",
+      "gallery": [
+        "./assets/images/popular/mehrangarh-fort.webp"
+      ],
+      "overview": "Experience the beauty of Mehrangarh Fort, a top destination in Rajasthan, India.",
+      "rating": "4.6",
+      "reviewCount": 42983,
+      "popularityScore": 32,
+      "priceLevel": 3,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "chittorgarh-fort",
+      "slug": "chittorgarh-fort",
+      "name": "Chittorgarh Fort",
+      "location": "Rajasthan, India",
+      "district": "Chittorgarh",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/chittorgarh-fort.webp",
+      "heroImage": "./assets/images/popular/chittorgarh-fort.webp",
+      "gallery": [
+        "./assets/images/popular/chittorgarh-fort.webp"
+      ],
+      "overview": "Experience the beauty of Chittorgarh Fort, a top destination in Rajasthan, India.",
+      "rating": "4.9",
+      "reviewCount": 41191,
+      "popularityScore": 31,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ranakpur-jain-temple",
+      "slug": "ranakpur-jain-temple",
+      "name": "Ranakpur Jain Temple",
+      "location": "Rajasthan, India",
+      "district": "Ranakpur",
+      "stateId": "rajasthan",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/ranakpur-jain-temple.webp",
+      "heroImage": "./assets/images/popular/ranakpur-jain-temple.webp",
+      "gallery": [
+        "./assets/images/popular/ranakpur-jain-temple.webp"
+      ],
+      "overview": "Experience the beauty of Ranakpur Jain Temple, a top destination in Rajasthan, India.",
+      "rating": "4.3",
+      "reviewCount": 37972,
+      "popularityScore": 30,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "12:00 PM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "gir-national-park",
+      "slug": "gir-national-park",
+      "name": "Gir National Park",
+      "location": "Gujarat, India",
+      "district": "Sasan Gir",
+      "stateId": "gujarat",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/gir-national-park.webp",
+      "heroImage": "./assets/images/popular/gir-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/gir-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Gir National Park, a top destination in Gujarat, India.",
+      "rating": "4.8",
+      "reviewCount": 22775,
+      "popularityScore": 29,
+      "priceLevel": 1,
+      "bestTimeToVisit": "December to March",
+      "timings": "6:30 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "gujarat",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "periyar-national-park",
+      "slug": "periyar-national-park",
+      "name": "Periyar National Park",
+      "location": "Kerala, India",
+      "district": "Thekkady",
+      "stateId": "kerala",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/periyar-national-park.webp",
+      "heroImage": "./assets/images/popular/periyar-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/periyar-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Periyar National Park, a top destination in Kerala, India.",
+      "rating": "4.4",
+      "reviewCount": 2770,
+      "popularityScore": 28,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "bandhavgarh-national-park",
+      "slug": "bandhavgarh-national-park",
+      "name": "Bandhavgarh National Park",
+      "location": "Madhya Pradesh, India",
+      "district": "Umaria",
+      "stateId": "madhya-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/bandhavgarh-national-park.webp",
+      "heroImage": "./assets/images/popular/bandhavgarh-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/bandhavgarh-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Bandhavgarh National Park, a top destination in Madhya Pradesh, India.",
+      "rating": "4.5",
+      "reviewCount": 22285,
+      "popularityScore": 27,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to June",
+      "timings": "6:00 AM - 11:00 AM, 3:00 PM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "madhya-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "sundarbans-mangrove-forest",
+      "slug": "sundarbans-mangrove-forest",
+      "name": "Sundarbans Mangrove Forest",
+      "location": "West Bengal, India",
+      "district": "Sundarbans",
+      "stateId": "west-bengal",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/sundarbans-mangrove-forest.webp",
+      "heroImage": "./assets/images/popular/sundarbans-mangrove-forest.webp",
+      "gallery": [
+        "./assets/images/popular/sundarbans-mangrove-forest.webp"
+      ],
+      "overview": "Experience the beauty of Sundarbans Mangrove Forest, a top destination in West Bengal, India.",
+      "rating": "4.9",
+      "reviewCount": 39781,
+      "popularityScore": 26,
+      "priceLevel": 2,
+      "bestTimeToVisit": "November to March",
+      "timings": "8:00 AM - 4:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "west-bengal",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "nanda-devi-national-park",
+      "slug": "nanda-devi-national-park",
+      "name": "Nanda Devi National Park",
+      "location": "Uttarakhand, India",
+      "district": "Joshimath",
+      "stateId": "uttarakhand",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/nanda-devi-national-park.webp",
+      "heroImage": "./assets/images/popular/nanda-devi-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/nanda-devi-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Nanda Devi National Park, a top destination in Uttarakhand, India.",
+      "rating": "4.6",
+      "reviewCount": 47475,
+      "popularityScore": 25,
+      "priceLevel": 3,
+      "bestTimeToVisit": "May to October",
+      "timings": "Permit-based entry",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "pamban-bridge",
+      "slug": "pamban-bridge",
+      "name": "Pamban Bridge",
+      "location": "Tamil Nadu, India",
+      "district": "Rameswaram",
+      "stateId": "tamil-nadu",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/pamban-bridge.webp",
+      "heroImage": "./assets/images/popular/pamban-bridge.webp",
+      "gallery": [
+        "./assets/images/popular/pamban-bridge.webp"
+      ],
+      "overview": "Experience the beauty of Pamban Bridge, a top destination in Tamil Nadu, India.",
+      "rating": "4.6",
+      "reviewCount": 34745,
+      "popularityScore": 24,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "dashashwamedh-ghat",
+      "slug": "dashashwamedh-ghat",
+      "name": "Dashashwamedh Ghat",
+      "location": "Uttar Pradesh, India",
+      "district": "Varanasi",
+      "stateId": "uttar-pradesh",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/dashashwamedh-ghat.webp",
+      "heroImage": "./assets/images/popular/dashashwamedh-ghat.webp",
+      "gallery": [
+        "./assets/images/popular/dashashwamedh-ghat.webp"
+      ],
+      "overview": "Experience the beauty of Dashashwamedh Ghat, a top destination in Uttar Pradesh, India.",
+      "rating": "4.6",
+      "reviewCount": 21336,
+      "popularityScore": 23,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "Open 24 hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "uttar-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "ziro-valley",
+      "slug": "ziro-valley",
+      "name": "Ziro Valley",
+      "location": "Arunachal Pradesh, India",
+      "district": "Ziro",
+      "stateId": "arunachal-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/ziro-valley.webp",
+      "heroImage": "./assets/images/popular/ziro-valley.webp",
+      "gallery": [
+        "./assets/images/popular/ziro-valley.webp"
+      ],
+      "overview": "Experience the beauty of Ziro Valley, a top destination in Arunachal Pradesh, India.",
+      "rating": "4.7",
+      "reviewCount": 50721,
+      "popularityScore": 22,
+      "priceLevel": 1,
+      "bestTimeToVisit": "March to October",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "arunachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "tawang-monastery",
+      "slug": "tawang-monastery",
+      "name": "Tawang Monastery",
+      "location": "Arunachal Pradesh, India",
+      "district": "Tawang",
+      "stateId": "arunachal-pradesh",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/tawang-monastery.webp",
+      "heroImage": "./assets/images/popular/tawang-monastery.webp",
+      "gallery": [
+        "./assets/images/popular/tawang-monastery.webp"
+      ],
+      "overview": "Experience the beauty of Tawang Monastery, a top destination in Arunachal Pradesh, India.",
+      "rating": "4.7",
+      "reviewCount": 3532,
+      "popularityScore": 21,
+      "priceLevel": 2,
+      "bestTimeToVisit": "March to October",
+      "timings": "7:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "arunachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "nathula-pass",
+      "slug": "nathula-pass",
+      "name": "Nathula Pass",
+      "location": "Sikkim, India",
+      "district": "Gangtok",
+      "stateId": "sikkim",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/nathula-pass.webp",
+      "heroImage": "./assets/images/popular/nathula-pass.webp",
+      "gallery": [
+        "./assets/images/popular/nathula-pass.webp"
+      ],
+      "overview": "Experience the beauty of Nathula Pass, a top destination in Sikkim, India.",
+      "rating": "4.4",
+      "reviewCount": 1351,
+      "popularityScore": 20,
+      "priceLevel": 2,
+      "bestTimeToVisit": "May to October",
+      "timings": "8:00 AM - 3:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "sikkim",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "rohtang-pass",
+      "slug": "rohtang-pass",
+      "name": "Rohtang Pass",
+      "location": "Himachal Pradesh, India",
+      "district": "Manali",
+      "stateId": "himachal-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/rohtang-pass.webp",
+      "heroImage": "./assets/images/popular/rohtang-pass.webp",
+      "gallery": [
+        "./assets/images/popular/rohtang-pass.webp"
+      ],
+      "overview": "Experience the beauty of Rohtang Pass, a top destination in Himachal Pradesh, India.",
+      "rating": "4.7",
+      "reviewCount": 8303,
+      "popularityScore": 19,
+      "priceLevel": 1,
+      "bestTimeToVisit": "May to October",
+      "timings": "6:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "himachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "spiti-valley",
+      "slug": "spiti-valley",
+      "name": "Spiti Valley",
+      "location": "Himachal Pradesh, India",
+      "district": "Kaza",
+      "stateId": "himachal-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/spiti-valley.webp",
+      "heroImage": "./assets/images/popular/spiti-valley.webp",
+      "gallery": [
+        "./assets/images/popular/spiti-valley.webp"
+      ],
+      "overview": "Experience the beauty of Spiti Valley, a top destination in Himachal Pradesh, India.",
+      "rating": "4.8",
+      "reviewCount": 34906,
+      "popularityScore": 18,
+      "priceLevel": 3,
+      "bestTimeToVisit": "June to September",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "himachal-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "nubra-valley",
+      "slug": "nubra-valley",
+      "name": "Nubra Valley",
+      "location": "Ladakh, India",
+      "district": "Diskit",
+      "stateId": "ladakh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/nubra-valley.webp",
+      "heroImage": "./assets/images/popular/nubra-valley.webp",
+      "gallery": [
+        "./assets/images/popular/nubra-valley.webp"
+      ],
+      "overview": "Experience the beauty of Nubra Valley, a top destination in Ladakh, India.",
+      "rating": "4.6",
+      "reviewCount": 32567,
+      "popularityScore": 17,
+      "priceLevel": 3,
+      "bestTimeToVisit": "May to September",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "ladakh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "chadar-trek",
+      "slug": "chadar-trek",
+      "name": "Chadar Trek",
+      "location": "Ladakh, India",
+      "district": "Leh",
+      "stateId": "ladakh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/chadar-trek.webp",
+      "heroImage": "./assets/images/popular/chadar-trek.webp",
+      "gallery": [
+        "./assets/images/popular/chadar-trek.webp"
+      ],
+      "overview": "Experience the beauty of Chadar Trek, a top destination in Ladakh, India.",
+      "rating": "4.7",
+      "reviewCount": 9013,
+      "popularityScore": 16,
+      "priceLevel": 1,
+      "bestTimeToVisit": "January to February",
+      "timings": "Seasonal trek",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "ladakh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "tsomgo-lake",
+      "slug": "tsomgo-lake",
+      "name": "Tsomgo Lake",
+      "location": "Sikkim, India",
+      "district": "Gangtok",
+      "stateId": "sikkim",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/tsomgo-lake.webp",
+      "heroImage": "./assets/images/popular/tsomgo-lake.webp",
+      "gallery": [
+        "./assets/images/popular/tsomgo-lake.webp"
+      ],
+      "overview": "Experience the beauty of Tsomgo Lake, a top destination in Sikkim, India.",
+      "rating": "4.8",
+      "reviewCount": 17818,
+      "popularityScore": 15,
+      "priceLevel": 1,
+      "bestTimeToVisit": "April to June, October",
+      "timings": "8:00 AM - 3:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "sikkim",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "udaipur-city-palace",
+      "slug": "udaipur-city-palace",
+      "name": "Udaipur City Palace",
+      "location": "Rajasthan, India",
+      "district": "Udaipur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/udaipur-city-palace.webp",
+      "heroImage": "./assets/images/popular/udaipur-city-palace.webp",
+      "gallery": [
+        "./assets/images/popular/udaipur-city-palace.webp"
+      ],
+      "overview": "Experience the beauty of Udaipur City Palace, a top destination in Rajasthan, India.",
+      "rating": "4.2",
+      "reviewCount": 48591,
+      "popularityScore": 14,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:30 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "city-palace-jaipur",
+      "slug": "city-palace-jaipur",
+      "name": "City Palace Jaipur",
+      "location": "Rajasthan, India",
+      "district": "Jaipur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/city-palace-jaipur.webp",
+      "heroImage": "./assets/images/popular/city-palace-jaipur.webp",
+      "gallery": [
+        "./assets/images/popular/city-palace-jaipur.webp"
+      ],
+      "overview": "Experience the beauty of City Palace Jaipur, a top destination in Rajasthan, India.",
+      "rating": "4.7",
+      "reviewCount": 13822,
+      "popularityScore": 13,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:30 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "jantar-mantar-jaipur",
+      "slug": "jantar-mantar-jaipur",
+      "name": "Jantar Mantar Jaipur",
+      "location": "Rajasthan, India",
+      "district": "Jaipur",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/jantar-mantar-jaipur.webp",
+      "heroImage": "./assets/images/popular/jantar-mantar-jaipur.webp",
+      "gallery": [
+        "./assets/images/popular/jantar-mantar-jaipur.webp"
+      ],
+      "overview": "Experience the beauty of Jantar Mantar Jaipur, a top destination in Rajasthan, India.",
+      "rating": "4.6",
+      "reviewCount": 46695,
+      "popularityScore": 12,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 4:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "pushkar-lake",
+      "slug": "pushkar-lake",
+      "name": "Pushkar Lake",
+      "location": "Rajasthan, India",
+      "district": "Pushkar",
+      "stateId": "rajasthan",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/pushkar-lake.webp",
+      "heroImage": "./assets/images/popular/pushkar-lake.webp",
+      "gallery": [
+        "./assets/images/popular/pushkar-lake.webp"
+      ],
+      "overview": "Experience the beauty of Pushkar Lake, a top destination in Rajasthan, India.",
+      "rating": "5.0",
+      "reviewCount": 1521,
+      "popularityScore": 11,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "Open 24 hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "brahma-temple-pushkar",
+      "slug": "brahma-temple-pushkar",
+      "name": "Brahma Temple Pushkar",
+      "location": "Rajasthan, India",
+      "district": "Pushkar",
+      "stateId": "rajasthan",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/brahma-temple-pushkar.webp",
+      "heroImage": "./assets/images/popular/brahma-temple-pushkar.webp",
+      "gallery": [
+        "./assets/images/popular/brahma-temple-pushkar.webp"
+      ],
+      "overview": "Experience the beauty of Brahma Temple Pushkar, a top destination in Rajasthan, India.",
+      "rating": "4.9",
+      "reviewCount": 49346,
+      "popularityScore": 10,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "5:00 AM - 9:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "auroville-matrimandir",
+      "slug": "auroville-matrimandir",
+      "name": "Auroville Matrimandir",
+      "location": "Tamil Nadu, India",
+      "district": "Auroville",
+      "stateId": "tamil-nadu",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/auroville-matrimandir.webp",
+      "heroImage": "./assets/images/popular/auroville-matrimandir.webp",
+      "gallery": [
+        "./assets/images/popular/auroville-matrimandir.webp"
+      ],
+      "overview": "Experience the beauty of Auroville Matrimandir, a top destination in Tamil Nadu, India.",
+      "rating": "4.3",
+      "reviewCount": 32720,
+      "popularityScore": 9,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 5:00 PM (Booking required)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "mahabalipuram-rock-cut-temples",
+      "slug": "mahabalipuram-rock-cut-temples",
+      "name": "Mahabalipuram Rock Cut Temples",
+      "location": "Tamil Nadu, India",
+      "district": "Mahabalipuram",
+      "stateId": "tamil-nadu",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/mahabalipuram-rock-cut-temples.webp",
+      "heroImage": "./assets/images/popular/mahabalipuram-rock-cut-temples.webp",
+      "gallery": [
+        "./assets/images/popular/mahabalipuram-rock-cut-temples.webp"
+      ],
+      "overview": "Experience the beauty of Mahabalipuram Rock Cut Temples, a top destination in Tamil Nadu, India.",
+      "rating": "4.9",
+      "reviewCount": 47064,
+      "popularityScore": 8,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "6:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "araku-valley",
+      "slug": "araku-valley",
+      "name": "Araku Valley",
+      "location": "Andhra Pradesh, India",
+      "district": "Araku",
+      "stateId": "andhra-pradesh",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/araku-valley.webp",
+      "heroImage": "./assets/images/popular/araku-valley.webp",
+      "gallery": [
+        "./assets/images/popular/araku-valley.webp"
+      ],
+      "overview": "Experience the beauty of Araku Valley, a top destination in Andhra Pradesh, India.",
+      "rating": "4.7",
+      "reviewCount": 18868,
+      "popularityScore": 7,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to February",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "andhra-pradesh",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "belur-halebidu-temples",
+      "slug": "belur-halebidu-temples",
+      "name": "Belur Halebidu Temples",
+      "location": "Karnataka, India",
+      "district": "Hassan",
+      "stateId": "karnataka",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/belur-halebidu-temples.webp",
+      "heroImage": "./assets/images/popular/belur-halebidu-temples.webp",
+      "gallery": [
+        "./assets/images/popular/belur-halebidu-temples.webp"
+      ],
+      "overview": "Experience the beauty of Belur Halebidu Temples, a top destination in Karnataka, India.",
+      "rating": "4.8",
+      "reviewCount": 48609,
+      "popularityScore": 6,
+      "priceLevel": 3,
+      "bestTimeToVisit": "October to March",
+      "timings": "7:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "badami-cave-temples",
+      "slug": "badami-cave-temples",
+      "name": "Badami Cave Temples",
+      "location": "Karnataka, India",
+      "district": "Badami",
+      "stateId": "karnataka",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/badami-cave-temples.webp",
+      "heroImage": "./assets/images/popular/badami-cave-temples.webp",
+      "gallery": [
+        "./assets/images/popular/badami-cave-temples.webp"
+      ],
+      "overview": "Experience the beauty of Badami Cave Temples, a top destination in Karnataka, India.",
+      "rating": "4.8",
+      "reviewCount": 44228,
+      "popularityScore": 5,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "pattadakal-monuments",
+      "slug": "pattadakal-monuments",
+      "name": "Pattadakal Monuments",
+      "location": "Karnataka, India",
+      "district": "Pattadakal",
+      "stateId": "karnataka",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/pattadakal-monuments.webp",
+      "heroImage": "./assets/images/popular/pattadakal-monuments.webp",
+      "gallery": [
+        "./assets/images/popular/pattadakal-monuments.webp"
+      ],
+      "overview": "Experience the beauty of Pattadakal Monuments, a top destination in Karnataka, India.",
+      "rating": "4.8",
+      "reviewCount": 49458,
+      "popularityScore": 4,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:30 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "hogenakkal-falls",
+      "slug": "hogenakkal-falls",
+      "name": "Hogenakkal Falls",
+      "location": "Tamil Nadu, India",
+      "district": "Hogenakkal",
+      "stateId": "tamil-nadu",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/hogenakkal-falls.webp",
+      "heroImage": "./assets/images/popular/hogenakkal-falls.webp",
+      "gallery": [
+        "./assets/images/popular/hogenakkal-falls.webp"
+      ],
+      "overview": "Experience the beauty of Hogenakkal Falls, a top destination in Tamil Nadu, India.",
+      "rating": "4.5",
+      "reviewCount": 41229,
+      "popularityScore": 3,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 5:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "tamil-nadu",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "silent-valley-national-park",
+      "slug": "silent-valley-national-park",
+      "name": "Silent Valley National Park",
+      "location": "Kerala, India",
+      "district": "Mannarkkad",
+      "stateId": "kerala",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/silent-valley-national-park.webp",
+      "heroImage": "./assets/images/popular/silent-valley-national-park.webp",
+      "gallery": [
+        "./assets/images/popular/silent-valley-national-park.webp"
+      ],
+      "overview": "Experience the beauty of Silent Valley National Park, a top destination in Kerala, India.",
+      "rating": "4.3",
+      "reviewCount": 28441,
+      "popularityScore": 2,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "8:00 AM - 1:00 PM (Permit required)",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "gokarna-beaches",
+      "slug": "gokarna-beaches",
+      "name": "Gokarna Beaches",
+      "location": "Karnataka, India",
+      "district": "Gokarna",
+      "stateId": "karnataka",
+      "category": "beach",
+      "uiCategory": "beach",
+      "image": "./assets/images/popular/gokarna-beaches.webp",
+      "heroImage": "./assets/images/popular/gokarna-beaches.webp",
+      "gallery": [
+        "./assets/images/popular/gokarna-beaches.webp"
+      ],
+      "overview": "Experience the beauty of Gokarna Beaches, a top destination in Karnataka, India.",
+      "rating": "4.8",
+      "reviewCount": 16306,
+      "popularityScore": 1,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "Open all day",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "beach",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "munnar-hill-station",
+      "slug": "munnar-hill-station",
+      "name": "Munnar Hill Station",
+      "location": "Kerala, India",
+      "district": "Idukki",
+      "stateId": "kerala",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/munnar-hill-station.webp",
+      "heroImage": "./assets/images/popular/munnar-hill-station.webp",
+      "gallery": [
+        "./assets/images/popular/munnar-hill-station.webp"
+      ],
+      "overview": "Experience the beauty of Munnar Hill Station, a top destination in Kerala, India.",
+      "rating": "4.6",
+      "reviewCount": 35597,
+      "popularityScore": 0,
+      "priceLevel": 1,
+      "bestTimeToVisit": "September to March",
+      "timings": "24 Hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "kerala",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "kumbhalgarh-fort",
+      "slug": "kumbhalgarh-fort",
+      "name": "Kumbhalgarh Fort",
+      "location": "Rajasthan, India",
+      "district": "Rajsamand",
+      "stateId": "rajasthan",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/kumbhalgarh-fort.webp",
+      "heroImage": "./assets/images/popular/kumbhalgarh-fort.webp",
+      "gallery": [
+        "./assets/images/popular/kumbhalgarh-fort.webp"
+      ],
+      "overview": "Experience the beauty of Kumbhalgarh Fort, a top destination in Rajasthan, India.",
+      "rating": "4.4",
+      "reviewCount": 41454,
+      "popularityScore": -1,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 6:00 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "rajasthan",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "golconda-fort",
+      "slug": "golconda-fort",
+      "name": "Golconda Fort",
+      "location": "Telangana, India",
+      "district": "Hyderabad",
+      "stateId": "telangana",
+      "category": "heritage",
+      "uiCategory": "heritage",
+      "image": "./assets/images/popular/golconda-fort.webp",
+      "heroImage": "./assets/images/popular/golconda-fort.webp",
+      "gallery": [
+        "./assets/images/popular/golconda-fort.webp"
+      ],
+      "overview": "Experience the beauty of Golconda Fort, a top destination in Telangana, India.",
+      "rating": "4.6",
+      "reviewCount": 18537,
+      "popularityScore": -2,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to March",
+      "timings": "9:00 AM - 5:30 PM",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "heritage",
+        "telangana",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "madikeri-hill-station",
+      "slug": "madikeri-hill-station",
+      "name": "Madikeri Hill Station",
+      "location": "Karnataka, India",
+      "district": "Kodagu",
+      "stateId": "karnataka",
+      "category": "nature",
+      "uiCategory": "nature",
+      "image": "./assets/images/popular/madikeri-hill-station.webp",
+      "heroImage": "./assets/images/popular/madikeri-hill-station.webp",
+      "gallery": [
+        "./assets/images/popular/madikeri-hill-station.webp"
+      ],
+      "overview": "Experience the beauty of Madikeri Hill Station, a top destination in Karnataka, India.",
+      "rating": "4.6",
+      "reviewCount": 46198,
+      "popularityScore": -3,
+      "priceLevel": 2,
+      "bestTimeToVisit": "October to March",
+      "timings": "24 Hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "nature",
+        "karnataka",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    },
+    {
+      "id": "rishikesh-ram-jhula",
+      "slug": "rishikesh-ram-jhula",
+      "name": "Rishikesh Ram Jhula",
+      "location": "Uttarakhand, India",
+      "district": "Tehri Garhwal",
+      "stateId": "uttarakhand",
+      "category": "spiritual",
+      "uiCategory": "spiritual",
+      "image": "./assets/images/popular/rishikesh-ram-jhula.webp",
+      "heroImage": "./assets/images/popular/rishikesh-ram-jhula.webp",
+      "gallery": [
+        "./assets/images/popular/rishikesh-ram-jhula.webp"
+      ],
+      "overview": "Experience the beauty of Rishikesh Ram Jhula, a top destination in Uttarakhand, India.",
+      "rating": "4.5",
+      "reviewCount": 8479,
+      "popularityScore": -4,
+      "priceLevel": 1,
+      "bestTimeToVisit": "October to April",
+      "timings": "24 Hours",
+      "climate": "Tropical / Moderate",
+      "tags": [
+        "spiritual",
+        "uttarakhand",
+        "must-visit",
+        "top-100"
+      ],
+      "bookingCTA": {
+        "enabled": true
+      },
+      "aiTripCTA": {
+        "enabled": true,
+        "prompt": "Plan my perfect trip here"
+      }
+    }
+  ]
+}

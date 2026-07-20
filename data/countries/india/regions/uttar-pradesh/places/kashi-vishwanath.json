@@ -1,0 +1,64 @@
+{
+  "id": "kashi-vishwanath",
+  "slug": "kashi-vishwanath",
+  "name": "Kashi Vishwanath Temple",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "temples",
+  "uiCategory": "temples",
+  "overview": "One of the twelve sacred Jyotirlinga temples of Lord Shiva, located in the heart of the ancient city of Varanasi. The newly built Kashi Vishwanath Corridor has transformed the temple into a world-class pilgrimage destination.",
+  "description": "The original temple was destroyed and rebuilt multiple times. The current structure was built by Ahilyabai Holkar in 1780. The 800kg gold-plated spire was donated by Maharaja Ranjit Singh.",
+  "rating": "4.9",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "3:00 AM \u2013 11:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "temples",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "sarnath",
+    "ramnagar-fort",
+    "tulsi-manas-temple",
+    "bharat-kala-bhavan",
+    "assi-ghat"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Kashi-Vishwanath-Temple.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Kashi-Vishwanath-Temple.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Kashi-Vishwanath-Temple.webp"
+  ]
+}

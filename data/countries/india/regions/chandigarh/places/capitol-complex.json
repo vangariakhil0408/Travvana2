@@ -1,0 +1,29 @@
+{
+  "id": "capitol-complex",
+  "name": "Capitol Complex (UNESCO)",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "Le Corbusier's architectural masterpiece and UNESCO World Heritage Site \u2014 the seat of government featuring the iconic Open Hand Monument, High Court, and Secretariat buildings.",
+  "history": "Designed by Swiss-French architect Le Corbusier in the 1950s. Inscribed as UNESCO World Heritage Site in 2016 as an outstanding example of modern architecture.",
+  "famousFor": "UNESCO World Heritage, Open Hand Monument, and Le Corbusier's modernism.",
+  "bestTime": "October to March",
+  "timings": "10:00 AM \u2013 5:00 PM (Guided tours only)",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/chandigarh/capitol-complex.webp",
+  "heroImage": "./assets/images/states/chandigarh/capitol-complex.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/capitol-complex.webp"
+  ],
+  "nearbyPlaces": [
+    "govt-museum-art-gallery",
+    "le-corbusier-centre",
+    "japanese-garden",
+    "rock-garden",
+    "international-dolls-museum",
+    "sukhna-lake",
+    "rose-garden",
+    "terraced-garden",
+    "garden-of-silence",
+    "leisure-valley"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "feedType": "popular",
+  "title": "Popular Destinations",
+  "subtitle": "All-time favorite places in India",
+  "lastUpdated": "2026-04-01",
+  "items": [
+    { "placeId": "taj-mahal", "stateId": "uttar-pradesh", "name": "Taj Mahal", "thumbnail": "", "rating": 4.9, "reviewCount": 50000, "category": "heritage", "trendScore": 99, "district": "agra", "slug": "taj-mahal", "priceLevel": 2 },
+    { "placeId": "alleppey-backwaters", "stateId": "kerala", "name": "Alleppey Backwaters", "thumbnail": "", "rating": 4.8, "reviewCount": 8500, "category": "nature", "trendScore": 98, "district": "alappuzha", "slug": "alleppey-backwaters", "priceLevel": 2 },
+    { "placeId": "jaipur-hawa-mahal", "stateId": "rajasthan", "name": "Hawa Mahal", "thumbnail": "", "rating": 4.6, "reviewCount": 18000, "category": "heritage", "trendScore": 96, "district": "jaipur", "slug": "jaipur-hawa-mahal", "priceLevel": 1 },
+    { "placeId": "goa-palolem-beach", "stateId": "goa", "name": "Palolem Beach", "thumbnail": "", "rating": 4.7, "reviewCount": 12000, "category": "beaches", "trendScore": 95, "district": "south-goa", "slug": "goa-palolem-beach", "priceLevel": 2 },
+    { "placeId": "munnar-tea-gardens", "stateId": "kerala", "name": "Munnar Tea Gardens", "thumbnail": "", "rating": 4.7, "reviewCount": 9500, "category": "nature", "trendScore": 94, "district": "idukki", "slug": "munnar-tea-gardens", "priceLevel": 2 },
+    { "placeId": "hampi-ruins", "stateId": "karnataka", "name": "Hampi Ruins", "thumbnail": "", "rating": 4.8, "reviewCount": 11000, "category": "heritage", "trendScore": 93, "district": "ballari", "slug": "hampi-ruins", "priceLevel": 1 }
+  ]
+}

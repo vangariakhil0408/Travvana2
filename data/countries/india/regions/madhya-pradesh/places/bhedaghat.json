@@ -1,0 +1,20 @@
+{
+  "id": "bhedaghat",
+  "name": "Bhedaghat Marble Rocks",
+  "city": "Jabalpur",
+  "state": "Madhya Pradesh",
+  "description": "A stunning 3 km long gorge on the Narmada River where white marble cliffs rise 100 feet from the water, creating a magical sight, especially under moonlight.",
+  "history": "The marble cliffs have been a popular natural attraction for centuries. The nearby Chausath Yogini temple dates back to the 10th century.",
+  "famousFor": "Marble rocks, Dhuandhar Falls, and boat rides.",
+  "bestTime": "October to March",
+  "timings": "6:00 AM \u2013 8:00 PM",
+  "entryFee": "Free (Boat: \u20b9100)",
+  "image": "./assets/images/states/madhya-pradesh/Bhedaghat-Marble-Rocks.webp",
+  "heroImage": "./assets/images/states/madhya-pradesh/Bhedaghat-Marble-Rocks.webp",
+  "gallery": [
+    "./assets/images/states/madhya-pradesh/Bhedaghat-Marble-Rocks.webp"
+  ],
+  "nearbyPlaces": [
+    "madan-mahal-fort"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "dudhwa-national-park",
+  "slug": "dudhwa-national-park",
+  "name": "Dudhwa National Park",
+  "location": "Uttar Pradesh, India",
+  "district": "Lakhimpur Kheri",
+  "stateId": "uttar-pradesh",
+  "category": "wildlife",
+  "uiCategory": "wildlife",
+  "overview": "UP's premier tiger reserve and national park, spread across 490 sq km of dense sal forests and grasslands along the Indo-Nepal border. It is famous for its successful one-horned rhino reintroduction program.",
+  "description": "Established in 1977 largely due to the conservation efforts of Billy Arjan Singh, the legendary wildlife activist.",
+  "rating": "4.8",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "November to May",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "wildlife",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "lucknow-bara-imambara",
+    "lucknow-residency",
+    "rumi-darwaza",
+    "shravasti",
+    "vindhyachal-devi",
+    "lucknow-ambedkar-park",
+    "kapilvastu",
+    "chandraprabha-wildlife",
+    "nawabganj-bird-sanctuary",
+    "sankisa",
+    "hastinapur",
+    "naimisharanya",
+    "kalinjar-fort",
+    "deogarh-dashavatara",
+    "gorakhpur-gorakhnath",
+    "kannauj-perfume",
+    "kaushambi",
+    "pilibhit-tiger-reserve",
+    "etawah-safari-park",
+    "dilkusha-kothi",
+    "sardhana-basilica",
+    "kukrail-reserve",
+    "chattar-manzil",
+    "salkhan-fossil-park",
+    "deva-sharif",
+    "katarniaghat-wildlife"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Dudhwa-NP.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Dudhwa-NP.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Dudhwa-NP.webp"
+  ]
+}

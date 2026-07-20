@@ -1,0 +1,30 @@
+{
+  "id": "hall-of-fame",
+  "name": "Hall of Fame",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A profoundly moving museum constructed and maintained by the Indian Army in memory of the brave soldiers who lost their lives during the Indo-Pak wars.",
+  "history": "Commemorates the heroes of the Kargil War and Siachen conflict with detailed exhibits and artifacts.",
+  "famousFor": "War memorials, Siachen exhibits, patriotic significance.",
+  "bestTime": "May to October",
+  "timings": "9:00 AM \u2013 7:00 PM",
+  "entryFee": "\u20b950",
+  "image": "./assets/images/states/ladakh/file_00000000a014720894b1a7e2a2ad9ac6.webp",
+  "heroImage": "./assets/images/states/ladakh/file_00000000a014720894b1a7e2a2ad9ac6.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_00000000a014720894b1a7e2a2ad9ac6.webp"
+  ],
+  "nearbyPlaces": [
+    "leh-palace",
+    "kargil-town",
+    "pathar-sahib",
+    "shanti-stupa",
+    "stok-palace",
+    "magnetic-hill",
+    "thiksey-monastery",
+    "tso-kar",
+    "chang-la-pass",
+    "khardung-la",
+    "leh-city"
+  ]
+}

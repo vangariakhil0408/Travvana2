@@ -1,0 +1,30 @@
+{
+  "id": "thiksey-monastery",
+  "name": "Thiksey Monastery",
+  "city": "Leh",
+  "state": "Ladakh",
+  "description": "A breathtaking 12-story complex perched high on a hill, bearing a striking resemblance to the Potala Palace in Tibet. It houses a massive 15-meter high Maitreya Buddha.",
+  "history": "Founded in the mid-15th century belonging to the Gelug sect of Tibetan Buddhism.",
+  "famousFor": "Potala Palace resemblance, giant Maitreya Buddha, stunning sunrises.",
+  "bestTime": "May to September",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": "\u20b930",
+  "image": "./assets/images/states/ladakh/file_00000000408872088d9da218330a3235.webp",
+  "heroImage": "./assets/images/states/ladakh/file_00000000408872088d9da218330a3235.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_00000000408872088d9da218330a3235.webp"
+  ],
+  "nearbyPlaces": [
+    "magnetic-hill",
+    "tso-kar",
+    "chang-la-pass",
+    "stok-palace",
+    "pathar-sahib",
+    "leh-palace",
+    "khardung-la",
+    "hall-of-fame",
+    "leh-city",
+    "kargil-town",
+    "shanti-stupa"
+  ]
+}

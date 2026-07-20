@@ -1,0 +1,20 @@
+{
+  "id": "korzok-monastery",
+  "name": "Korzok Monastery",
+  "city": "Changthang",
+  "state": "Ladakh",
+  "description": "An ancient 300-year-old Drukpa lineage Buddhist monastery offering sweeping, incredible views over the deep blue Tso Moriri lake.",
+  "history": "Founded by Kunga Lodro Ningpo. It serves as the spiritual center for the nomadic Changpa herdsmen.",
+  "famousFor": "Lake views, ancient thangkas, Changpa culture.",
+  "bestTime": "June to September",
+  "timings": "Unknown",
+  "entryFee": "Free",
+  "image": "./assets/images/states/ladakh/file_000000004c287208b7ad675b5c477c59.webp",
+  "heroImage": "./assets/images/states/ladakh/file_000000004c287208b7ad675b5c477c59.webp",
+  "gallery": [
+    "./assets/images/states/ladakh/file_000000004c287208b7ad675b5c477c59.webp"
+  ],
+  "nearbyPlaces": [
+    "tso-moriri"
+  ]
+}

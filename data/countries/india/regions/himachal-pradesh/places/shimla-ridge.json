@@ -1,0 +1,58 @@
+{
+  "id": "shimla-ridge",
+  "name": "The Ridge, Shimla",
+  "slug": "shimla-ridge",
+  "stateId": "himachal-pradesh",
+  "districtId": "shimla",
+  "category": "nature",
+  "subcategories": [],
+  "description": "The heart of Shimla with panoramic mountain views",
+  "heroImage": "",
+  "gallery": [],
+  "rating": 4.4,
+  "reviewCount": 12000,
+  "priceLevel": 1,
+  "bestTimeToVisit": "March to June, September to November",
+  "timings": "Varies",
+  "entryFee": {
+    "indian": "Varies",
+    "foreign": "Varies"
+  },
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "amenities": [
+    "parking",
+    "food-stalls",
+    "restrooms"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Shimla Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Nearest Station",
+      "distance": "Varies"
+    },
+    "byRoad": "Well connected"
+  },
+  "nearbyPlaces": [
+    "manali-solang-valley",
+    "spiti-valley"
+  ],
+  "reels": [],
+  "bookingCTA": {
+    "enabled": true,
+    "partners": []
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan a trip to The Ridge, Shimla"
+  },
+  "tags": [
+    "nature"
+  ],
+  "lastUpdated": "2026-03-15"
+}

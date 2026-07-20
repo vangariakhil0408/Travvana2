@@ -1,0 +1,39 @@
+{
+  "id": "chidiya-tapu",
+  "name": "Chidiya Tapu",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "Where dense mangroves meet dramatic sunsets, this tranquil corner is filled with birdsong and ocean breezes.",
+  "history": "Historically known for its rich avian diversity and mangrove ecosystems.",
+  "famousFor": "Sunset views and birdwatching",
+  "bestTime": "October to April",
+  "timings": "6:00 AM \u2013 6:00 PM",
+  "entryFee": "\u20b920",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/chidiya-tapu.webp"
+  ],
+  "nearbyPlaces": [
+    "anthropological-museum",
+    "wandoor-beach",
+    "diglipur-town",
+    "ross-island",
+    "chatham-saw-mill",
+    "corbyns-cove-beach",
+    "cellular-jail",
+    "mahatma-gandhi-marine-national-park",
+    "kalipur-beach",
+    "long-island",
+    "viper-island",
+    "aberdeen-bazaar",
+    "barren-island",
+    "marina-park",
+    "jolly-buoy-island",
+    "mount-harriet-national-park",
+    "north-bay-island",
+    "mundapahad",
+    "saddle-peak",
+    "samudrika-naval-marine-museum"
+  ]
+}

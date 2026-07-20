@@ -1,0 +1,71 @@
+{
+  "id": "spiti-valley",
+  "slug": "spiti-valley",
+  "name": "Spiti Valley",
+  "location": "Himachal Pradesh, India",
+  "district": "Kaza",
+  "stateId": "himachal-pradesh",
+  "category": "nature",
+  "uiCategory": "nature",
+  "image": "./assets/images/popular/spiti-valley.webp",
+  "heroImage": "./assets/images/popular/spiti-valley.webp",
+  "gallery": [
+    "./assets/images/popular/spiti-valley.webp"
+  ],
+  "overview": "Experience the beauty of Spiti Valley, a top destination in Himachal Pradesh, India.",
+  "description": "A cold desert mountain valley with strong Tibetan Buddhist influence, Spiti has been part of ancient trans-Himalayan trade routes.",
+  "rating": "4.8",
+  "reviewCount": 34906,
+  "popularityScore": 18,
+  "priceLevel": 3,
+  "bestTimeToVisit": "June to September",
+  "timings": "Open all day",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Bhuntar / Kullu Airport",
+      "distance": "Varies"
+    },
+    "nearestRailway": {
+      "name": "Kaza Railway Station",
+      "distance": "Varies"
+    },
+    "byRoad": "200 km from Manali"
+  },
+  "tags": [
+    "nature",
+    "himachal-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2228
+    },
+    {
+      "views": 2771
+    }
+  ],
+  "nearbyPlaces": [
+    "shimla-mall-road",
+    "manali",
+    "rohtang-pass"
+  ]
+}

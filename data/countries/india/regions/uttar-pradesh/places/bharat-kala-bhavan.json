@@ -1,0 +1,64 @@
+{
+  "id": "bharat-kala-bhavan",
+  "slug": "bharat-kala-bhavan",
+  "name": "Bharat Kala Bhavan Museum",
+  "location": "Uttar Pradesh, India",
+  "district": "Varanasi",
+  "stateId": "uttar-pradesh",
+  "category": "heritage",
+  "uiCategory": "heritage",
+  "overview": "One of India's finest university museums, housing an extraordinary collection of over 1 lakh artifacts \u2014 including rare Mughal miniature paintings, ancient sculptures, and the only surviving palm-leaf manuscript of the Rigveda.",
+  "description": "Founded in 1920 by Rai Krishnadasa, it is located within the sprawling Banaras Hindu University campus.",
+  "rating": "4.7",
+  "reviewCount": 1000,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "Year-round",
+  "timings": "10:30 AM \u2013 4:30 PM (Closed Sundays)",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Airport",
+      "distance": "30 km"
+    },
+    "byRoad": "Well connected."
+  },
+  "tags": [
+    "heritage",
+    "uttar-pradesh"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    }
+  ],
+  "nearbyPlaces": [
+    "varanasi-ghats",
+    "kashi-vishwanath",
+    "sarnath",
+    "ramnagar-fort",
+    "tulsi-manas-temple",
+    "assi-ghat"
+  ],
+  "image": "./assets/images/states/uttar-pradesh/Bharat-Kala-Bhavan-Museum.webp",
+  "heroImage": "./assets/images/states/uttar-pradesh/Bharat-Kala-Bhavan-Museum.webp",
+  "gallery": [
+    "./assets/images/states/uttar-pradesh/Bharat-Kala-Bhavan-Museum.webp"
+  ]
+}

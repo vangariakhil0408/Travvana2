@@ -1,0 +1,18 @@
+{
+  "id": "bitra-island",
+  "name": "Bitra Island",
+  "city": "Bitra",
+  "state": "Lakshadweep",
+  "description": "The smallest inhabited island in the territory, offering a glimpse into the extremely peaceful and secluded life of the islanders.",
+  "history": "The island was previously just a breeding ground for birds before people settled here.",
+  "famousFor": "Seclusion, pristine environment, the shrine of Malik Mulla.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free (Permit Required)",
+  "image": "./assets/images/states/lakshadweep/file_000000005b447209b69e319a869c2ebd.webp",
+  "heroImage": "./assets/images/states/lakshadweep/file_000000005b447209b69e319a869c2ebd.webp",
+  "gallery": [
+    "./assets/images/states/lakshadweep/file_000000005b447209b69e319a869c2ebd.webp"
+  ],
+  "nearbyPlaces": []
+}

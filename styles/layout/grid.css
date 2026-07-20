@@ -1,0 +1,98 @@
+/* ============================================
+   TRAVVANA — Grid System (Premium)
+   Desktop: 1600px max, 24px padding
+   ============================================ */
+
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-pad);
+}
+
+.container--narrow { max-width: 800px; }
+.container--wide   { max-width: 1600px; }
+
+/* ── Auto Grid ── */
+.grid {
+  display: grid;
+  gap: var(--sp-4);
+}
+
+.grid--2 { grid-template-columns: repeat(2, 1fr); }
+.grid--3 { grid-template-columns: repeat(3, 1fr); }
+.grid--4 { grid-template-columns: repeat(4, 1fr); }
+.grid--5 { grid-template-columns: repeat(5, 1fr); }
+
+/* ── Auto-fit responsive grid ── */
+.grid--auto {
+  grid-template-columns: repeat(auto-fill, minmax(var(--card-min-width), 1fr));
+}
+
+.grid--auto-sm {
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+.grid--auto-lg {
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+}
+
+/* ── Mobile: 2-column grid ── */
+@media (max-width: 479px) {
+  .grid--2, .grid--3, .grid--4, .grid--5 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid--auto { grid-template-columns: repeat(2, 1fr); }
+  .grid { gap: var(--sp-3); }
+}
+
+/* ── Tablet ── */
+@media (min-width: 480px) and (max-width: 767px) {
+  .grid--4, .grid--5 { grid-template-columns: repeat(3, 1fr); }
+}
+
+/* ── Flex utilities ── */
+.flex          { display: flex; }
+.flex-col      { flex-direction: column; }
+.flex-wrap     { flex-wrap: wrap; }
+.flex-center   { align-items: center; justify-content: center; }
+.flex-between  { align-items: center; justify-content: space-between; }
+.flex-start    { align-items: flex-start; }
+.flex-end      { align-items: flex-end; }
+.gap-1         { gap: var(--sp-1); }
+.gap-2         { gap: var(--sp-2); }
+.gap-3         { gap: var(--sp-3); }
+.gap-4         { gap: var(--sp-4); }
+.gap-6         { gap: var(--sp-6); }
+.gap-8         { gap: var(--sp-8); }
+
+/* ── Horizontal scroll ── */
+.scroll-x {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  gap: var(--sp-3);
+  padding-bottom: var(--sp-2);
+}
+
+.scroll-x::-webkit-scrollbar { display: none; }
+
+.scroll-x > * {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}
+
+/* ── Section spacing ── */
+.section {
+  padding: var(--section-gap) 0;
+}
+
+.section--compact {
+  padding: var(--sp-6) 0;
+}
+
+.section--hero {
+  padding: 0;
+}

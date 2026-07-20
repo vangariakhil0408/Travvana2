@@ -1,0 +1,25 @@
+{
+  "id": "raghunath-temple",
+  "name": "Raghunath Temple",
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "description": "One of the largest temple complexes in North India, comprising seven distinct shrines, all crowned with gold-plated spires. It is dedicated to Lord Rama.",
+  "history": "Construction was started by Maharaja Gulab Singh in 1835 and completed by his son Maharaja Ranbir Singh in 1860.",
+  "famousFor": "Gold-plated spires, 12 lakh Saligram stones, deep historical roots.",
+  "bestTime": "Year-round",
+  "timings": "6:00 AM \u2013 8:00 PM (Strict security checks)",
+  "entryFee": "Free",
+  "image": "./assets/images/states/jammu-and-kashmir/raghunath-temple.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/raghunath-temple.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/raghunath-temple.webp"
+  ],
+  "nearbyPlaces": [
+    "purmandal",
+    "mansar-lake",
+    "bahu-fort",
+    "akhnoor-fort",
+    "mubarak-mandi",
+    "surinsar-lake"
+  ]
+}

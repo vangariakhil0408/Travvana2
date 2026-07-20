@@ -1,0 +1,2501 @@
+{
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "slug": "dadra-nagar-haveli-daman-diu",
+  "capital": "Daman",
+  "bestTime": "October to March",
+  "language": "Gujarati, Hindi, Marathi, English",
+  "places": [
+    {
+      "name": "Diu Fort",
+      "city": "Diu",
+      "category": "heritage",
+      "distance": "In Diu City",
+      "rating": 4.8,
+      "description": "A colossal 16th-century Portuguese fortress surrounded by the sea on three sides, offering breathtaking views of the Arabian Sea, an iconic lighthouse, and rows of ancient brass cannons.",
+      "history": "Built by the Portuguese in 1535 after an alliance with the Sultan of Gujarat. It was considered one of the most important Portuguese forts in Asia and remained under their rule until 1961.",
+      "famousFor": "16th-century Portuguese architecture, sea views, and lighthouse.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "diu-fort",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        },
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "2.0 km",
+          "distance_km": 2,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "2.6 km",
+          "distance_km": 2.6,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "2.7 km",
+          "distance_km": 2.7,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "diu-fort",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9833,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+    },
+    {
+      "name": "Naida Caves",
+      "city": "Diu",
+      "category": "nature",
+      "distance": "1 km from Diu Fort",
+      "rating": 4.7,
+      "description": "A surreal labyrinth of interconnected caves with natural sunlit shafts piercing through orange rock formations, creating a photographer's paradise just outside the city walls.",
+      "history": "Believed to be formed when the Portuguese quarried building materials from these rocks to construct the Diu Fort. It also served as a hideout during 'Operation Vijay' in 1961.",
+      "famousFor": "Natural rock formations, sunlit tunnels, and photography.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7 (Daylight hours recommended)",
+      "entryFee": "Free",
+      "slug": "naida-caves",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "1.9 km",
+          "distance_km": 1.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "2.2 km",
+          "distance_km": 2.2,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "2.4 km",
+          "distance_km": 2.4,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "2.7 km",
+          "distance_km": 2.7,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "3.0 km",
+          "distance_km": 3,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "naida-caves",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9667,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+    },
+    {
+      "name": "Nagoa Beach",
+      "city": "Diu",
+      "category": "beaches",
+      "distance": "7 km from Diu City",
+      "rating": 4.6,
+      "description": "A picture-perfect, crescent-shaped beach fringed with rare Hoka palm trees, famous for its golden sands, calm waters, and thrilling water sports.",
+      "history": "The unique branching Hoka trees (Hyphaene dichotoma) found here were brought from Africa by the Portuguese centuries ago.",
+      "famousFor": "Golden sands, water sports, and African Hoka trees.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Water sports extra)",
+      "slug": "nagoa-beach",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        },
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "1.9 km",
+          "distance_km": 1.9,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "2.0 km",
+          "distance_km": 2,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "2.2 km",
+          "distance_km": 2.2,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "nagoa-beach",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9167,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+    },
+    {
+      "name": "Moti Daman Fort",
+      "city": "Daman",
+      "category": "heritage",
+      "distance": "In Daman",
+      "rating": 4.5,
+      "description": "A massive 16th-century coastal fortress enclosing a small township of Portuguese colonial buildings, historic churches, and quiet tree-lined streets.",
+      "history": "Construction began in 1559 by the Portuguese after acquiring Daman from the Shah of Gujarat to protect against Mughal invasions.",
+      "famousFor": "Colonial architecture, massive ramparts, and historic churches.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "moti-daman-fort",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jampore Beach",
+          "slug": "jampore-beach",
+          "distance": "2.4 km",
+          "distance_km": 2.4,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+        },
+        {
+          "name": "Church of Bom Jesus",
+          "slug": "church-of-bom-jesus",
+          "distance": "3.7 km",
+          "distance_km": 3.7,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Devka Beach",
+          "slug": "devka-beach",
+          "distance": "4.2 km",
+          "distance_km": 4.2,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "distance": "20.0 km",
+          "distance_km": 20,
+          "distance_band": "15-20 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "moti-daman-fort",
+      "district": "Daman",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp",
+      "latitude": 20.4167,
+      "longitude": 72.8333,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+    },
+    {
+      "name": "Jampore Beach",
+      "city": "Daman",
+      "category": "beaches",
+      "distance": "4 km from Moti Daman",
+      "rating": 4.4,
+      "description": "A tranquil, wide beach lined with casuarina trees offering dark sands, gentle waves, and activities like camel rides and parasailing — perfect for a relaxing sunset.",
+      "history": "One of Daman's primary beaches, it has long been a favored weekend getaway for residents of neighboring Gujarat and Maharashtra.",
+      "famousFor": "Black sand, casuarina trees, water sports",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "jampore-beach",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Church of Bom Jesus",
+          "slug": "church-of-bom-jesus",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Moti Daman Fort",
+          "slug": "moti-daman-fort",
+          "distance": "2.4 km",
+          "distance_km": 2.4,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+        },
+        {
+          "name": "Devka Beach",
+          "slug": "devka-beach",
+          "distance": "2.7 km",
+          "distance_km": 2.7,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "jampore-beach",
+      "district": "Daman",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp",
+      "latitude": 20.3833,
+      "longitude": 72.85,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+    },
+    {
+      "name": "Dudhni Lake",
+      "city": "Silvassa",
+      "category": "nature",
+      "distance": "40 km from Silvassa",
+      "rating": 4.6,
+      "description": "Known as the 'Kashmir of the West', this massive reservoir of the Madhuban Dam is surrounded by hillocks and offers shikara rides, kayaking, and jet skiing.",
+      "history": "Formed by the backwaters of the Madhuban Dam built across the Daman Ganga River, it has been developed into a premier water sports hub by the tourism department.",
+      "famousFor": "Water sports, shikara rides, and scenic sunset views.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "dudhni-lake",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vasona Lion Safari",
+          "slug": "vasona-lion-safari",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "wildlife",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Vanganga Lake Garden",
+          "slug": "vanganga-lake-garden",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "slug": "hirwa-van-garden",
+          "distance": "2.6 km",
+          "distance_km": 2.6,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Madhuban Dam",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "madhuban-dam",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Khanvel",
+          "city": "Khanvel",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "khanvel",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "dudhni-lake",
+      "district": "Dadra and Nagar Haveli",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp",
+      "latitude": 20.2167,
+      "longitude": 73.1667,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+    },
+    {
+      "name": "Vanganga Lake Garden",
+      "city": "Silvassa",
+      "category": "nature",
+      "distance": "6 km from Silvassa",
+      "rating": 4.5,
+      "description": "A beautifully landscaped island garden featuring Japanese-style wooden bridges, paddle boating, and jogging tracks set amidst a serene lake.",
+      "history": "Developed by the Dadra and Nagar Haveli administration as an eco-tourism park, its picturesque setting has made it a popular location for Bollywood film shoots.",
+      "famousFor": "Island garden, Japanese bridges, paddle boating",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 8:00 PM (Closed on Tuesdays)",
+      "entryFee": "₹20",
+      "slug": "vanganga-lake-garden",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vasona Lion Safari",
+          "slug": "vasona-lion-safari",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "wildlife",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Dudhni Lake",
+          "slug": "dudhni-lake",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "slug": "hirwa-van-garden",
+          "distance": "2.1 km",
+          "distance_km": 2.1,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "daman-ganga-river-front",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "vanganga-lake-garden",
+      "district": "Dadra and Nagar Haveli",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp",
+      "latitude": 20.2917,
+      "longitude": 73.1833,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+    },
+    {
+      "name": "Devka Beach",
+      "city": "Daman",
+      "category": "beaches",
+      "distance": "4 km from Nani Daman",
+      "rating": 4.2,
+      "description": "A lively, rocky shoreline famous for its adjacent amusement park, musical fountain, and food stalls — a great spot for family evening strolls rather than swimming.",
+      "history": "Unlike the sandy Jampore, Devka is rocky and known for its tidal pools. The nearby amusement park has long been a staple for local entertainment.",
+      "famousFor": "Rocky shore, amusement park, and evening food stalls.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "devka-beach",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Church of Bom Jesus",
+          "slug": "church-of-bom-jesus",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Jampore Beach",
+          "slug": "jampore-beach",
+          "distance": "2.7 km",
+          "distance_km": 2.7,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+        },
+        {
+          "name": "Moti Daman Fort",
+          "slug": "moti-daman-fort",
+          "distance": "4.2 km",
+          "distance_km": 4.2,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "devka-beach",
+      "district": "Daman",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp",
+      "latitude": 20.4333,
+      "longitude": 72.8333,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+    },
+    {
+      "name": "Gangeshwar Mahadev Temple",
+      "city": "Diu",
+      "category": "temples",
+      "distance": "3 km from Diu City",
+      "rating": 4.6,
+      "description": "An ancient seaside cave temple where five Shiva lingas, believed to be established by the Pandavas, are naturally washed by the crashing waves of the Arabian Sea at high tide.",
+      "history": "Legend states that the five Pandava brothers created these lingas during their exile. The continuous bathing of the lingas by the ocean makes it a unique spiritual site.",
+      "famousFor": "Sea-washed Shiva lingas and Pandava legend.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "gangeshwar-mahadev-temple",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "1.9 km",
+          "distance_km": 1.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        },
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "2.6 km",
+          "distance_km": 2.6,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "2.9 km",
+          "distance_km": 2.9,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "gangeshwar-mahadev-temple",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9333,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+    },
+    {
+      "name": "Vasona Lion Safari",
+      "city": "Silvassa",
+      "category": "wildlife",
+      "distance": "10 km from Silvassa",
+      "rating": 4.2,
+      "description": "A dedicated conservation park spreading over 20 hectares where visitors can take a caged van ride to spot majestic Asiatic lions in a natural forest environment.",
+      "history": "Established to conserve the Asiatic lion and serve as a breeding center. The lions here were originally brought from the Gir Forest in Gujarat.",
+      "famousFor": "Asiatic lion sightings and guided van safari.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM (Closed on Mondays)",
+      "entryFee": "₹25",
+      "slug": "vasona-lion-safari",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vanganga Lake Garden",
+          "slug": "vanganga-lake-garden",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Dudhni Lake",
+          "slug": "dudhni-lake",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "slug": "hirwa-van-garden",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "distance": "1.7 km",
+          "distance_km": 1.7,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Satmalia Deer Park",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "satmalia-deer-park",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "vasona-lion-safari",
+      "district": "Dadra and Nagar Haveli",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp",
+      "latitude": 20.275,
+      "longitude": 73.2167,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+    },
+    {
+      "name": "Tribal Cultural Museum",
+      "city": "Silvassa",
+      "category": "heritage",
+      "distance": "In Silvassa",
+      "rating": 4.4,
+      "description": "A fascinating museum displaying rare artifacts, hunting tools, traditional clothing, musical instruments, and life-size models depicting the heritage of the Varli, Kokna, and Dodhia tribes.",
+      "history": "Set up by the government to preserve and promote the indigenous culture of Dadra and Nagar Haveli, which has a predominantly tribal population.",
+      "famousFor": "Tribal artifacts, masks, musical instruments",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "tribal-cultural-museum",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vanganga Lake Garden",
+          "slug": "vanganga-lake-garden",
+          "distance": "1.0 km",
+          "distance_km": 1,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Dudhni Lake",
+          "slug": "dudhni-lake",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Vasona Lion Safari",
+          "slug": "vasona-lion-safari",
+          "distance": "1.7 km",
+          "distance_km": 1.7,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "wildlife",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "slug": "hirwa-van-garden",
+          "distance": "3.0 km",
+          "distance_km": 3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Moti Daman Fort",
+          "slug": "moti-daman-fort",
+          "distance": "20.0 km",
+          "distance_km": 20,
+          "distance_band": "15-20 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+        },
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "city": "Silvassa",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "daman-ganga-river-front",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Church of Our Lady of Piety",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "church-of-our-lady-of-piety",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "BAPS Shri Swaminarayan Temple",
+          "slug": "baps-swaminarayan-temple",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "0.0 km away",
+          "category": "temples",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Om Temple",
+          "slug": "om-temple",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "1.4 km away",
+          "category": "temples",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "tribal-cultural-museum",
+      "district": "Dadra and Nagar Haveli",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp",
+      "latitude": 20.2708,
+      "longitude": 73.2125,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+    },
+    {
+      "name": "Ghoghla Beach",
+      "city": "Diu",
+      "category": "beaches",
+      "distance": "4 km from Diu City",
+      "rating": 4.5,
+      "description": "The largest and cleanest beach in Diu, known for its golden sands, gentle waves, and water sports like parasailing, surfing, and water scooters away from the city crowds.",
+      "history": "Located on the mainland peninsula rather than the island itself, this beach offers a quieter alternative to Nagoa Beach and is impeccably maintained.",
+      "famousFor": "Cleanest beach, golden sands, and water sports.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ghoghla-beach",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "W",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "1.2 km",
+          "distance_km": 1.2,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "1.9 km",
+          "distance_km": 1.9,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "2.2 km",
+          "distance_km": 2.2,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "ghoghla-beach",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp",
+      "latitude": 20.7333,
+      "longitude": 70.9833,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+    },
+    {
+      "name": "INS Khukri Memorial",
+      "city": "Diu",
+      "category": "heritage",
+      "distance": "2 km from Diu City",
+      "rating": 4.6,
+      "description": "A solemn and beautifully situated memorial paying tribute to the officers and sailors of the Indian Naval Ship Khukri, which sank during the 1971 Indo-Pak war.",
+      "history": "The INS Khukri was torpedoed by a Pakistani submarine on December 9, 1971, off the coast of Diu. The memorial features a scaled model of the frigate encased in glass facing the sea.",
+      "famousFor": "Naval war memorial, glass-encased ship model, and sunset views.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "ins-khukri-memorial",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "0.2 km",
+          "distance_km": 0.2,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "1.3 km",
+          "distance_km": 1.3,
+          "distance_band": "0-5 km",
+          "direction": "NE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Panikotha (Fortim do Mar)",
+          "slug": "panikotha",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "N",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+        },
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "2.2 km",
+          "distance_km": 2.2,
+          "distance_band": "0-5 km",
+          "direction": "E",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "2.4 km",
+          "distance_km": 2.4,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "ins-khukri-memorial",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9667,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+    },
+    {
+      "name": "Church of Bom Jesus",
+      "city": "Daman",
+      "category": "heritage",
+      "distance": "In Moti Daman",
+      "rating": 4.5,
+      "description": "An exquisite 16th-century church inside Moti Daman Fort, renowned for its stunning wooden altarpieces, intricately carved portals, and exceptional Portuguese colonial architecture.",
+      "history": "Constructed in 1559 and consecrated in 1603, it stands as one of the most prominent monuments of Portuguese heritage in Daman, surviving centuries in remarkable condition.",
+      "famousFor": "Portuguese architecture, intricately carved wooden altars.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "church-of-bom-jesus",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Devka Beach",
+          "slug": "devka-beach",
+          "distance": "0.6 km",
+          "distance_km": 0.6,
+          "distance_band": "0-5 km",
+          "direction": "NW",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/devka-beach.webp"
+        },
+        {
+          "name": "Jampore Beach",
+          "slug": "jampore-beach",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/jampore-beach.webp"
+        },
+        {
+          "name": "Moti Daman Fort",
+          "slug": "moti-daman-fort",
+          "distance": "3.7 km",
+          "distance_km": 3.7,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/moti-daman-fort.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "church-of-bom-jesus",
+      "district": "Daman",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp",
+      "latitude": 20.4167,
+      "longitude": 72.8333,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+    },
+    {
+      "name": "Panikotha (Fortim do Mar)",
+      "city": "Diu",
+      "category": "heritage",
+      "distance": "Offshore from Diu Fort",
+      "rating": 4.4,
+      "description": "A striking fortress shaped like a ship, standing alone in the middle of the Arabian Sea just off the coast of Diu, accessible only by motorboat.",
+      "history": "Built by the Portuguese to guard the entrance of the creek against enemy ships. It once housed a small chapel and a lighthouse, and has been featured in several Bollywood films.",
+      "famousFor": "Sea fortress, boat access, and evening illumination.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 6:00 PM (Subject to tide)",
+      "entryFee": "Free (Boat ride extra)",
+      "slug": "panikotha",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Diu Fort",
+          "slug": "diu-fort",
+          "distance": "0.3 km",
+          "distance_km": 0.3,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/diu-fort.webp"
+        },
+        {
+          "name": "Ghoghla Beach",
+          "slug": "ghoghla-beach",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+        },
+        {
+          "name": "INS Khukri Memorial",
+          "slug": "ins-khukri-memorial",
+          "distance": "1.5 km",
+          "distance_km": 1.5,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/ins-khukri-memorial.webp"
+        },
+        {
+          "name": "Nagoa Beach",
+          "slug": "nagoa-beach",
+          "distance": "2.3 km",
+          "distance_km": 2.3,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "beaches",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nagoa-beach.webp"
+        },
+        {
+          "name": "Gangeshwar Mahadev Temple",
+          "slug": "gangeshwar-mahadev-temple",
+          "distance": "2.9 km",
+          "distance_km": 2.9,
+          "distance_band": "0-5 km",
+          "direction": "S",
+          "within_20km": true,
+          "category": "temples",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/gangeshwar-mahadev-temple.webp"
+        },
+        {
+          "name": "Naida Caves",
+          "slug": "naida-caves",
+          "distance": "3.0 km",
+          "distance_km": 3,
+          "distance_band": "0-5 km",
+          "direction": "SE",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/naida-caves.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "panikotha",
+      "district": "Diu",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp",
+      "latitude": 20.7167,
+      "longitude": 70.9833,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/panikotha.webp"
+    },
+    {
+      "name": "Hirwa Van Garden",
+      "city": "Silvassa",
+      "category": "nature",
+      "distance": "2 km from Silvassa",
+      "rating": 4.3,
+      "description": "A beautifully maintained man-made forest garden featuring cascading waterfalls, colorful flowerbeds, stone walls, and winding pathways perfect for family picnics.",
+      "history": "The name translates to 'Green Forest'. It was developed as a recreational space for locals and tourists, showcasing local flora in a structured yet natural-feeling environment.",
+      "famousFor": "Artificial waterfalls, manicured lawns, and picnic spots.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 8:00 PM",
+      "entryFee": "₹20",
+      "slug": "hirwa-van-garden",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vasona Lion Safari",
+          "slug": "vasona-lion-safari",
+          "distance": "1.4 km",
+          "distance_km": 1.4,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "wildlife",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Vanganga Lake Garden",
+          "slug": "vanganga-lake-garden",
+          "distance": "2.1 km",
+          "distance_km": 2.1,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Dudhni Lake",
+          "slug": "dudhni-lake",
+          "distance": "2.6 km",
+          "distance_km": 2.6,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "nature",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "distance": "3.0 km",
+          "distance_km": 3,
+          "distance_band": "0-5 km",
+          "direction": "SW",
+          "within_20km": true,
+          "category": "heritage",
+          "tier": "TIER_2",
+          "bidirectional_verified": true,
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Satmalia Deer Park",
+          "city": "Silvassa",
+          "distance": "4 km away",
+          "category": "wildlife",
+          "slug": "satmalia-deer-park",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Om Temple",
+          "slug": "om-temple",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "0.0 km away",
+          "category": "temples",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "hirwa-van-garden",
+      "district": "Dadra and Nagar Haveli",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp",
+      "latitude": 20.2667,
+      "longitude": 73.2,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+    },
+    {
+      "name": "Satmalia Deer Park",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "wildlife",
+      "distance": "5 km from Silvassa",
+      "rating": 4.4,
+      "description": "A serene wildlife sanctuary spread across dense deciduous forests, Satmalia Deer Park is home to herds of spotted deer, barking deer, sambhar, and a variety of birds. A guided nature trail offers close encounters with the wildlife in their natural habitat.",
+      "history": "Developed by the Dadra and Nagar Haveli Forest Department as a protected deer breeding and conservation area within the lush forests surrounding Silvassa.",
+      "famousFor": "Spotted deer, barking deer, sambhar, nature trails, birdwatching, forest walks.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:30 PM (Closed Monday)",
+      "entryFee": "₹20",
+      "slug": "satmalia-deer-park",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/satmalia-deer-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Hirwa Van Garden",
+          "city": "Silvassa",
+          "distance": "4 km away",
+          "category": "nature",
+          "slug": "hirwa-van-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Vasona Lion Safari",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "wildlife",
+          "slug": "vasona-lion-safari",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Khanvel",
+          "city": "Khanvel",
+          "distance": "12 km away",
+          "category": "nature",
+          "slug": "khanvel",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Dadra and Nagar Haveli Wildlife Sanctuary",
+          "city": "Silvassa",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "dnh-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Madhuban Dam",
+          "slug": "madhuban-dam",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "3.5 km away",
+          "category": "nature",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "satmalia-deer-park",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/satmalia-deer-park.webp",
+      "latitude": 20.2833,
+      "longitude": 73.2333,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/satmalia-deer-park.webp"
+    },
+    {
+      "name": "Nakshatra Garden",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "nature",
+      "distance": "2 km from Silvassa center",
+      "rating": 4.5,
+      "description": "A unique thematic garden where 27 sections represent the 27 Nakshatras (lunar constellations) of Hindu astrology, each planted with the corresponding sacred tree. The beautifully landscaped park features musical fountains, jogging paths, and vibrant flower beds.",
+      "history": "Conceived and developed by the Dadra and Nagar Haveli administration as a one-of-a-kind botanical and astrological garden, linking celestial constellations with their sacred trees from Indian tradition.",
+      "famousFor": "27 Nakshatra-themed gardens, musical fountain, sacred trees, evening illumination.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 8:00 PM (Closed Tuesday)",
+      "entryFee": "₹15",
+      "slug": "nakshatra-garden",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/nakshatra-garden.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vanganga Lake Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "vanganga-lake-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "hirwa-van-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "tribal-cultural-museum",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "daman-ganga-river-front",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "BAPS Shri Swaminarayan Temple",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "temples",
+          "slug": "baps-swaminarayan-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Church of Our Lady of Piety",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "church-of-our-lady-of-piety",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Om Temple",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "om-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "nakshatra-garden",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/nakshatra-garden.webp",
+      "latitude": 20.275,
+      "longitude": 73.2208,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/nakshatra-garden.webp"
+    },
+    {
+      "name": "Daman Ganga River Front",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "nature",
+      "distance": "1 km from Silvassa center",
+      "rating": 4.2,
+      "description": "A beautifully developed riverfront promenade along the Daman Ganga river in Silvassa, featuring walking paths, seating areas, decorative lighting, and scenic views of the river and the surrounding forest-covered hills.",
+      "history": "Developed as part of the Silvassa Smart City initiative to create a vibrant public space along the Daman Ganga river, which is the lifeline of the territory.",
+      "famousFor": "Riverfront promenade, evening walks, scenic views, illuminated pathways, photography.",
+      "bestTime": "October to March",
+      "timings": "Open all day (illumination 6 PM – 10 PM)",
+      "entryFee": "Free",
+      "slug": "daman-ganga-river-front",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/daman-ganga-river-front.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Vanganga Lake Garden",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "vanganga-lake-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "city": "Silvassa",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "tribal-cultural-museum",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "BAPS Shri Swaminarayan Temple",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "baps-swaminarayan-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Church of Our Lady of Piety",
+          "city": "Silvassa",
+          "distance": "1 km away",
+          "category": "heritage",
+          "slug": "church-of-our-lady-of-piety",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Om Temple",
+          "slug": "om-temple",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "1.0 km away",
+          "category": "temples",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "daman-ganga-river-front",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/daman-ganga-river-front.webp",
+      "latitude": 20.2625,
+      "longitude": 73.2083,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/daman-ganga-river-front.webp"
+    },
+    {
+      "name": "Khanvel",
+      "city": "Khanvel",
+      "district": "Dadra and Nagar Haveli",
+      "category": "nature",
+      "distance": "20 km from Silvassa",
+      "rating": 4.4,
+      "description": "A lush green eco-tourism hub in the forested interior of Dadra and Nagar Haveli. Khanvel is known for its resorts nestled amidst tropical forests, riverside picnic spots, and access to tribal villages that preserve the traditional Warli culture.",
+      "history": "Khanvel has historically been a tribal settlement area surrounded by dense forests. It has been developed as the primary eco-tourism and resort destination in the territory.",
+      "famousFor": "Eco-resorts, tribal villages, Warli culture, forest trails, riverside recreation, picnic spots.",
+      "bestTime": "October to March",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "khanvel",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/khanvel.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dadra and Nagar Haveli Wildlife Sanctuary",
+          "city": "Silvassa",
+          "distance": "10 km away",
+          "category": "wildlife",
+          "slug": "dnh-wildlife-sanctuary",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Satmalia Deer Park",
+          "city": "Silvassa",
+          "distance": "12 km away",
+          "category": "wildlife",
+          "slug": "satmalia-deer-park",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        },
+        {
+          "name": "Dudhni Lake",
+          "city": "Silvassa",
+          "distance": "20 km away",
+          "category": "nature",
+          "slug": "dudhni-lake",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "khanvel",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/khanvel.webp",
+      "latitude": 20.35,
+      "longitude": 73.1167,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/khanvel.webp"
+    },
+    {
+      "name": "Madhuban Dam",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "nature",
+      "distance": "35 km from Silvassa",
+      "rating": 4.5,
+      "description": "The largest dam in Dadra and Nagar Haveli, built across the Daman Ganga river. Madhuban Dam creates the reservoir that forms Dudhni Lake. The dam area offers panoramic views of the reservoir surrounded by forested hills.",
+      "history": "Constructed to provide water supply and irrigation to the territory. The reservoir formed by the dam — Dudhni Lake — has become the region's most popular tourist destination.",
+      "famousFor": "Dam engineering, reservoir views, Dudhni Lake source, panoramic hill views, photography.",
+      "bestTime": "July to March (monsoon spectacular, winter pleasant)",
+      "timings": "Open all day",
+      "entryFee": "Free",
+      "slug": "madhuban-dam",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/madhuban-dam.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dudhni Lake",
+          "city": "Silvassa",
+          "distance": "5 km away",
+          "category": "nature",
+          "slug": "dudhni-lake",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Satmalia Deer Park",
+          "slug": "satmalia-deer-park",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "3.5 km away",
+          "category": "wildlife",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "madhuban-dam",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/madhuban-dam.webp",
+      "latitude": 20.2833,
+      "longitude": 73.2667,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/madhuban-dam.webp"
+    },
+    {
+      "name": "BAPS Shri Swaminarayan Temple",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "temples",
+      "distance": "3 km from Silvassa center",
+      "rating": 4.6,
+      "description": "A magnificent pink sandstone and white marble temple built in the traditional Swaminarayan architectural style. The temple features intricately carved pillars, shikhara towers, and beautifully landscaped gardens.",
+      "history": "Built by the BAPS Swaminarayan Sanstha, the temple is one of the most prominent religious landmarks in Silvassa. It attracts devotees and architecture enthusiasts alike.",
+      "famousFor": "Pink sandstone architecture, carved marble, serene gardens, Swaminarayan tradition, evening aarti.",
+      "bestTime": "Year-round",
+      "timings": "7:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "baps-swaminarayan-temple",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/baps-swaminarayan-mandir.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "daman-ganga-river-front",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Church of Our Lady of Piety",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "heritage",
+          "slug": "church-of-our-lady-of-piety",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+        },
+        {
+          "name": "Om Temple",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "om-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "0.0 km away",
+          "category": "heritage",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "baps-swaminarayan-temple",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/baps-swaminarayan-mandir.webp",
+      "latitude": 20.2708,
+      "longitude": 73.2125,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/baps-swaminarayan-mandir.webp"
+    },
+    {
+      "name": "Church of Our Lady of Piety",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "heritage",
+      "distance": "1 km from Silvassa center",
+      "rating": 4.2,
+      "description": "One of the oldest surviving churches in Dadra and Nagar Haveli, built during the Portuguese colonial period. The church features simple but elegant Portuguese architecture and remains an active place of worship.",
+      "history": "Constructed during the Portuguese occupation of Dadra and Nagar Haveli (which lasted until 1954, earlier than the rest of Portuguese India). It is a testament to the colonial heritage of the territory.",
+      "famousFor": "Portuguese colonial architecture, oldest church in Silvassa, historical heritage, peaceful ambiance.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "church-of-our-lady-of-piety",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Tribal Cultural Museum",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "tribal-cultural-museum",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "2 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "city": "Silvassa",
+          "distance": "1 km away",
+          "category": "nature",
+          "slug": "daman-ganga-river-front",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "BAPS Shri Swaminarayan Temple",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "baps-swaminarayan-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "church-of-our-lady-of-piety",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp",
+      "latitude": 20.2708,
+      "longitude": 73.2125,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/church-of-bom-jesus.webp"
+    },
+    {
+      "name": "Om Temple",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "temples",
+      "distance": "4 km from Silvassa center",
+      "rating": 4.3,
+      "description": "A modern Hindu temple in Silvassa known for its distinctive Om-shaped design. The temple is surrounded by landscaped gardens and serves as a spiritual retreat amid the forested landscape.",
+      "history": "Built as a contemporary temple reflecting the spiritual significance of the Om symbol. The temple has become a notable religious landmark in the territory.",
+      "famousFor": "Om-shaped architecture, meditation gardens, spiritual retreat, modern temple design.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "om-temple",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/om-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Nakshatra Garden",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "nature",
+          "slug": "nakshatra-garden",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vanganga-lake-garden.webp"
+        },
+        {
+          "name": "BAPS Shri Swaminarayan Temple",
+          "city": "Silvassa",
+          "distance": "3 km away",
+          "category": "temples",
+          "slug": "baps-swaminarayan-temple",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        },
+        {
+          "name": "Hirwa Van Garden",
+          "slug": "hirwa-van-garden",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "0.0 km away",
+          "category": "nature",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Daman Ganga River Front",
+          "slug": "daman-ganga-river-front",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "1.0 km away",
+          "category": "nature",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dudhni-lake.webp"
+        },
+        {
+          "name": "Tribal Cultural Museum",
+          "slug": "tribal-cultural-museum",
+          "city": "Silvassa",
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "distance": "1.4 km away",
+          "category": "heritage",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+          },
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/tribal-cultural-museum.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "om-temple",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/om-temple.webp",
+      "latitude": 20.2667,
+      "longitude": 73.2,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/om-temple.webp"
+    },
+    {
+      "name": "Dadra and Nagar Haveli Wildlife Sanctuary",
+      "city": "Silvassa",
+      "district": "Dadra and Nagar Haveli",
+      "category": "wildlife",
+      "distance": "15 km from Silvassa",
+      "rating": 4.3,
+      "description": "A protected forest area spanning over 90 sq km of lush tropical deciduous and semi-evergreen forests. The sanctuary is home to leopards, wild boars, barking deer, porcupines, and over 150 species of birds.",
+      "history": "Established to protect the rich biodiversity of the forested interiors of the territory. The sanctuary encompasses some of the densest forest cover in western India outside the Western Ghats.",
+      "famousFor": "Leopards, wild boar, barking deer, birdwatching, forest trekking, tribal villages.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "slug": "dnh-wildlife-sanctuary",
+      "images": {
+        "main": "assets/images/states/dadra-nagar-haveli-daman-diu/dadra-and-nagar-haveli-wildlife-sanctuary.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Khanvel",
+          "city": "Khanvel",
+          "distance": "10 km away",
+          "category": "nature",
+          "slug": "khanvel",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/hirwa-van-garden.webp"
+        },
+        {
+          "name": "Satmalia Deer Park",
+          "city": "Silvassa",
+          "distance": "8 km away",
+          "category": "wildlife",
+          "slug": "satmalia-deer-park",
+          "images": {
+            "main": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+          },
+          "state": "Dadra and Nagar Haveli and Daman and Diu",
+          "image": "assets/images/states/dadra-nagar-haveli-daman-diu/vasona-lion-safari.webp"
+        }
+      ],
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "dnh-wildlife-sanctuary",
+      "image": "assets/images/states/dadra-nagar-haveli-daman-diu/dadra-and-nagar-haveli-wildlife-sanctuary.webp",
+      "latitude": 20.3167,
+      "longitude": 73.25,
+      "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/dadra-and-nagar-haveli-wildlife-sanctuary.webp"
+    }
+  ],
+  "tagline": "Where Tribal Heritage Meets Coastal Charm",
+  "heroImage": "assets/images/states/dadra-nagar-haveli-daman-diu/banner.webp"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ghoghla-beach",
+  "name": "Ghoghla Beach",
+  "city": "Diu",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "description": "The largest and cleanest beach in Diu, known for its golden sands, gentle waves, and water sports like parasailing, surfing, and water scooters away from the city crowds.",
+  "history": "Located on the mainland peninsula rather than the island itself, this beach offers a quieter alternative to Nagoa Beach and is impeccably maintained.",
+  "famousFor": "Cleanest beach, golden sands, and water sports.",
+  "bestTime": "October to March",
+  "timings": "Open 24/7",
+  "entryFee": "Free",
+  "image": "./assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp",
+  "heroImage": "./assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp",
+  "gallery": [
+    "./assets/images/states/dadra-nagar-haveli-daman-diu/ghoghla-beach.webp"
+  ],
+  "nearbyPlaces": [
+    "ins-khukri-memorial",
+    "diu-fort",
+    "panikotha",
+    "gangeshwar-mahadev-temple",
+    "nagoa-beach",
+    "naida-caves"
+  ]
+}

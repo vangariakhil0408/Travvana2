@@ -1,0 +1,1084 @@
+{
+  "stateSlug": "odisha",
+  "name": "Odisha",
+  "capital": "Bhubaneswar",
+  "tagline": "India's Best Kept Secret",
+  "heroImage": "assets/images/states/odisha/banner.webp",
+  "bestTime": "October to March",
+  "language": "Odia, English",
+  "places": [
+    {
+      "name": "Shree Jagannath Temple",
+      "city": "Puri",
+      "category": "temples",
+      "distance": "Center of Puri",
+      "rating": 4.9,
+      "description": "One of the original Char Dham pilgrimage sites for Hindus. This majestic 12th-century temple is dedicated to Lord Jagannath and is globally renowned for its massive annual Rath Yatra.",
+      "history": "Built by King Anantavarman Chodaganga Deva in the 12th century. The temple's kitchen is considered the largest in the world.",
+      "famousFor": "Rath Yatra, Mahaprasad, and Kalinga architecture.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 10:00 PM",
+      "entryFee": "Free (Only Hindus allowed inside)",
+      "slug": "jagannath-temple-puri",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/popular/jagannath-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Puri Golden Beach",
+          "city": "Puri",
+          "distance": "1 km",
+          "slug": "puri-golden-beach",
+          "image": "assets/images/states/odisha/puri-golden-beach.webp"
+        },
+        {
+          "name": "Konark Sun Temple",
+          "city": "Konark",
+          "distance": "35 km",
+          "slug": "konark-sun-temple",
+          "image": "assets/images/states/odisha/konark-sun-temple.webp"
+        }
+      ],
+      "id": "jagannath-temple-puri",
+      "image": "assets/images/popular/jagannath-temple.webp",
+      "heroImage": "assets/images/popular/jagannath-temple.webp"
+    },
+    {
+      "name": "Konark Sun Temple",
+      "city": "Konark",
+      "category": "heritage",
+      "distance": "65 km from Bhubaneswar",
+      "rating": 4.9,
+      "description": "The Konark Sun Temple is a UNESCO World Heritage Site, a 13th-century architectural masterpiece designed as a massive chariot of the Sun God (Surya) with 24 intricately carved stone wheels and pulled by seven horses. It is considered the pinnacle of Kalinga architecture.",
+      "history": "Built by King Narasimhadeva I of the Eastern Ganga dynasty around 1250 CE. The main sanctum has collapsed (it was originally 70 m tall), but the Jagamohana (assembly hall) and the Nata Mandira (dance hall) remain. The temple was a navigational landmark — called the \"Black Pagoda\" by sailors.",
+      "famousFor": "UNESCO World Heritage Site, 24 carved chariot wheels, Erotic sculptures, Konark Dance Festival, Sun God temple",
+      "bestTime": "October to March (December for Konark Dance Festival)",
+      "timings": "6:00 AM – 8:00 PM; Light & Sound Show: 7:00 PM",
+      "entryFee": "₹40 for Indians, ₹600 for foreigners",
+      "slug": "konark-sun-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/popular/konark-sun-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Chandrabhaga Beach",
+          "city": "Konark",
+          "distance": "3 km",
+          "slug": "chandrabhaga-beach",
+          "image": "assets/images/states/odisha/konark-sun-temple.webp"
+        },
+        {
+          "name": "Ramachandi Temple",
+          "city": "Konark",
+          "distance": "7 km",
+          "slug": "ramachandi-temple",
+          "image": "assets/images/states/odisha/konark-sun-temple.webp"
+        }
+      ],
+      "id": "konark-sun-temple",
+      "image": "assets/images/popular/konark-sun-temple.webp",
+      "heroImage": "assets/images/popular/konark-sun-temple.webp"
+    },
+    {
+      "name": "Chilika Lake",
+      "city": "Puri",
+      "category": "lakes",
+      "distance": "105 km from Bhubaneswar",
+      "rating": 4.8,
+      "description": "Chilika Lake is Asia's largest brackish water lagoon, a Ramsar Wetland of international importance, covering 1,100 sq km. The lake is a paradise for bird watchers, hosting over 160 species of migratory birds including flamingos from Iran, Siberian cranes, and white-bellied sea eagles.",
+      "history": "Chilika has been a vital ecosystem for millennia. It was designated a Ramsar site in 1981. The lake is home to the endangered Irrawaddy dolphin population of about 150 individuals. Kalijai Temple on an island in the lake is a revered pilgrimage site.",
+      "famousFor": "Migratory birds, Irrawaddy dolphins, Nalabana Bird Sanctuary, Kalijai Island Temple, Seafood",
+      "bestTime": "October to March (peak bird season: November–February)",
+      "timings": "Boat rides: 7:00 AM – 4:00 PM",
+      "entryFee": "Boat ride: ₹800–₹6,000 (depending on boat type and route)",
+      "slug": "chilika-lake",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/popular/chilika-lake.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Kalijai Island",
+          "city": "Chilika",
+          "distance": "In the lake",
+          "slug": "kalijai-island",
+          "image": "assets/images/states/odisha/chilika-lake.webp"
+        },
+        {
+          "name": "Nalabana Bird Sanctuary",
+          "city": "Chilika",
+          "distance": "Within Chilika",
+          "slug": "nalabana-bird-sanctuary",
+          "image": "assets/images/states/odisha/chilika-lake.webp"
+        }
+      ],
+      "id": "chilika-lake",
+      "image": "assets/images/popular/chilika-lake.webp",
+      "heroImage": "assets/images/popular/chilika-lake.webp"
+    },
+    {
+      "name": "Lingaraj Temple",
+      "city": "Bhubaneswar",
+      "category": "temples",
+      "distance": "In Bhubaneswar",
+      "rating": 4.8,
+      "description": "The oldest and largest temple in Bhubaneswar, dedicated to Lord Shiva. Its towering 54-meter spire is a masterpiece of classical Kalinga architecture.",
+      "history": "Built in the 11th century by the Somavamsi dynasty. It represents the quintessential Odissan temple style.",
+      "famousFor": "Kalinga architecture, Bindusagar Lake, and Shivratri.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free (Only Hindus allowed inside)",
+      "slug": "lingaraj-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/lingaraj-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mukteswara Temple",
+          "city": "Bhubaneswar",
+          "distance": "2 km",
+          "slug": "mukteswara-temple",
+          "image": "assets/images/states/odisha/lingaraj-temple.webp"
+        },
+        {
+          "name": "Rajarani Temple",
+          "city": "Bhubaneswar",
+          "distance": "1 km",
+          "slug": "rajarani-temple",
+          "image": "assets/images/states/odisha/lingaraj-temple.webp"
+        }
+      ],
+      "id": "lingaraj-temple",
+      "image": "assets/images/states/odisha/lingaraj-temple.webp",
+      "heroImage": "assets/images/states/odisha/lingaraj-temple.webp"
+    },
+    {
+      "name": "Udayagiri and Khandagiri Caves",
+      "city": "Bhubaneswar",
+      "category": "heritage",
+      "distance": "In Bhubaneswar",
+      "rating": 4.6,
+      "description": "Partly natural and partly artificial caves carved into two facing hills. They served as residential blocks for Jain monks during the reign of King Kharavela.",
+      "history": "Carved out in the 1st century BCE. The Hathigumpha inscription provides critical historical accounts of King Kharavela.",
+      "famousFor": "Ancient Jain rock-cut caves, inscriptions.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "udayagiri-khandagiri",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/udayagiri-khandagiri.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "udayagiri-khandagiri",
+      "image": "assets/images/states/odisha/udayagiri-khandagiri.webp",
+      "heroImage": "assets/images/states/odisha/udayagiri-khandagiri.webp"
+    },
+    {
+      "name": "Nandankanan Zoological Park",
+      "city": "Bhubaneswar",
+      "category": "wildlife",
+      "distance": "15 km from Bhubaneswar",
+      "rating": 4.7,
+      "description": "A massive 400-hectare zoo and botanical garden famous worldwide for successfully breeding the rare White Tiger and Indian Pangolins.",
+      "history": "Established in 1960. It is the first zoo in India to join the World Association of Zoos and Aquariums (WAZA).",
+      "famousFor": "White tigers, pangolin breeding, and Kanjia Lake.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹50",
+      "slug": "nandankanan",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/nandankanan.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "nandankanan",
+      "image": "assets/images/states/odisha/nandankanan.webp",
+      "heroImage": "assets/images/states/odisha/nandankanan.webp"
+    },
+    {
+      "name": "Dhauli Shanti Stupa",
+      "city": "Bhubaneswar",
+      "category": "heritage",
+      "distance": "8 km from Bhubaneswar",
+      "rating": 4.6,
+      "description": "A striking white peace pagoda built on the very hill where the historic Kalinga War was fought. It is surrounded by ancient rock edicts of Emperor Ashoka.",
+      "history": "This is the site where Emperor Ashoka renounced violence and embraced Buddhism after witnessing the bloodshed of the Kalinga War.",
+      "famousFor": "Ashokan rock edicts, Peace Pagoda, and river Daya views.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "dhauli-shanti-stupa",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/dhauli-shanti-stupa.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Pipili Applique Village",
+          "city": "Puri",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "pipili",
+          "images": {
+            "main": "assets/images/states/odisha/pipili.webp"
+          },
+          "image": "assets/images/states/odisha/pipili.webp"
+        }
+      ],
+      "id": "dhauli-shanti-stupa",
+      "image": "assets/images/states/odisha/dhauli-shanti-stupa.webp",
+      "heroImage": "assets/images/states/odisha/dhauli-shanti-stupa.webp"
+    },
+    {
+      "name": "Simlipal National Park",
+      "city": "Mayurbhanj",
+      "category": "wildlife",
+      "distance": "Near Baripada",
+      "rating": 4.7,
+      "description": "A massive tiger reserve and biosphere reserve known for its dense Sal forests, roaring waterfalls (like Barehipani), and a healthy population of Royal Bengal Tigers and elephants.",
+      "history": "Once the hunting grounds of the Mayurbhanj Maharajas, it was declared a tiger reserve under Project Tiger in 1973.",
+      "famousFor": "Royal Bengal Tigers, Barehipani Falls, and lush forests.",
+      "bestTime": "November to mid-June",
+      "timings": "6:00 AM – 12:00 PM (Entry)",
+      "entryFee": "₹100",
+      "slug": "simlipal-national-park",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/simlipal-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "simlipal-national-park",
+      "image": "assets/images/states/odisha/simlipal-national-park.webp",
+      "heroImage": "assets/images/states/odisha/simlipal-national-park.webp"
+    },
+    {
+      "name": "Bhitarkanika National Park",
+      "city": "Kendrapara",
+      "category": "wildlife",
+      "distance": "140 km from Bhubaneswar",
+      "rating": 4.8,
+      "description": "The second largest mangrove ecosystem in India. It is a dense, interlaced network of creeks highly famous for its massive population of giant Saltwater Crocodiles.",
+      "history": "Designated a National Park in 1998. It holds the Guinness Record for the largest saltwater crocodile ever caught.",
+      "famousFor": "Giant Saltwater Crocodiles, mangroves, and Kingfishers.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "₹40",
+      "slug": "bhitarkanika",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/bhitarkanika.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "bhitarkanika",
+      "image": "assets/images/states/odisha/bhitarkanika.webp",
+      "heroImage": "assets/images/states/odisha/bhitarkanika.webp"
+    },
+    {
+      "name": "Chandipur Beach",
+      "city": "Balasore",
+      "category": "beaches",
+      "distance": "16 km from Balasore",
+      "rating": 4.6,
+      "description": "Famous globally as the 'Vanishing Beach'. Twice a day during low tide, the sea spectacularly recedes up to 5 kilometers, allowing visitors to walk on the ocean floor.",
+      "history": "Also located near the Integrated Test Range of the Indian military, from where many missiles are test-fired.",
+      "famousFor": "Receding sea tides, walking on the sea bed, and red crabs.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "chandipur-beach",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/chandipur-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "chandipur-beach",
+      "image": "assets/images/states/odisha/chandipur-beach.webp",
+      "heroImage": "assets/images/states/odisha/chandipur-beach.webp"
+    },
+    {
+      "name": "Hirakud Dam",
+      "city": "Sambalpur",
+      "category": "nature",
+      "distance": "15 km from Sambalpur",
+      "rating": 4.6,
+      "description": "One of the longest earthen dams in the world, built across the mighty Mahanadi River. It creates a massive reservoir that looks like a vast inland sea.",
+      "history": "Inaugurated by Prime Minister Jawaharlal Nehru in 1957, it was the first major multipurpose river valley project after India's independence.",
+      "famousFor": "World's longest earthen dam, Gandhi Minar viewpoint.",
+      "bestTime": "September to March",
+      "timings": "8:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "hirakud-dam",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/hirakud-dam.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "hirakud-dam",
+      "image": "assets/images/states/odisha/hirakud-dam.webp",
+      "heroImage": "assets/images/states/odisha/hirakud-dam.webp"
+    },
+    {
+      "name": "Raghurajpur Heritage Village",
+      "city": "Puri",
+      "category": "heritage",
+      "distance": "14 km from Puri",
+      "rating": 4.7,
+      "description": "A uniquely colorful heritage crafts village where almost every family is engaged in creating exquisite traditional Pattachitra (palm leaf scroll paintings).",
+      "history": "Recognized as the first heritage village of Odisha, it is also the birthplace of Kelucharan Mohapatra, the legendary Odissi dancer.",
+      "famousFor": "Pattachitra paintings, Gotipua dance, and artisan homes.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "raghurajpur",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/raghurajpur.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "raghurajpur",
+      "image": "assets/images/states/odisha/raghurajpur.webp",
+      "heroImage": "assets/images/states/odisha/raghurajpur.webp"
+    },
+    {
+      "name": "Gopalpur-on-Sea",
+      "city": "Ganjam",
+      "category": "beaches",
+      "distance": "15 km from Berhampur",
+      "rating": 4.5,
+      "description": "A deeply serene, incredibly clean, and less crowded beach known for its golden sands and historical remnants of a once-bustling colonial seaport.",
+      "history": "During the British East India Company era, it was a highly active port for trade with Burma.",
+      "famousFor": "Clean beaches, ruins of the old port, and surfing.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "gopalpur-beach",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/gopalpur-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gopalpur-beach",
+      "image": "assets/images/states/odisha/gopalpur-beach.webp",
+      "heroImage": "assets/images/states/odisha/gopalpur-beach.webp"
+    },
+    {
+      "name": "Ratnagiri Buddhist Ruins",
+      "city": "Jajpur",
+      "category": "heritage",
+      "distance": "100 km from Bhubaneswar",
+      "rating": 4.6,
+      "description": "An incredibly extensive ruined Buddhist monastery complex featuring massive stupas, incredibly intricate stone carvings, and a rich history of Mahayana Buddhism.",
+      "history": "Excavated between 1958 and 1961, revealing a massive Buddhist settlement that flourished from the 5th to the 13th century.",
+      "famousFor": "Ancient Buddhist stupas, intricately carved doorways.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "ratnagiri-buddhist",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/ratnagiri-buddhist.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "ratnagiri-buddhist",
+      "image": "assets/images/states/odisha/ratnagiri-buddhist.webp",
+      "heroImage": "assets/images/states/odisha/ratnagiri-buddhist.webp"
+    },
+    {
+      "name": "Mangalajodi (Chilika)",
+      "city": "Khordha",
+      "category": "nature",
+      "distance": "70 km from Bhubaneswar",
+      "rating": 4.8,
+      "description": "The northern edge of Chilika Lake, world-famous as a massive congregation site for millions of migratory birds. Visitors can take silent wooden boats right up to the birds.",
+      "history": "A massive conservation success story where an entire village of bird poachers transformed into passionate bird protectors and eco-guides.",
+      "famousFor": "Bird watching, eco-tourism, and conservation.",
+      "bestTime": "November to February",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "Free (Boating extra)",
+      "slug": "mangalajodi",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/mangalajodi.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mangalajodi",
+      "image": "assets/images/states/odisha/mangalajodi.webp",
+      "heroImage": "assets/images/states/odisha/mangalajodi.webp"
+    },
+    {
+      "name": "Mukteswara Temple",
+      "city": "Bhubaneswar",
+      "category": "temples",
+      "distance": "In Bhubaneswar",
+      "rating": 4.7,
+      "description": "Known as the 'Gem of Odishan Architecture', this exquisite 10th-century temple is famous for its heavily ornamented Torana (archway) and perfectly proportioned structure.",
+      "history": "It marks the transition point between early and later phases of Kalinga architecture.",
+      "famousFor": "Intricate stone carving, the ornate archway.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 7:30 PM",
+      "entryFee": "Free",
+      "slug": "mukteswara-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/mukteswara-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Rajarani Temple",
+          "city": "Bhubaneswar",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "rajarani-temple",
+          "state": "Odisha",
+          "images": {
+            "main": "assets/images/states/odisha/rajarani-temple.webp"
+          },
+          "image": "assets/images/states/odisha/rajarani-temple.webp"
+        },
+        {
+          "name": "Kedar Gouri Temple",
+          "city": "Bhubaneswar",
+          "distance": "0.5 km away",
+          "category": "temples",
+          "slug": "kedar-gouri",
+          "images": {
+            "main": "assets/images/states/odisha/kedar-gouri.webp"
+          },
+          "image": "assets/images/states/odisha/kedar-gouri.webp"
+        }
+      ],
+      "id": "mukteswara-temple",
+      "image": "assets/images/states/odisha/mukteswara-temple.webp",
+      "heroImage": "assets/images/states/odisha/mukteswara-temple.webp"
+    },
+    {
+      "name": "Deomali Peak",
+      "city": "Koraput",
+      "category": "hills",
+      "distance": "60 km from Koraput",
+      "rating": 4.8,
+      "description": "Standing at 1,672 meters, it is the highest peak in Odisha. It offers breathtaking panoramic views of the Eastern Ghats and is surrounded by dense forests and tribal villages.",
+      "history": "The region is home to deeply indigenous tribes like the Bonda, Gadaba, and Paraja.",
+      "famousFor": "Highest peak in Odisha, Eastern Ghats views, tribal culture.",
+      "bestTime": "September to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "deomali-peak",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/deomali-peak.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "deomali-peak",
+      "image": "assets/images/states/odisha/deomali-peak.webp",
+      "heroImage": "assets/images/states/odisha/deomali-peak.webp"
+    },
+    {
+      "name": "Pipili Applique Village",
+      "city": "Puri",
+      "category": "heritage",
+      "distance": "20 km from Bhubaneswar",
+      "rating": 4.4,
+      "description": "A remarkably vibrant town globally renowned for its traditional Applique handicraft. The entire main street is draped in vividly colored fabrics, umbrellas, and wall hangings.",
+      "history": "The craft was originally created to make colorful canopies and umbrellas for Lord Jagannath during the Rath Yatra.",
+      "famousFor": "Colorful Applique handicrafts, umbrellas, and souvenirs.",
+      "bestTime": "Year-round",
+      "timings": "9:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "pipili",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/pipili.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dhauli Shanti Stupa",
+          "city": "Bhubaneswar",
+          "distance": "12 km away",
+          "category": "heritage",
+          "slug": "dhauli-shanti-stupa",
+          "state": "Odisha",
+          "images": {
+            "main": "assets/images/states/odisha/dhauli-shanti-stupa.webp"
+          },
+          "image": "assets/images/states/odisha/dhauli-shanti-stupa.webp"
+        }
+      ],
+      "id": "pipili",
+      "image": "assets/images/states/odisha/pipili.webp",
+      "heroImage": "assets/images/states/odisha/pipili.webp"
+    },
+    {
+      "name": "Tikarpada Wildlife Sanctuary",
+      "city": "Angul",
+      "category": "wildlife",
+      "distance": "60 km from Angul",
+      "rating": 4.6,
+      "description": "A stunning sanctuary built around the breathtaking Satkosia Gorge where the Mahanadi River cuts through the Eastern Ghats. It is famous for Gharial crocodiles.",
+      "history": "Part of the Satkosia Tiger Reserve, it is a critical breeding area for the critically endangered Gharial crocodile.",
+      "famousFor": "Satkosia Gorge, Gharial crocodiles, and boating.",
+      "bestTime": "October to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "slug": "tikarpada",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/tikarpada.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tikarpada",
+      "image": "assets/images/states/odisha/tikarpada.webp",
+      "heroImage": "assets/images/states/odisha/tikarpada.webp"
+    },
+    {
+      "name": "Mahendragiri Hills",
+      "city": "Gajapati",
+      "category": "hills",
+      "distance": "Near Paralakhemundi",
+      "rating": 4.5,
+      "description": "A highly revered mountain peak steeped in mythological significance from the Ramayana and Mahabharata, featuring ancient stone temples built by the Pandavas.",
+      "history": "According to myth, Lord Parashurama meditated here. It is one of the highest peaks in the Eastern Ghats.",
+      "famousFor": "Ancient Pandava temples, trekking, and mythology.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "mahendragiri-hills",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/mahendragiri-hills.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "mahendragiri-hills",
+      "image": "assets/images/states/odisha/mahendragiri-hills.webp",
+      "heroImage": "assets/images/states/odisha/mahendragiri-hills.webp"
+    },
+    {
+      "name": "Daringbadi",
+      "city": "Kandhamal",
+      "category": "hills",
+      "distance": "120 km from Berhampur",
+      "rating": 4.7,
+      "description": "Fondly referred to as the 'Kashmir of Odisha', this beautiful hill station is known for its pine forests, coffee gardens, and occasional winter frost.",
+      "history": "Named after Daring Sahib, a British officer who was formerly in charge of the place. It's a peaceful retreat largely untouched by commercial tourism.",
+      "famousFor": "Pine forests, coffee plantations, and cool climate.",
+      "bestTime": "September to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "daringbadi",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/daringbadi.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "daringbadi",
+      "image": "assets/images/states/odisha/daringbadi.webp",
+      "heroImage": "assets/images/states/odisha/daringbadi.webp"
+    },
+    {
+      "name": "Jirang Buddhist Monastery",
+      "city": "Gajapati",
+      "category": "heritage",
+      "distance": "80 km from Berhampur",
+      "rating": 4.8,
+      "description": "Also known as Padmasambhava Mahavihara, it is the largest Buddhist monastery in Eastern India. The massive, colorful architecture is set against stunning green hills.",
+      "history": "Inaugurated by the Dalai Lama in 2010. It serves as a sanctuary and educational center for Tibetan refugees.",
+      "famousFor": "Tibetan architecture, large Buddha statue, and peace.",
+      "bestTime": "October to March",
+      "timings": "7:00 AM – 5:00 PM",
+      "entryFee": "Free",
+      "slug": "jirang-monastery",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/jirang-monastery.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "jirang-monastery",
+      "image": "assets/images/states/odisha/jirang-monastery.webp",
+      "heroImage": "assets/images/states/odisha/jirang-monastery.webp"
+    },
+    {
+      "name": "Khandadhar Falls",
+      "city": "Sundargarh",
+      "category": "waterfalls",
+      "distance": "104 km from Rourkela",
+      "rating": 4.7,
+      "description": "A spectacularly roaring waterfall that plunges 244 meters down a steep cliff. The water falls in the shape of a sword (Khanda), giving it its name.",
+      "history": "The surrounding dense forests are home to the Pauri Bhuiyan tribe.",
+      "famousFor": "Sword-shaped cascade, dense forests, and trekking.",
+      "bestTime": "October to February",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "khandadhar-falls",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/khandadhar-falls.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "khandadhar-falls",
+      "image": "assets/images/states/odisha/khandadhar-falls.webp",
+      "heroImage": "assets/images/states/odisha/khandadhar-falls.webp"
+    },
+    {
+      "name": "Gupteswar Cave Temple",
+      "city": "Koraput",
+      "category": "temples",
+      "distance": "55 km from Jeypore",
+      "rating": 4.6,
+      "description": "A highly revered natural limestone cave shrine dedicated to Lord Shiva, hidden deep within a densely forested hill surrounded by the Sabari river.",
+      "history": "The name 'Gupteswar' means 'Hidden God'. According to legend, Lord Rama discovered the massive stalagmite lingam during his exile.",
+      "famousFor": "Cave temple, giant Shiva lingam, and Bol Bom pilgrimage.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "gupteswar-cave",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/gupteswar-cave.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gupteswar-cave",
+      "image": "assets/images/states/odisha/gupteswar-cave.webp",
+      "heroImage": "assets/images/states/odisha/gupteswar-cave.webp"
+    },
+    {
+      "name": "Barabati Fort Ruins",
+      "city": "Cuttack",
+      "category": "heritage",
+      "distance": "Center of Cuttack",
+      "rating": 4.4,
+      "description": "The impressive ruins of a 14th-century fort built by the Ganga dynasty, featuring an elaborately carved gateway and a wide moat. It sits next to the modern Barabati Stadium.",
+      "history": "It served as the seat of power for the Ganga and Gajapati dynasties before falling to the Afghans, Marathas, and eventually the British.",
+      "famousFor": "Ancient stone gateway, moat, and historical ruins.",
+      "bestTime": "October to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "barabati-fort",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/barabati-fort.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "barabati-fort",
+      "image": "assets/images/states/odisha/barabati-fort.webp",
+      "heroImage": "assets/images/states/odisha/barabati-fort.webp"
+    },
+    {
+      "name": "Taptapani Hot Springs",
+      "city": "Ganjam",
+      "category": "nature",
+      "distance": "50 km from Berhampur",
+      "rating": 4.5,
+      "description": "A famous natural hot sulfur spring situated amidst the lush Eastern Ghats. The waters are highly revered for their medicinal and therapeutic properties.",
+      "history": "The spring water is channeled into a pond for bathing, and there is a small shrine dedicated to Goddess Kandhi.",
+      "famousFor": "Sulfur hot springs, medicinal water, and deer park.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "taptapani",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/taptapani.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "taptapani",
+      "image": "assets/images/states/odisha/taptapani.webp",
+      "heroImage": "assets/images/states/odisha/taptapani.webp"
+    },
+    {
+      "name": "Lalitgiri Buddhist Complex",
+      "city": "Cuttack District",
+      "category": "heritage",
+      "distance": "90 km from Bhubaneswar",
+      "rating": 4.6,
+      "description": "The oldest site of the 'Diamond Triangle' of Odishan Buddhism. It features massive brick stupas, monasteries, and a highly important museum holding relics of Buddha.",
+      "history": "Excavations revealed it was a major center for Mahayana Buddhism as far back as the 1st century CE.",
+      "famousFor": "Ancient Buddhist stupas, caskets with Buddha relics.",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "lalitgiri",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/lalitgiri.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "lalitgiri",
+      "image": "assets/images/states/odisha/lalitgiri.webp",
+      "heroImage": "assets/images/states/odisha/lalitgiri.webp"
+    },
+    {
+      "name": "Kapilas Temple",
+      "city": "Dhenkanal",
+      "category": "temples",
+      "distance": "26 km from Dhenkanal",
+      "rating": 4.7,
+      "description": "Referred to as the 'Kailash of Odisha', this revered Shiva temple is situated atop a densely forested hill. Pilgrims climb 1352 steep steps to reach the shrine.",
+      "history": "Built in the 13th century by King Narasinghdeva I of the Ganga dynasty.",
+      "famousFor": "1352 steps, dense forests, and Shivratri festival.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "kapilas-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/kapilas-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "kapilas-temple",
+      "image": "assets/images/states/odisha/kapilas-temple.webp",
+      "heroImage": "assets/images/states/odisha/kapilas-temple.webp"
+    },
+    {
+      "name": "Huma Leaning Temple",
+      "city": "Sambalpur",
+      "category": "temples",
+      "distance": "23 km from Sambalpur",
+      "rating": 4.6,
+      "description": "The only leaning temple in the world dedicated to Lord Shiva. Surprisingly, the main temple leans in one direction, while the smaller ones lean in another.",
+      "history": "Built in 1670 by King Baliar Singh. The reason for the lean remains a mystery—whether due to structural design, tectonic shifts, or soil displacement.",
+      "famousFor": "Leaning architecture, Kudo fish feeding in the river.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "huma-leaning-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/huma-leaning-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "huma-leaning-temple",
+      "image": "assets/images/states/odisha/huma-leaning-temple.webp",
+      "heroImage": "assets/images/states/odisha/huma-leaning-temple.webp"
+    },
+    {
+      "name": "Rajarani Temple",
+      "city": "Bhubaneswar",
+      "category": "temples",
+      "distance": "In Bhubaneswar",
+      "rating": 4.5,
+      "description": "An 11th-century Hindu temple famous for its incredibly intricate and sensual stone carvings. Uniquely, this temple has no presiding deity.",
+      "history": "Known locally as the 'Love Temple'. It is built from dull red and yellow sandstone locally called 'Rajarani'.",
+      "famousFor": "Sculptures of nayikas, Odissi music festivals.",
+      "bestTime": "October to March",
+      "timings": "6:30 AM – 7:00 PM",
+      "entryFee": "₹25",
+      "slug": "rajarani-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/rajarani-temple.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mukteswara Temple",
+          "city": "Bhubaneswar",
+          "distance": "1 km away",
+          "category": "temples",
+          "slug": "mukteswara-temple",
+          "images": {
+            "main": "assets/images/states/odisha/mukteswara-temple.webp"
+          },
+          "image": "assets/images/states/odisha/mukteswara-temple.webp"
+        }
+      ],
+      "id": "rajarani-temple",
+      "image": "assets/images/states/odisha/rajarani-temple.webp",
+      "heroImage": "assets/images/states/odisha/rajarani-temple.webp"
+    },
+    {
+      "name": "Tara Tarini Temple",
+      "city": "Ganjam",
+      "category": "temples",
+      "distance": "30 km from Berhampur",
+      "rating": 4.8,
+      "description": "One of the most revered and oldest Shakti Peethas in India. Perched atop the Kumari hills on the banks of the Rushikulya river, accessible by a ropeway or 999 steps.",
+      "history": "Believed to be the breast shrine of Sati. It was the presiding deity of the ancient Kalinga kingdom.",
+      "famousFor": "Shakti Peetha, ropeway rides, and hilltop views.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 12:25 PM, 2:00 PM – 9:45 PM",
+      "entryFee": "Free",
+      "slug": "tara-tarini-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/tara-tarini-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tara-tarini-temple",
+      "image": "assets/images/states/odisha/tara-tarini-temple.webp",
+      "heroImage": "assets/images/states/odisha/tara-tarini-temple.webp"
+    },
+    {
+      "name": "Dhabaleswar Island",
+      "city": "Cuttack",
+      "category": "heritage",
+      "distance": "27 km from Cuttack",
+      "rating": 4.6,
+      "description": "A deeply serene island nestled in the Mahanadi River, famous for its 10th-century temple dedicated to Lord Shiva and a thrilling hanging suspension bridge.",
+      "history": "According to legend, Lord Shiva once turned a black bull calf white (Dhabala) to save a devotee, hence the name 'Dhabaleswar'.",
+      "famousFor": "Hanging suspension bridge, island temple, and boating.",
+      "bestTime": "October to March",
+      "timings": "5:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "dhabaleswar-island",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/dhabaleswar-island.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "dhabaleswar-island",
+      "image": "assets/images/states/odisha/dhabaleswar-island.webp",
+      "heroImage": "assets/images/states/odisha/dhabaleswar-island.webp"
+    },
+    {
+      "name": "Sanaghagara Waterfall",
+      "city": "Keonjhar",
+      "category": "waterfalls",
+      "distance": "5 km from Keonjhar",
+      "rating": 4.5,
+      "description": "A highly picturesque perennial waterfall cascading from a height of 30 meters amidst lush green V-shaped valleys and rocky terrains.",
+      "history": "A popular natural retreat that forms the upper reach of the Machakandana river. Developed extensively for eco-tourism.",
+      "famousFor": "Perennial cascade, scenic eco-park, and boating.",
+      "bestTime": "September to March",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹20",
+      "slug": "sanaghagara-waterfall",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/sanaghagara-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "sanaghagara-waterfall",
+      "image": "assets/images/states/odisha/sanaghagara-waterfall.webp",
+      "heroImage": "assets/images/states/odisha/sanaghagara-waterfall.webp"
+    },
+    {
+      "name": "Gundicha Temple",
+      "city": "Puri",
+      "category": "temples",
+      "distance": "3 km from Jagannath Temple",
+      "rating": 4.7,
+      "description": "Known as the Garden House of Lord Jagannath, this beautiful temple is the ultimate destination of the world-famous Rath Yatra.",
+      "history": "Built by Gundicha, the queen of King Indradyumna, the legendary builder of the first Jagannath temple. The deities reside here for 9 days every year.",
+      "famousFor": "Rath Yatra destination, beautiful gardens, Kalinga style.",
+      "bestTime": "July (During Rath Yatra)",
+      "timings": "6:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "gundicha-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/gundicha-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "gundicha-temple",
+      "image": "assets/images/states/odisha/gundicha-temple.webp",
+      "heroImage": "assets/images/states/odisha/gundicha-temple.webp"
+    },
+    {
+      "name": "Satkosia Tiger Reserve",
+      "city": "Angul",
+      "category": "wildlife",
+      "distance": "45 km from Angul",
+      "rating": 4.6,
+      "description": "A magnificent tiger reserve spanning the stunning Satkosia Gorge, where the mighty Mahanadi River cuts through the Eastern Ghats. It's a paradise for nature and wildlife lovers.",
+      "history": "Created in 2007 by combining the Satkosia Gorge Sanctuary and Baisipalli Sanctuary. It is a vital breeding ground for Gharials.",
+      "famousFor": "Tigers, Gharials, river gorges",
+      "bestTime": "November to April",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹40",
+      "slug": "satkosia-tiger-reserve",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/satkosia-tiger-reserve.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "satkosia-tiger-reserve",
+      "image": "assets/images/states/odisha/satkosia-tiger-reserve.webp",
+      "heroImage": "assets/images/states/odisha/satkosia-tiger-reserve.webp"
+    },
+    {
+      "name": "Chausathi Yogini Temple",
+      "city": "Hirapur",
+      "category": "heritage",
+      "distance": "15 km from Bhubaneswar",
+      "rating": 4.6,
+      "description": "A rare, circular, hypaethral (roofless) 9th-century temple dedicated to the 64 Yoginis. It is a masterpiece of tantric architecture and sculpture.",
+      "history": "Built by Queen Hiradevi of the Bhauma dynasty. It is one of only four surviving Chausathi Yogini temples in India.",
+      "famousFor": "64 black sandstone Yogini idols, tantric history.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "chausathi-yogini",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/chausathi-yogini.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "chausathi-yogini",
+      "image": "assets/images/states/odisha/chausathi-yogini.webp",
+      "heroImage": "assets/images/states/odisha/chausathi-yogini.webp"
+    },
+    {
+      "name": "Pradhanpat Waterfall",
+      "city": "Deogarh",
+      "category": "waterfalls",
+      "distance": "1 km from Deogarh",
+      "rating": 4.7,
+      "description": "A highly picturesque waterfall surrounded by pristine hills and dense forests. The water cascades down a series of rocky steps creating a beautiful mist.",
+      "history": "The site was highly patronized by the former kings of the Bamanda state. It is surrounded by historic guest houses like Basanta Nivas.",
+      "famousFor": "Stepped cascade, pristine forests, and historic guesthouses.",
+      "bestTime": "September to March",
+      "timings": "Unknown",
+      "entryFee": "Free",
+      "slug": "pradhanpat-waterfall",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/pradhanpat-waterfall.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "pradhanpat-waterfall",
+      "image": "assets/images/states/odisha/pradhanpat-waterfall.webp",
+      "heroImage": "assets/images/states/odisha/pradhanpat-waterfall.webp"
+    },
+    {
+      "name": "State Tribal Museum",
+      "city": "Bhubaneswar",
+      "category": "heritage",
+      "distance": "In Bhubaneswar",
+      "rating": 4.5,
+      "description": "An incredible interactive museum dedicated to showcasing the rich cultural heritage, art, and lifestyle of the 62 indigenous tribes of Odisha.",
+      "history": "Established in 1953, it features authentic life-sized replicas of tribal huts, complete with traditional artifacts and tools.",
+      "famousFor": "Tribal heritage, authentic hut replicas, and tribal art.",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "Free",
+      "slug": "tribal-museum-bhubaneswar",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/tribal-museum-bhubaneswar.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "tribal-museum-bhubaneswar",
+      "image": "assets/images/states/odisha/tribal-museum-bhubaneswar.webp",
+      "heroImage": "assets/images/states/odisha/tribal-museum-bhubaneswar.webp"
+    },
+    {
+      "name": "Astaranga Beach",
+      "city": "Puri District",
+      "category": "beaches",
+      "distance": "35 km from Konark",
+      "rating": 4.5,
+      "description": "Astaranga literally translates to 'Colorful Sunset'. It is a deeply serene, offbeat beach known for its magnificent sunset views and thriving fishing community.",
+      "history": "It is an important center for salt production and marine fishing, largely untouched by commercial tourism.",
+      "famousFor": "Stunning sunsets, fishing boats, and Olive Ridley turtles.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "astaranga-beach",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/astaranga-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "astaranga-beach",
+      "image": "assets/images/states/odisha/astaranga-beach.webp",
+      "heroImage": "assets/images/states/odisha/astaranga-beach.webp"
+    },
+    {
+      "name": "Baladevjew Temple",
+      "city": "Kendrapara",
+      "category": "temples",
+      "distance": "Center of Kendrapara",
+      "rating": 4.7,
+      "description": "Often referred to as Tulasi Khetra, this magnificent temple is dedicated to Lord Balabhadra (elder brother of Lord Jagannath) and is famous for its unique chariot festival.",
+      "history": "Constructed by the Maratha Subedar during the Maratha rule in Odisha in the 18th century.",
+      "famousFor": "Brahma Taladhwaja Rath, Rasabali sweet, and Maratha architecture.",
+      "bestTime": "October to March",
+      "timings": "5:30 AM – 9:00 PM",
+      "entryFee": "Free",
+      "slug": "baladevjew-temple",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/baladevjew-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "id": "baladevjew-temple",
+      "image": "assets/images/states/odisha/baladevjew-temple.webp",
+      "heroImage": "assets/images/states/odisha/baladevjew-temple.webp"
+    },
+    {
+      "name": "Kedar Gouri Temple",
+      "city": "Bhubaneswar",
+      "category": "temples",
+      "distance": "In Bhubaneswar",
+      "rating": 4.4,
+      "description": "A historic temple complex consisting of two separate temples dedicated to Lord Shiva (Kedareshwar) and Goddess Gouri, famous for its sacred perennial water springs.",
+      "history": "One of the eight Astasambhu temples in Bhubaneswar, known for the tragic legend of the star-crossed lovers Kedar and Gouri.",
+      "famousFor": "Sacred water springs (Khira Kund and Marichi Kund), tragic folklore.",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "kedar-gouri",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/states/odisha/kedar-gouri.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Mukteswara Temple",
+          "city": "Bhubaneswar",
+          "distance": "0.5 km away",
+          "category": "temples",
+          "slug": "mukteswara-temple",
+          "state": "Odisha",
+          "images": {
+            "main": "assets/images/states/odisha/mukteswara-temple.webp"
+          },
+          "image": "assets/images/states/odisha/mukteswara-temple.webp"
+        }
+      ],
+      "id": "kedar-gouri",
+      "image": "assets/images/states/odisha/kedar-gouri.webp",
+      "heroImage": "assets/images/states/odisha/kedar-gouri.webp"
+    },
+    {
+      "name": "Puri Beach (Golden Beach)",
+      "city": "Puri",
+      "category": "beaches",
+      "distance": "60 km from Bhubaneswar",
+      "rating": 4.5,
+      "description": "Puri Beach is one of India's most famous beaches along the Bay of Bengal, known for its golden sands, rolling waves, and spiritual significance as part of the Jagannath Dham. The beach hosts the annual Puri Beach Festival and international sand art competitions featuring master artists like Sudarsan Pattnaik.",
+      "history": "Puri has been a pilgrimage town for over a millennium. The beach is considered sacred — pilgrims take a holy dip before visiting the Jagannath Temple. The golden sand beach stretches for about 10 km and has been a popular tourist destination since British times.",
+      "famousFor": "Sand art by Sudarsan Pattnaik, Sunrise, Golden beach, Puri Beach Festival, Seafood",
+      "bestTime": "October to March",
+      "timings": "Open 24 hours (swimming advised: 6 AM – 6 PM with lifeguards)",
+      "entryFee": "Free",
+      "slug": "puri-beach",
+      "state": "Odisha",
+      "images": {
+        "main": "assets/images/popular/puri-beach.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Shree Jagannath Temple",
+          "city": "Puri",
+          "distance": "1 km",
+          "slug": "jagannath-temple-puri",
+          "image": "assets/images/states/odisha/gundicha-temple.webp"
+        },
+        {
+          "name": "Konark Sun Temple",
+          "city": "Konark",
+          "distance": "35 km",
+          "slug": "konark-sun-temple",
+          "image": "assets/images/states/odisha/konark-sun-temple.webp"
+        }
+      ],
+      "id": "puri-beach",
+      "image": "assets/images/popular/puri-beach.webp",
+      "heroImage": "assets/images/popular/puri-beach.webp"
+    }
+  ]
+}

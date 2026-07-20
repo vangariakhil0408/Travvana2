@@ -1,0 +1,70 @@
+{
+  "id": "ranakpur-jain-temple",
+  "slug": "ranakpur-jain-temple",
+  "name": "Ranakpur Jain Temple",
+  "location": "Madhya Pradesh, India",
+  "district": "",
+  "stateId": "madhya-pradesh",
+  "category": "spiritual",
+  "uiCategory": "spiritual",
+  "image": "./assets/images/popular/ranakpur-jain-temple.webp",
+  "heroImage": "./assets/images/popular/ranakpur-jain-temple.webp",
+  "gallery": [
+    "./assets/images/popular/ranakpur-jain-temple.webp"
+  ],
+  "overview": "Experience the beauty of Ranakpur Jain Temple, a top destination in Madhya Pradesh, India.",
+  "description": "Experience the magnificent allure of Ranakpur Jain Temple, an iconic gem situated in the heart of Madhya Pradesh, India. Whether you're seeking inspiration, adventure, or simply a moment of peace, this beloved spot delivers beyond expectations. A visit here not only enriches your itinerary but also creates memories that last a lifetime.",
+  "rating": "4.4",
+  "reviewCount": 10448,
+  "popularityScore": 30,
+  "priceLevel": 1,
+  "bestTimeToVisit": "All Year",
+  "timings": "09:00 AM - 06:00 PM",
+  "entryFee": {
+    "indian": "Free"
+  },
+  "climate": "Tropical / Moderate",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls",
+    "guided-tours"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Main Airport",
+      "distance": "25 km"
+    },
+    "nearestRailway": {
+      "name": "Central Station",
+      "distance": "7 km"
+    },
+    "byRoad": "Accessible by local taxis and state buses."
+  },
+  "tags": [
+    "spiritual",
+    "madhya-pradesh",
+    "must-visit",
+    "top-100"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2283
+    },
+    {
+      "views": 5222
+    }
+  ],
+  "nearbyPlaces": [
+    "khajuraho-temples",
+    "sanchi-stupa",
+    "bandhavgarh-national-park"
+  ]
+}

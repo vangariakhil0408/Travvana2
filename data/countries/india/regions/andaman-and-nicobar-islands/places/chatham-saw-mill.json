@@ -1,0 +1,39 @@
+{
+  "id": "chatham-saw-mill",
+  "name": "Chatham Saw Mill",
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "description": "One of the oldest and largest sawmills in Asia, located on Chatham Island and connected to Port Blair by a bridge, offering a fascinating glimpse into colonial-era timber industry.",
+  "history": "Established by the British in 1883, this sawmill processed timber from the dense Andaman forests and played a key role in the colonial economy.",
+  "famousFor": "Colonial-era industrial heritage and wood processing museum",
+  "bestTime": "October to May",
+  "timings": "8:30 AM \u2013 2:30 PM (Closed on Sundays)",
+  "entryFee": "Free",
+  "image": "./assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp",
+  "heroImage": "./assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp",
+  "gallery": [
+    "./assets/images/states/andaman-and-nicobar-islands/chatham-saw-mill.webp"
+  ],
+  "nearbyPlaces": [
+    "cellular-jail",
+    "wandoor-beach",
+    "mahatma-gandhi-marine-national-park",
+    "long-island",
+    "viper-island",
+    "ross-island",
+    "anthropological-museum",
+    "barren-island",
+    "mount-harriet-national-park",
+    "chidiya-tapu",
+    "diglipur-town",
+    "north-bay-island",
+    "corbyns-cove-beach",
+    "mundapahad",
+    "saddle-peak",
+    "kalipur-beach",
+    "aberdeen-bazaar",
+    "samudrika-naval-marine-museum",
+    "marina-park",
+    "jolly-buoy-island"
+  ]
+}

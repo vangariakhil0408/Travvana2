@@ -1,0 +1,68 @@
+{
+  "id": "munnar-tea-gardens",
+  "slug": "munnar-tea-gardens",
+  "name": "Munnar Tea Gardens",
+  "location": "Kerala, India",
+  "district": "Idukki",
+  "stateId": "kerala",
+  "category": "hills",
+  "uiCategory": "hills",
+  "image": "./assets/images/states/kerala/Munnar Tea Gardens.png",
+  "heroImage": "./assets/images/states/kerala/Munnar Tea Gardens.png",
+  "gallery": [
+    "./assets/images/states/kerala/Munnar Tea Gardens.png"
+  ],
+  "overview": "Experience the beauty of Munnar Tea Gardens, a top destination in Kerala.",
+  "description": "Famous hill station known for expansive tea plantations.",
+  "rating": "4.8",
+  "reviewCount": 1200,
+  "popularityScore": 85,
+  "priceLevel": 2,
+  "bestTimeToVisit": "October to March",
+  "timings": "8:00 AM - 6:00 PM",
+  "entryFee": {
+    "indian": "Free",
+    "foreigner": "Free"
+  },
+  "climate": "Tropical",
+  "amenities": [
+    "parking",
+    "restrooms",
+    "food-stalls"
+  ],
+  "howToReach": {
+    "nearestAirport": {
+      "name": "Nearest Airport",
+      "distance": "50 km"
+    },
+    "nearestRailway": {
+      "name": "Nearest Railway Station",
+      "distance": "20 km"
+    },
+    "byRoad": "Well connected by road."
+  },
+  "tags": [
+    "hills",
+    "kerala",
+    "must-visit"
+  ],
+  "bookingCTA": {
+    "enabled": true
+  },
+  "aiTripCTA": {
+    "enabled": true,
+    "prompt": "Plan my perfect trip here"
+  },
+  "reels": [
+    {
+      "views": 2000
+    },
+    {
+      "views": 1500
+    }
+  ],
+  "nearbyPlaces": [
+    "eravikulam-national-park",
+    "chinnar-wildlife-sanctuary"
+  ]
+}

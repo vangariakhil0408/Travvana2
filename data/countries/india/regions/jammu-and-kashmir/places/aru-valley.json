@@ -1,0 +1,24 @@
+{
+  "id": "aru-valley",
+  "name": "Aru Valley",
+  "city": "Pahalgam",
+  "state": "Jammu and Kashmir",
+  "description": "A deeply serene, pristine village surrounded by majestic snow-capped peaks and meadows. It serves as the base camp for several high-altitude treks including the Kolahoi Glacier.",
+  "history": "A traditional Gujjar and Bakarwal settlement that has maintained its pristine ecological beauty over centuries.",
+  "famousFor": "Scenic meadows, horseback riding, trekking base camp.",
+  "bestTime": "May to October",
+  "timings": "Open 24/7",
+  "entryFee": "\u20b925 (Environmental Fee)",
+  "image": "./assets/images/states/jammu-and-kashmir/bangus-valley.webp",
+  "heroImage": "./assets/images/states/jammu-and-kashmir/bangus-valley.webp",
+  "gallery": [
+    "./assets/images/states/jammu-and-kashmir/bangus-valley.webp"
+  ],
+  "nearbyPlaces": [
+    "betaab-valley",
+    "amarnath-cave",
+    "tulian-lake",
+    "baisaran-valley",
+    "chandanwari"
+  ]
+}

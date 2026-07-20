@@ -1,0 +1,1159 @@
+{
+  "state": "West Bengal",
+  "capital": "Kolkata",
+  "description": "A culturally rich state blending colonial grandeur, Bengali Renaissance heritage, Himalayan hill stations, mangrove wilderness, and terracotta temple artistry.",
+  "image": "assets/images/states/west-bengal/wb-banner.webp",
+  "bestTime": "October to March",
+  "language": "Bengali, Hindi, English",
+  "places": [
+    {
+      "name": "Victoria Memorial",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.9,
+      "description": "A magnificent white marble monument built in memory of Queen Victoria, blending British and Mughal architecture. It houses a museum with 28,394 artifacts including rare paintings, manuscripts, and weapons from the British Raj era.",
+      "history": "Built between 1906 and 1921 by Lord Curzon using white Makrana marble (same as the Taj Mahal). Designed by Sir William Emerson in Indo-Saracenic style.",
+      "famousFor": "White marble architecture, museum, Mughal gardens",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹30",
+      "slug": "victoria-memorial",
+      "images": {
+        "main": "assets/images/states/west-bengal/victoria-memorial.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "victoria-memorial",
+      "image": "assets/images/states/west-bengal/victoria-memorial.webp",
+      "heroImage": "assets/images/states/west-bengal/victoria-memorial.webp"
+    },
+    {
+      "name": "Howrah Bridge",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.7,
+      "description": "An iconic cantilever bridge over the Hooghly River and Kolkata's most recognizable landmark. It carries over 100,000 vehicles and countless pedestrians daily — making it one of the busiest bridges on Earth.",
+      "history": "Completed in 1943 during WWII without any nuts or bolts — the entire structure is riveted. It replaced a pontoon bridge that had stood since 1874.",
+      "famousFor": "Cantilever engineering, no nuts or bolts, Hooghly River views",
+      "bestTime": "Year-round (dawn for photos)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "howrah-bridge",
+      "images": {
+        "main": "assets/images/states/west-bengal/howrah-bridge.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "howrah-bridge",
+      "image": "assets/images/states/west-bengal/howrah-bridge.webp",
+      "heroImage": "assets/images/states/west-bengal/howrah-bridge.webp"
+    },
+    {
+      "name": "Indian Museum",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.7,
+      "description": "The largest and oldest museum in India and the 9th oldest in the world. Its 35 galleries house an extraordinary collection including Egyptian mummies, Gandhara sculptures, Ashoka's Lion Capital replica, and a 4,000-year-old skeleton.",
+      "history": "Founded in 1814 by the Asiatic Society of Bengal. The current Italianate building was designed by Walter Granville and opened in 1878.",
+      "famousFor": "Oldest museum in India, Egyptian mummy, Gandhara art",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹75",
+      "slug": "indian-museum-kolkata",
+      "images": {
+        "main": "assets/images/states/west-bengal/indian-museum-kolkata.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "indian-museum-kolkata",
+      "image": "assets/images/states/west-bengal/indian-museum-kolkata.webp",
+      "heroImage": "assets/images/states/west-bengal/indian-museum-kolkata.webp"
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "city": "Kolkata",
+      "category": "temples",
+      "distance": "20 km from Kolkata center",
+      "rating": 4.9,
+      "description": "A magnificent Kali temple on the banks of the Hooghly River, deeply associated with the mystic Ramakrishna Paramahamsa. The nine-spired Navratna temple and the 12 identical Shiva temples create a stunning riverside panorama.",
+      "history": "Built in 1855 by Rani Rashmoni. Sri Ramakrishna served as the head priest here and attained spiritual enlightenment, sparking the Bengali Renaissance.",
+      "famousFor": "Ramakrishna's temple, Navratna architecture, 12 Shiva temples",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 12:30 PM, 3:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "dakshineswar-kali",
+      "images": {
+        "main": "assets/images/states/west-bengal/dakshineswar-kali.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Belur Math",
+          "city": "Howrah",
+          "distance": "4 km away",
+          "category": "heritage",
+          "slug": "belur-math",
+          "images": {
+            "main": "assets/images/states/west-bengal/belur-math.webp"
+          },
+          "state": "West Bengal",
+          "image": "assets/images/states/west-bengal/belur-math.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "dakshineswar-kali",
+      "image": "assets/images/states/west-bengal/dakshineswar-kali.webp",
+      "heroImage": "assets/images/states/west-bengal/dakshineswar-kali.webp"
+    },
+    {
+      "name": "Darjeeling",
+      "city": "Darjeeling",
+      "category": "hills",
+      "distance": "600 km from Kolkata",
+      "rating": 4.9,
+      "description": "The 'Queen of the Hills', a legendary hill station at 6,700 feet offering breathtaking views of Kanchenjunga — the world's third highest peak. Famous for its world-renowned tea, the UNESCO Heritage Toy Train, and colonial charm.",
+      "history": "Developed by the British in the 1840s as a sanatorium. The tea industry was established here by Dr. Archibald Campbell in 1841.",
+      "famousFor": "Kanchenjunga views, Darjeeling tea, UNESCO Toy Train",
+      "bestTime": "March to May, October to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "darjeeling",
+      "images": {
+        "main": "assets/images/states/west-bengal/darjeeling.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "darjeeling",
+      "image": "assets/images/states/west-bengal/darjeeling.webp",
+      "heroImage": "assets/images/states/west-bengal/darjeeling.webp"
+    },
+    {
+      "name": "Sundarbans National Park",
+      "city": "South 24 Parganas",
+      "category": "wildlife",
+      "distance": "110 km from Kolkata",
+      "rating": 4.8,
+      "description": "A UNESCO World Heritage site and the world's largest mangrove forest, home to the legendary Royal Bengal Tiger that has uniquely adapted to swimming in saltwater. The labyrinthine waterways and dense mangroves create an otherworldly landscape.",
+      "history": "Designated a UNESCO Heritage site in 1987. It is the only mangrove habitat in the world where tigers are known to be man-eaters due to the harsh survival conditions.",
+      "famousFor": "Royal Bengal Tiger, largest mangrove forest, UNESCO Heritage",
+      "bestTime": "September to March",
+      "timings": "Boat safaris 8:00 AM – 4:00 PM",
+      "entryFee": "₹200 + Safari charges",
+      "slug": "sundarbans",
+      "images": {
+        "main": "assets/images/states/west-bengal/sundarbans-national-park.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sajnekhali Wildlife Sanctuary",
+          "city": "Sundarbans",
+          "distance": "Within reserve",
+          "slug": "sajnekhali",
+          "image": "assets/images/states/west-bengal/sundarbans-national-park.webp"
+        },
+        {
+          "name": "Dobanki Watch Tower",
+          "city": "Sundarbans",
+          "distance": "10 km from Sajnekhali",
+          "slug": "dobanki",
+          "image": "assets/images/states/west-bengal/sundarbans-national-park.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "sundarbans",
+      "image": "assets/images/states/west-bengal/sundarbans-national-park.webp",
+      "heroImage": "assets/images/states/west-bengal/sundarbans-national-park.webp"
+    },
+    {
+      "name": "Bishnupur Terracotta Temples",
+      "city": "Bankura",
+      "category": "heritage",
+      "distance": "150 km from Kolkata",
+      "rating": 4.7,
+      "description": "A stunning cluster of ornate terracotta temples built by the Malla dynasty kings between the 17th and 18th centuries. The temples feature incredibly detailed panels depicting scenes from the Ramayana, Mahabharata, and Krishna Leela.",
+      "history": "Built under the patronage of the Malla kings who were great devotees of Vishnu. The Rasmancha (1600 AD) is the oldest and most unique structure.",
+      "famousFor": "Terracotta art, Rasmancha, Jor Bangla Temple",
+      "bestTime": "October to March",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "₹25",
+      "slug": "bishnupur-temples",
+      "images": {
+        "main": "assets/images/states/west-bengal/bishnupur-temples.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "bishnupur-temples",
+      "image": "assets/images/states/west-bengal/bishnupur-temples.webp",
+      "heroImage": "assets/images/states/west-bengal/bishnupur-temples.webp"
+    },
+    {
+      "name": "Shantiniketan (Visva-Bharati)",
+      "city": "Birbhum",
+      "category": "heritage",
+      "distance": "160 km from Kolkata",
+      "rating": 4.8,
+      "description": "The iconic open-air university founded by Nobel laureate Rabindranath Tagore. Its unique campus features stunning murals, sculptures, and the tradition of holding classes under the open sky beneath ancient trees.",
+      "history": "Founded in 1921 by Tagore as an experimental school. It became a UNESCO World Heritage Site in 2023 as a unique cultural landscape.",
+      "famousFor": "UNESCO Heritage, Tagore's university, open-air classes",
+      "bestTime": "December (Poush Mela) or October to March",
+      "timings": "Open 24/7 (Museum 10 AM - 5 PM)",
+      "entryFee": "Free",
+      "slug": "shantiniketan",
+      "images": {
+        "main": "assets/images/states/west-bengal/shantniketan.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "shantiniketan",
+      "image": "assets/images/states/west-bengal/shantniketan.webp",
+      "heroImage": "assets/images/states/west-bengal/shantniketan.webp"
+    },
+    {
+      "name": "Kalimpong",
+      "city": "Kalimpong",
+      "category": "hills",
+      "distance": "50 km from Darjeeling",
+      "rating": 4.6,
+      "description": "A charming hill station at 4,100 feet, quieter than Darjeeling, famous for its thriving orchid nurseries, Tibetan Buddhist monasteries, and colonial-era churches. The views of Kanchenjunga from Deolo Hill are spectacular.",
+      "history": "Once part of the kingdom of Sikkim, it was captured by Bhutan and then ceded to the British in 1865. It became a center for Tibetan trade and culture.",
+      "famousFor": "Orchid nurseries, Zang Dhok Palri Phodang monastery, Deolo Hill",
+      "bestTime": "March to May, October to December",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kalimpong",
+      "images": {
+        "main": "assets/images/states/west-bengal/kalimpong.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Durpin Dara Hill",
+          "city": "Kalimpong",
+          "distance": "3 km",
+          "slug": "durpin-dara",
+          "image": "assets/images/states/west-bengal/kalimpong.webp"
+        },
+        {
+          "name": "Deolo Hill",
+          "city": "Kalimpong",
+          "distance": "5 km",
+          "slug": "deolo-hill",
+          "image": "assets/images/states/west-bengal/kalimpong.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "kalimpong",
+      "image": "assets/images/states/west-bengal/kalimpong.webp",
+      "heroImage": "assets/images/states/west-bengal/kalimpong.webp"
+    },
+    {
+      "name": "Marble Palace",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "North Kolkata",
+      "rating": 4.6,
+      "description": "A stunning, incredibly opulent 19th-century mansion built entirely of Italian marble. It is a one-of-a-kind private museum housing original Rubens and Reynolds paintings, Venetian mirrors, Egyptian antiquities, and a private zoo.",
+      "history": "Built in 1835 by Raja Rajendra Mullick Bahadur, a wealthy Bengali merchant. It remains the private property of the Mullick family but is open to visitors.",
+      "famousFor": "Original European paintings, Italian marble, private zoo",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 4:00 PM (Closed Mondays & Thursdays)",
+      "entryFee": "Free (Permit from WBTDC)",
+      "slug": "marble-palace",
+      "images": {
+        "main": "assets/images/states/west-bengal/marble-palace.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Jorasanko Thakur Bari (Tagore's House)",
+          "city": "Kolkata",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "jorasanko-thakurbari",
+          "images": {
+            "main": "assets/images/states/west-bengal/jorasanko-thakurbari.webp"
+          },
+          "state": "West Bengal",
+          "image": "assets/images/states/west-bengal/jorasanko-thakurbari.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "marble-palace",
+      "image": "assets/images/states/west-bengal/marble-palace.webp",
+      "heroImage": "assets/images/states/west-bengal/marble-palace.webp"
+    },
+    {
+      "name": "Hazarduari Palace",
+      "city": "Murshidabad",
+      "category": "heritage",
+      "distance": "220 km from Kolkata",
+      "rating": 4.7,
+      "description": "A magnificent Italian-style palace with exactly 1,000 doors (of which only 100 are real — the rest are false doors). It houses a museum with the Nawab's arms collection, including the legendary sword of Siraj ud-Daulah.",
+      "history": "Built in 1837 by Nawab Nazim Humayun Jah under the supervision of architect Duncan McLeod. Murshidabad was the capital of Bengal before British rule.",
+      "famousFor": "1000 doors (900 fake), Siraj ud-Daulah's sword, Nawabi arms collection.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 5:00 PM (Closed Fridays)",
+      "entryFee": "₹10",
+      "slug": "hazarduari-palace",
+      "images": {
+        "main": "assets/images/states/west-bengal/hazarduari-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "hazarduari-palace",
+      "image": "assets/images/states/west-bengal/hazarduari-palace.webp",
+      "heroImage": "assets/images/states/west-bengal/hazarduari-palace.webp"
+    },
+    {
+      "name": "Cooch Behar Palace",
+      "city": "Cooch Behar",
+      "category": "heritage",
+      "distance": "700 km from Kolkata",
+      "rating": 4.6,
+      "description": "A stunning replica of Buckingham Palace, built in classical European style with a massive dome rising 124 feet. It is one of the finest examples of neo-classical architecture in India.",
+      "history": "Built in 1887 by Maharaja Nripendra Narayan under the supervision of British architects. The Koch royal family ruled for over 500 years.",
+      "famousFor": "Buckingham Palace replica, 124-foot dome, Koch dynasty history.",
+      "bestTime": "October to March",
+      "timings": "10:00 AM – 4:30 PM",
+      "entryFee": "₹25",
+      "slug": "cooch-behar-palace",
+      "images": {
+        "main": "assets/images/states/west-bengal/cooch-behar-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "cooch-behar-palace",
+      "image": "assets/images/states/west-bengal/cooch-behar-palace.webp",
+      "heroImage": "assets/images/states/west-bengal/cooch-behar-palace.webp"
+    },
+    {
+      "name": "Mirik",
+      "city": "Darjeeling",
+      "category": "hills",
+      "distance": "50 km from Darjeeling",
+      "rating": 4.5,
+      "description": "A serene, emerald-green lake town surrounded by sprawling tea gardens, orange orchards, and dense forests. The Sumendu Lake with its charming footbridge and boating facilities is the heart of this peaceful destination.",
+      "history": "Developed as a hill station in the 1970s. The name derives from the Lepcha word 'Mir-Yok' meaning 'a place burnt by fire'.",
+      "famousFor": "Sumendu Lake, tea gardens, orange orchards",
+      "bestTime": "March to May, October to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating extra)",
+      "slug": "mirik",
+      "images": {
+        "main": "assets/images/states/west-bengal/mirik.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "mirik",
+      "image": "assets/images/states/west-bengal/mirik.webp",
+      "heroImage": "assets/images/states/west-bengal/mirik.webp"
+    },
+    {
+      "name": "Princep Ghat & Armenian Ghat",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Along Hooghly, Kolkata",
+      "rating": 4.5,
+      "description": "A beautifully restored riverside promenade featuring the iconic Palladian-style Princep Monument. The nearby Armenian Ghat is the oldest ghat in Kolkata with a haunting 18th-century Armenian Church.",
+      "history": "Princep Ghat was built in 1841 to honor James Princep, the British scholar who deciphered Ashoka's edicts. Armenian traders settled here in the 17th century.",
+      "famousFor": "Princep Monument, sunset views, Armenian Church",
+      "bestTime": "Year-round (evenings)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kolkata-ghats",
+      "images": {
+        "main": "assets/images/states/west-bengal/prinsep-ghat-and-armeniam-ghat.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "kolkata-ghats",
+      "image": "assets/images/states/west-bengal/prinsep-ghat-and-armeniam-ghat.webp",
+      "heroImage": "assets/images/states/west-bengal/prinsep-ghat-and-armeniam-ghat.webp"
+    },
+    {
+      "name": "Jaldapara National Park",
+      "city": "Alipurduar",
+      "category": "wildlife",
+      "distance": "665 km from Kolkata",
+      "rating": 4.7,
+      "description": "A stunning riverine grassland park famous for harboring the largest population of the endangered Indian one-horned rhinoceros in West Bengal. Elephant-back safaris through tall grasslands offer thrilling wildlife encounters.",
+      "history": "Established as a sanctuary in 1941 and upgraded to a national park in 2012 to protect the rhino population.",
+      "famousFor": "Indian one-horned rhinos, elephant safaris, riverine grasslands",
+      "bestTime": "September to May",
+      "timings": "5:30 AM – 8:00 AM, 2:30 PM – 5:00 PM",
+      "entryFee": "₹100 + Elephant Safari",
+      "slug": "jaldapara-national-park",
+      "images": {
+        "main": "assets/images/states/west-bengal/jaldapara-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "jaldapara-national-park",
+      "image": "assets/images/states/west-bengal/jaldapara-national-park.webp",
+      "heroImage": "assets/images/states/west-bengal/jaldapara-national-park.webp"
+    },
+    {
+      "name": "Kalighat Kali Temple",
+      "city": "Kolkata",
+      "category": "temples",
+      "distance": "South Kolkata",
+      "rating": 4.7,
+      "description": "One of the 51 Shakti Peethas and one of the most revered Kali temples in India. It is the origin of the name 'Calcutta' (Kalikata). The temple's simple yet powerful atmosphere draws millions of devotees annually.",
+      "history": "The original temple dates back several hundred years. According to legend, the toes of Goddess Sati's right foot fell here when Lord Vishnu dismembered her body.",
+      "famousFor": "51 Shakti Peethas, origin of 'Calcutta' name, Kali Puja.",
+      "bestTime": "October (Kali Puja/Diwali)",
+      "timings": "5:00 AM – 2:00 PM, 5:00 PM – 10:30 PM",
+      "entryFee": "Free",
+      "slug": "kalighat-temple",
+      "images": {
+        "main": "assets/images/states/west-bengal/kalighat-temple.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "kalighat-temple",
+      "image": "assets/images/states/west-bengal/kalighat-temple.webp",
+      "heroImage": "assets/images/states/west-bengal/kalighat-temple.webp"
+    },
+    {
+      "name": "Darjeeling Himalayan Railway",
+      "city": "Darjeeling",
+      "category": "heritage",
+      "distance": "Darjeeling to Ghum",
+      "rating": 4.9,
+      "description": "A UNESCO World Heritage railway — the famous 'Toy Train' that chugs along a narrow 2-foot gauge track through spectacular mountain scenery, tea gardens, and the famous Batasia Loop at 7,407 feet.",
+      "history": "Built between 1879 and 1881 by the British. It was declared a UNESCO Heritage site in 1999 for its innovative engineering solutions for mountain railways.",
+      "famousFor": "UNESCO Heritage, Batasia Loop, Ghum (highest railway station)",
+      "bestTime": "March to May, October to November",
+      "timings": "Unknown",
+      "entryFee": "₹100 - ₹1500 (class dependent)",
+      "slug": "toy-train-darjeeling",
+      "images": {
+        "main": "assets/images/states/west-bengal/darjeeling-himalayan-railway.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Batasia Loop",
+          "city": "Darjeeling",
+          "distance": "5 km",
+          "slug": "batasia-loop",
+          "image": "assets/images/states/west-bengal/darjeeling.webp"
+        },
+        {
+          "name": "Tiger Hill",
+          "city": "Darjeeling",
+          "distance": "11 km",
+          "slug": "tiger-hill",
+          "image": "assets/images/states/west-bengal/darjeeling.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "toy-train-darjeeling",
+      "image": "assets/images/states/west-bengal/darjeeling-himalayan-railway.webp",
+      "heroImage": "assets/images/states/west-bengal/darjeeling-himalayan-railway.webp"
+    },
+    {
+      "name": "Digha Beach",
+      "city": "East Midnapore",
+      "category": "beaches",
+      "distance": "185 km from Kolkata",
+      "rating": 4.4,
+      "description": "West Bengal's most popular sea beach, featuring an unusually flat and hard sand beach stretching for 7 km. The shallow waters extending over 1 km make it safe for wading and swimming.",
+      "history": "Discovered by Warren Hastings in the 18th century, who called it the 'Brighton of the East'. Developed as a beach resort in the 1920s.",
+      "famousFor": "Flat hard sand, shallow safe waters, sunrise",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "digha-beach",
+      "images": {
+        "main": "assets/images/states/west-bengal/digha-beach.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "digha-beach",
+      "image": "assets/images/states/west-bengal/digha-beach.webp",
+      "heroImage": "assets/images/states/west-bengal/digha-beach.webp"
+    },
+    {
+      "name": "Tarapith Temple",
+      "city": "Birbhum",
+      "category": "temples",
+      "distance": "5 km from Rampurhat",
+      "rating": 4.7,
+      "description": "One of the most important Tantric Shakti Peethas in India, dedicated to Goddess Tara. The temple and the adjacent cremation ground (Smashan) are deeply significant for Tantric practitioners.",
+      "history": "The temple became famous through the legendary Tantric saint Bamakhepa (the 'mad saint') who performed intense Tantric sadhana at the cremation ground.",
+      "famousFor": "Tantric worship, Bamakhepa legend, Shakti Peetha",
+      "bestTime": "Year-round",
+      "timings": "5:00 AM – 1:00 PM, 4:00 PM – 10:00 PM",
+      "entryFee": "Free",
+      "slug": "tarapith",
+      "images": {
+        "main": "assets/images/states/west-bengal/tarapith.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "tarapith",
+      "image": "assets/images/states/west-bengal/tarapith.webp",
+      "heroImage": "assets/images/states/west-bengal/tarapith.webp"
+    },
+    {
+      "name": "Gorumara National Park",
+      "city": "Jalpaiguri",
+      "category": "wildlife",
+      "distance": "580 km from Kolkata",
+      "rating": 4.7,
+      "description": "A compact yet incredibly biodiverse national park in the Dooars region, famous for its population of Indian rhinoceros, wild elephants, and gaur (Indian bison) set amidst dense riverine forests.",
+      "history": "Established as a wildlife sanctuary in 1949 and upgraded to a national park in 1994. The Dooars region gets its name from the 'doors' (duars) to Bhutan.",
+      "famousFor": "Indian rhinoceros, Dooars landscape, Jatraprasad watchtower",
+      "bestTime": "October to May",
+      "timings": "5:30 AM – 5:00 PM",
+      "entryFee": "₹100 + Jeep Safari",
+      "slug": "gorumara-national-park",
+      "images": {
+        "main": "assets/images/states/west-bengal/gorumara-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "gorumara-national-park",
+      "image": "assets/images/states/west-bengal/gorumara-national-park.webp",
+      "heroImage": "assets/images/states/west-bengal/gorumara-national-park.webp"
+    },
+    {
+      "name": "Bandel Basilica",
+      "city": "Hooghly",
+      "category": "heritage",
+      "distance": "50 km from Kolkata",
+      "rating": 4.5,
+      "description": "One of the oldest Christian churches in West Bengal, featuring a beautiful statue of Our Lady of Happy Voyage. The church is a fascinating blend of Portuguese and Bengali architecture.",
+      "history": "Built in 1599 by Portuguese Augustinian friars. It was destroyed by Shah Jahan in 1632 and rebuilt in 1660. The miraculous mast of a shipwreck is preserved inside.",
+      "famousFor": "Portuguese heritage, Our Lady statue, shipwreck mast",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "slug": "bandel-church",
+      "images": {
+        "main": "assets/images/states/west-bengal/bandel-church.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "bandel-church",
+      "image": "assets/images/states/west-bengal/bandel-church.webp",
+      "heroImage": "assets/images/states/west-bengal/bandel-church.webp"
+    },
+    {
+      "name": "ISKCON Temple, Mayapur",
+      "city": "Nadia",
+      "category": "temples",
+      "distance": "130 km from Kolkata",
+      "rating": 4.8,
+      "description": "The global headquarters of ISKCON (International Society for Krishna Consciousness), set at the sacred confluence of the Ganges and Jalangi rivers. The under-construction Temple of the Vedic Planetarium will be the world's largest temple.",
+      "history": "Mayapur is the birthplace of Sri Chaitanya Mahaprabhu (1486), who founded the Gaudiya Vaishnavism movement. ISKCON established its HQ here in 1972.",
+      "famousFor": "ISKCON headquarters, Chaitanya birthplace, Temple of Vedic Planetarium.",
+      "bestTime": "February-March (Gaura Purnima)",
+      "timings": "4:30 AM – 1:00 PM, 4:00 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "mayapur-iskcon",
+      "images": {
+        "main": "assets/images/states/west-bengal/mayapur-iskcon.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "mayapur-iskcon",
+      "image": "assets/images/states/west-bengal/mayapur-iskcon.webp",
+      "heroImage": "assets/images/states/west-bengal/mayapur-iskcon.webp"
+    },
+    {
+      "name": "Sandakphu",
+      "city": "Darjeeling",
+      "category": "nature",
+      "distance": "57 km from Darjeeling",
+      "rating": 4.9,
+      "description": "The highest peak in West Bengal at 11,929 feet, offering the only viewpoint on Earth where you can see four of the world's five highest peaks simultaneously — Everest, Kanchenjunga, Lhotse, and Makalu.",
+      "history": "The trek to Sandakphu passes through the Singalila National Park and crosses the Indo-Nepal border multiple times.",
+      "famousFor": "Four of world's five tallest peaks visible, Singalila trek, red panda habitat.",
+      "bestTime": "October to December, March to May",
+      "timings": "Unknown",
+      "entryFee": "₹200 + Guide",
+      "slug": "sandakphu",
+      "images": {
+        "main": "assets/images/states/west-bengal/sandakphu.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "sandakphu",
+      "image": "assets/images/states/west-bengal/sandakphu.webp",
+      "heroImage": "assets/images/states/west-bengal/sandakphu.webp"
+    },
+    {
+      "name": "Gaur (Ancient Capital)",
+      "city": "Malda",
+      "category": "heritage",
+      "distance": "330 km from Kolkata",
+      "rating": 4.6,
+      "description": "The magnificent ruins of one of the largest cities in medieval India — the capital of the Bengal Sultanate. The massive Dakhil Darwaza gateway, the Firoz Minar tower, and the Qadam Rasul Mosque showcase stunning Indo-Islamic architecture.",
+      "history": "Capital of Bengal from the 12th to 16th century. At its peak, it was one of the largest and richest cities in the world with a population of over 200,000.",
+      "famousFor": "Dakhil Darwaza, Firoz Minar, Qadam Rasul",
+      "bestTime": "October to March",
+      "timings": "9:00 AM – 5:00 PM",
+      "entryFee": "₹25",
+      "slug": "gaur-malda",
+      "images": {
+        "main": "assets/images/states/west-bengal/gaur-malda.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "gaur-malda",
+      "image": "assets/images/states/west-bengal/gaur-malda.webp",
+      "heroImage": "assets/images/states/west-bengal/gaur-malda.webp"
+    },
+    {
+      "name": "Bakkhali & Henry Island",
+      "city": "South 24 Parganas",
+      "category": "beaches",
+      "distance": "130 km from Kolkata",
+      "rating": 4.5,
+      "description": "A pristine, relatively untouched beach destination near the Sundarbans. The long stretch of hard, flat sand and the unique Crocodile Farm at Henry Island make it a refreshing alternative to crowded Digha.",
+      "history": "Named after the Bakkhali creek. Henry Island was named after a British colonial officer and features a natural tidal lagoon.",
+      "famousFor": "Pristine beach, Henry Island crocodile farm, Sundarbans proximity.",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Henry Island ₹15)",
+      "slug": "bakkhali-beach",
+      "images": {
+        "main": "assets/images/states/west-bengal/bakhali-to-henry-island.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "bakkhali-beach",
+      "image": "assets/images/states/west-bengal/bakhali-to-henry-island.webp",
+      "heroImage": "assets/images/states/west-bengal/bakhali-to-henry-island.webp"
+    },
+    {
+      "name": "Belur Math",
+      "city": "Howrah",
+      "category": "heritage",
+      "distance": "8 km from Kolkata center",
+      "rating": 4.8,
+      "description": "The headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda. Its main temple is an architectural masterpiece that simultaneously resembles a temple, church, and mosque from different angles — symbolizing universal harmony.",
+      "history": "Established by Swami Vivekananda in 1897 on the western bank of the Hooghly. The main temple was consecrated in 1938 and took 12 years to build.",
+      "famousFor": "Temple-church-mosque architecture, Vivekananda's HQ, Ramakrishna relics.",
+      "bestTime": "Year-round",
+      "timings": "6:00 AM – 12:00 PM, 3:30 PM – 8:30 PM",
+      "entryFee": "Free",
+      "slug": "belur-math",
+      "images": {
+        "main": "assets/images/states/west-bengal/belur-math.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Dakshineswar Kali Temple",
+          "city": "Kolkata",
+          "distance": "4 km away",
+          "category": "temples",
+          "slug": "dakshineswar-kali",
+          "images": {
+            "main": "assets/images/states/west-bengal/dakshineswar-kali.webp"
+          },
+          "image": "assets/images/states/west-bengal/dakshineswar-kali.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "belur-math",
+      "image": "assets/images/states/west-bengal/belur-math.webp",
+      "heroImage": "assets/images/states/west-bengal/belur-math.webp"
+    },
+    {
+      "name": "Kurseong",
+      "city": "Darjeeling",
+      "category": "hills",
+      "distance": "30 km from Darjeeling",
+      "rating": 4.5,
+      "description": "The 'Land of White Orchids', a charming, quieter hill station at 4,864 feet surrounded by sprawling tea estates. It is deeply associated with several prominent literary figures including Rabindranath Tagore and Netaji Subhas Chandra Bose.",
+      "history": "Developed as a hill station during British rule. Netaji Subhas Chandra Bose was interned here during the freedom struggle. The Dow Hill area is considered one of India's most haunted places.",
+      "famousFor": "White orchids, tea estates, Dow Hill",
+      "bestTime": "March to May, October to November",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kurseong",
+      "images": {
+        "main": "assets/images/states/west-bengal/kurseong.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "kurseong",
+      "image": "assets/images/states/west-bengal/kurseong.webp",
+      "heroImage": "assets/images/states/west-bengal/kurseong.webp"
+    },
+    {
+      "name": "Acharya Jagadish Chandra Bose Botanical Garden",
+      "city": "Howrah",
+      "category": "nature",
+      "distance": "10 km from Kolkata center",
+      "rating": 4.7,
+      "description": "A sprawling 109-hectare botanical garden famous for the Great Banyan Tree — the widest tree in the world, covering over 14,500 sq meters with 3,772 aerial roots. It looks like an entire forest but is a single living organism.",
+      "history": "Founded in 1787 by Colonel Robert Kyd. The Great Banyan Tree is over 250 years old and survived two major cyclones.",
+      "famousFor": "World's widest tree (Great Banyan), 12, 000 plant species",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 5:00 PM (Closed Wednesdays)",
+      "entryFee": "₹10",
+      "slug": "botanical-garden-kolkata",
+      "images": {
+        "main": "assets/images/states/west-bengal/botanical-garden-kolkata.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "botanical-garden-kolkata",
+      "image": "assets/images/states/west-bengal/botanical-garden-kolkata.webp",
+      "heroImage": "assets/images/states/west-bengal/botanical-garden-kolkata.webp"
+    },
+    {
+      "name": "Himalayan Mountaineering Institute",
+      "city": "Darjeeling",
+      "category": "heritage",
+      "distance": "In Darjeeling",
+      "rating": 4.7,
+      "description": "A prestigious mountaineering institute founded after Tenzing Norgay's historic Everest summit, housing a fascinating museum with Everest expedition artifacts, climbing gear, and Tenzing's personal memorabilia.",
+      "history": "Founded in 1954 by Jawaharlal Nehru with Tenzing Norgay as its first Director of Field Training. It has trained India's finest mountaineers.",
+      "famousFor": "Tenzing Norgay museum, Everest artifacts, mountaineering courses",
+      "bestTime": "March to May, October to November",
+      "timings": "8:30 AM – 4:30 PM (Closed Thursdays)",
+      "entryFee": "₹30",
+      "slug": "hmi-darjeeling",
+      "images": {
+        "main": "assets/images/states/west-bengal/hmi-darjeeling.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "hmi-darjeeling",
+      "image": "assets/images/states/west-bengal/hmi-darjeeling.webp",
+      "heroImage": "assets/images/states/west-bengal/hmi-darjeeling.webp"
+    },
+    {
+      "name": "Buxa Tiger Reserve",
+      "city": "Alipurduar",
+      "category": "wildlife",
+      "distance": "700 km from Kolkata",
+      "rating": 4.6,
+      "description": "A 760 sq km tiger reserve in the eastern Dooars along the Bhutan border, featuring dense forests, the historic Buxa Fort, and incredible biodiversity including elephants, gaur, and the rare clouded leopard.",
+      "history": "The Buxa Fort inside the reserve was used by the British as a detention camp for political prisoners during the freedom struggle. Declared a tiger reserve in 1983.",
+      "famousFor": "Buxa Fort, tigers, elephants",
+      "bestTime": "October to May",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹100 + Safari",
+      "slug": "buxa-tiger-reserve",
+      "images": {
+        "main": "assets/images/states/west-bengal/buxa-tiger-reserve.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "buxa-tiger-reserve",
+      "image": "assets/images/states/west-bengal/buxa-tiger-reserve.webp",
+      "heroImage": "assets/images/states/west-bengal/buxa-tiger-reserve.webp"
+    },
+    {
+      "name": "Kumartuli (Potter's Quarter)",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "North Kolkata",
+      "rating": 4.6,
+      "description": "A centuries-old artisan quarter where hundreds of potters hand-sculpt thousands of clay idols of Goddess Durga for the legendary Durga Puja festival. Walking through the narrow lanes lined with half-finished colossal idols is an unforgettable experience.",
+      "history": "Established in the late 18th century when potters migrated here from across Bengal. The tradition has continued for over 300 years without interruption.",
+      "famousFor": "Durga idol making, 300-year-old tradition, living heritage",
+      "bestTime": "August-September (pre-Durga Puja)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "kumartuli",
+      "images": {
+        "main": "assets/images/states/west-bengal/kumartuli.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "kumartuli",
+      "image": "assets/images/states/west-bengal/kumartuli.webp",
+      "heroImage": "assets/images/states/west-bengal/kumartuli.webp"
+    },
+    {
+      "name": "Chandannagar (French Colony)",
+      "city": "Hooghly",
+      "category": "heritage",
+      "distance": "35 km from Kolkata",
+      "rating": 4.5,
+      "description": "A charming former French colony on the Hooghly River, retaining its distinct French heritage in its promenade (Strand), architecture, and culture. The Chandannagar Museum houses rare French colonial artifacts and Dupleix's personal items.",
+      "history": "A French territory from 1673 to 1952 — far longer than British rule. It was the last French territory to merge with India. The Jagaddhatri Puja here is world-famous.",
+      "famousFor": "French colonial heritage, Strand promenade, Jagaddhatri Puja",
+      "bestTime": "October-November (Jagaddhatri Puja)",
+      "timings": "Museum: 10 AM – 5 PM (Closed Mondays)",
+      "entryFee": "Free",
+      "slug": "chandannagar",
+      "images": {
+        "main": "assets/images/states/west-bengal/chandannagar.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "chandannagar",
+      "image": "assets/images/states/west-bengal/chandannagar.webp",
+      "heroImage": "assets/images/states/west-bengal/chandannagar.webp"
+    },
+    {
+      "name": "Mother Teresa's House (Missionaries of Charity)",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.7,
+      "description": "The global headquarters of the Missionaries of Charity and the final resting place of Nobel laureate Mother Teresa. Her simple tomb in a quiet room and the small museum chronicling her life's work are deeply moving.",
+      "history": "Mother Teresa founded the Missionaries of Charity here in 1950 and worked tirelessly for Kolkata's poorest for 47 years until her death in 1997. She was canonized as Saint Teresa in 2016.",
+      "famousFor": "Mother Teresa's tomb, Missionaries of Charity HQ, Nobel laureate's legacy.",
+      "bestTime": "Year-round",
+      "timings": "8:00 AM – 12:00 PM, 3:00 PM – 6:00 PM (Closed Thursdays)",
+      "entryFee": "Free",
+      "slug": "mother-teresa-house",
+      "images": {
+        "main": "assets/images/states/west-bengal/mother-teresa-house.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "mother-teresa-house",
+      "image": "assets/images/states/west-bengal/mother-teresa-house.webp",
+      "heroImage": "assets/images/states/west-bengal/mother-teresa-house.webp"
+    },
+    {
+      "name": "Mukutmanipur Dam",
+      "city": "Bankura",
+      "category": "nature",
+      "distance": "240 km from Kolkata",
+      "rating": 4.5,
+      "description": "A scenic dam and reservoir at the confluence of the Kangsabati and Kumari rivers, set amidst rolling hills and sal forests. The vast lake surrounded by gentle tribal hills offers peaceful boating and stunning sunsets.",
+      "history": "Built in the 1950s as part of the Kangsabati River Project for irrigation and flood control in the drought-prone Bankura region.",
+      "famousFor": "Scenic reservoir, sunset boating, tribal hills",
+      "bestTime": "October to March",
+      "timings": "Open 24/7",
+      "entryFee": "Free (Boating extra)",
+      "slug": "mukutmanipur",
+      "images": {
+        "main": "assets/images/states/west-bengal/mukutmanipur.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "mukutmanipur",
+      "image": "assets/images/states/west-bengal/mukutmanipur.webp",
+      "heroImage": "assets/images/states/west-bengal/mukutmanipur.webp"
+    },
+    {
+      "name": "South Park Street Cemetery",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.5,
+      "description": "The oldest non-church cemetery in the world, featuring hauntingly beautiful Gothic and Indo-Saracenic tombs dating from 1767. Massive crumbling pyramidal and columned monuments stand amidst ancient trees.",
+      "history": "Established in 1767 during the East India Company era. Notable graves include Major General Charles Stuart ('Hindoo Stuart') and Rose Aylmer, immortalized in a poem by Walter Savage Landor.",
+      "famousFor": "Oldest non-church cemetery, Gothic tombs, colonial history",
+      "bestTime": "Year-round",
+      "timings": "10:00 AM – 4:30 PM",
+      "entryFee": "Free",
+      "slug": "south-park-cemetery",
+      "images": {
+        "main": "assets/images/states/west-bengal/south-park-cemetery.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "south-park-cemetery",
+      "image": "assets/images/states/west-bengal/south-park-cemetery.webp",
+      "heroImage": "assets/images/states/west-bengal/south-park-cemetery.webp"
+    },
+    {
+      "name": "Singalila National Park",
+      "city": "Darjeeling",
+      "category": "wildlife",
+      "distance": "55 km from Darjeeling",
+      "rating": 4.7,
+      "description": "A stunning high-altitude national park along the Indo-Nepal border, famous for being one of the best places in India to spot the elusive red panda. The park's rhododendron and magnolia forests burst into spectacular color in spring.",
+      "history": "Established in 1986 to protect the red panda and its habitat. The park sits along the Singalila Ridge between 7,000 and 12,000 feet altitude.",
+      "famousFor": "Red panda sightings, rhododendron blooms, Himalayan views",
+      "bestTime": "March to May (rhododendrons), October to December",
+      "timings": "6:00 AM – 5:00 PM",
+      "entryFee": "₹200 + Guide",
+      "slug": "singalila-national-park",
+      "images": {
+        "main": "assets/images/states/west-bengal/singalila-national-park.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "singalila-national-park",
+      "image": "assets/images/states/west-bengal/singalila-national-park.webp",
+      "heroImage": "assets/images/states/west-bengal/singalila-national-park.webp"
+    },
+    {
+      "name": "College Street (Boi Para)",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "Center of Kolkata",
+      "rating": 4.5,
+      "description": "The largest second-hand book market in the world and the intellectual heart of Kolkata. The street stretches past Presidency University, Sanskrit College, and the legendary Indian Coffee House where Bengal's greatest minds have debated for decades.",
+      "history": "The book market has existed since the 19th century. The Indian Coffee House, established in 1942, hosted intellectual giants like Amartya Sen, Satyajit Ray, and Subhas Chandra Bose.",
+      "famousFor": "World's largest book market, Indian Coffee House, Presidency University.",
+      "bestTime": "Year-round (mornings)",
+      "timings": "10:00 AM – 8:00 PM",
+      "entryFee": "Free",
+      "slug": "college-street",
+      "images": {
+        "main": "assets/images/states/west-bengal/college-street.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "college-street",
+      "image": "assets/images/states/west-bengal/college-street.webp",
+      "heroImage": "assets/images/states/west-bengal/college-street.webp"
+    },
+    {
+      "name": "Eco Park (Prakriti Tirtha)",
+      "city": "Kolkata",
+      "category": "nature",
+      "distance": "New Town, Kolkata",
+      "rating": 4.6,
+      "description": "A massive 480-acre urban park featuring a stunning 104-acre waterbody, replicas of the Seven Wonders of the World, floating restaurants, and an incredible range of recreational activities from cycling to kayaking.",
+      "history": "Inaugurated in 2012 as part of the New Town development. It is one of the largest urban parks in India.",
+      "famousFor": "Seven Wonders replicas, 104-acre lake, eco-island",
+      "bestTime": "Year-round (evenings)",
+      "timings": "12:00 PM – 8:30 PM (Closed Mondays)",
+      "entryFee": "₹30",
+      "slug": "eco-park-kolkata",
+      "images": {
+        "main": "assets/images/states/west-bengal/eco-park-kolkata.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "eco-park-kolkata",
+      "image": "assets/images/states/west-bengal/eco-park-kolkata.webp",
+      "heroImage": "assets/images/states/west-bengal/eco-park-kolkata.webp"
+    },
+    {
+      "name": "Jorasanko Thakur Bari (Tagore's Birthplace)",
+      "city": "Kolkata",
+      "category": "heritage",
+      "distance": "North Kolkata",
+      "rating": 4.7,
+      "description": "The ancestral mansion where Nobel laureate Rabindranath Tagore was born in 1861. Now part of Rabindra Bharati University, it houses a museum with Tagore's manuscripts, paintings, personal belongings, and the room where he was born.",
+      "history": "The Tagore family (Thakur Bari) was the most influential Bengali family of the 19th century. Rabindranath composed India's national anthem 'Jana Gana Mana' here.",
+      "famousFor": "Tagore's birthplace, national anthem origin, manuscripts",
+      "bestTime": "Year-round",
+      "timings": "10:30 AM – 5:00 PM (Closed Mondays)",
+      "entryFee": "₹10",
+      "slug": "jorasanko-thakurbari",
+      "images": {
+        "main": "assets/images/states/west-bengal/jorasanko-thakurbari.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Marble Palace",
+          "city": "Kolkata",
+          "distance": "2 km away",
+          "category": "heritage",
+          "slug": "marble-palace",
+          "images": {
+            "main": "assets/images/states/west-bengal/marble-palace.webp"
+          },
+          "image": "assets/images/states/west-bengal/marble-palace.webp"
+        }
+      ],
+      "state": "West Bengal",
+      "id": "jorasanko-thakurbari",
+      "image": "assets/images/states/west-bengal/jorasanko-thakurbari.webp",
+      "heroImage": "assets/images/states/west-bengal/jorasanko-thakurbari.webp"
+    },
+    {
+      "name": "Yiga Choeling Monastery (Ghoom)",
+      "city": "Darjeeling",
+      "category": "temples",
+      "distance": "8 km from Darjeeling",
+      "rating": 4.6,
+      "description": "The oldest Tibetan Buddhist monastery in Darjeeling, housing a magnificent 15-foot statue of the Maitreya (Future) Buddha. Located at the highest railway station in India (Ghoom, 7,407 feet) on the UNESCO Toy Train route.",
+      "history": "Founded in 1875 by Lama Sherab Gyatso, a Mongolian astrologer. The monastery follows the Gelugpa (Yellow Hat) tradition of Tibetan Buddhism.",
+      "famousFor": "15-foot Maitreya Buddha, highest railway station, Toy Train stop.",
+      "bestTime": "March to May, October to November",
+      "timings": "8:00 AM – 5:00 PM",
+      "entryFee": "₹10",
+      "slug": "ghoom-monastery",
+      "images": {
+        "main": "assets/images/states/west-bengal/yega-cheoling-monastary.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "ghoom-monastery",
+      "image": "assets/images/states/west-bengal/yega-cheoling-monastary.webp",
+      "heroImage": "assets/images/states/west-bengal/yega-cheoling-monastary.webp"
+    },
+    {
+      "name": "Serampore (Danish Colony)",
+      "city": "Hooghly",
+      "category": "heritage",
+      "distance": "25 km from Kolkata",
+      "rating": 4.5,
+      "description": "A fascinating former Danish colonial settlement on the Hooghly River — the only Danish colony in India. It still retains its European character with Danish-era churches, the Serampore College (oldest degree-granting institution in Asia), and colonial warehouses.",
+      "history": "A Danish territory called 'Fredericknagore' from 1755 to 1845. William Carey established the first modern printing press in Asia here in 1800.",
+      "famousFor": "Danish colonial heritage, Asia's first printing press, Serampore College.",
+      "bestTime": "Year-round",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "serampore",
+      "images": {
+        "main": "assets/images/states/west-bengal/serampore.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "serampore",
+      "image": "assets/images/states/west-bengal/serampore.webp",
+      "heroImage": "assets/images/states/west-bengal/serampore.webp"
+    },
+    {
+      "name": "Jhargram Rajbari (Palace)",
+      "city": "Jhargram",
+      "category": "heritage",
+      "distance": "170 km from Kolkata",
+      "rating": 4.5,
+      "description": "A beautifully restored 18th-century palace of the Malla dynasty, now converted into a heritage hotel. Set amidst sprawling grounds with a deer park, lake, and dense sal forests, it offers a glimpse into Bengal's tribal-royal heritage.",
+      "history": "Built by the Malla kings who ruled the Jangalmahal region for over 600 years. The palace blends colonial and tribal architectural elements.",
+      "famousFor": "Heritage hotel, deer park, sal forests",
+      "bestTime": "October to March",
+      "timings": "Check-in: 12 PM (Hotel guests), Day visit by arrangement",
+      "entryFee": "Unknown",
+      "slug": "jhargram-palace",
+      "images": {
+        "main": "assets/images/states/west-bengal/jhargram-palace.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "jhargram-palace",
+      "image": "assets/images/states/west-bengal/jhargram-palace.webp",
+      "heroImage": "assets/images/states/west-bengal/jhargram-palace.webp"
+    },
+    {
+      "name": "Japanese Peace Pagoda",
+      "city": "Darjeeling",
+      "category": "temples",
+      "distance": "3 km from Darjeeling",
+      "rating": 4.6,
+      "description": "A stunning white and gold Buddhist pagoda built by the Japanese Nipponzan Myohoji organization, offering serene views of Kanchenjunga. The four golden statues of Buddha representing his birth, enlightenment, teaching, and death are mesmerizing.",
+      "history": "Built in 1992 as one of over 80 Peace Pagodas worldwide, dedicated to promoting world peace through Buddhist principles.",
+      "famousFor": "White-gold pagoda, Kanchenjunga views, four Buddha statues",
+      "bestTime": "March to May, October to November",
+      "timings": "4:30 AM – 7:00 PM",
+      "entryFee": "Free",
+      "slug": "darjeeling-peace-pagoda",
+      "images": {
+        "main": "assets/images/states/west-bengal/darjeeling-peace-pagoda.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "darjeeling-peace-pagoda",
+      "image": "assets/images/states/west-bengal/darjeeling-peace-pagoda.webp",
+      "heroImage": "assets/images/states/west-bengal/darjeeling-peace-pagoda.webp"
+    },
+    {
+      "name": "Nabadwip",
+      "city": "Nadia",
+      "category": "heritage",
+      "distance": "120 km from Kolkata",
+      "rating": 4.6,
+      "description": "The ancient capital of Bengal and one of the greatest centers of Sanskrit learning and Hindu philosophy in medieval India. It is also revered as the birthplace of the Vaishnava movement through Sri Chaitanya Mahaprabhu.",
+      "history": "Capital of the Sena dynasty (11th-12th century). It was the seat of legendary scholars like Raghunath Siromani, the founder of the Navya-Nyaya school of logic.",
+      "famousFor": "Ancient seat of learning, Chaitanya connection, 75+ temples",
+      "bestTime": "February-March (Gaura Purnima)",
+      "timings": "Open 24/7",
+      "entryFee": "Free",
+      "slug": "nabadwip",
+      "images": {
+        "main": "assets/images/states/west-bengal/nabadwip.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "nabadwip",
+      "image": "assets/images/states/west-bengal/nabadwip.webp",
+      "heroImage": "assets/images/states/west-bengal/nabadwip.webp"
+    },
+    {
+      "name": "Happy Valley Tea Estate",
+      "city": "Darjeeling",
+      "category": "nature",
+      "distance": "3 km from Darjeeling",
+      "rating": 4.6,
+      "description": "One of the oldest and most famous tea estates in Darjeeling, producing some of the world's finest and most expensive tea. Visitors can walk through the rolling green gardens, watch the tea processing, and taste fresh brews.",
+      "history": "Established in 1854 during the British era, it is one of the few tea gardens still using traditional, orthodox methods of tea production.",
+      "famousFor": "World-famous Darjeeling tea, factory tours, rolling gardens",
+      "bestTime": "March to May (first flush), October-November (autumn flush)",
+      "timings": "8:00 AM – 4:00 PM (Closed Sundays)",
+      "entryFee": "₹100",
+      "slug": "happy-valley-tea",
+      "images": {
+        "main": "assets/images/states/west-bengal/happy-valley-tea.webp"
+      },
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "id": "happy-valley-tea",
+      "image": "assets/images/states/west-bengal/happy-valley-tea.webp",
+      "heroImage": "assets/images/states/west-bengal/happy-valley-tea.webp"
+    },
+    {
+      "name": "Tiger Hill",
+      "city": "Darjeeling",
+      "category": "nature",
+      "distance": "11 km from Darjeeling",
+      "rating": 4.7,
+      "description": "Tiger Hill is the highest point in Darjeeling at 2,590 m, famous for offering one of the most spectacular sunrise views in the world. On a clear day, you can see Mount Kanchenjunga (8,586 m — 3rd highest peak) glow golden-pink at dawn, with Mount Everest visible in the far distance.",
+      "history": "Tiger Hill gets its name from the tiger sightings in the surrounding forests during colonial times. It has been a popular sunrise viewpoint since the British era. The observation tower provides unobstructed 360-degree views of the Himalayan range spanning Nepal, Sikkim, and Bhutan.",
+      "famousFor": "Sunrise over Kanchenjunga, Mount Everest views on clear days, 360-degree Himalayan panorama",
+      "bestTime": "October to December, March to May (clearest skies)",
+      "timings": "Sunrise viewing: 4:00 AM – 5:30 AM (varies by season)",
+      "entryFee": "₹30 per person; Shared jeep from Darjeeling: ₹250–₹400",
+      "slug": "tiger-hill",
+      "state": "West Bengal",
+      "images": {
+        "main": "assets/images/popular/tiger-hill.webp"
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Batasia Loop",
+          "city": "Darjeeling",
+          "distance": "5 km",
+          "slug": "batasia-loop",
+          "images": {
+            "main": "assets/images/states/west-bengal/darjeeling.webp"
+          },
+          "image": "assets/images/states/west-bengal/darjeeling.webp"
+        },
+        {
+          "name": "Darjeeling Himalayan Railway",
+          "city": "Darjeeling",
+          "distance": "11 km",
+          "slug": "toy-train-darjeeling",
+          "images": {
+            "main": "assets/images/states/west-bengal/toy-train-darjeeling.webp"
+          },
+          "image": "assets/images/states/west-bengal/toy-train-darjeeling.webp"
+        }
+      ],
+      "id": "tiger-hill",
+      "image": "assets/images/popular/tiger-hill.webp",
+      "heroImage": "assets/images/popular/tiger-hill.webp"
+    },
+    {
+      "name": "Kalimpong Monasteries",
+      "city": "Kalimpong",
+      "distance": "51 km from Darjeeling, 70 km from Siliguri",
+      "category": "heritage",
+      "slug": "kalimpong-monasteries",
+      "images": {
+        "main": "assets/images/popular/kalimpong.webp"
+      },
+      "image": "assets/images/popular/kalimpong.webp",
+      "description": "Kalimpong is a charming hill town known for its Buddhist monasteries, colonial-era architecture, and thriving nurseries (especially orchids and cacti). The Zang Dhok Palri Phodang and Tharpa Choling monasteries house rare Tibetan Buddhist manuscripts and thangka paintings.",
+      "history": "Kalimpong was part of the Sikkimese kingdom before being ceded to Bhutan and later annexed by the British after the Anglo-Bhutan War of 1864. It became a major trade route center between India and Tibet via the Jelep La pass. The town has a strong Tibetan Buddhist heritage.",
+      "famousFor": "Zang Dhok Palri Monastery, Tharpa Choling Monastery, Orchid nurseries, Deolo Hill viewpoint, Durpin Dara Hill",
+      "bestTime": "March to May, October to December",
+      "timings": "Monasteries: 6:00 AM – 6:00 PM",
+      "entryFee": "Free",
+      "nearbyAttractions": [],
+      "state": "West Bengal",
+      "heroImage": "assets/images/popular/kalimpong.webp"
+    }
+  ],
+  "heroImage": "assets/images/states/west-bengal/banner.webp"
+}

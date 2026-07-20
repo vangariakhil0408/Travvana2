@@ -1,0 +1,29 @@
+{
+  "id": "terraced-garden",
+  "name": "Terraced Garden",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "description": "A beautifully landscaped multi-level garden with illuminated musical fountains that come alive every evening with a dazzling light and water show.",
+  "history": "Part of the Leisure Valley chain, the Terraced Garden features seasonal flower displays and was developed as a major evening attraction for the city.",
+  "famousFor": "Musical fountain show, evening illumination, and seasonal flowers.",
+  "bestTime": "October to March",
+  "timings": "6:00 AM \u2013 9:00 PM (Fountain show: 7:00 PM)",
+  "entryFee": "\u20b920",
+  "image": "./assets/images/states/chandigarh/terraced-garden.webp",
+  "heroImage": "./assets/images/states/chandigarh/terraced-garden.webp",
+  "gallery": [
+    "./assets/images/states/chandigarh/terraced-garden.webp"
+  ],
+  "nearbyPlaces": [
+    "sukhna-lake",
+    "garden-of-silence",
+    "rose-garden",
+    "international-dolls-museum",
+    "rock-garden",
+    "leisure-valley",
+    "le-corbusier-centre",
+    "capitol-complex",
+    "govt-museum-art-gallery",
+    "japanese-garden"
+  ]
+}

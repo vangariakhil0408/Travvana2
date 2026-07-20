@@ -1,0 +1,58 @@
+{
+  "stateId": "himachal-pradesh",
+  "totalDistricts": 4,
+  "districts": [
+    {
+      "id": "kullu",
+      "name": "Kullu",
+      "slug": "kullu",
+      "thumbnail": "",
+      "totalPlaces": 8,
+      "popularityScore": 95,
+      "tagline": "Valley of Gods",
+      "categories": [
+        "nature",
+        "adventure"
+      ]
+    },
+    {
+      "id": "shimla",
+      "name": "Shimla",
+      "slug": "shimla",
+      "thumbnail": "",
+      "totalPlaces": 10,
+      "popularityScore": 92,
+      "tagline": "Queen of Hills",
+      "categories": [
+        "nature",
+        "heritage"
+      ]
+    },
+    {
+      "id": "lahaul-spiti",
+      "name": "Lahaul & Spiti",
+      "slug": "lahaul-spiti",
+      "thumbnail": "",
+      "totalPlaces": 6,
+      "popularityScore": 88,
+      "tagline": "The Middle Land",
+      "categories": [
+        "adventure",
+        "nature"
+      ]
+    },
+    {
+      "id": "kangra",
+      "name": "Kangra",
+      "slug": "kangra",
+      "thumbnail": "",
+      "totalPlaces": 7,
+      "popularityScore": 80,
+      "tagline": "Valley of the Kangra Fort",
+      "categories": [
+        "heritage",
+        "nature"
+      ]
+    }
+  ]
+}
