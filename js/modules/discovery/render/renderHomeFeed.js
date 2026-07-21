@@ -487,191 +487,89 @@ export function renderHomeFeed(data, container) {
 
   // ━━━ NEW BOOKING BANNER ━━━
   const bannerHTML = `
-    <section class="section" style="padding-top: 10px;">
+    <section class="section booking-banner-wrapper">
       <div class="container">
-        <div style="
-          background-color: #021226; 
-          border-radius: 20px; 
-          display: flex; 
-          flex-wrap: wrap; 
-          padding: 40px; 
-          color: white; 
-          position: relative; 
-          overflow: hidden; 
-          box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-        ">
+        <div class="booking-banner">
           <!-- Background decorative elements -->
-          <div style="position: absolute; top: 20px; left: 50%; color: rgba(255,255,255,0.05); font-size: 30px; letter-spacing: 6px; line-height: 12px; font-family: monospace;">
+          <div class="booking-banner__bg-text">
             ....<br>....<br>....<br>....
           </div>
           
           <!-- Curved lines in bottom right -->
-          <svg style="position: absolute; bottom: -50px; right: -50px; width: 300px; height: 300px; opacity: 0.05;" viewBox="0 0 100 100">
+          <svg class="booking-banner__bg-svg" viewBox="0 0 100 100">
             <circle cx="100" cy="100" r="80" fill="none" stroke="white" stroke-width="1"/>
             <circle cx="100" cy="100" r="60" fill="none" stroke="white" stroke-width="1"/>
             <circle cx="100" cy="100" r="40" fill="none" stroke="white" stroke-width="1"/>
           </svg>
           
-          <div style="flex: 1; min-width: 300px; padding-right: 40px; z-index: 5;">
-            <div style="
-              font-family: 'Brush Script MT', 'Dancing Script', cursive, sans-serif; 
-              color: #fca311; 
-              font-size: 2.2rem; 
-              margin-bottom: -10px;
-            ">Plan Ahead</div>
+          <div class="booking-banner__left">
+            <div class="booking-banner__subtitle">Plan Ahead</div>
             
-            <h2 style="
-              font-size: 3.5rem; 
-              font-weight: 800; 
-              line-height: 1.1; 
-              margin: 10px 0 20px 0;
-            ">Book Your Trip <br><span style="color: #fca311;">Coming Soon!</span></h2>
+            <h2 class="booking-banner__title">Book Your Trip <br><span>Coming Soon!</span></h2>
             
-            <div style="
-              display: flex; 
-              align-items: center; 
-              margin-bottom: 25px; 
-              color: rgba(255,255,255,0.5);
-              width: 100%;
-              max-width: 450px;
-            ">
-              <div style="flex: 1; border-top: 1px dashed rgba(255,255,255,0.3);"></div>
-              <svg style="width: 20px; height: 20px; margin-left: 10px; fill: white; transform: rotate(45deg);" viewBox="0 0 24 24"><path d="M21,16v-2l-8-5V3.5C13,2.67,12.33,2,11.5,2S10,2.67,10,3.5V9l-8,5v2l8-2.5V19l-2,1.5V22l3.5-1l3.5,1v-1.5L13,19v-5.5L21,16z"/></svg>
+            <div class="booking-banner__divider">
+              <div class="booking-banner__divider-line"></div>
+              <svg class="booking-banner__divider-icon" viewBox="0 0 24 24"><path d="M21,16v-2l-8-5V3.5C13,2.67,12.33,2,11.5,2S10,2.67,10,3.5V9l-8,5v2l8-2.5V19l-2,1.5V22l3.5-1l3.5,1v-1.5L13,19v-5.5L21,16z"/></svg>
             </div>
             
-            <p style="
-              color: #d1d5db; 
-              font-size: 1.05rem; 
-              margin-bottom: 35px; 
-              max-width: 450px;
-              line-height: 1.6;
-            ">Amazing destinations, unforgettable experiences.<br>Bookings open soon, stay tuned!</p>
+            <p class="booking-banner__desc">Amazing destinations, unforgettable experiences.<br>Bookings open soon, stay tuned!</p>
             
-            <div style="
-              display: flex; 
-              gap: 20px; 
-              margin-bottom: 40px; 
-              flex-wrap: wrap;
-            ">
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <div style="background: rgba(255,255,255,0.08); padding: 8px; border-radius: 8px; display: flex;">
+            <div class="booking-banner__features">
+              <div class="booking-banner__feature">
+                <div class="booking-banner__feature-icon">
                   <!-- Calendar icon -->
-                  <svg style="width: 18px; height: 18px; fill: white;" viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+                  <svg viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
                 </div>
-                <span style="font-size: 0.9rem; color: #e5e7eb;">Plan Early</span>
+                <span class="booking-banner__feature-text">Plan Early</span>
               </div>
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <div style="background: rgba(255,255,255,0.08); padding: 8px; border-radius: 8px; display: flex;">
+              <div class="booking-banner__feature">
+                <div class="booking-banner__feature-icon">
                   <!-- Tag/Deal icon -->
-                  <svg style="width: 18px; height: 18px; fill: white;" viewBox="0 0 24 24"><path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.41l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.41zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7zm11.77 8.27L13 19.54l-4.27-4.27 5.27-5.27 3.27 3.27z"/></svg>
+                  <svg viewBox="0 0 24 24"><path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.41l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.41zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7zm11.77 8.27L13 19.54l-4.27-4.27 5.27-5.27 3.27 3.27z"/></svg>
                 </div>
-                <span style="font-size: 0.9rem; color: #e5e7eb;">Best Deals</span>
+                <span class="booking-banner__feature-text">Best Deals</span>
               </div>
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <div style="background: rgba(255,255,255,0.08); padding: 8px; border-radius: 8px; display: flex;">
+              <div class="booking-banner__feature">
+                <div class="booking-banner__feature-icon">
                   <!-- Shield/Secure icon -->
-                  <svg style="width: 18px; height: 18px; fill: white;" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+                  <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
                 </div>
-                <span style="font-size: 0.9rem; color: #e5e7eb;">Secure Booking</span>
+                <span class="booking-banner__feature-text">Secure Booking</span>
               </div>
             </div>
             
-            <button style="
-              background: linear-gradient(90deg, #fca311, #f97316);
-              color: white;
-              padding: 12px 28px;
-              border-radius: 30px;
-              font-weight: 700;
-              font-size: 1rem;
-              border: none;
-              cursor: pointer;
-              display: inline-flex;
-              align-items: center;
-              gap: 8px;
-              box-shadow: 0 4px 15px rgba(252, 163, 17, 0.4);
-              transition: transform 0.2s;
-            " onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+            <button class="booking-banner__btn">
               <!-- Bell icon -->
-              <svg style="width: 20px; height: 20px; fill: white;" viewBox="0 0 24 24"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"/></svg>
+              <svg viewBox="0 0 24 24"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"/></svg>
               WE WILL NOTIFY
             </button>
           </div>
           
-          <div style="flex: 1; min-width: 300px; position: relative; min-height: 400px; display: flex; align-items: center; justify-content: center; z-index: 2;">
+          <div class="booking-banner__right">
             <!-- decorative flight path -->
-            <svg style="position: absolute; top: 0; right: 0; width: 100%; height: 100%; z-index: 1;" viewBox="0 0 400 400">
+            <svg class="booking-banner__flight-path" viewBox="0 0 400 400">
               <!-- dashed line connecting images -->
               <path d="M350,150 C400,250 350,350 200,350 C100,350 50,250 150,150" stroke="rgba(255,255,255,0.3)" stroke-width="1.5" stroke-dasharray="5,5" fill="none"/>
             </svg>
             
             <!-- Mountain Image (Main, left-tilted) -->
-            <div style="
-              position: absolute; 
-              left: 10%; 
-              top: 15%; 
-              width: 220px; 
-              height: 300px; 
-              border-radius: 16px; 
-              overflow: hidden; 
-              transform: rotate(-12deg); 
-              border: 5px solid #021226; 
-              box-shadow: 0 15px 25px rgba(0,0,0,0.4);
-              z-index: 3;
-            ">
-              <img src="assets/images/banner_assets/mountains.png" alt="Mountains" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="booking-banner__img-main">
+              <img src="assets/images/banner_assets/mountains.png" alt="Mountains">
             </div>
             
             <!-- Sunset Image (Top right, slight right tilt) -->
-            <div style="
-              position: absolute; 
-              right: 5%; 
-              top: 5%; 
-              width: 200px; 
-              height: 150px; 
-              border-radius: 16px; 
-              overflow: hidden; 
-              transform: rotate(6deg); 
-              border: 5px solid #021226;
-              box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-              z-index: 2;
-            ">
-              <img src="assets/images/banner_assets/sunset.png" alt="Sunset" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="booking-banner__img-secondary">
+              <img src="assets/images/banner_assets/sunset.png" alt="Sunset">
             </div>
             
             <!-- Beach Image (Bottom right, slight right tilt) -->
-            <div style="
-              position: absolute; 
-              right: 15%; 
-              bottom: 5%; 
-              width: 190px; 
-              height: 180px; 
-              border-radius: 16px; 
-              overflow: hidden; 
-              transform: rotate(8deg); 
-              border: 5px solid #021226;
-              box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-              z-index: 4;
-            ">
-              <img src="assets/images/banner_assets/beach.png" alt="Beach" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="booking-banner__img-tertiary">
+              <img src="assets/images/banner_assets/beach.png" alt="Beach">
             </div>
             
             <!-- Map Pin at bottom middle -->
-            <div style="
-              position: absolute;
-              bottom: 10%;
-              left: 40%;
-              background: white;
-              border-radius: 50% 50% 50% 0;
-              transform: rotate(-45deg);
-              width: 30px;
-              height: 30px;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              z-index: 5;
-              box-shadow: -2px 5px 10px rgba(0,0,0,0.3);
-            ">
-              <div style="width: 12px; height: 12px; background: #021226; border-radius: 50%;"></div>
+            <div class="booking-banner__map-pin">
+              <div></div>
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@
    query-string URL support.
    ============================================ */
 
-const SITE_URL = 'https://travvana.com';
+const SITE_URL = 'https://www.travvana.com';
 const SITE_NAME = 'Travvana';
 const DEFAULT_OG_IMAGE = `${SITE_URL}/assets/images/logo.webp`;
 

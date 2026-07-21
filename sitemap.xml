@@ -3,37 +3,37 @@
 
   <!-- Core Pages -->
   <url>
-    <loc>https://travvana.com/</loc>
+    <loc>https://www.travvana.com/</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://travvana.com/discovery.html</loc>
+    <loc>https://www.travvana.com/discovery.html</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://travvana.com/destinations.html</loc>
+    <loc>https://www.travvana.com/destinations.html</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://travvana.com/planner.html</loc>
+    <loc>https://www.travvana.com/planner.html</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/bookings.html</loc>
+    <loc>https://www.travvana.com/bookings.html</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://travvana.com/travvanagram.html</loc>
+    <loc>https://www.travvana.com/travvanagram.html</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -41,217 +41,217 @@
 
   <!-- State Pages -->
   <url>
-    <loc>https://travvana.com/state-detail.html?state=andaman-and-nicobar-islands</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=andaman-and-nicobar-islands</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=andhra-pradesh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=andhra-pradesh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=arunachal-pradesh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=arunachal-pradesh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=assam</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=assam</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=bihar</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=bihar</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=chandigarh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=chandigarh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=chhattisgarh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=chhattisgarh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=dadra-nagar-haveli-daman-diu</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=dadra-nagar-haveli-daman-diu</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=delhi</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=delhi</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=goa</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=goa</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=gujarat</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=gujarat</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=haryana</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=haryana</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=himachal-pradesh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=himachal-pradesh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=jammu-and-kashmir</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=jammu-and-kashmir</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=jharkhand</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=jharkhand</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=karnataka</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=karnataka</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=kerala</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=kerala</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=ladakh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=ladakh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=lakshadweep</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=lakshadweep</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=madhya-pradesh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=madhya-pradesh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=maharashtra</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=maharashtra</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=manipur</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=manipur</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=meghalaya</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=meghalaya</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=mizoram</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=mizoram</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=nagaland</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=nagaland</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=odisha</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=odisha</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=puducherry</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=puducherry</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=punjab</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=punjab</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=rajasthan</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=rajasthan</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=sikkim</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=sikkim</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=tamil-nadu</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=tamil-nadu</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=telangana</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=telangana</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=tripura</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=tripura</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=uttar-pradesh</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=uttar-pradesh</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=uttarakhand</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=uttarakhand</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://travvana.com/state-detail.html?state=west-bengal</loc>
+    <loc>https://www.travvana.com/state-detail.html?state=west-bengal</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

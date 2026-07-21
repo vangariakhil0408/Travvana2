@@ -7,12 +7,12 @@
   "history": "Maintained exceptionally well by the tourism department, ensuring it remains one of the cleanest beaches in South India.",
   "famousFor": "Pristine sands, boating, and beach volleyball.",
   "bestTime": "October to March",
-  "timings": "9:00 AM \u2013 5:00 PM",
-  "entryFee": "\u20b9150 (Boat ride)",
-  "image": "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp",
-  "heroImage": "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp",
+  "timings": "9:00 AM – 5:00 PM",
+  "entryFee": "₹150 (Boat ride)",
+  "image": "./assets/images/states/puducherry/paradise-beach.webp",
+  "heroImage": "./assets/images/states/puducherry/paradise-beach.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+    "./assets/images/states/puducherry/paradise-beach.webp"
   ],
   "nearbyPlaces": [
     "chunnambar-boat-house",

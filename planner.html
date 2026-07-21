@@ -19,7 +19,9 @@
   <link rel="stylesheet" href="styles/pages/planner.css?v=20">
   <link rel="stylesheet" href="styles/main.css?v=20">
 
-  <link rel="icon" type="image/png" href="assets/images/logo.webp">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
 
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
@@ -28,7 +30,7 @@
     "@type": "WebApplication",
     "name": "Travvana AI Trip Planner",
     "description": "Smart AI-powered travel planner that creates personalized itineraries for India — optimized routes, hidden gems, budget planning, and local insights.",
-    "url": "https://travvana.com/planner.html",
+    "url": "https://www.travvana.com/planner.html",
     "applicationCategory": "TravelApplication",
     "operatingSystem": "Any",
     "offers": {
@@ -39,7 +41,7 @@
     "creator": {
       "@type": "Organization",
       "name": "Travvana",
-      "url": "https://travvana.com"
+      "url": "https://www.travvana.com"
     },
     "featureList": [
       "AI-powered itinerary generation",
@@ -128,7 +130,7 @@
           </div>
           <div class="pl-search-wrap">
             <svg class="pl-search-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-            <input type="text" class="pl-search-input" aria-label="Search destinations" id="pl-dest-input" placeholder="Search destinations..." autocomplete="off">
+            <input type="text" class="pl-search-input" aria-label="Enter state name" id="pl-dest-input" placeholder="Enter state name..." autocomplete="off">
           </div>
           <div class="pl-trending">
             <h3 class="pl-section-label">Trending Destinations</h3>
@@ -436,13 +438,15 @@
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
               Edit Plan
             </button>
-            <button class="pl-action-btn" id="pl-btn-share">
+            <button class="pl-action-btn pl-action-btn--disabled" id="pl-btn-share" title="Available Soon">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
               Share
+              <span class="pl-badge-soon">Soon</span>
             </button>
-            <button class="pl-action-btn" id="pl-btn-download">
+            <button class="pl-action-btn pl-action-btn--disabled" id="pl-btn-download" title="Available Soon">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               Download
+              <span class="pl-badge-soon">Soon</span>
             </button>
           </div>
         </div>

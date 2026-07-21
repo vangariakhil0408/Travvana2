@@ -9,10 +9,10 @@
   "bestTime": "October to March",
   "timings": "Open 24/7",
   "entryFee": "Free",
-  "image": "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp",
-  "heroImage": "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp",
+  "image": "./assets/images/states/puducherry/promenade-beach.webp",
+  "heroImage": "./assets/images/states/puducherry/promenade-beach.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+    "./assets/images/states/puducherry/promenade-beach.webp"
   ],
   "nearbyPlaces": [
     "bharathi-park",

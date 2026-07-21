@@ -67,7 +67,7 @@ export async function initPlaceController(placeSlug, stateSlug) {
     const seoTitle = `${place.name} — ${stateLabel} Tourism & Travel Guide`;
     const seoDesc = (place.history || place.description || `${place.name} in ${place.city || stateLabel}, India`);
     const seoDescTruncated = seoDesc.length > 155 ? seoDesc.substring(0, 152) + '...' : seoDesc;
-    const canonicalUrl = `https://travvana.com/place-detail.html?place=${encodeURIComponent(canonicalId)}`;
+    const canonicalUrl = `https://www.travvana.com/place-detail.html?place=${encodeURIComponent(canonicalId)}`;
 
     seoService.clearDynamicSchemas();
     seoService.updatePage({
@@ -77,9 +77,9 @@ export async function initPlaceController(placeSlug, stateSlug) {
       image: place.images?.main || place.heroImage || place.image,
     });
     seoService.injectBreadcrumbSchema([
-      { name: 'Home', url: 'https://travvana.com/' },
-      { name: 'Explore', url: 'https://travvana.com/discovery.html' },
-      { name: stateLabel, url: `https://travvana.com/state-detail.html?state=${encodeURIComponent(stateSlug || '')}` },
+      { name: 'Home', url: 'https://www.travvana.com/' },
+      { name: 'Explore', url: 'https://www.travvana.com/discovery.html' },
+      { name: stateLabel, url: `https://www.travvana.com/state-detail.html?state=${encodeURIComponent(stateSlug || '')}` },
       { name: place.name, url: canonicalUrl },
     ]);
     seoService.injectTouristAttractionSchema(place, stateSlug);

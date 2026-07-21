@@ -597,6 +597,7 @@
 }
 
 .pl-nav-btn--next {
+  margin-left: auto;
   background: var(--clr-accent);
   color: white;
   box-shadow: var(--shadow-sm);
@@ -609,6 +610,7 @@
 }
 
 .pl-nav-btn--generate {
+  margin-left: auto;
   background: var(--clr-accent-gradient);
   color: white;
   font-weight: var(--fw-bold);
@@ -1428,6 +1430,33 @@
 
 
 /* ── Travel Tip Card ── */
+.pl-action-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.pl-action-btn--disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.pl-action-btn--disabled:hover {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.pl-badge-soon {
+  background: rgba(255, 138, 0, 0.2);
+  color: #ffb84d;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 12px;
+  margin-left: 4px;
+  letter-spacing: 0.5px;
+  border: 1px solid rgba(255, 138, 0, 0.3);
+}
+
 .pl-res-tip-card {
   background: rgba(255, 138, 0, 0.06);
   border-color: rgba(255, 138, 0, 0.2);
@@ -1552,13 +1581,9 @@
     right: var(--sp-4);
     bottom: 108px;
     padding: var(--sp-4) var(--sp-5);
-    background: rgba(10, 18, 40, 0.85);
-    backdrop-filter: blur(16px) saturate(1.4);
-    -webkit-backdrop-filter: blur(16px) saturate(1.4);
-    border-radius: var(--radius-xl);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-top-color: rgba(255, 138, 0, 0.25);
-    box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 138, 0, 0.06);
+    background: transparent;
+    border: none;
+    box-shadow: none;
   }
   .pl-step-nav .pl-nav-btn {
     flex: 1;
@@ -1628,13 +1653,9 @@
     right: var(--sp-3);
     bottom: 100px;
     padding: var(--sp-3) var(--sp-4);
-    background: rgba(10, 18, 40, 0.92);
-    backdrop-filter: blur(16px) saturate(1.4);
-    -webkit-backdrop-filter: blur(16px) saturate(1.4);
-    border-radius: var(--radius-xl);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-top-color: rgba(255, 138, 0, 0.25);
-    box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 138, 0, 0.06);
+    background: transparent;
+    border: none;
+    box-shadow: none;
   }
   .pl-results-shell {
     padding: var(--sp-5) var(--sp-4);

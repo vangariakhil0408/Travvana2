@@ -7,12 +7,12 @@
   "history": "Operated by the Puducherry Tourism Development Corporation, it offers tree houses and riverside accommodations.",
   "famousFor": "Ferry to Paradise Beach, backwater boating, and treehouses.",
   "bestTime": "October to March",
-  "timings": "9:30 AM \u2013 4:00 PM",
-  "entryFee": "\u20b915 (Boating extra)",
-  "image": "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp",
-  "heroImage": "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp",
+  "timings": "9:30 AM – 4:00 PM",
+  "entryFee": "₹15 (Boating extra)",
+  "image": "./assets/images/states/puducherry/chunnambar boat-house.webp",
+  "heroImage": "./assets/images/states/puducherry/chunnambar boat-house.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+    "./assets/images/states/puducherry/chunnambar boat-house.webp"
   ],
   "nearbyPlaces": [
     "paradise-beach",

@@ -7,12 +7,12 @@
   "history": "Constructed in 1855 by Napoleon III. It is famous for its smooth limestone interior mixed with the whites of eggs.",
   "famousFor": "Greco-Roman architecture, Joan of Arc statue.",
   "bestTime": "October to March",
-  "timings": "7:00 AM \u2013 6:30 PM",
+  "timings": "7:00 AM – 6:30 PM",
   "entryFee": "Free",
-  "image": "./assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp",
-  "heroImage": "./assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp",
+  "image": "./assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp",
+  "heroImage": "./assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+    "./assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
   ],
   "nearbyPlaces": [
     "arikamedu",

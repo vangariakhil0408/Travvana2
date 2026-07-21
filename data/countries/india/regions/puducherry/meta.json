@@ -9,8 +9,12 @@
   "bestTimeToVisit": "October to March",
   "climate": "Varies",
   "description": "Explore the wonders of Puducherry. More destinations coming soon.",
-  "heroImage": "",
-  "gallery": [],
+  "heroImage": "./assets/images/states/puducherry/banner.webp",
+  "gallery": [
+    "./assets/images/states/puducherry/promenade-beach.webp",
+    "./assets/images/states/puducherry/auroville.jpg",
+    "./assets/images/states/puducherry/paradise-beach.webp"
+  ],
   "stats": {
     "totalDistricts": 0,
     "totalPlaces": 0,

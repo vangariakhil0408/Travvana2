@@ -18,6 +18,23 @@ class ItineraryEngine {
     destination, days, travelers, budget, tripType,
     interests, transport, stay, food, accessibility, extras
   }) {
+    // Fix common joined state names (e.g. tamilnadu -> Tamil Nadu)
+    const normDest = (destination || '').trim().toLowerCase().replace(/\s+/g, '');
+    const stateAliases = {
+      'tamilnadu': 'Tamil Nadu',
+      'uttarpradesh': 'Uttar Pradesh',
+      'madhyapradesh': 'Madhya Pradesh',
+      'himachalpradesh': 'Himachal Pradesh',
+      'andhrapradesh': 'Andhra Pradesh',
+      'arunachalpradesh': 'Arunachal Pradesh',
+      'westbengal': 'West Bengal',
+      'jammuandkashmir': 'Jammu and Kashmir',
+      'jammukashmir': 'Jammu and Kashmir'
+    };
+    if (stateAliases[normDest]) {
+      destination = stateAliases[normDest];
+    }
+
     // ── 0. Try Backend AI First ──
     try {
       const aiData = await this._generateViaBackend({

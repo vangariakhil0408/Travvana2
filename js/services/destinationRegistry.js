@@ -145,6 +145,16 @@ class DestinationRegistry {
     this.addAlias('varkala-beach', 'varkala-cliff');
     this.addAlias('havelock-island', 'swaraj-dweep');
     // removed coorg alias
+    // State names without spaces
+    this.addAlias('tamilnadu', 'tamil-nadu');
+    this.addAlias('uttarpradesh', 'uttar-pradesh');
+    this.addAlias('madhyapradesh', 'madhya-pradesh');
+    this.addAlias('himachalpradesh', 'himachal-pradesh');
+    this.addAlias('andhrapradesh', 'andhra-pradesh');
+    this.addAlias('arunachalpradesh', 'arunachal-pradesh');
+    this.addAlias('westbengal', 'west-bengal');
+    this.addAlias('jammuandkashmir', 'jammu-and-kashmir');
+    this.addAlias('jammukashmir', 'jammu-and-kashmir');
 
     this.initialized = true;
   }

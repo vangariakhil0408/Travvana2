@@ -9,10 +9,10 @@
   "bestTime": "October to March",
   "timings": "Open 24/7",
   "entryFee": "Free",
-  "image": "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp",
-  "heroImage": "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp",
+  "image": "./assets/images/states/puducherry/serenity-beach.jpeg",
+  "heroImage": "./assets/images/states/puducherry/serenity-beach.jpeg",
   "gallery": [
-    "./assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+    "./assets/images/states/puducherry/serenity-beach.jpeg"
   ],
   "nearbyPlaces": [
     "french-war-memorial",

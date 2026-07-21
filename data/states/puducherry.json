@@ -22,7 +22,7 @@
       "slug": "auroville",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+        "main": "assets/images/states/puducherry/auroville.jpg"
       },
       "nearbyAttractions": [
         {
@@ -37,7 +37,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -52,7 +52,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -67,7 +67,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -82,7 +82,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -97,7 +97,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -112,7 +112,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -127,7 +127,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -142,7 +142,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -157,7 +157,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -172,7 +172,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -187,7 +187,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -202,7 +202,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -217,7 +217,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -232,7 +232,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -247,7 +247,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -262,7 +262,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -277,12 +277,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         }
       ],
       "id": "auroville",
-      "heroImage": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+      "heroImage": "assets/images/states/puducherry/auroville.jpg"
     },
     {
       "name": "Matrimandir",
@@ -299,7 +299,7 @@
       "slug": "matrimandir",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+        "main": "assets/images/states/puducherry/matrimandir.jpeg"
       },
       "nearbyAttractions": [
         {
@@ -314,7 +314,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -329,7 +329,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -344,7 +344,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -359,7 +359,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -374,7 +374,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -389,7 +389,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -404,7 +404,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -419,7 +419,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -434,7 +434,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -449,7 +449,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -464,7 +464,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -479,7 +479,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -494,7 +494,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -509,7 +509,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -524,7 +524,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -539,7 +539,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -554,12 +554,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         }
       ],
       "id": "matrimandir",
-      "heroImage": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+      "heroImage": "assets/images/states/puducherry/matrimandir.jpeg"
     },
     {
       "name": "Sri Aurobindo Ashram",
@@ -576,7 +576,7 @@
       "slug": "sri-aurobindo-ashram",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+        "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
       },
       "nearbyAttractions": [
         {
@@ -591,7 +591,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -606,7 +606,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -621,7 +621,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -636,7 +636,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -651,7 +651,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -666,7 +666,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -681,7 +681,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -696,7 +696,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -711,7 +711,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -726,7 +726,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -741,7 +741,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -756,7 +756,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -771,7 +771,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -786,7 +786,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -801,7 +801,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -816,7 +816,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -831,12 +831,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "sri-aurobindo-ashram",
-      "heroImage": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+      "heroImage": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
     },
     {
       "name": "Promenade Beach (Rock Beach)",
@@ -853,7 +853,7 @@
       "slug": "promenade-beach",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+        "main": "assets/images/states/puducherry/promenade-beach.webp"
       },
       "nearbyAttractions": [
         {
@@ -868,7 +868,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -883,7 +883,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -898,7 +898,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -913,7 +913,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -928,7 +928,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -943,7 +943,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -958,7 +958,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -973,7 +973,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -988,7 +988,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -1003,7 +1003,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -1018,7 +1018,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -1033,7 +1033,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -1048,7 +1048,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -1063,7 +1063,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -1078,7 +1078,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -1093,7 +1093,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -1108,12 +1108,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "promenade-beach",
-      "heroImage": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+      "heroImage": "assets/images/states/puducherry/promenade-beach.webp"
     },
     {
       "name": "Paradise Beach",
@@ -1130,7 +1130,7 @@
       "slug": "paradise-beach",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+        "main": "assets/images/states/puducherry/paradise-beach.webp"
       },
       "nearbyAttractions": [
         {
@@ -1145,7 +1145,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -1160,7 +1160,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -1175,7 +1175,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -1190,7 +1190,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -1205,7 +1205,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -1220,7 +1220,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -1235,7 +1235,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -1250,7 +1250,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -1265,7 +1265,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -1280,7 +1280,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -1295,7 +1295,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -1310,7 +1310,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -1325,7 +1325,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -1340,7 +1340,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -1355,7 +1355,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -1370,7 +1370,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -1385,12 +1385,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "paradise-beach",
-      "heroImage": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+      "heroImage": "assets/images/states/puducherry/paradise-beach.webp"
     },
     {
       "name": "Basilica of the Sacred Heart of Jesus",
@@ -1407,7 +1407,7 @@
       "slug": "sacred-heart-basilica",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+        "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
       },
       "nearbyAttractions": [
         {
@@ -1422,7 +1422,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -1437,7 +1437,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -1452,7 +1452,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -1467,7 +1467,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -1482,7 +1482,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -1497,7 +1497,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -1512,7 +1512,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -1527,7 +1527,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -1542,7 +1542,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -1557,7 +1557,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -1572,7 +1572,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -1587,7 +1587,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -1602,7 +1602,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -1617,7 +1617,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -1632,7 +1632,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -1647,7 +1647,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -1662,12 +1662,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         }
       ],
       "id": "sacred-heart-basilica",
-      "heroImage": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+      "heroImage": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
     },
     {
       "name": "Serenity Beach",
@@ -1684,7 +1684,7 @@
       "slug": "serenity-beach",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+        "main": "assets/images/states/puducherry/serenity-beach.jpeg"
       },
       "nearbyAttractions": [
         {
@@ -1699,7 +1699,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -1714,7 +1714,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -1729,7 +1729,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -1744,7 +1744,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -1759,7 +1759,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -1774,7 +1774,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -1789,7 +1789,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -1804,7 +1804,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -1819,7 +1819,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -1834,7 +1834,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -1849,7 +1849,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -1864,7 +1864,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -1879,7 +1879,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -1894,7 +1894,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -1909,7 +1909,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -1924,7 +1924,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -1939,12 +1939,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "serenity-beach",
-      "heroImage": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+      "heroImage": "assets/images/states/puducherry/serenity-beach.jpeg"
     },
     {
       "name": "Arikamedu Archaeological Site",
@@ -1961,7 +1961,7 @@
       "slug": "arikamedu",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+        "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
       },
       "nearbyAttractions": [
         {
@@ -1976,7 +1976,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -1991,7 +1991,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -2006,7 +2006,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -2021,7 +2021,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -2036,7 +2036,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -2051,7 +2051,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -2066,7 +2066,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -2081,7 +2081,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -2096,7 +2096,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -2111,7 +2111,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -2126,7 +2126,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -2141,7 +2141,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -2156,7 +2156,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -2171,7 +2171,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -2186,7 +2186,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -2201,7 +2201,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -2216,12 +2216,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         }
       ],
       "id": "arikamedu",
-      "heroImage": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+      "heroImage": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
     },
     {
       "name": "Ousteri Lake (Osudu Lake)",
@@ -2238,7 +2238,7 @@
       "slug": "ousteri-lake",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+        "main": "assets/images/states/puducherry/ousteri-lake.webp"
       },
       "nearbyAttractions": [
         {
@@ -2253,7 +2253,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -2268,7 +2268,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -2283,7 +2283,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -2298,7 +2298,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -2313,7 +2313,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -2328,7 +2328,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -2343,7 +2343,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -2358,7 +2358,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -2373,7 +2373,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -2388,7 +2388,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -2403,7 +2403,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -2418,7 +2418,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -2433,7 +2433,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -2448,7 +2448,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -2463,7 +2463,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -2478,7 +2478,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -2493,12 +2493,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "ousteri-lake",
-      "heroImage": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+      "heroImage": "assets/images/states/puducherry/ousteri-lake.webp"
     },
     {
       "name": "Karaikal Beach",
@@ -2515,11 +2515,11 @@
       "slug": "karaikal-beach",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp"
+        "main": "assets/images/states/puducherry/karaikal-beach.webp"
       },
       "nearbyAttractions": [],
       "id": "karaikal-beach",
-      "heroImage": "assets/images/states/puducherry/file_0000000061cc71f89c1266caf891fd46.webp"
+      "heroImage": "assets/images/states/puducherry/karaikal-beach.webp"
     },
     {
       "name": "Sri Dharbaranyeswarar Temple",
@@ -2536,7 +2536,7 @@
       "slug": "thirunallar-temple",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+        "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
       },
       "nearbyAttractions": [
         {
@@ -2551,7 +2551,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -2566,7 +2566,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -2581,7 +2581,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -2596,7 +2596,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -2611,7 +2611,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -2626,7 +2626,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -2641,7 +2641,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -2656,7 +2656,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -2671,7 +2671,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -2686,7 +2686,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -2701,7 +2701,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -2716,7 +2716,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -2731,7 +2731,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -2746,7 +2746,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -2761,7 +2761,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -2776,7 +2776,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -2791,12 +2791,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "thirunallar-temple",
-      "heroImage": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+      "heroImage": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
     },
     {
       "name": "French War Memorial",
@@ -2813,7 +2813,7 @@
       "slug": "french-war-memorial",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+        "main": "assets/images/states/puducherry/french-war-memorial.webp"
       },
       "nearbyAttractions": [
         {
@@ -2828,7 +2828,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -2843,7 +2843,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -2858,7 +2858,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -2873,7 +2873,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -2888,7 +2888,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -2903,7 +2903,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -2918,7 +2918,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -2933,7 +2933,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -2948,7 +2948,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -2963,7 +2963,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -2978,7 +2978,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -2993,7 +2993,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -3008,7 +3008,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -3023,7 +3023,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -3038,7 +3038,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -3053,7 +3053,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -3068,12 +3068,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "french-war-memorial",
-      "heroImage": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+      "heroImage": "assets/images/states/puducherry/french-war-memorial.webp"
     },
     {
       "name": "Chunnambar Boat House",
@@ -3090,7 +3090,7 @@
       "slug": "chunnambar-boat-house",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+        "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
       },
       "nearbyAttractions": [
         {
@@ -3105,7 +3105,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -3120,7 +3120,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -3135,7 +3135,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -3150,7 +3150,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -3165,7 +3165,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -3180,7 +3180,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -3195,7 +3195,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -3210,7 +3210,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -3225,7 +3225,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -3240,7 +3240,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -3255,7 +3255,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -3270,7 +3270,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -3285,7 +3285,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -3300,7 +3300,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -3315,7 +3315,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -3330,7 +3330,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -3345,12 +3345,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "chunnambar-boat-house",
-      "heroImage": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+      "heroImage": "assets/images/states/puducherry/chunnambar boat-house.webp"
     },
     {
       "name": "Bharathi Park",
@@ -3367,7 +3367,7 @@
       "slug": "bharathi-park",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+        "main": "assets/images/states/puducherry/bharathi-park.webp"
       },
       "nearbyAttractions": [
         {
@@ -3382,7 +3382,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -3397,7 +3397,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -3412,7 +3412,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -3427,7 +3427,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -3442,7 +3442,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -3457,7 +3457,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -3472,7 +3472,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -3487,7 +3487,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -3502,7 +3502,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -3517,7 +3517,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -3532,7 +3532,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -3547,7 +3547,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -3562,7 +3562,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -3577,7 +3577,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -3592,7 +3592,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -3607,7 +3607,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -3622,12 +3622,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "bharathi-park",
-      "heroImage": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+      "heroImage": "assets/images/states/puducherry/bharathi-park.webp"
     },
     {
       "name": "Immaculate Conception Cathedral",
@@ -3644,7 +3644,7 @@
       "slug": "immaculate-conception",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+        "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
       },
       "nearbyAttractions": [
         {
@@ -3659,7 +3659,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -3674,7 +3674,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -3689,7 +3689,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -3704,7 +3704,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -3719,7 +3719,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -3734,7 +3734,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -3749,7 +3749,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -3764,7 +3764,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -3779,7 +3779,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -3794,7 +3794,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -3809,7 +3809,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -3824,7 +3824,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -3839,7 +3839,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -3854,7 +3854,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -3869,7 +3869,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -3884,7 +3884,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -3899,12 +3899,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         }
       ],
       "id": "immaculate-conception",
-      "heroImage": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+      "heroImage": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
     },
     {
       "name": "Sri Manakula Vinayagar Temple",
@@ -3921,7 +3921,7 @@
       "slug": "manakula-vinayagar",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+        "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
       },
       "nearbyAttractions": [
         {
@@ -3936,7 +3936,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -3951,7 +3951,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -3966,7 +3966,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -3981,7 +3981,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -3996,7 +3996,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -4011,7 +4011,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -4026,7 +4026,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -4041,7 +4041,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -4056,7 +4056,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -4071,7 +4071,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -4086,7 +4086,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -4101,7 +4101,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -4116,7 +4116,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -4131,7 +4131,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -4146,7 +4146,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -4161,7 +4161,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -4176,12 +4176,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "manakula-vinayagar",
-      "heroImage": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+      "heroImage": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
     },
     {
       "name": "Eglise de Notre Dame des Anges",
@@ -4198,7 +4198,7 @@
       "slug": "notre-dame-des-anges",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+        "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
       },
       "nearbyAttractions": [
         {
@@ -4213,7 +4213,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -4228,7 +4228,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -4243,7 +4243,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -4258,7 +4258,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -4273,7 +4273,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -4288,7 +4288,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -4303,7 +4303,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -4318,7 +4318,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -4333,7 +4333,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -4348,7 +4348,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -4363,7 +4363,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -4378,7 +4378,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -4393,7 +4393,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -4408,7 +4408,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -4423,7 +4423,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -4438,7 +4438,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -4453,12 +4453,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         }
       ],
       "id": "notre-dame-des-anges",
-      "heroImage": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+      "heroImage": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
     },
     {
       "name": "Puducherry Museum",
@@ -4475,7 +4475,7 @@
       "slug": "puducherry-museum",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+        "main": "assets/images/states/puducherry/puducherry-museum.webp"
       },
       "nearbyAttractions": [
         {
@@ -4490,7 +4490,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -4505,7 +4505,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -4520,7 +4520,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -4535,7 +4535,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -4550,7 +4550,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -4565,7 +4565,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -4580,7 +4580,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -4595,7 +4595,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -4610,7 +4610,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+            "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
           }
         },
         {
@@ -4625,7 +4625,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -4640,7 +4640,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -4655,7 +4655,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -4670,7 +4670,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -4685,7 +4685,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -4700,7 +4700,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -4715,7 +4715,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         },
         {
@@ -4730,12 +4730,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         }
       ],
       "id": "puducherry-museum",
-      "heroImage": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+      "heroImage": "assets/images/states/puducherry/puducherry-museum.webp"
     },
     {
       "name": "Mahe Beach",
@@ -4752,11 +4752,11 @@
       "slug": "mahe-beach",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+        "main": "assets/images/states/puducherry/mahe-beach.webp"
       },
       "nearbyAttractions": [],
       "id": "mahe-beach",
-      "heroImage": "assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+      "heroImage": "assets/images/states/puducherry/mahe-beach.webp"
     },
     {
       "name": "Yanam River Walk",
@@ -4773,11 +4773,11 @@
       "slug": "yanam-river-walk",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp"
+        "main": "assets/images/states/puducherry/yanam-river-walk.webp"
       },
       "nearbyAttractions": [],
       "id": "yanam-river-walk",
-      "heroImage": "assets/images/states/puducherry/file_00000000c8c071fdaff4aedca821b4a4.webp"
+      "heroImage": "assets/images/states/puducherry/yanam-river-walk.webp"
     },
     {
       "name": "Sri Karneshwar Nataraja Temple",
@@ -4794,7 +4794,7 @@
       "slug": "sri-karneshwar-nataraja",
       "state": "Puducherry",
       "images": {
-        "main": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+        "main": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
       },
       "nearbyAttractions": [
         {
@@ -4809,7 +4809,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000004af071fd8bc9818d858b7ace.webp"
+            "main": "assets/images/states/puducherry/arikamedu-archaeological-site.webp"
           }
         },
         {
@@ -4824,7 +4824,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bcd071f8807fd88f38901b03.webp"
+            "main": "assets/images/states/puducherry/eglise-de-notre-dame-des-anges.webp"
           }
         },
         {
@@ -4839,7 +4839,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000aca071fda51b58f9f81b4446.webp"
+            "main": "assets/images/states/puducherry/immaculate-conception-cathedral.webp"
           }
         },
         {
@@ -4854,7 +4854,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e9c71fdbd167b6dd49cefa0.webp"
+            "main": "assets/images/states/puducherry/basilica-of-the-sacred-heart-of-jesus.webp"
           }
         },
         {
@@ -4869,7 +4869,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000000d4871fdae5b2ea477452784.webp"
+            "main": "assets/images/states/puducherry/sri-aurobindo-ashram.webp"
           }
         },
         {
@@ -4884,7 +4884,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000653071fdba68b7487b6e49b6.webp"
+            "main": "assets/images/states/puducherry/sri-dharbaranyeswarar-temple.webp"
           }
         },
         {
@@ -4899,7 +4899,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000b13471fda7e3a7783f8c05ed.webp"
+            "main": "assets/images/states/puducherry/sri-manakula-vinayagar-temple.webp"
           }
         },
         {
@@ -4914,7 +4914,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000bdf871fdb5cc7c8a51aeaa74.webp"
+            "main": "assets/images/states/puducherry/puducherry-museum.webp"
           }
         },
         {
@@ -4929,7 +4929,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000450871fdb25a57614ae30fd8.webp"
+            "main": "assets/images/states/puducherry/serenity-beach.jpeg"
           }
         },
         {
@@ -4944,7 +4944,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000008b887230bd66c3dbddb60f89.webp"
+            "main": "assets/images/states/puducherry/french-war-memorial.webp"
           }
         },
         {
@@ -4959,7 +4959,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000097d47230bd04d760efed798a.webp"
+            "main": "assets/images/states/puducherry/bharathi-park.webp"
           }
         },
         {
@@ -4974,7 +4974,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000131871f88342fcf5945081d1.webp"
+            "main": "assets/images/states/puducherry/promenade-beach.webp"
           }
         },
         {
@@ -4989,7 +4989,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000007e871fd90b0002ab19d8342.webp"
+            "main": "assets/images/states/puducherry/matrimandir.jpeg"
           }
         },
         {
@@ -5004,7 +5004,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000001e8071f892ec1e6685aab51b.webp"
+            "main": "assets/images/states/puducherry/paradise-beach.webp"
           }
         },
         {
@@ -5019,7 +5019,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_00000000964c72309078e81884faf402.webp"
+            "main": "assets/images/states/puducherry/chunnambar boat-house.webp"
           }
         },
         {
@@ -5034,7 +5034,7 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_0000000003607230b2a229e2fd1d99b8.webp"
+            "main": "assets/images/states/puducherry/auroville.jpg"
           }
         },
         {
@@ -5049,12 +5049,12 @@
           "tier": "TIER_2",
           "bidirectional_verified": true,
           "images": {
-            "main": "assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+            "main": "assets/images/states/puducherry/ousteri-lake.webp"
           }
         }
       ],
       "id": "sri-karneshwar-nataraja",
-      "heroImage": "assets/images/states/puducherry/file_00000000ed3c71fd81f6aa16ec339033.webp"
+      "heroImage": "assets/images/states/puducherry/sri-karneshwar-nataraja-temple.jpg"
     }
   ]
 }

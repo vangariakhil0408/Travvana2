@@ -9,10 +9,10 @@
   "bestTime": "October to March",
   "timings": "Open 24/7",
   "entryFee": "Free",
-  "image": "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp",
-  "heroImage": "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp",
+  "image": "./assets/images/states/puducherry/mahe-beach.webp",
+  "heroImage": "./assets/images/states/puducherry/mahe-beach.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_00000000c60471f8aaac5c0f4923e373.webp"
+    "./assets/images/states/puducherry/mahe-beach.webp"
   ],
   "nearbyPlaces": []
 }

@@ -7,12 +7,12 @@
   "history": "Man-made lake constructed a century ago. It acts as the primary freshwater source and an ecological lifeline for the region.",
   "famousFor": "Bird watching, boating, and scenic sunsets.",
   "bestTime": "November to February",
-  "timings": "9:00 AM \u2013 5:00 PM",
+  "timings": "9:00 AM – 5:00 PM",
   "entryFee": "Free (Boating extra)",
-  "image": "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp",
-  "heroImage": "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp",
+  "image": "./assets/images/states/puducherry/ousteri-lake.webp",
+  "heroImage": "./assets/images/states/puducherry/ousteri-lake.webp",
   "gallery": [
-    "./assets/images/states/puducherry/file_000000005ecc71fd82e7fd1efb4170ba.webp"
+    "./assets/images/states/puducherry/ousteri-lake.webp"
   ],
   "nearbyPlaces": [
     "serenity-beach",

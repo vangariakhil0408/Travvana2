@@ -1,5 +1,5 @@
 # Travvana Robots.txt
-# https://travvana.com
+# https://www.travvana.com
 
 User-agent: *
 Allow: /
@@ -12,4 +12,4 @@ Disallow: /fix-nearby-places.js
 Disallow: /test.js
 Disallow: /.git/
 
-Sitemap: https://travvana.com/sitemap.xml
+Sitemap: https://www.travvana.com/sitemap.xml

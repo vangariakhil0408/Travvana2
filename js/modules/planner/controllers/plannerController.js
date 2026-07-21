@@ -85,7 +85,7 @@ export async function initPlannerController() {
     if (mobStepCur) mobStepCur.textContent = step;
     if (mobProgressFill) mobProgressFill.style.width = `${(step / totalSteps) * 100}%`;
 
-    if (btnBack) btnBack.style.visibility = step === 1 ? 'hidden' : 'visible';
+    if (btnBack) btnBack.style.display = step === 1 ? 'none' : 'inline-flex';
     if (btnNext) btnNext.style.display = step === totalSteps ? 'none' : 'inline-flex';
     if (btnGenerate) btnGenerate.style.display = step === totalSteps ? 'inline-flex' : 'none';
 
@@ -95,14 +95,23 @@ export async function initPlannerController() {
 
   // ── Step Validation ──
   function validateStep(step) {
-    if (step === 1 && !selections.destination) {
-      if (destInput) {
-        destInput.focus();
-        destInput.classList.add('pl-input--error');
-        setTimeout(() => destInput.classList.remove('pl-input--error'), 2000);
+    if (step === 1) {
+      if (!selections.destination) {
+        if (destInput) {
+          destInput.focus();
+          destInput.classList.add('pl-input--error');
+          setTimeout(() => destInput.classList.remove('pl-input--error'), 2000);
+        }
+        showToast('Please select or type a destination first.', 'warning');
+        return false;
       }
-      showToast('Please select or type a destination first.', 'warning');
-      return false;
+      
+      // Warn if it's a city (not a known state) in case the user is running offline
+      const destStr = selections.destination.toLowerCase().replace(/[^a-z]/g, '');
+      const knownStates = ['kerala', 'rajasthan', 'tamilnadu', 'goa', 'himachalpradesh', 'uttarakhand', 'karnataka', 'maharashtra', 'gujarat', 'uttarpradesh', 'madhyapradesh', 'andhrapradesh', 'westbengal', 'sikkim', 'meghalaya', 'assam', 'jammuandkashmir', 'jammukashmir'];
+      if (!knownStates.includes(destStr)) {
+        showToast('Note: If the Live AI is offline, city searches may fail. Use a State name for offline mode.', 'info');
+      }
     }
     if (step === 2 && (selections.days === 'custom' || isNaN(selections.days) || selections.days < 1)) {
       showToast('Please select a valid trip duration.', 'warning');

@@ -80,7 +80,7 @@ export async function initStateController(stateSlug) {
   const seoTitle = `${stateName} Tourism — Top Places to Visit & Travel Guide`;
   const seoDesc = stateData.tagline || stateData.description || `Explore ${stateName}, India — discover top attractions, hidden gems, history, and travel tips.`;
   const seoDescTruncated = seoDesc.length > 155 ? seoDesc.substring(0, 152) + '...' : seoDesc;
-  const canonicalUrl = `https://travvana.com/state-detail.html?state=${encodeURIComponent(stateSlug)}`;
+  const canonicalUrl = `https://www.travvana.com/state-detail.html?state=${encodeURIComponent(stateSlug)}`;
 
   seoService.clearDynamicSchemas();
   seoService.updatePage({
@@ -90,8 +90,8 @@ export async function initStateController(stateSlug) {
     image: stateData.heroImage,
   });
   seoService.injectBreadcrumbSchema([
-    { name: 'Home', url: 'https://travvana.com/' },
-    { name: 'Explore States', url: 'https://travvana.com/discovery.html' },
+    { name: 'Home', url: 'https://www.travvana.com/' },
+    { name: 'Explore States', url: 'https://www.travvana.com/discovery.html' },
     { name: stateName, url: canonicalUrl },
   ]);
   seoService.injectStateSchema(stateData, stateSlug);
