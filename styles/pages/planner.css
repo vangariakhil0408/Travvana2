@@ -950,6 +950,11 @@
   gap: var(--sp-5);
 }
 
+.pl-results-header > div:first-child {
+  min-width: 0;
+  flex: 1 1 min-content;
+}
+
 .pl-results-title {
   font-family: var(--ff-display);
   font-size: var(--fs-4xl);
@@ -966,6 +971,7 @@
 
 .pl-results-actions {
   display: flex;
+  flex-wrap: wrap;
   gap: var(--sp-2);
 }
 
@@ -1002,6 +1008,10 @@
   grid-template-columns: 1fr 360px;
   gap: var(--sp-8);
   align-items: start;
+}
+
+.pl-res-timeline-col {
+  min-width: 0;
 }
 
 /* Day Tabs */

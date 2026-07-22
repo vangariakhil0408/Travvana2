@@ -8,7 +8,7 @@ body {
   background: var(--clr-bg-page-gradient);
   background-attachment: fixed;
   color: var(--clr-text-primary);
-  overflow-x: clip;
+  overflow-x: hidden;
   min-height: 100vh;
 }
 
